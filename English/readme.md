@@ -1,4 +1,4 @@
-[中文](../Chinese/readme.md) | [English](./readme.md)
+[简体中文](../SimplifiedChinese/readme.md) | [繁體中文](../TraditionalChinese/readme.md) | [English](./readme.md)
 
 # MIT2 / HuaXia New Player Growth Handbook
 

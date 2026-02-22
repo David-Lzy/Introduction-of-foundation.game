@@ -1,4 +1,4 @@
-[简体中文](../Chinese/readme.md) | [English](../English/readme.md) | [繁體中文](./readme.md)
+[简体中文](../SimplifiedChinese/readme.md) | [English](../English/readme.md) | [繁體中文](./readme.md)
 
 # MIT2 / HuaXia 新人發育手冊（繁體）
 
