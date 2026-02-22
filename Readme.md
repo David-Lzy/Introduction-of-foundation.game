@@ -1,4 +1,4 @@
-[中文](./Chinese/readme.md) | [English](./English/readme.md)
+[中文](./Chinese/readme.md) | [繁體中文](./TraditionalChinese/readme.md) | [English](./English/readme.md)
 
 # Introduction of foundation.game
 
@@ -9,7 +9,8 @@ Game guide documentation project for **Foundation: Galactic Frontier**.
 ## Project Structure
 
 - `Chinese/` Chinese guide documents (main content)
-- `English/` English guide documents (in progress)
+- `English/` English guide documents
+- `TraditionalChinese/` Traditional Chinese guide documents
 - `Translate/` Translation status tracking
 
 ## Readme by Language
