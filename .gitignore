@@ -1,0 +1,9 @@
+# Windows Explorer metadata
+[Dd]esktop.ini
+**/[Dd]esktop.ini
+
+# Common OS junk
+Thumbs.db
+**/Thumbs.db
+.DS_Store
+**/.DS_Store
