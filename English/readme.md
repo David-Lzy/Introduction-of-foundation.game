@@ -2,6 +2,8 @@
 
 # MIT2 / HuaXia New Player Growth Handbook
 
+> Learning Path Index: [`INDEX.md`](./INDEX.md)
+
 ## README
 
 Before reading this handbook, please make sure you meet the following conditions:
