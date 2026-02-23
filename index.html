@@ -10,6 +10,14 @@
 <body>
   <div id="app"></div>
   <script>
+    
+    window.goDoc = function(path){
+      var clean = String(path || '').replace(/^\/+/, '');
+      var encoded = clean.split('/').map(encodeURIComponent).join('/').replace(/%2E/g,'.');
+      window.location.hash = '#/' + encoded;
+      return false;
+    };
+
     window.$docsify = {
       name: 'Foundation Guide',
       repo: 'David-Lzy/Introduction-of-foundation.game',
