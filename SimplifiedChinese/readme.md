@@ -1,6 +1,6 @@
 # MIT2 / HuaXia 新人发育手册
 
-> 学习路径索引：[`INDEX.md`](#/SimplifiedChinese/INDEX.md)
+> 学习路径索引：[`INDEX.md`](https://david-lzy.github.io/Introduction-of-foundation.game/#/SimplifiedChinese/INDEX.md)
 
 ## README
 
