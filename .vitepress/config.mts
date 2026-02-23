@@ -3,11 +3,13 @@ import { defineConfig } from 'vitepress'
 const sidebarSC = [
   {
     text: '简体中文',
+    collapsed: false,
     items: [
       { text: 'readme.md', link: '/SimplifiedChinese/readme' },
       { text: 'INDEX.md', link: '/SimplifiedChinese/INDEX' },
       {
         text: '基础/',
+        collapsed: true,
         items: [
           { text: '0.说明.md', link: '/SimplifiedChinese/基础/0.说明' },
           { text: '1.基础资源获取.md', link: '/SimplifiedChinese/基础/1.基础资源获取' },
@@ -19,6 +21,7 @@ const sidebarSC = [
       },
       {
         text: '发育/',
+        collapsed: true,
         items: [
           { text: '0.说明.md', link: '/SimplifiedChinese/发育/0.说明' },
           { text: '1.商会入门.md', link: '/SimplifiedChinese/发育/1.商会入门' },
@@ -29,13 +32,55 @@ const sidebarSC = [
           { text: '6.主线与开荒.md', link: '/SimplifiedChinese/发育/6.主线与开荒' }
         ]
       },
-      { text: '战斗/0.VS商会对决策略.md', link: '/SimplifiedChinese/战斗/0.VS商会对决策略' },
-      { text: '活动/0.VS商会对决策略.md', link: '/SimplifiedChinese/活动/0.VS商会对决策略' },
-      { text: '兑换码/README.md', link: '/SimplifiedChinese/兑换码/README' },
-      { text: '避坑/0.日常充值建议与性价比分析.md', link: '/SimplifiedChinese/避坑/0.日常充值建议与性价比分析' },
-      { text: '新闻/README.md', link: '/SimplifiedChinese/新闻/README' },
-      { text: '教程/README.md', link: '/SimplifiedChinese/教程/README' },
-      { text: '其他技巧.md', link: '/SimplifiedChinese/其他技巧' }
+      {
+        text: '战斗/',
+        collapsed: true,
+        items: [
+          { text: '0.VS商会对决策略.md', link: '/SimplifiedChinese/战斗/0.VS商会对决策略' }
+        ]
+      },
+      {
+        text: '活动/',
+        collapsed: true,
+        items: [
+          { text: '0.VS商会对决策略.md', link: '/SimplifiedChinese/活动/0.VS商会对决策略' }
+        ]
+      },
+      {
+        text: '兑换码/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/SimplifiedChinese/兑换码/README' }
+        ]
+      },
+      {
+        text: '避坑/',
+        collapsed: true,
+        items: [
+          { text: '0.日常充值建议与性价比分析.md', link: '/SimplifiedChinese/避坑/0.日常充值建议与性价比分析' }
+        ]
+      },
+      {
+        text: '新闻/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/SimplifiedChinese/新闻/README' }
+        ]
+      },
+      {
+        text: '教程/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/SimplifiedChinese/教程/README' }
+        ]
+      },
+      {
+        text: '根目录/',
+        collapsed: true,
+        items: [
+          { text: '其他技巧.md', link: '/SimplifiedChinese/其他技巧' }
+        ]
+      }
     ]
   }
 ]
@@ -43,11 +88,13 @@ const sidebarSC = [
 const sidebarTC = [
   {
     text: '繁體中文',
+    collapsed: false,
     items: [
       { text: 'readme.md', link: '/TraditionalChinese/readme' },
       { text: 'INDEX.md', link: '/TraditionalChinese/INDEX' },
       {
         text: '基礎/',
+        collapsed: true,
         items: [
           { text: '0.說明.md', link: '/TraditionalChinese/基礎/0.說明' },
           { text: '1.基礎資源獲取.md', link: '/TraditionalChinese/基礎/1.基礎資源獲取' },
@@ -59,6 +106,7 @@ const sidebarTC = [
       },
       {
         text: '發育/',
+        collapsed: true,
         items: [
           { text: '0.說明.md', link: '/TraditionalChinese/發育/0.說明' },
           { text: '1.商會入門.md', link: '/TraditionalChinese/發育/1.商會入門' },
@@ -69,13 +117,55 @@ const sidebarTC = [
           { text: '6.主線與開荒.md', link: '/TraditionalChinese/發育/6.主線與開荒' }
         ]
       },
-      { text: '戰鬥/0.VS商會對決策略.md', link: '/TraditionalChinese/戰鬥/0.VS商會對決策略' },
-      { text: '活動/0.VS商會對決策略.md', link: '/TraditionalChinese/活動/0.VS商會對決策略' },
-      { text: '兌換碼/README.md', link: '/TraditionalChinese/兌換碼/README' },
-      { text: '避坑/0.日常充值建議與性價比分析.md', link: '/TraditionalChinese/避坑/0.日常充值建議與性價比分析' },
-      { text: '新聞/README.md', link: '/TraditionalChinese/新聞/README' },
-      { text: '教程/README.md', link: '/TraditionalChinese/教程/README' },
-      { text: '其他技巧.md', link: '/TraditionalChinese/其他技巧' }
+      {
+        text: '戰鬥/',
+        collapsed: true,
+        items: [
+          { text: '0.VS商會對決策略.md', link: '/TraditionalChinese/戰鬥/0.VS商會對決策略' }
+        ]
+      },
+      {
+        text: '活動/',
+        collapsed: true,
+        items: [
+          { text: '0.VS商會對決策略.md', link: '/TraditionalChinese/活動/0.VS商會對決策略' }
+        ]
+      },
+      {
+        text: '兌換碼/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/TraditionalChinese/兌換碼/README' }
+        ]
+      },
+      {
+        text: '避坑/',
+        collapsed: true,
+        items: [
+          { text: '0.日常充值建議與性價比分析.md', link: '/TraditionalChinese/避坑/0.日常充值建議與性價比分析' }
+        ]
+      },
+      {
+        text: '新聞/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/TraditionalChinese/新聞/README' }
+        ]
+      },
+      {
+        text: '教程/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/TraditionalChinese/教程/README' }
+        ]
+      },
+      {
+        text: '根目錄/',
+        collapsed: true,
+        items: [
+          { text: '其他技巧.md', link: '/TraditionalChinese/其他技巧' }
+        ]
+      }
     ]
   }
 ]
@@ -83,11 +173,13 @@ const sidebarTC = [
 const sidebarEN = [
   {
     text: 'English',
+    collapsed: false,
     items: [
       { text: 'readme.md', link: '/English/readme' },
       { text: 'INDEX.md', link: '/English/INDEX' },
       {
         text: 'basics/',
+        collapsed: true,
         items: [
           { text: '0.Overview.md', link: '/English/basics/0.Overview' },
           { text: '1.Basic Resource Acquisition.md', link: '/English/basics/1.Basic Resource Acquisition' },
@@ -99,6 +191,7 @@ const sidebarEN = [
       },
       {
         text: 'progression/',
+        collapsed: true,
         items: [
           { text: '0.Overview.md', link: '/English/progression/0.Overview' },
           { text: '1.Guild Introduction.md', link: '/English/progression/1.Guild Introduction' },
@@ -109,13 +202,55 @@ const sidebarEN = [
           { text: '6.Mainline Push and Expansion.md', link: '/English/progression/6.Mainline Push and Expansion' }
         ]
       },
-      { text: 'combat/0.VS Guild Duel Strategy.md', link: '/English/combat/0.VS Guild Duel Strategy' },
-      { text: 'events/0.VS Guild Duel Strategy.md', link: '/English/events/0.VS Guild Duel Strategy' },
-      { text: 'codes/README.md', link: '/English/codes/README' },
-      { text: 'pitfalls/0.Daily Spending Advice and Value Analysis.md', link: '/English/pitfalls/0.Daily Spending Advice and Value Analysis' },
-      { text: 'news/README.md', link: '/English/news/README' },
-      { text: 'tutorials/README.md', link: '/English/tutorials/README' },
-      { text: 'other_tips.md', link: '/English/other_tips' }
+      {
+        text: 'combat/',
+        collapsed: true,
+        items: [
+          { text: '0.VS Guild Duel Strategy.md', link: '/English/combat/0.VS Guild Duel Strategy' }
+        ]
+      },
+      {
+        text: 'events/',
+        collapsed: true,
+        items: [
+          { text: '0.VS Guild Duel Strategy.md', link: '/English/events/0.VS Guild Duel Strategy' }
+        ]
+      },
+      {
+        text: 'codes/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/English/codes/README' }
+        ]
+      },
+      {
+        text: 'pitfalls/',
+        collapsed: true,
+        items: [
+          { text: '0.Daily Spending Advice and Value Analysis.md', link: '/English/pitfalls/0.Daily Spending Advice and Value Analysis' }
+        ]
+      },
+      {
+        text: 'news/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/English/news/README' }
+        ]
+      },
+      {
+        text: 'tutorials/',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/English/tutorials/README' }
+        ]
+      },
+      {
+        text: 'root/',
+        collapsed: true,
+        items: [
+          { text: 'other_tips.md', link: '/English/other_tips' }
+        ]
+      }
     ]
   }
 ]
