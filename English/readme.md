@@ -1,8 +1,8 @@
-[简体中文](../SimplifiedChinese/readme.md) | [繁體中文](../TraditionalChinese/readme.md) | [English](./readme.md)
+[简体中文](#/SimplifiedChinese/readme.md) | [繁體中文](#/TraditionalChinese/readme.md) | [English](#/English/readme.md)
 
 # MIT2 / HuaXia New Player Growth Handbook
 
-> Learning Path Index: [`INDEX.md`](./INDEX.md)
+> Learning Path Index: [`INDEX.md`](#/English/INDEX.md)
 
 ## README
 

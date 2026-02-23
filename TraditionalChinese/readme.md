@@ -1,8 +1,8 @@
-[简体中文](../SimplifiedChinese/readme.md) | [English](../English/readme.md) | [繁體中文](./readme.md)
+[简体中文](#/SimplifiedChinese/readme.md) | [English](#/English/readme.md) | [繁體中文](#/TraditionalChinese/readme.md)
 
 # MIT2 / HuaXia 新人發育手冊（繁體）
 
-> 學習路徑索引：[`INDEX.md`](./INDEX.md)
+> 學習路徑索引：[`INDEX.md`](#/TraditionalChinese/INDEX.md)
 
 ## README
 
