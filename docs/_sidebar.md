@@ -1,35 +1,102 @@
-- [首页](README.md)
+- [首页 Home](README.md)
 
-- 简体中文
-  - [入口](../SimplifiedChinese/readme.md)
-  - [学习路径](../SimplifiedChinese/INDEX.md)
+- 简体中文（SimplifiedChinese）
+  - [Readme](../SimplifiedChinese/readme.md)
+  - [INDEX 学习路径](../SimplifiedChinese/INDEX.md)
   - 基础
     - [0.说明](../SimplifiedChinese/基础/0.说明.md)
     - [1.基础资源获取](../SimplifiedChinese/基础/1.基础资源获取.md)
     - [2.商运](../SimplifiedChinese/基础/2.商运.md)
+    - [3.其他基础来源和元光体](../SimplifiedChinese/基础/3.其他基础来源和元光体.md)
+    - [4.主动资源获取与PvE](../SimplifiedChinese/基础/4.主动资源获取与PvE.md)
+    - [5.新手优先级总纲（官方10条）](../SimplifiedChinese/基础/5.新手优先级总纲（官方10条）.md)
   - 发育
     - [0.说明](../SimplifiedChinese/发育/0.说明.md)
     - [1.商会入门](../SimplifiedChinese/发育/1.商会入门.md)
+    - [2.商会管理说明](../SimplifiedChinese/发育/2.商会管理说明.md)
     - [3.建筑与核心升级策略](../SimplifiedChinese/发育/3.建筑与核心升级策略.md)
-  - [活动/VS策略](../SimplifiedChinese/活动/0.VS商会对决策略.md)
-  - [避坑](../SimplifiedChinese/避坑/0.日常充值建议与性价比分析.md)
+    - [4.旗舰培养](../SimplifiedChinese/发育/4.旗舰培养.md)
+    - [5.英雄培养](../SimplifiedChinese/发育/5.英雄培养.md)
+    - [6.主线与开荒](../SimplifiedChinese/发育/6.主线与开荒.md)
+  - 战斗
+    - [0.VS商会对决策略](../SimplifiedChinese/战斗/0.VS商会对决策略.md)
+  - 活动
+    - [0.VS商会对决策略](../SimplifiedChinese/活动/0.VS商会对决策略.md)
+  - 兑换码
+    - [README](../SimplifiedChinese/兑换码/README.md)
+  - 避坑
+    - [0.日常充值建议与性价比分析](../SimplifiedChinese/避坑/0.日常充值建议与性价比分析.md)
+  - 新闻
+    - [README](../SimplifiedChinese/新闻/README.md)
+  - 教程
+    - [README](../SimplifiedChinese/教程/README.md)
   - [其他技巧](../SimplifiedChinese/其他技巧.md)
 
-- 繁體中文
-  - [入口](../TraditionalChinese/readme.md)
-  - [學習路徑](../TraditionalChinese/INDEX.md)
-  - [基礎/0.說明](../TraditionalChinese/基礎/0.說明.md)
-  - [發育/1.商會入門](../TraditionalChinese/發育/1.商會入門.md)
-  - [活動/VS策略](../TraditionalChinese/活動/0.VS商會對決策略.md)
+- 繁體中文（TraditionalChinese）
+  - [Readme](../TraditionalChinese/readme.md)
+  - [INDEX 學習路徑](../TraditionalChinese/INDEX.md)
+  - 基礎
+    - [0.說明](../TraditionalChinese/基礎/0.說明.md)
+    - [1.基礎資源獲取](../TraditionalChinese/基礎/1.基礎資源獲取.md)
+    - [2.商運](../TraditionalChinese/基礎/2.商運.md)
+    - [3.其他基礎來源和元光體](../TraditionalChinese/基礎/3.其他基礎來源和元光體.md)
+    - [4.主動資源獲取與PvE](../TraditionalChinese/基礎/4.主動資源獲取與PvE.md)
+    - [5.新手優先級總綱（官方10條）](../TraditionalChinese/基礎/5.新手優先級總綱（官方10條）.md)
+  - 發育
+    - [0.說明](../TraditionalChinese/發育/0.說明.md)
+    - [1.商會入門](../TraditionalChinese/發育/1.商會入門.md)
+    - [2.商會管理說明](../TraditionalChinese/發育/2.商會管理說明.md)
+    - [3.建築與核心升級策略](../TraditionalChinese/發育/3.建築與核心升級策略.md)
+    - [4.旗艦培養](../TraditionalChinese/發育/4.旗艦培養.md)
+    - [5.英雄培養](../TraditionalChinese/發育/5.英雄培養.md)
+    - [6.主線與開荒](../TraditionalChinese/發育/6.主線與開荒.md)
+  - 戰鬥
+    - [0.VS商會對決策略](../TraditionalChinese/戰鬥/0.VS商會對決策略.md)
+  - 活動
+    - [0.VS商會對決策略](../TraditionalChinese/活動/0.VS商會對決策略.md)
+  - 兌換碼
+    - [README](../TraditionalChinese/兌換碼/README.md)
+  - 避坑
+    - [0.日常充值建議與性價比分析](../TraditionalChinese/避坑/0.日常充值建議與性價比分析.md)
+  - 新聞
+    - [README](../TraditionalChinese/新聞/README.md)
+  - 教程
+    - [README](../TraditionalChinese/教程/README.md)
   - [其他技巧](../TraditionalChinese/其他技巧.md)
 
 - English
-  - [Entry](../English/readme.md)
-  - [Learning Path](../English/INDEX.md)
-  - [Basics/0.Overview](../English/basics/0.Overview.md)
-  - [Progression/1.Guild Introduction](../English/progression/1.Guild Introduction.md)
-  - [Combat/0.VS Guild Duel Strategy](../English/combat/0.VS Guild Duel Strategy.md)
+  - [Readme](../English/readme.md)
+  - [INDEX Learning Path](../English/INDEX.md)
+  - Basics
+    - [0.Overview](../English/basics/0.Overview.md)
+    - [1.Basic Resource Acquisition](../English/basics/1.Basic Resource Acquisition.md)
+    - [2.Trading Operations](../English/basics/2.Trading Operations.md)
+    - [3.Other Basic Sources and Luminite](../English/basics/3.Other Basic Sources and Luminite.md)
+    - [4.Active Resource Farming and PvE](../English/basics/4.Active Resource Farming and PvE.md)
+    - [5.Beginner Priority Framework (Official 10 Tips)](../English/basics/5.Beginner Priority Framework (Official 10 Tips).md)
+  - Progression
+    - [0.Overview](../English/progression/0.Overview.md)
+    - [1.Guild Introduction](../English/progression/1.Guild Introduction.md)
+    - [2.Guild Management Notes](../English/progression/2.Guild Management Notes.md)
+    - [3.Building and Core Upgrade Strategy](../English/progression/3.Building and Core Upgrade Strategy.md)
+    - [4.Flagship Development](../English/progression/4.Flagship Development.md)
+    - [5.Hero Development](../English/progression/5.Hero Development.md)
+    - [6.Mainline Push and Expansion](../English/progression/6.Mainline Push and Expansion.md)
+  - Combat
+    - [0.VS Guild Duel Strategy](../English/combat/0.VS Guild Duel Strategy.md)
+  - Events
+    - [0.VS Guild Duel Strategy](../English/events/0.VS Guild Duel Strategy.md)
+  - Codes
+    - [README](../English/codes/README.md)
+  - Pitfalls
+    - [0.Daily Spending Advice and Value Analysis](../English/pitfalls/0.Daily Spending Advice and Value Analysis.md)
+  - News
+    - [README](../English/news/README.md)
+  - Tutorials
+    - [README](../English/tutorials/README.md)
   - [Other Tips](../English/other_tips.md)
 
-- Internal (OpenClaw)
+- Internal (FOR_OpenClaw)
   - [Requirements](../FOR_OpenClaw/requirenment.md)
+  - [Pipeline README](../FOR_OpenClaw/pipeline/README.md)
+  - [Translate README](../FOR_OpenClaw/Translate/README.md)
