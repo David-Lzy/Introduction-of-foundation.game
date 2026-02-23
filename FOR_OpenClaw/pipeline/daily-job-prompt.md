@@ -10,6 +10,7 @@
 - 玩家目录（SimplifiedChinese/TraditionalChinese/English）只放可直接使用的干货。
 - 内部说明放 FOR_OpenClaw/InternalNotes。
 - 先逐条打分，再决定是否入库。
+- 对通过入库的来源，必须把关键内容“整理进正文”（步骤/要点/结论），并在文末给出引用来源；禁止只放链接指针。
 
 候选处理流程：
 1) 读取正文（禁止只贴链接）
