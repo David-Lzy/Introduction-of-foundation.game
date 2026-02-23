@@ -88,6 +88,7 @@
 - 已有资源使用记录频道：`#📊-resource-usage`。
 - 翻译相关进度与策略文件位于：`FOR_OpenClaw/Translate/`（内部目录）。
 - 术语词典位于：`FOR_OpenClaw/glossary.yml`，自动任务写文/翻译时必须优先套用。
+- 术语自检规则位于：`FOR_OpenClaw/glossary-lint.md`，每日任务结束前必须执行。
 - 词典新增项需优先参考官网与官方渠道文案（官网、官方公告、Google Play、App Store）。
 
 ## 12) 输出风格要求
