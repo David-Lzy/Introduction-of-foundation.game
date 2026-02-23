@@ -1,6 +1,6 @@
 # MIT2 / HuaXia 新人发育手册
 
-> 学习路径索引：[`INDEX.md`](/Introduction-of-foundation.game/#/SimplifiedChinese/INDEX.md)
+> 学习路径索引：<a href="javascript:void(0)" onclick="return window.goDocPath('SimplifiedChinese/INDEX.md')">INDEX.md</a>
 
 ## README
 

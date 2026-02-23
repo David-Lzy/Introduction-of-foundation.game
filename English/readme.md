@@ -2,7 +2,7 @@
 
 # MIT2 / HuaXia New Player Growth Handbook
 
-> Learning Path Index: [`INDEX.md`](/Introduction-of-foundation.game/#/English/INDEX.md)
+> Learning Path Index: <a href="javascript:void(0)" onclick="return window.goDocPath('English/INDEX.md')">INDEX.md</a>
 
 ## README
 

@@ -2,7 +2,7 @@
 
 # MIT2 / HuaXia 新人發育手冊（繁體）
 
-> 學習路徑索引：[`INDEX.md`](/Introduction-of-foundation.game/#/TraditionalChinese/INDEX.md)
+> 學習路徑索引：<a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/INDEX.md')">INDEX.md</a>
 
 ## README
 
