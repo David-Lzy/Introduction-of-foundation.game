@@ -18,6 +18,15 @@
       return false;
     };
 
+    
+    window.goDocPath = function(path){
+      var clean = String(path || '').replace(/^\/+/, '');
+      // encode non-ASCII safely but keep slashes
+      var encoded = encodeURI(clean).replace(/#/g, '%23');
+      window.location.hash = '#/' + encoded;
+      return false;
+    };
+
     window.$docsify = {
       name: 'Foundation Guide',
       repo: 'David-Lzy/Introduction-of-foundation.game',
