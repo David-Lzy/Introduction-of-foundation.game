@@ -31,14 +31,10 @@
 
 ## 5) 文档组织与分类
 - 项目整体视为教程体系（不是单独“教程区”逻辑）。
-- 采用分类目录：
-  - `basics`
-  - `progression`
-  - `combat`
-  - `events`
-  - `codes`
-  - `pitfalls`
-  - `news`
+- 分类语义统一，但**每种语言用各自文字命名目录**：
+  - SimplifiedChinese：`基础` / `发育` / `战斗` / `活动` / `兑换码` / `避坑` / `新闻`
+  - TraditionalChinese：`基礎` / `發育` / `戰鬥` / `活動` / `兌換碼` / `避坑` / `新聞`
+  - English：`basics` / `progression` / `combat` / `events` / `codes` / `pitfalls` / `news`
 - 内容需自动判断归类，按内容本身而非来源站点归类。
 
 ## 6) 多语言要求（镜像）
@@ -65,7 +61,10 @@
 - 后续若信息积累充分，再迁移为独立分类文档。
 
 ## 9) 兑换码（优惠码）规则
-- 扫到的兑换码要纳入项目（放各语言 `codes/` 目录）。
+- 扫到的兑换码要纳入项目，放各语言对应目录：
+  - `SimplifiedChinese/兑换码/`
+  - `TraditionalChinese/兌換碼/`
+  - `English/codes/`
 - 不得编造；需要来源可追溯。
 - 记录字段：
   - `code`
