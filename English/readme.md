@@ -1,8 +1,8 @@
-[简体中文](https://david-lzy.github.io/Introduction-of-foundation.game/#/SimplifiedChinese/readme.md) | [繁體中文](https://david-lzy.github.io/Introduction-of-foundation.game/#/TraditionalChinese/readme.md) | [English](https://david-lzy.github.io/Introduction-of-foundation.game/#/English/readme.md)
+[简体中文](#/SimplifiedChinese/readme.md) | [繁體中文](#/TraditionalChinese/readme.md) | [English](#/English/readme.md)
 
 # MIT2 / HuaXia New Player Growth Handbook
 
-> Learning Path Index: [`INDEX.md`](https://david-lzy.github.io/Introduction-of-foundation.game/#/English/INDEX.md)
+> Learning Path Index: [`INDEX.md`](#/English/INDEX.md)
 
 ## README
 
