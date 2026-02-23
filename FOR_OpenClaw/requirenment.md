@@ -24,6 +24,7 @@
 - 仅当内容相较现有文档“更详细/更优/有实质新增”才允许写入。
 - 低质量、重复、营销水文、纯搬运内容直接丢弃。
 - 报告中要说明：为什么入库、为什么丢弃。
+- 候选入库前必须执行标准化“入库打分卡”（见 `FOR_OpenClaw/pipeline/ingestion-scorecard.yml`）。
 
 ## 4) 去重与增量规则
 - 维护去重库：`FOR_OpenClaw/intel/seen-items.jsonl`。
@@ -82,6 +83,12 @@
 - 保持可回退，避免模型质量波动导致不可逆污染。
 - 能 push 时自动 push 到远程仓库。
 
+## 10.1) 自动化改动门槛（防止“为了更新而更新”）
+- 执行规则见：`FOR_OpenClaw/pipeline/change-threshold.yml`
+- 当天新增不足阈值且无高价值增量时：
+  - 只发日报；
+  - 不改玩家文档。
+
 ## 11) 工具与运行偏好
 - 允许使用本地模型能力（你提到可用 `qwen3-vl:8b-instruct` 进行翻译尝试）。
 - 使用 `web_search` 时注意成本（$5/1000 次）并关注资源使用记录。
@@ -90,6 +97,7 @@
 - 术语词典位于：`FOR_OpenClaw/Translate/glossary.yml`，自动任务写文/翻译时必须优先套用。
 - 术语自检规则位于：`FOR_OpenClaw/Translate/glossary-lint.md`，每日任务结束前必须执行。
 - 词典新增项需优先参考官网与官方渠道文案（官网、官方公告、Google Play、App Store）。
+- 流程配置与质量规则位于：`FOR_OpenClaw/pipeline/`（scorecard、threshold、prompt 模板）。
 
 ## 12) 输出风格要求
 - 结果应是“可直接被玩家使用”的结构化内容。

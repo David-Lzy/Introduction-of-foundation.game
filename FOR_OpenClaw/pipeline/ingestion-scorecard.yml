@@ -1,0 +1,71 @@
+version: 1
+updated_on: 2026-02-23
+
+# Candidate scoring before ingestion
+# total_score = credibility + actionability + novelty + freshness
+# each dimension: 0..5
+
+dimensions:
+  credibility:
+    description: "Source trust level"
+    rubric:
+      5: "Official channels (official site, official announcements, first-party store notes)"
+      4: "High-quality secondary sources with clear citations"
+      3: "Community posts with evidence/screenshots and reproducible claims"
+      2: "Aggregator/repost with partial evidence"
+      1: "Unclear source or low-trust content farm"
+      0: "Source unverifiable"
+
+  actionability:
+    description: "Can a player execute this information immediately?"
+    rubric:
+      5: "Step-by-step, concrete thresholds/conditions"
+      4: "Clear practical guidance with minor gaps"
+      3: "General guidance, some actionable value"
+      2: "Mostly commentary"
+      1: "Vague promotional text"
+      0: "No actionable content"
+
+  novelty:
+    description: "Incremental value vs existing project docs"
+    rubric:
+      5: "New mechanic/system not covered"
+      4: "Major detail expansion for existing topic"
+      3: "Moderate useful additions"
+      2: "Minor wording-level additions"
+      1: "Near duplicate"
+      0: "Duplicate"
+
+  freshness:
+    description: "Timeliness and validity"
+    rubric:
+      5: "Officially current, version/event active"
+      4: "Recent and likely valid"
+      3: "Not recent but still structurally valid"
+      2: "Aging content with uncertain applicability"
+      1: "Likely outdated"
+      0: "Expired/invalid"
+
+gating:
+  min_total_score: 14
+  min_novelty_score: 3
+  hard_fail_conditions:
+    - "contains only links without extracted content"
+    - "unverifiable redeem code claimed as active"
+    - "conflicts with official source and cannot reconcile"
+
+high_value_rule:
+  description: "Used by change-threshold gate"
+  condition: "(credibility >= 4 and novelty >= 4) or (actionability == 5 and novelty >= 3)"
+
+reporting:
+  required_fields_per_candidate:
+    - source
+    - category_candidate
+    - credibility
+    - actionability
+    - novelty
+    - freshness
+    - total_score
+    - pass_or_reject
+    - reason

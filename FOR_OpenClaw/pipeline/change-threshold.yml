@@ -1,0 +1,24 @@
+version: 1
+updated_on: 2026-02-23
+
+# Avoid writing low-value tiny updates into player-facing docs.
+
+daily_gate:
+  min_new_items_to_write: 2
+  require_high_value_if_below_min: true
+  behavior_when_gate_not_met:
+    - "send daily report only"
+    - "do not modify player-facing docs"
+    - "record candidates in FOR_OpenClaw/InternalNotes if needed"
+
+write_conditions:
+  - "candidate passed ingestion scorecard"
+  - "daily gate passed"
+
+exceptions:
+  - name: "Critical correction"
+    condition: "Existing player doc has factual error from official source"
+    allow_write_even_if_gate_not_met: true
+  - name: "Code status flip"
+    condition: "Redeem code status changes active<->expired with official evidence"
+    allow_write_even_if_gate_not_met: true
