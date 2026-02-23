@@ -33,13 +33,6 @@ const sidebarSC = [
         ]
       },
       {
-        text: '战斗',
-        collapsed: true,
-        items: [
-          { text: '0.VS商会对决策略.md', link: '/SimplifiedChinese/战斗/0.VS商会对决策略' }
-        ]
-      },
-      {
         text: '活动',
         collapsed: true,
         items: [
@@ -118,13 +111,6 @@ const sidebarTC = [
         ]
       },
       {
-        text: '戰鬥',
-        collapsed: true,
-        items: [
-          { text: '0.VS商會對決策略.md', link: '/TraditionalChinese/戰鬥/0.VS商會對決策略' }
-        ]
-      },
-      {
         text: '活動',
         collapsed: true,
         items: [
@@ -200,13 +186,6 @@ const sidebarEN = [
           { text: '4.Flagship Development.md', link: '/English/progression/4.Flagship Development' },
           { text: '5.Hero Development.md', link: '/English/progression/5.Hero Development' },
           { text: '6.Mainline Push and Expansion.md', link: '/English/progression/6.Mainline Push and Expansion' }
-        ]
-      },
-      {
-        text: 'combat',
-        collapsed: true,
-        items: [
-          { text: '0.VS Guild Duel Strategy.md', link: '/English/combat/0.VS Guild Duel Strategy' }
         ]
       },
       {
