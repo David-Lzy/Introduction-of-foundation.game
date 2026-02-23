@@ -1,8 +1,8 @@
-[简体中文](/Introduction-of-foundation.game/#/SimplifiedChinese/readme.md) | [繁體中文](/Introduction-of-foundation.game/#/TraditionalChinese/readme.md) | [English](/Introduction-of-foundation.game/#/English/readme.md)
+[简体中文](/SimplifiedChinese/readme) | [繁體中文](/TraditionalChinese/readme) | [English](/English/readme)
 
 # MIT2 / HuaXia New Player Growth Handbook
 
-> Learning Path Index: <a href="javascript:void(0)" onclick="return window.goDocPath('English/INDEX.md')">INDEX.md</a>
+> Learning Path Index: [INDEX.md](/English/INDEX)
 
 ## README
 

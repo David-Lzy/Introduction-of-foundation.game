@@ -1,34 +1,34 @@
 # 學習路徑索引（繁體中文）
 
 ## 新手先讀順序（建議）
-1. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/基礎/0.說明.md')">基礎/0.說明.md</a>
-2. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/基礎/1.基礎資源獲取.md')">基礎/1.基礎資源獲取.md</a>
-3. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/0.說明.md')">發育/0.說明.md</a>
-4. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/3.建築與核心升級策略.md')">發育/3.建築與核心升級策略.md</a>
-5. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/4.旗艦培養.md')">發育/4.旗艦培養.md</a>
-6. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/5.英雄培養.md')">發育/5.英雄培養.md</a>
-7. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/6.主線與開荒.md')">發育/6.主線與開荒.md</a>
-8. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/1.商會入門.md')">發育/1.商會入門.md</a>
-9. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/2.商會管理說明.md')">發育/2.商會管理說明.md</a>
-10. <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/活動/0.VS商會對決策略.md')">活動/0.VS商會對決策略.md</a>
+1. [基礎/0.說明.md](/TraditionalChinese/基礎/0.說明)
+2. [基礎/1.基礎資源獲取.md](/TraditionalChinese/基礎/1.基礎資源獲取)
+3. [發育/0.說明.md](/TraditionalChinese/發育/0.說明)
+4. [發育/3.建築與核心升級策略.md](/TraditionalChinese/發育/3.建築與核心升級策略)
+5. [發育/4.旗艦培養.md](/TraditionalChinese/發育/4.旗艦培養)
+6. [發育/5.英雄培養.md](/TraditionalChinese/發育/5.英雄培養)
+7. [發育/6.主線與開荒.md](/TraditionalChinese/發育/6.主線與開荒)
+8. [發育/1.商會入門.md](/TraditionalChinese/發育/1.商會入門)
+9. [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)
+10. [活動/0.VS商會對決策略.md](/TraditionalChinese/活動/0.VS商會對決策略)
 
 ## 按場景快速跳轉
 - 開荒與主線
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/6.主線與開荒.md')">發育/6.主線與開荒.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/基礎/1.基礎資源獲取.md')">基礎/1.基礎資源獲取.md</a>
+  - [發育/6.主線與開荒.md](/TraditionalChinese/發育/6.主線與開荒)
+  - [基礎/1.基礎資源獲取.md](/TraditionalChinese/基礎/1.基礎資源獲取)
 - 商會與協作
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/1.商會入門.md')">發育/1.商會入門.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/發育/2.商會管理說明.md')">發育/2.商會管理說明.md</a>
+  - [發育/1.商會入門.md](/TraditionalChinese/發育/1.商會入門)
+  - [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)
 - 打架與戰鬥
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/戰鬥/0.VS商會對決策略.md')">戰鬥/0.VS商會對決策略.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/活動/0.VS商會對決策略.md')">活動/0.VS商會對決策略.md</a>
+  - [戰鬥/0.VS商會對決策略.md](/TraditionalChinese/戰鬥/0.VS商會對決策略)
+  - [活動/0.VS商會對決策略.md](/TraditionalChinese/活動/0.VS商會對決策略)
 - 活動與節奏
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/活動/0.VS商會對決策略.md')">活動/0.VS商會對決策略.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/兌換碼/README.md')">兌換碼/README.md</a>
+  - [活動/0.VS商會對決策略.md](/TraditionalChinese/活動/0.VS商會對決策略)
+  - [兌換碼/README.md](/TraditionalChinese/兌換碼/README)
 - 避坑與消費
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/避坑/0.日常充值建議與性價比分析.md')">避坑/0.日常充值建議與性價比分析.md</a>
+  - [避坑/0.日常充值建議與性價比分析.md](/TraditionalChinese/避坑/0.日常充值建議與性價比分析)
 - 碎片技巧
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/其他技巧.md')">其他技巧.md</a>
+  - [其他技巧.md](/TraditionalChinese/其他技巧)
 
 ---
 更新日期：2026-02-23

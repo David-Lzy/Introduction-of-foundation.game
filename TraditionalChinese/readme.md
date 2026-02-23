@@ -1,8 +1,8 @@
-[简体中文](/Introduction-of-foundation.game/#/SimplifiedChinese/readme.md) | [English](/Introduction-of-foundation.game/#/English/readme.md) | [繁體中文](/Introduction-of-foundation.game/#/TraditionalChinese/readme.md)
+[简体中文](/SimplifiedChinese/readme) | [English](/English/readme) | [繁體中文](/TraditionalChinese/readme)
 
 # MIT2 / HuaXia 新人發育手冊（繁體）
 
-> 學習路徑索引：<a href="javascript:void(0)" onclick="return window.goDocPath('TraditionalChinese/INDEX.md')">INDEX.md</a>
+> 學習路徑索引：[INDEX.md](/TraditionalChinese/INDEX)
 
 ## README
 

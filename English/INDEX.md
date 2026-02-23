@@ -1,34 +1,34 @@
 # Learning Path Index (English)
 
 ## Suggested reading order for new players
-1. <a href="javascript:void(0)" onclick="return window.goDocPath('English/basics/0.Overview.md')">basics/0.Overview.md</a>
-2. <a href="javascript:void(0)" onclick="return window.goDocPath('English/basics/1.Basic Resource Acquisition.md')">basics/1.Basic Resource Acquisition.md</a>
-3. <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/0.Overview.md')">progression/0.Overview.md</a>
-4. <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/3.Building and Core Upgrade Strategy.md')">progression/3.Building and Core Upgrade Strategy.md</a>
-5. <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/4.Flagship Development.md')">progression/4.Flagship Development.md</a>
-6. <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/5.Hero Development.md')">progression/5.Hero Development.md</a>
-7. <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/6.Mainline Push and Expansion.md')">progression/6.Mainline Push and Expansion.md</a>
-8. <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/1.Guild Introduction.md')">progression/1.Guild Introduction.md</a>
-9. <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/2.Guild Management Notes.md')">progression/2.Guild Management Notes.md</a>
-10. <a href="javascript:void(0)" onclick="return window.goDocPath('English/events/0.VS Guild Duel Strategy.md')">events/0.VS Guild Duel Strategy.md</a>
+1. [basics/0.Overview.md](/English/basics/0.Overview)
+2. [basics/1.Basic Resource Acquisition.md](/English/basics/1.Basic Resource Acquisition)
+3. [progression/0.Overview.md](/English/progression/0.Overview)
+4. [progression/3.Building and Core Upgrade Strategy.md](/English/progression/3.Building and Core Upgrade Strategy)
+5. [progression/4.Flagship Development.md](/English/progression/4.Flagship Development)
+6. [progression/5.Hero Development.md](/English/progression/5.Hero Development)
+7. [progression/6.Mainline Push and Expansion.md](/English/progression/6.Mainline Push and Expansion)
+8. [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
+9. [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
+10. [events/0.VS Guild Duel Strategy.md](/English/events/0.VS Guild Duel Strategy)
 
 ## Quick jump by scenario
 - Mainline and early expansion
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/6.Mainline Push and Expansion.md')">progression/6.Mainline Push and Expansion.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/basics/1.Basic Resource Acquisition.md')">basics/1.Basic Resource Acquisition.md</a>
+  - [progression/6.Mainline Push and Expansion.md](/English/progression/6.Mainline Push and Expansion)
+  - [basics/1.Basic Resource Acquisition.md](/English/basics/1.Basic Resource Acquisition)
 - Guild and collaboration
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/1.Guild Introduction.md')">progression/1.Guild Introduction.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/progression/2.Guild Management Notes.md')">progression/2.Guild Management Notes.md</a>
+  - [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
+  - [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
 - Combat and PvP
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/combat/0.VS Guild Duel Strategy.md')">combat/0.VS Guild Duel Strategy.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/events/0.VS Guild Duel Strategy.md')">events/0.VS Guild Duel Strategy.md</a>
+  - [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
+  - [events/0.VS Guild Duel Strategy.md](/English/events/0.VS Guild Duel Strategy)
 - Events and cadence
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/events/0.VS Guild Duel Strategy.md')">events/0.VS Guild Duel Strategy.md</a>
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/codes/README.md')">codes/README.md</a>
+  - [events/0.VS Guild Duel Strategy.md](/English/events/0.VS Guild Duel Strategy)
+  - [codes/README.md](/English/codes/README)
 - Pitfalls and spending
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/pitfalls/0.Daily Spending Advice and Value Analysis.md')">pitfalls/0.Daily Spending Advice and Value Analysis.md</a>
+  - [pitfalls/0.Daily Spending Advice and Value Analysis.md](/English/pitfalls/0.Daily Spending Advice and Value Analysis)
 - Misc small tips
-  - <a href="javascript:void(0)" onclick="return window.goDocPath('English/other_tips.md')">other_tips.md</a>
+  - [other_tips.md](/English/other_tips)
 
 ---
 Updated on: 2026-02-23

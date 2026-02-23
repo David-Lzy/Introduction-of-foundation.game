@@ -1,6 +1,6 @@
 # MIT2 / HuaXia 新人发育手册
 
-> 学习路径索引：<a href="javascript:void(0)" onclick="return window.goDocPath('SimplifiedChinese/INDEX.md')">INDEX.md</a>
+> 学习路径索引：[INDEX.md](/SimplifiedChinese/INDEX)
 
 ## README
 
