@@ -21,11 +21,14 @@
     window.$docsify = {
       name: 'Foundation Guide',
       repo: 'David-Lzy/Introduction-of-foundation.game',
-      homepage: 'docs/README.md',
-      loadSidebar: 'docs/_sidebar.md',
+      homepage: '/docs/README.md',
+      loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/docs/_sidebar.md'
+      },
       subMaxLevel: 3,
       auto2top: true,
-      relativePath: true,
+      relativePath: false,
       search: {
         maxAge: 86400000,
         paths: 'auto',
