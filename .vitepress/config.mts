@@ -127,44 +127,23 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
   locales: {
-    root: {
-      label: '简体中文',
-      lang: 'zh-CN',
-      themeConfig: {
-        nav: [
-          { text: '首页', link: '/' },
-          { text: 'GitHub', link: 'https://github.com/David-Lzy/Introduction-of-foundation.game' }
-        ],
-        sidebar: sidebarSC,
-        search: { provider: 'local' }
-      }
-    },
-    '/TraditionalChinese/': {
-      label: '繁體中文',
-      lang: 'zh-TW',
-      themeConfig: {
-        nav: [
-          { text: '首頁', link: '/TraditionalChinese/readme' },
-          { text: 'GitHub', link: 'https://github.com/David-Lzy/Introduction-of-foundation.game' }
-        ],
-        sidebar: sidebarTC,
-        search: { provider: 'local' }
-      }
-    },
-    '/English/': {
-      label: 'English',
-      lang: 'en-US',
-      themeConfig: {
-        nav: [
-          { text: 'Home', link: '/English/readme' },
-          { text: 'GitHub', link: 'https://github.com/David-Lzy/Introduction-of-foundation.game' }
-        ],
-        sidebar: sidebarEN,
-        search: { provider: 'local' }
-      }
-    }
+    root: { label: '简体中文', lang: 'zh-CN' },
+    '/TraditionalChinese/': { label: '繁體中文', lang: 'zh-TW' },
+    '/English/': { label: 'English', lang: 'en-US' }
   },
   themeConfig: {
+    nav: [
+      { text: '简体中文', link: '/SimplifiedChinese/readme' },
+      { text: '繁體中文', link: '/TraditionalChinese/readme' },
+      { text: 'English', link: '/English/readme' },
+      { text: 'GitHub', link: 'https://github.com/David-Lzy/Introduction-of-foundation.game' }
+    ],
+    sidebar: {
+      '/SimplifiedChinese/': sidebarSC,
+      '/TraditionalChinese/': sidebarTC,
+      '/English/': sidebarEN
+    },
+    search: { provider: 'local' },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/David-Lzy/Introduction-of-foundation.game' }
     ]
