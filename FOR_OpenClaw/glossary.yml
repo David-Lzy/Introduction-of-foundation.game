@@ -1,0 +1,218 @@
+version: 1
+updated_on: 2026-02-23
+source_notes:
+  - https://www.foundation.game/en/news/official-guide-10-tips-you-must-know
+  - https://www.foundation.game/en
+  - https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US
+  - https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599
+
+rules:
+  enforce_glossary_in_generation: true
+  when_missing_term:
+    - keep_official_english_term
+    - append_candidate_to_internal_notes
+  do_not_translate_brand_names: true
+
+terms:
+  - key: game_title
+    zh_hans: Foundation：银河前线
+    zh_hant: Foundation：銀河前線
+    en: Foundation: Galactic Frontier
+    banned:
+      - Foundation Galactic Frontier（无冒号）
+
+  - key: encyclopedia_galactica
+    zh_hans: 银河百科全书
+    zh_hant: 銀河百科全書
+    en: Encyclopedia Galactica
+    banned:
+      - 银河百科
+      - 星河百科
+
+  - key: commerce_guild
+    zh_hans: 商会
+    zh_hant: 商會
+    en: Commerce Guild
+    banned:
+      - 公会
+      - 行会
+      - Guild (generic)
+
+  - key: guild_voucher
+    zh_hans: 商会券
+    zh_hant: 商會券
+    en: Guild Voucher
+    banned:
+      - 公会币
+      - 行会币
+
+  - key: new_port
+    zh_hans: 新港
+    zh_hant: 新港
+    en: New Port
+    banned:
+      - 新港口
+
+  - key: port_occupation
+    zh_hans: 港口占领
+    zh_hant: 港口佔領
+    en: Port Occupation
+    banned:
+      - 占港
+
+  - key: jump_portal
+    zh_hans: 跃迁传送门
+    zh_hant: 躍遷傳送門
+    en: Jump Portal
+    banned:
+      - 虫洞门
+
+  - key: hyperspace_teleport
+    zh_hans: 超空间迁跃
+    zh_hant: 超空間遷躍
+    en: Hyperspace Teleport
+    banned:
+      - 超空间传送
+      - Hyper teleport
+
+  - key: border_region
+    zh_hans: 边境区
+    zh_hant: 邊境區
+    en: Border Region
+    banned: []
+
+  - key: province_server
+    zh_hans: 省服
+    zh_hant: 省服
+    en: Province Server
+    banned:
+      - 区服（当语义指 Province Server 时）
+
+  - key: flagship
+    zh_hans: 旗舰
+    zh_hant: 旗艦
+    en: Flagship
+    banned:
+      - 母舰（当语义指 Flagship 时）
+
+  - key: mothership
+    zh_hans: 母舰
+    zh_hant: 母艦
+    en: Mothership
+    banned:
+      - 旗舰（当语义指 Mothership 时）
+
+  - key: champion
+    zh_hans: 英雄
+    zh_hant: 英雄
+    en: Champion
+    banned:
+      - 角色（当语义指 Champion 系统时）
+
+  - key: action_points
+    zh_hans: 行动点
+    zh_hant: 行動點
+    en: Action Points (AP)
+    banned:
+      - 体力（当语义指 AP 时）
+
+  - key: galactic_coin
+    zh_hans: 银河币
+    zh_hant: 銀河幣
+    en: Galactic Coin
+    banned:
+      - 星币（当语义指 Galactic Coin 时）
+
+  - key: credits
+    zh_hans: 点券
+    zh_hant: 點券
+    en: Credits
+    banned:
+      - 信用点
+
+  - key: virtuous_memories
+    zh_hans: 贤者记忆
+    zh_hant: 賢者記憶
+    en: Virtuous Memories
+    banned:
+      - 美德记忆
+
+  - key: prismatic_core
+    zh_hans: 棱镜核心
+    zh_hant: 稜鏡核心
+    en: Prismatic Core
+    banned:
+      - 棱彩核心
+
+  - key: sacred_tribute_rally
+    zh_hans: 圣贡集结
+    zh_hant: 聖貢集結
+    en: Sacred Tribute Rally
+    banned: []
+
+  - key: ascendancy
+    zh_hans: 升腾体
+    zh_hant: 升騰體
+    en: Ascendancy
+    banned:
+      - Ascend target
+
+  - key: war_declaration
+    zh_hans: 宣战
+    zh_hant: 宣戰
+    en: War Declaration
+    banned:
+      - 开战声明
+
+  - key: style_beam
+    zh_hans: 光束
+    zh_hant: 光束
+    en: Beam
+    banned: []
+
+  - key: style_kinetic
+    zh_hans: 动能
+    zh_hant: 動能
+    en: Kinetic
+    banned: []
+
+  - key: style_ion
+    zh_hans: 离子
+    zh_hant: 離子
+    en: Ion
+    banned:
+      - Ionic（作为名词时）
+
+  - key: deep_space_beacon
+    zh_hans: 深空信标
+    zh_hant: 深空信標
+    en: Deep Space Beacon
+    banned:
+      - 深空灯塔
+
+  - key: echo_module
+    zh_hans: 回响模组
+    zh_hant: 迴響模組
+    en: Echo Module
+    banned:
+      - Echo core
+
+  - key: deep_space_echo
+    zh_hans: 深空回响
+    zh_hant: 深空迴響
+    en: Deep Space Echo
+    banned: []
+
+  - key: universal_repair_module
+    zh_hans: 通用维修模组
+    zh_hant: 通用維修模組
+    en: Universal Repair Module
+    banned:
+      - 通用修理件
+
+  - key: legendary_training_manual
+    zh_hans: 传奇训练手册
+    zh_hant: 傳奇訓練手冊
+    en: Legendary Training Manual
+    banned:
+      - 传说训练书

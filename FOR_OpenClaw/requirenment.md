@@ -87,6 +87,8 @@
 - 使用 `web_search` 时注意成本（$5/1000 次）并关注资源使用记录。
 - 已有资源使用记录频道：`#📊-resource-usage`。
 - 翻译相关进度与策略文件位于：`FOR_OpenClaw/Translate/`（内部目录）。
+- 术语词典位于：`FOR_OpenClaw/glossary.yml`，自动任务写文/翻译时必须优先套用。
+- 词典新增项需优先参考官网与官方渠道文案（官网、官方公告、Google Play、App Store）。
 
 ## 12) 输出风格要求
 - 结果应是“可直接被玩家使用”的结构化内容。
