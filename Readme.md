@@ -11,7 +11,7 @@ Game guide documentation project for **Foundation: Galactic Frontier**.
 - `SimplifiedChinese/` Simplified Chinese guide documents (main content)
 - `TraditionalChinese/` Traditional Chinese guide documents
 - `English/` English guide documents
-- `Translate/` Translation status tracking
+- `FOR_OpenClaw/Translate/` Translation status tracking (internal)
 
 ## Readme by Language
 
@@ -21,4 +21,4 @@ Game guide documentation project for **Foundation: Galactic Frontier**.
 
 ## Translation
 
-Translation progress and notes are tracked in `Translate/README.md`.
+Translation progress and notes are tracked in `FOR_OpenClaw/Translate/README.md`.
