@@ -10,7 +10,7 @@
 7. [发育/6.主线与开荒.md](/SimplifiedChinese/发育/6.主线与开荒)
 8. [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
 9. [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
-10. [活动/0.VS商会对决策略.md](/SimplifiedChinese/活动/0.VS商会对决策略)
+10. [战斗/0.VS商会对决策略.md](/SimplifiedChinese/战斗/0.VS商会对决策略)
 
 ## 按场景快速跳转
 - 开荒与主线
@@ -21,9 +21,9 @@
   - [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
 - 打架与战斗
   - [战斗/0.VS商会对决策略.md](/SimplifiedChinese/战斗/0.VS商会对决策略)
-  - [活动/0.VS商会对决策略.md](/SimplifiedChinese/活动/0.VS商会对决策略)
+  - [活动/README.md](/SimplifiedChinese/活动/README)
 - 活动与节奏
-  - [活动/0.VS商会对决策略.md](/SimplifiedChinese/活动/0.VS商会对决策略)
+  - [活动/README.md](/SimplifiedChinese/活动/README)
   - [兑换码/README.md](/SimplifiedChinese/兑换码/README)
 - 避坑与消费
   - [避坑/0.日常充值建议与性价比分析.md](/SimplifiedChinese/避坑/0.日常充值建议与性价比分析)

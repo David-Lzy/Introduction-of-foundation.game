@@ -10,7 +10,7 @@
 7. [發育/6.主線與開荒.md](/TraditionalChinese/發育/6.主線與開荒)
 8. [發育/1.商會入門.md](/TraditionalChinese/發育/1.商會入門)
 9. [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)
-10. [活動/0.VS商會對決策略.md](/TraditionalChinese/活動/0.VS商會對決策略)
+10. [戰鬥/0.VS商會對決策略.md](/TraditionalChinese/戰鬥/0.VS商會對決策略)
 
 ## 按場景快速跳轉
 - 開荒與主線
@@ -21,9 +21,9 @@
   - [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)
 - 打架與戰鬥
   - [戰鬥/0.VS商會對決策略.md](/TraditionalChinese/戰鬥/0.VS商會對決策略)
-  - [活動/0.VS商會對決策略.md](/TraditionalChinese/活動/0.VS商會對決策略)
+  - [活動/README.md](/TraditionalChinese/活動/README)
 - 活動與節奏
-  - [活動/0.VS商會對決策略.md](/TraditionalChinese/活動/0.VS商會對決策略)
+  - [活動/README.md](/TraditionalChinese/活動/README)
   - [兌換碼/README.md](/TraditionalChinese/兌換碼/README)
 - 避坑與消費
   - [避坑/0.日常充值建議與性價比分析.md](/TraditionalChinese/避坑/0.日常充值建議與性價比分析)

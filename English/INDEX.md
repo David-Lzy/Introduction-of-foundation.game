@@ -10,7 +10,7 @@
 7. [progression/6.Mainline Push and Expansion.md](/English/progression/6.Mainline Push and Expansion)
 8. [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
 9. [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
-10. [events/0.VS Guild Duel Strategy.md](/English/events/0.VS Guild Duel Strategy)
+10. [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
 
 ## Quick jump by scenario
 - Mainline and early expansion
@@ -21,9 +21,9 @@
   - [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
 - Combat and PvP
   - [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
-  - [events/0.VS Guild Duel Strategy.md](/English/events/0.VS Guild Duel Strategy)
+  - [events/README.md](/English/events/README)
 - Events and cadence
-  - [events/0.VS Guild Duel Strategy.md](/English/events/0.VS Guild Duel Strategy)
+  - [events/README.md](/English/events/README)
   - [codes/README.md](/English/codes/README)
 - Pitfalls and spending
   - [pitfalls/0.Daily Spending Advice and Value Analysis.md](/English/pitfalls/0.Daily Spending Advice and Value Analysis)
