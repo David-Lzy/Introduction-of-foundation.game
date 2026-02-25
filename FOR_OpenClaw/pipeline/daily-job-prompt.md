@@ -13,11 +13,12 @@
 - 对通过入库的来源，必须把关键内容“整理进正文”（步骤/要点/结论），并在文末给出引用来源；禁止只放链接指针。
 
 候选处理流程：
-1) 读取正文（禁止只贴链接）
-2) 去重比对（FOR_OpenClaw/intel/seen-items.jsonl + 历史文档）
-3) 按 scorecard 四维打分（credibility/actionability/novelty/freshness）
-4) 通过 ingestion gate 才可进入“可写候选”
-5) 应用 daily gate：
+1) 先查页面缓存（FOR_OpenClaw/intel/page-cache.json）：若 URL 内容指纹未变化，可复用缓存摘要并跳过重复阅读全文。
+2) 读取正文（禁止只贴链接；缓存命中且未变化可跳过重读）
+3) 去重比对（FOR_OpenClaw/intel/seen-items.jsonl + 历史文档）
+4) 按 scorecard 四维打分（credibility/actionability/novelty/freshness）
+5) 通过 ingestion gate 才可进入“可写候选”
+6) 应用 daily gate：
    - 若当日通过候选 < N 且无高价值增量：只发日报，不改玩家文档
 
 目录与分类：
@@ -28,6 +29,8 @@
 输出：
 - FOR_OpenClaw/intel/reports/YYYY-MM-DD.md
   - 必含每个候选的打分卡记录与通过/丢弃原因
+  - 标注缓存命中情况（cache_hit/cache_miss）
+- 更新 FOR_OpenClaw/intel/page-cache.json（新增/刷新 URL 指纹与时间）
 - 仅在阈值满足时写入玩家目录（三语镜像）
 - 任务结束前执行术语 lint（禁用词残留=0）
 
