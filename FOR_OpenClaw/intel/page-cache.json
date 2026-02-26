@@ -1,6 +1,46 @@
 {
   "version": 1,
-  "updated_on": "2026-02-25",
+  "updated_on": "2026-02-26",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
-  "items": {}
+  "items": {
+    "https://www.foundation.game/en/news": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-02-26T10:30:41.454Z",
+      "status": 200,
+      "cache_note": "low-content index page"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
+      "fingerprint": "bc1fb9be0e43a58c709fc602097f891d94198bdcc5010b4800806a8c9fdd2f41",
+      "title": "Foundation: Galactic Frontier - Apps on Google Play",
+      "last_fetched": "2026-02-26T10:30:41.982Z",
+      "status": 200
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "4aaadb045400a3cebb87f6dabffc46ac887e27c45bcc75ab2194a7c47e9db184",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-02-26T10:30:42.589Z",
+      "status": 200
+    },
+    "https://store.steampowered.com/app/4223760/Foundation_Galactic_Frontier/": {
+      "fingerprint": "3ac683e12c6715d077427528a0b92f752a334c989a318bf91c16d70179c91ff0",
+      "title": "Foundation: Galactic Frontier on Steam",
+      "last_fetched": "2026-02-26T10:30:42.982Z",
+      "status": 200
+    },
+    "https://steamcommunity.com/app/4223760/": {
+      "fingerprint": "ca1517c2becf33f51d245b11cf2c32a678c1cc710acb5625b6098965bba4b43a",
+      "title": "Steam Community :: Foundation: Galactic Frontier",
+      "last_fetched": "2026-02-26T10:30:43.467Z",
+      "status": 200,
+      "cache_note": "hub/navigation-heavy"
+    },
+    "https://www.facebook.com/FoundationGalacticFrontier/": {
+      "fingerprint": "02e6a0d3c12be5e60a201940e18b1855fb478ee6c94908598a46680a4a83e746",
+      "title": "Facebook page fetch error",
+      "last_fetched": "2026-02-26T10:30:43.467Z",
+      "status": 400,
+      "cache_note": "fetch error"
+    }
+  }
 }
