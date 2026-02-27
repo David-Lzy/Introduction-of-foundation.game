@@ -1,31 +1,31 @@
 {
   "version": 1,
-  "updated_on": "2026-02-26",
+  "updated_on": "2026-02-27",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-02-26T10:30:41.454Z",
+      "last_fetched": "2026-02-27T10:31:00.000Z",
       "status": 200,
       "cache_note": "low-content index page"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
       "fingerprint": "bc1fb9be0e43a58c709fc602097f891d94198bdcc5010b4800806a8c9fdd2f41",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
-      "last_fetched": "2026-02-26T10:30:41.982Z",
+      "last_fetched": "2026-02-27T10:31:00.000Z",
       "status": 200
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "4aaadb045400a3cebb87f6dabffc46ac887e27c45bcc75ab2194a7c47e9db184",
       "title": "Foundation: Galactic Frontier App - App Store",
-      "last_fetched": "2026-02-26T10:30:42.589Z",
+      "last_fetched": "2026-02-27T10:31:00.000Z",
       "status": 200
     },
     "https://store.steampowered.com/app/4223760/Foundation_Galactic_Frontier/": {
       "fingerprint": "3ac683e12c6715d077427528a0b92f752a334c989a318bf91c16d70179c91ff0",
       "title": "Foundation: Galactic Frontier on Steam",
-      "last_fetched": "2026-02-26T10:30:42.982Z",
+      "last_fetched": "2026-02-27T10:31:00.000Z",
       "status": 200
     },
     "https://steamcommunity.com/app/4223760/": {
@@ -41,6 +41,24 @@
       "last_fetched": "2026-02-26T10:30:43.467Z",
       "status": 400,
       "cache_note": "fetch error"
+    },
+    "https://x.com/FoundationGF_EN/status/2027005733716549797": {
+      "fingerprint": "02bf692c933105467356715a320fe27a53245dac7f902a4dbfbe0c15d182169e",
+      "title": "x.com status fetch fallback page",
+      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "status": 200
+    },
+    "https://funplus.com/foundation-galactic-frontier-global-launch/": {
+      "fingerprint": "c68b219acfe55fdae309f18f4bf480ec65989a457eee8b2a55bec23f5cded6e9",
+      "title": "Foundation: Galactic Frontier Global Launch",
+      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en": {
+      "fingerprint": "6a10e3643ddba17d549208117ab5aa163376c93dd37490e822e6308310a1cfd1",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "status": 200
     }
   }
 }
