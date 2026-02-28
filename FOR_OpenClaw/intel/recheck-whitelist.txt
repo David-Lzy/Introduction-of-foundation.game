@@ -1,0 +1,2 @@
+# One URL per line. If a URL appears here, crawler is allowed to revisit even if already in visited-pages.jsonl
+# Use for high-value sources that may update (official news/store changelog).

@@ -30,9 +30,10 @@
 ## 4) 去重与增量规则
 - 维护去重库：`FOR_OpenClaw/intel/seen-items.jsonl`。
 - 维护页面缓存库：`FOR_OpenClaw/intel/page-cache.json`（记录 URL、上次抓取时间、内容指纹/ETag/Last-Modified、状态）。
+- 维护“已访问页面库”：`FOR_OpenClaw/intel/visited-pages.jsonl`（每行记录 url、first_seen、last_seen、status、notes）。
 - 与历史采集结果、历史文档做比对，只保留增量。
 - 同一信息不重复入库；状态变化则更新原记录。
-- 当页面内容指纹未变化时，优先复用缓存摘要，避免重复阅读全文。
+- 默认不重复访问已在 `visited-pages.jsonl` 的 URL；仅 `FOR_OpenClaw/intel/recheck-whitelist.txt` 中的 URL 允许复查。
 
 ## 5) 文档组织与分类
 - 项目整体视为教程体系（不是单独“教程区”逻辑）。
