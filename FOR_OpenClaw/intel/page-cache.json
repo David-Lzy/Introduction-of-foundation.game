@@ -1,31 +1,31 @@
 {
   "version": 1,
-  "updated_on": "2026-02-27",
+  "updated_on": "2026-02-28",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
-      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "fingerprint": "505b3826e55958c0bdb8217a8a2ffe1b1e79faa91a65e8de7a933272b12f1e05",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "last_fetched": "2026-02-28T10:31:02Z",
       "status": 200,
       "cache_note": "low-content index page"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
-      "fingerprint": "bc1fb9be0e43a58c709fc602097f891d94198bdcc5010b4800806a8c9fdd2f41",
+      "fingerprint": "2d94518767a1e40f0da0ccbfd6ff5660107d861be157ec87bb36aefee1b4da61",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
-      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "last_fetched": "2026-02-28T10:31:02Z",
       "status": 200
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599": {
-      "fingerprint": "4aaadb045400a3cebb87f6dabffc46ac887e27c45bcc75ab2194a7c47e9db184",
+      "fingerprint": "36594d98278e78decfa44291ea06c9e35096a1ab221dc4d4d3df42422b35ae08",
       "title": "Foundation: Galactic Frontier App - App Store",
-      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "last_fetched": "2026-02-28T10:31:02Z",
       "status": 200
     },
     "https://store.steampowered.com/app/4223760/Foundation_Galactic_Frontier/": {
-      "fingerprint": "3ac683e12c6715d077427528a0b92f752a334c989a318bf91c16d70179c91ff0",
+      "fingerprint": "91e7415923e26db7f0ac8fc1293745c54de03a876259ee2faa6e967f259d93ec",
       "title": "Foundation: Galactic Frontier on Steam",
-      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "last_fetched": "2026-02-28T10:31:02Z",
       "status": 200
     },
     "https://steamcommunity.com/app/4223760/": {
@@ -55,9 +55,14 @@
       "status": 200
     },
     "https://www.foundation.game/en": {
-      "fingerprint": "6a10e3643ddba17d549208117ab5aa163376c93dd37490e822e6308310a1cfd1",
+      "fingerprint": "20c41ef5d66985b0105eace9e6bb6133678d806b84c9476b19fe2d99bd3b9306",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-02-27T10:31:00.000Z",
+      "last_fetched": "2026-02-28T10:31:02Z",
+      "status": 200
+    },
+    "https://www.linegames.org/en/foundation:-galactic-frontier-codes/": {
+      "fingerprint": "4f706df56a040602ef085b3a3761b3f68c317df71dd5fefc37082908137be9d2",
+      "last_fetched": "2026-02-28T10:31:02Z",
       "status": 200
     }
   }
