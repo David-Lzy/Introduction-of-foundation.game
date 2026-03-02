@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-01",
+  "updated_on": "2026-03-02",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -63,6 +63,24 @@
       "fingerprint": "516d5b47ef9b68293851cab27670e2a838563e75495ab2df59cffb29a65a095a",
       "title": "All working Foundation: Galactic Frontier codes (March 2026) – Daily updated list",
       "last_fetched": "2026-03-01T10:30:00Z",
+      "status": 200
+    },
+    "https://x.com/FoundationGF_EN/status/2007814609256747498": {
+      "fingerprint": "b012f698c33d74ba32500331d955dfe02410ce7545fc3cf56635c7f65a5a0831",
+      "title": "x.com status error/fallback",
+      "last_fetched": "2026-03-02T10:31:00Z",
+      "status": 200
+    },
+    "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
+      "fingerprint": "b65e76b67563ffb17d8bd445c09fdaaa366f6224790214a2c3b5baff96bd9f45",
+      "title": "Foundation: Galactic Frontier codes (March 2026) - Fill up on Water and Metal",
+      "last_fetched": "2026-03-02T10:31:00Z",
+      "status": 200
+    },
+    "https://www.ign.com/games/foundation-galactic-frontier": {
+      "fingerprint": "9b6422fe9d554c75fa1be4a98a6c4089d9c7216ad9b58c0bf882d557bfec3e98",
+      "title": "Foundation: Galactic Frontier - IGN",
+      "last_fetched": "2026-03-02T10:31:00Z",
       "status": 200
     }
   }
