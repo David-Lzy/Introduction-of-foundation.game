@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-02",
+  "updated_on": "2026-03-03",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -82,6 +82,36 @@
       "title": "Foundation: Galactic Frontier - IGN",
       "last_fetched": "2026-03-02T10:31:00Z",
       "status": 200
+    },
+    "https://www.reddit.com/r/FoundationGFrontier/comments/1q7ixir/foundation_galactic_frontier_guide_and_checklist/": {
+      "fingerprint": "0c069893f11c79efe6206cc57f1c20a1562d0df6a59d592856bdc6550b562bcf",
+      "title": "The heart of the internet",
+      "last_fetched": "2026-03-03T10:31:30Z",
+      "status": 200
+    },
+    "https://www.pocketgamer.com/foundation-galactic-frontier/tier-list/": {
+      "fingerprint": "c3c02f63df5b529f5ba4857aaec8a73854e413a556c6e6f8432b4529ec31a3ad",
+      "title": "Foundation: Galactic Frontier tier list - The Champions you want in your crew (February 2026)",
+      "last_fetched": "2026-03-03T10:31:30Z",
+      "status": 200
+    },
+    "https://funplus.com/games/foundation-galactic-frontier/": {
+      "fingerprint": "cbcab402489293c6309fc395441936d492a7e1a41ac3879ec399d2c810407877",
+      "title": "Foundation: Galactic Frontier - FunPlus",
+      "last_fetched": "2026-03-03T10:31:30Z",
+      "status": 200
+    },
+    "https://store.steampowered.com/news/app/4223760": {
+      "fingerprint": "37e81caee62925b8415c1cf1323027fc263d1c698a98e0b1af97c87e2468a180",
+      "title": "Foundation: Galactic Frontier - Steam News Hub",
+      "last_fetched": "2026-03-03T10:31:30Z",
+      "status": 200
+    },
+    "https://www.ldplayer.net/blog/foundation-galactic-frontier-codes.html": {
+      "fingerprint": "200d39d4990a357533b44590b44fec561a3cdf3d64fc3a28bb2b51590f578551",
+      "title": "Access Denied",
+      "last_fetched": "2026-03-03T10:31:30Z",
+      "status": 403
     }
   }
 }
