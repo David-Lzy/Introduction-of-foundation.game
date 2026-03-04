@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-03",
+  "updated_on": "2026-03-04",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -111,6 +111,36 @@
       "fingerprint": "200d39d4990a357533b44590b44fec561a3cdf3d64fc3a28bb2b51590f578551",
       "title": "Access Denied",
       "last_fetched": "2026-03-03T10:31:30Z",
+      "status": 403
+    },
+    "https://x.com/FoundationGF_EN/status/2028817672649994735/photo/1": {
+      "fingerprint": "40a0f0785692961bb438dd2d3ccc95bd4d2a06a9f4ccccb8953619edb689599e",
+      "title": "x.com status error/fallback",
+      "last_fetched": "2026-03-04T10:31:30Z",
+      "status": 200
+    },
+    "https://www.bluestacks.com/blog/redeem-codes/foundation-galactic-frontier-redeem-codes-en.html": {
+      "fingerprint": "672a3e85b6e1a0a87a3b026860445da89bf81b347630ef1951b709b9d0be6988",
+      "title": "All Working Foundation: Galactic Frontier Redeem Codes for March 2026 | BlueStacks",
+      "last_fetched": "2026-03-04T10:31:30Z",
+      "status": 200
+    },
+    "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
+      "fingerprint": "f56b83911986fd0facc76adba2d58afd8daf59f6851cd335a4621cd1af9fb74a",
+      "title": "Foundation Galactic Frontier Codes (MAR 2026) [UPDATED!]",
+      "last_fetched": "2026-03-04T10:31:30Z",
+      "status": 200
+    },
+    "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
+      "fingerprint": "84339838ef39b2cbc9cf6db3cea11591849d13a1a8abab7689e7ed820c4e41f9",
+      "title": "Just a moment...",
+      "last_fetched": "2026-03-04T10:31:30Z",
+      "status": 403
+    },
+    "https://www.supercheats.com/foundation-galactic-frontier-codes": {
+      "fingerprint": "84339838ef39b2cbc9cf6db3cea11591849d13a1a8abab7689e7ed820c4e41f9",
+      "title": "Just a moment...",
+      "last_fetched": "2026-03-04T10:31:30Z",
       "status": 403
     }
   }
