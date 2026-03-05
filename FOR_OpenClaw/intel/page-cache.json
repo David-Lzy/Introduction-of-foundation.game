@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-04",
+  "updated_on": "2026-03-05",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -142,6 +142,34 @@
       "title": "Just a moment...",
       "last_fetched": "2026-03-04T10:31:30Z",
       "status": 403
+    },
+    "https://game.edu.kg/research/enbs/view-L2Jsb2cvZ2FtZS1ndWlkZXMvZm91bmRhdGlvbi9mZ3RmLXN1bW1vbmluZy1ndWlkZS1lbi5odG1s": {
+      "fingerprint": "e9fc8478fe1bbce4258b6d9d44f53de50d2fbe6ae51b2d4e3f8499985088d136",
+      "title": "Foundation Galactic Frontier Summoning Guide – How Recruitment Works and How to Get More Venturous Memory - Game Center",
+      "last_fetched": "2026-03-05T10:31:30Z",
+      "status": 200,
+      "cache_note": "summoning guide; third-party content farm style"
+    },
+    "https://www.youtube.com/watch?v=cXMFarxdyw0": {
+      "fingerprint": "f5fe1d717017a4c66aa149c849c3d034f6df69ccd832a1f9b5de39c6fa7e3aad",
+      "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 161 - YouTube",
+      "last_fetched": "2026-03-05T10:31:30Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://www.youtube.com/watch?v=JmQ1NIZlZu8": {
+      "fingerprint": "ed999fe92b40b3ac753123e8f2c1dfdbe686b2d49fde39332205dffa438960ba",
+      "title": "Kaboom Robot Strategy - defeat 100 robots easy! Foundation Galactic Frontier Gameplay - YouTube",
+      "last_fetched": "2026-03-05T10:31:30Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://www.linegames.org/en/operation-codes/": {
+      "fingerprint": "d4185c68e6f83da76b86acb4d4ed5f81a87b3e1ebf901516db41100f0b981fe9",
+      "title": "All working Operation codes (March 2026) – Daily updated list",
+      "last_fetched": "2026-03-05T10:31:30Z",
+      "status": 200,
+      "cache_note": "not Foundation-specific"
     }
   }
 }
