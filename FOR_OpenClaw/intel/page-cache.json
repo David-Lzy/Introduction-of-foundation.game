@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-05",
+  "updated_on": "2026-03-06",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -170,6 +170,27 @@
       "last_fetched": "2026-03-05T10:31:30Z",
       "status": 200,
       "cache_note": "not Foundation-specific"
+    },
+    "https://funplus.com/foundation-galactic-frontier-valentines-day-event/": {
+      "fingerprint": "29e0b703e3f629b54192d90f8b5d7d4dc6fbc41a6e8c5213f13169ee05266d2d",
+      "title": "Foundation: Galactic Frontier ‘Valentine’s Day’ Event",
+      "last_fetched": "2026-03-06T10:31:30Z",
+      "status": 200,
+      "cache_note": "official press release; event window Feb 9-15, 2026 (expired)"
+    },
+    "https://www.youtube.com/watch?v=dRMIWaL0hdA": {
+      "fingerprint": "bc65d3583b83f75899636222b54ba14f99aa1705699fb6742750096744c704d1",
+      "title": "Foundation Galactic Frontier PVP ACTION! - YouTube",
+      "last_fetched": "2026-03-06T10:31:30Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://apkpure.com/foundation-galactic-frontier/com.games.foundation": {
+      "fingerprint": "92a3a4d63cc7073c912ae6a6d94c9c84344315bb45bf85335b8ec467e6188de2",
+      "title": "Just a moment...",
+      "last_fetched": "2026-03-06T10:31:30Z",
+      "status": 403,
+      "cache_note": "blocked by anti-bot; no usable正文"
     }
   }
 }
