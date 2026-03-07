@@ -73,6 +73,7 @@
   - `TraditionalChinese/兌換碼/`
   - `English/codes/`
 - 不得编造；需要来源可追溯。
+- **策略更新：兑换码候选不再因“不可官方验证”而 reject；统一收录，但必须标注状态与风险。**
 - 记录字段：
   - `code`
   - `status`（active / expired / unverified）
@@ -81,6 +82,7 @@
   - `source_url`
   - `notes`
 - 同一码去重；仅状态变化时更新。
+- 对非官方来源兑换码，`notes` 必须写明“第三方来源，可能失效/错误”。
 
 ## 10) Git 与可回退性
 - 每轮自动化更新需纳入 git 版本控制。

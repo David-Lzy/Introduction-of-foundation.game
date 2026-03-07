@@ -51,8 +51,12 @@ gating:
   min_novelty_score: 3
   hard_fail_conditions:
     - "contains only links without extracted content"
-    - "unverifiable redeem code claimed as active"
     - "conflicts with official source and cannot reconcile"
+
+codes_override:
+  enabled: true
+  policy: "Do not reject code candidates solely due to unverifiable status. Ingest with status=unverified and risk note."
+  required_note_for_unverified: "Third-party source, may be invalid or expired."
 
 high_value_rule:
   description: "Used by change-threshold gate"

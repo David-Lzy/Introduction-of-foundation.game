@@ -28,6 +28,12 @@
 - TraditionalChinese：基礎/發育/戰鬥/活動/兌換碼/避坑/新聞
 - English：basics/progression/combat/events/codes/pitfalls/news
 
+兑换码特例规则：
+- 兑换码候选不因“不可官方验证”而 reject。
+- 无法验证时统一收录为 `status=unverified`。
+- notes 必须包含：`Third-party source, may be invalid or expired.`
+- 同一码去重；状态变化时更新原记录。
+
 输出：
 - FOR_OpenClaw/intel/reports/YYYY-MM-DD.md
   - 必含每个候选的打分卡记录与通过/丢弃原因
