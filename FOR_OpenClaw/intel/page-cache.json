@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-06",
+  "updated_on": "2026-03-07",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -191,6 +191,30 @@
       "last_fetched": "2026-03-06T10:31:30Z",
       "status": 403,
       "cache_note": "blocked by anti-bot; no usable正文"
+    },
+    "https://www.reddit.com/r/FoundationGFrontier/comments/1ptzwfm/redeemable_codes/": {
+      "fingerprint": "ffbaf63d595d6c8af7ebafe3a7a250f500c08b98774839203162570d53ccbb92",
+      "title": "Reddit - The heart of the internet",
+      "last_fetched": "2026-03-07T10:31:41Z",
+      "status": 200
+    },
+    "https://www.memuplay.com/blog/foundation-galactic-frontier-codes.html": {
+      "fingerprint": "b90905de79029cfb52b90dc4fd74fe14f151acb21923f424bee3ce7c1d727876",
+      "title": "Fetch result",
+      "last_fetched": "2026-03-07T10:31:41Z",
+      "status": 200
+    },
+    "https://www.facebook.com/FoundationGalacticFrontier/posts/%EF%B8%8F-cheers-to-a-new-galactic-year-traders-the-galaxy-is-alive-with-energy-start-20/122233461686252135/": {
+      "fingerprint": "64a0354cd2f12d9792eca3f6edf0c9492829d6834d8d3134714ed65ef19f2b28",
+      "title": "❄️ Cheers to a New... - Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-07T10:31:41Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en/news/official-guide-10-tips-you-must-know": {
+      "fingerprint": "50e0be1299df0a2adee0d5698b9a9da8840bfbe4215e926fec5f2c2787670e61",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-07T10:31:41Z",
+      "status": 200
     }
   }
 }
