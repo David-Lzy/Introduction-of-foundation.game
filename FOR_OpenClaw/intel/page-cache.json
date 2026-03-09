@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-07",
+  "updated_on": "2026-03-08",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -214,6 +214,31 @@
       "fingerprint": "50e0be1299df0a2adee0d5698b9a9da8840bfbe4215e926fec5f2c2787670e61",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-07T10:31:41Z",
+      "status": 200
+    },
+    "https://www.allclash.com/all-flagship-formations-in-foundation-galactic-frontier/": {
+      "fingerprint": "cb39d6ffbb8bb82a55ebfcabef86b63327515c13f5c001e9df30db0d2e0198b5",
+      "title": "Just a moment...",
+      "last_fetched": "2026-03-08T10:31:51Z",
+      "status": 403,
+      "cache_note": "fetch error / blocked or unavailable正文"
+    },
+    "https://www.bluestacks.com/blog/game-guides/foundation/fgtf-progression-guide-en.html": {
+      "fingerprint": "9b601c69556bb3c19eea8098e87ea4960a57cb219cb2eba2ad99141d9b983c65",
+      "title": "Foundation: Galactic Frontier Progression Guide – How to Grow Faster and Build a Strong Start | BlueStacks",
+      "last_fetched": "2026-03-08T10:31:51Z",
+      "status": 200
+    },
+    "https://www.bluestacks.com/blog/game-guides/foundation/fgtf-beginners-guide-en.html": {
+      "fingerprint": "c2d26968f55db03ab98df4cc1ee7f7eb55b5798070cb08c63d9e9642027e70ce",
+      "title": "Foundation Galactic Frontier Beginner’s Guide – How to Get Started in the Galaxy | BlueStacks",
+      "last_fetched": "2026-03-08T10:31:51Z",
+      "status": 200
+    },
+    "https://www.bitrue.com/blog/all-about-foundation-galactic-frontier-update": {
+      "fingerprint": "6c5503b1211d1e113a6711c2a23ccffae44a7cdf877a7fe0256d89c641d93005",
+      "title": "All About Foundation Galactic Frontier (Last Update)",
+      "last_fetched": "2026-03-08T10:31:51Z",
       "status": 200
     }
   }
