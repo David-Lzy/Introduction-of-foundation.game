@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-08",
+  "updated_on": "2026-03-13",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -239,6 +239,30 @@
       "fingerprint": "6c5503b1211d1e113a6711c2a23ccffae44a7cdf877a7fe0256d89c641d93005",
       "title": "All About Foundation Galactic Frontier (Last Update)",
       "last_fetched": "2026-03-08T10:31:51Z",
+      "status": 200
+    },
+    "https://game.edu.kg/en/foundation:-galactic-frontier/codes/": {
+      "fingerprint": "677a8b8136415b376e0a8c0bb20c45ad8fbe1cbf04695c2766e54dd1b6ed1a64",
+      "title": "All working Foundation: Galactic Frontier codes (March 2026) – Daily updated list",
+      "last_fetched": "2026-03-13T13:06:10Z",
+      "status": 200
+    },
+    "https://www.foundation.game/zh-TW": {
+      "fingerprint": "29a6a24c0f96a04714d29be6fb8c65c9bc73eb43ba35933d7ef18cd11fba6169",
+      "title": "基地：星界無間",
+      "last_fetched": "2026-03-13T13:06:10Z",
+      "status": 200
+    },
+    "https://www.foundation.game/index.html": {
+      "fingerprint": "25f98002eecbc8b15f5d651741842e988a737fc53fa99dd345ad926122dd22c8",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-13T13:06:10Z",
+      "status": 200
+    },
+    "https://fnd.foundation.game/": {
+      "fingerprint": "bff83d4c54222670ad9b865cc94395f489bfd5116d34ffcea6a57289e4787aee",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-13T13:06:10Z",
       "status": 200
     }
   }
