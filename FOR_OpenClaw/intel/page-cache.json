@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-13",
+  "updated_on": "2026-03-14",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -263,6 +263,54 @@
       "fingerprint": "bff83d4c54222670ad9b865cc94395f489bfd5116d34ffcea6a57289e4787aee",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-13T13:06:10Z",
+      "status": 200
+    },
+    "https://x.com/FoundationGF_EN/status/2031369483328303556": {
+      "fingerprint": "70c94355506b6ffbc5dbcb1a43a44945ca54e9ec46bb997ae3da68a6c34fc2d3",
+      "title": "x.com maintenance status (fetch fallback page)",
+      "last_fetched": "2026-03-14T10:31:30Z",
+      "status": 200
+    },
+    "https://www.foundation.game/ja": {
+      "fingerprint": "9ce7b04ee4f6eb858ec2d99587a2d6757f41564209c4d02c8f739164b4207242",
+      "title": "ファウンデーション：銀河フロンティア",
+      "last_fetched": "2026-03-14T10:31:30Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en/news/official-guide-mastering-fleet-power": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-14T10:31:30Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en/news/official-guide-port-occupation": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-14T10:31:30Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en/news/foundation-galactic-frontier-steam-version-launching-in-q1-2026": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-14T10:51:53Z",
+      "status": 200
+    },
+    "https://x.com/FoundationGF_EN?lang=en": {
+      "fingerprint": "b012f698c33d74ba32500331d955dfe02410ce7545fc3cf56635c7f65a5a0831",
+      "title": "x.com profile error/fallback",
+      "last_fetched": "2026-03-14T10:51:53Z",
+      "status": 200
+    },
+    "https://daikama.com/games/foundation-galactic-frontier/": {
+      "fingerprint": "d2db6e9153e81c9680f7edb8431e126718b04e9aa2f492eacb87b129e681b830",
+      "title": "Foundation: Galactic Frontier - Game Download, news and updates",
+      "last_fetched": "2026-03-14T10:51:53Z",
+      "status": 200
+    },
+    "https://www.youtube.com/watch?v=oO9ba1dRX7c": {
+      "fingerprint": "73d96da7d2c5c492a6b814118ec9cc924ce74cb6000bbf04a7a2c559af095768",
+      "title": "Foundation: Galactic Frontier - Tips, Cheats, Gift Codes, and Strategy Guide! - YouTube",
+      "last_fetched": "2026-03-14T10:51:53Z",
       "status": 200
     }
   }
