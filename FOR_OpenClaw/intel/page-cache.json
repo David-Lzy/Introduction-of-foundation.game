@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-14",
+  "updated_on": "2026-03-15",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -312,6 +312,34 @@
       "title": "Foundation: Galactic Frontier - Tips, Cheats, Gift Codes, and Strategy Guide! - YouTube",
       "last_fetched": "2026-03-14T10:51:53Z",
       "status": 200
+    },
+    "https://www.foundation.game/en/news/foundation-galactic-frontier-announcement": {
+      "fingerprint": "af638b39def1591017b1016a6c70e6d932489553f08168bffd4bf67a649f2a5c",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-15T10:31:30Z",
+      "status": 200,
+      "cache_note": "readability title only; no正文提取"
+    },
+    "https://www.youtube.com/watch?v=v7fHdzh6fj0": {
+      "fingerprint": "cff859efaeb54eda31f7aed9f2611d8bbb37a91810277d9c6077c441e22369f7",
+      "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 162 - YouTube",
+      "last_fetched": "2026-03-15T10:31:30Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://www.youtube.com/watch?v=IjVunTpofvw": {
+      "fingerprint": "cf83cfb14c5d9d3fea39f4cf5cd1e3f3fac6f9fe7ce42030a3498553856258f9",
+      "title": "Cheats, Tips and Tricks! Top 100 and Guild VS Guild - Foundation Galactic Frontier Gameplay - YouTube",
+      "last_fetched": "2026-03-15T10:31:30Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://www.linegames.org/en/fc26-codes/": {
+      "fingerprint": "2968ebf56fd80906af5751a6f45d2555ae9951654c989b41b7ca88d477f80f8c",
+      "title": "All working Fc26 codes (March 2026) – Daily updated list",
+      "last_fetched": "2026-03-15T10:31:30Z",
+      "status": 200,
+      "cache_note": "not Foundation-specific"
     }
   }
 }
