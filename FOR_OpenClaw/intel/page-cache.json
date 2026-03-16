@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-15",
+  "updated_on": "2026-03-16",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -340,6 +340,33 @@
       "last_fetched": "2026-03-15T10:31:30Z",
       "status": 200,
       "cache_note": "not Foundation-specific"
+    },
+    "https://www.foundation.game/en/news/watch-and-play-foundation": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-16T10:31:39Z",
+      "status": 200,
+      "cache_note": "readability title only; no正文提取"
+    },
+    "https://www.foundation.game/en/news/fan-art-contest-design-challenge": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-16T10:31:39Z",
+      "status": 200,
+      "cache_note": "readability title only; no正文提取"
+    },
+    "https://www.foundation.game/en/news/official-guide-home-port": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-16T10:31:39Z",
+      "status": 200,
+      "cache_note": "readability title only; no正文提取"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en_US": {
+      "fingerprint": "b1c9f105f41f85149f1298a08ab73b9d7f38b3dcf68608c4aa428af47e48f020",
+      "title": "Foundation: Galactic Frontier - Apps on Google Play",
+      "last_fetched": "2026-03-16T10:31:39Z",
+      "status": 200
     }
   }
 }
