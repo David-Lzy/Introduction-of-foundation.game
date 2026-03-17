@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-16",
+  "updated_on": "2026-03-17",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -367,6 +367,25 @@
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-03-16T10:31:39Z",
       "status": 200
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation": {
+      "fingerprint": "acf16ff1d3ca637bc94de5660e79828548e59fc7f20da96880c5cca08b07d65c",
+      "title": "Foundation: Galactic Frontier - Apps on Google Play",
+      "last_fetched": "2026-03-17T10:31:08Z",
+      "status": 200
+    },
+    "https://apps.apple.com/app/id6737595599": {
+      "fingerprint": "07f6795bb48c5b715009121d4bb588d34bc66c72ff85aaea74c22825066b836a",
+      "title": "‎Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-03-17T10:31:08Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en/news/official-guide-10-tips-you-must-know?ref=daily": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-17T10:31:09Z",
+      "status": 200,
+      "cache_note": "readability title only; no正文提取"
     }
   }
 }
