@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-17",
+  "updated_on": "2026-03-18",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -384,6 +384,25 @@
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-17T10:31:09Z",
+      "status": 200,
+      "cache_note": "readability title only; no正文提取"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en_AU": {
+      "fingerprint": "7a51e3f35b809798c8d89b6205647d600d7e89eeefc29665fdb7fa9c857838d3",
+      "title": "Foundation: Galactic Frontier – Apps on Google Play",
+      "last_fetched": "2026-03-18T10:30:54Z",
+      "status": 200
+    },
+    "https://apps.apple.com/au/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "8a8f7eb0d8647b0c49d5b902a6a9d75ec8690c4abcbe0e12c38ba28cb8c857c8",
+      "title": "‎Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-03-18T10:30:54Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en/news/official-guide-mastering-fleet-power?utm_source=daily_intel": {
+      "fingerprint": "df2ccceade8466a4e851a70b6ef12d86708176f5b5b32c406464ddbdde37a230",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-03-18T10:30:54Z",
       "status": 200,
       "cache_note": "readability title only; no正文提取"
     }
