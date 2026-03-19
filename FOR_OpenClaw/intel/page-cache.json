@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-18",
+  "updated_on": "2026-03-19",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -405,6 +405,24 @@
       "last_fetched": "2026-03-18T10:30:54Z",
       "status": 200,
       "cache_note": "readability title only; no正文提取"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-GB": {
+      "fingerprint": "fc23153d80e8103cb1e03cc2d2e3df59f23060668721058186d18ebf2a072884",
+      "title": "Foundation: Galactic Frontier – Apps on Google Play",
+      "last_fetched": "2026-03-19T10:31:50Z",
+      "status": 200
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?l=en": {
+      "fingerprint": "f025fee81636c2c41ca011e0608ce4ec25d8d8d0bdfe536b22caed941f9891c1",
+      "title": "‎Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-03-19T10:31:50Z",
+      "status": 200
+    },
+    "https://www.youtube.com/watch?v=-Rw8oCSyu0s": {
+      "fingerprint": "accf3e5a8c79ad2d27998d790821984a5ffedc4fa3fe83785630a22a010aa965",
+      "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 163 - YouTube",
+      "last_fetched": "2026-03-19T10:31:50Z",
+      "status": 200
     }
   }
 }
