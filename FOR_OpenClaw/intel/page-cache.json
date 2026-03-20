@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-19",
+  "updated_on": "2026-03-20",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -423,6 +423,32 @@
       "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 163 - YouTube",
       "last_fetched": "2026-03-19T10:31:50Z",
       "status": 200
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en": {
+      "fingerprint": "b52561977c91f9e45757236ed9f9c890a313680fa4540465dc0c69dcac966355",
+      "title": "Foundation: Galactic Frontier - Apps on Google Play",
+      "last_fetched": "2026-03-20T10:30:00Z",
+      "status": 200
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?see-all=reviews&platform=ipad": {
+      "fingerprint": "ac6392f65dd8aad275673be8541d3352cf1dc50669a3f5216da3fc9d2402cfee",
+      "title": "Foundation: Galactic Frontier - Ratings & Reviews - App Store",
+      "last_fetched": "2026-03-20T10:30:00Z",
+      "status": 200,
+      "cache_note": "user reviews page; subjective community feedback"
+    },
+    "https://apps.apple.com/be/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "ace85c8c7ff88164799dbac7c324a189311f2fd85da3c0bccc5c4095c4c62fe5",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-03-20T10:30:00Z",
+      "status": 200
+    },
+    "https://www.linegames.org/en/2026-codes/": {
+      "fingerprint": "7c24c946a4bba4892a6f76a6c822ac00d8ee102b1102d1a30d8d52e607063cfd",
+      "title": "2026 codes (March 2026) - Working & Daily updated | {site_name}",
+      "last_fetched": "2026-03-20T10:30:00Z",
+      "status": 200,
+      "cache_note": "generic code farm page; not Foundation-specific official source"
     }
   }
 }
