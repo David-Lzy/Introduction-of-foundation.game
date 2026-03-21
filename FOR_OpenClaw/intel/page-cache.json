@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-20",
+  "updated_on": "2026-03-21",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -449,6 +449,24 @@
       "last_fetched": "2026-03-20T10:30:00Z",
       "status": 200,
       "cache_note": "generic code farm page; not Foundation-specific official source"
+    },
+    "https://modyolo.com/foundation-galactic-frontier.html": {
+      "fingerprint": "11353d9b7eadd1daa43f367d1565065489a2a181e3ee262f8e67db9d85d323fa",
+      "title": "Foundation v1.8.16.150512 MOD APK (Menu, Damage & Defense Multiplier)",
+      "last_fetched": "2026-03-21T10:30:00Z",
+      "status": 200
+    },
+    "https://foundation-galactic-frontier.en.softonic.com/android": {
+      "fingerprint": "b9da1f1a2d85e55552e73f653caf2bd1cf0b6bbf3e7be3e948ac90a3404b5460",
+      "title": "Foundation: Galactic Frontier for Android",
+      "last_fetched": "2026-03-21T10:30:00Z",
+      "status": 200
+    },
+    "https://www.youtube.com/watch?v=2R8iF_c7x_c": {
+      "fingerprint": "8477633e1518415c7d7207d167eff135133b1dc33afc24d1f034f069ce315cbd",
+      "title": "Foundation: Galactic Frontier - ads vs gameplay | Badvertising - YouTube",
+      "last_fetched": "2026-03-21T10:30:00Z",
+      "status": 200
     }
   }
 }
