@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-21",
+  "updated_on": "2026-03-22",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -467,6 +467,34 @@
       "title": "Foundation: Galactic Frontier - ads vs gameplay | Badvertising - YouTube",
       "last_fetched": "2026-03-21T10:30:00Z",
       "status": 200
+    },
+    "https://mturbogamer.com/2025/12/foundation-galactic-frontier-tips-tricks-guide/": {
+      "fingerprint": "c3671eb9576a0f5a0f8a7a745f3d4facac06a29641c8e508c3f4e8967701c2d1",
+      "title": "Foundation Galactic Frontier Top 10 Tips and Tricks!",
+      "last_fetched": "2026-03-22T10:31:42.481Z",
+      "status": 200,
+      "cache_note": "third-party generic tips article"
+    },
+    "https://www.youtube.com/watch?v=8GR7CZpNmqc": {
+      "fingerprint": "34a059dbd6e6b6f6b5ed87a0cceae7d978105186905283f65d74abd2aad28ddb",
+      "title": "Most Players Waste Power in the Mid Game | Foundation Galactic Frontier Tips and Advanced Guide! - YouTube",
+      "last_fetched": "2026-03-22T10:31:41.251Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://www.youtube.com/watch?v=NE05MzXGcGE": {
+      "fingerprint": "be92a2f7346d9c5e7f012013700edba0b0daef87d938489cea34f4603f099f50",
+      "title": "Foundation Galactic Frontier Guide: 3 Must-Know Tips for New Players - YouTube",
+      "last_fetched": "2026-03-22T10:31:40.953Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://www.youtube.com/watch?v=yGHMKcPOXWc": {
+      "fingerprint": "46a6da1ebd3c9af5c1fdb00037bd29d266d83e851a3c102ccc8903546785f059",
+      "title": "Foundation Galactic Frontier Tips And Tricks - Best Strategy For Galactic Frontier - YouTube",
+      "last_fetched": "2026-03-22T10:31:41.053Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
     }
   }
 }
