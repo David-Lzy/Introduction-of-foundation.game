@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-22",
+  "updated_on": "2026-03-23",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -495,6 +495,27 @@
       "last_fetched": "2026-03-22T10:31:41.053Z",
       "status": 200,
       "cache_note": "readability only returns title line"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en_GB": {
+      "fingerprint": "ba82285dee2689fd8b42ddc3bd004829553e6ccd0a9637b06530fac1425d25cd",
+      "title": "Foundation: Galactic Frontier – Apps on Google Play",
+      "last_fetched": "2026-03-23T10:32:30Z",
+      "status": 200,
+      "cache_note": "what's new includes Emerald Adventure event, Network Telemetry Officer profession, and Commerce Guild Duel point quests"
+    },
+    "https://www.youtube.com/watch?v=jVYRBXLrj1o": {
+      "fingerprint": "b6211631fc90e01422f7b33c9a2c127594325db178b9c40072ca354680344939",
+      "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 164 - YouTube",
+      "last_fetched": "2026-03-23T10:32:30Z",
+      "status": 200,
+      "cache_note": "readability only returns title line"
+    },
+    "https://bleedingcool.com/games/foundation-galactic-frontier-soft-launches-on-google-play/": {
+      "fingerprint": "84066c7c81c1d6da54b4271767d86f027d461f161f22b68d7f0e46abcc689a9a",
+      "title": "Foundation: Galactic Frontier Soft Launches On Google Play",
+      "last_fetched": "2026-03-23T10:32:30Z",
+      "status": 200,
+      "cache_note": "soft-launch era article (2024-09), historical background not current patch intel"
     }
   }
 }
