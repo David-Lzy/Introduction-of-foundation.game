@@ -1,5 +1,5 @@
-# News Intel (Daily Incremental)
+# News & Updates (Daily Incremental)
 
-This folder stores only new, de-duplicated items from the daily intel pipeline.
+This directory collects daily intelligence gathering results that are "new and passed deduplication."
 
-Recommended filename: `YYYY-MM-DD.md`
+Suggested file naming: `YYYY-MM-DD.md`

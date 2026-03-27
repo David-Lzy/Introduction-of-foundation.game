@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-03-27",
+  "updated_on": "2026-03-24",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -427,7 +427,7 @@
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en": {
       "fingerprint": "b52561977c91f9e45757236ed9f9c890a313680fa4540465dc0c69dcac966355",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
-      "last_fetched": "2026-03-27T10:30:57.362Z",
+      "last_fetched": "2026-03-24T10:31:15.270Z",
       "status": 200,
       "cache_note": "What's new: Blossom Promise + Dominion Warzone + Champion Weapon System"
     },
