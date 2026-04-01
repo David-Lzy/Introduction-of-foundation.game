@@ -33,6 +33,9 @@
 - 无法验证时统一收录为 `status=unverified`。
 - notes 必须包含：`Third-party source, may be invalid or expired.`
 - 同一码去重；状态变化时更新原记录。
+- **新兑换码 Discord 通知**：当发现新兑换码时，必须发送双语通知到 Discord 群组 `https://discord.gg/6eKnWNhhJ`。
+  - 通知格式：中英双语，包含兑换码、有效期、奖励、来源。
+  - 仅在新码首次发现时发送一次通知。
 
 输出：
 - FOR_OpenClaw/intel/reports/YYYY-MM-DD.md
