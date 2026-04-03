@@ -49,4 +49,9 @@
 
 发送：
 - 将日报发到 Discord 频道 1475011423414259937
+- 当发现“新兑换码”（first_seen 新增）时，额外发送一条【双语快讯】到 Discord（你提供的群：`https://discord.gg/6eKnWNhhJ`）
+  - 中文 + English 同一条消息
+  - 必含字段：`code`、`status`、`first_seen`、`source_url`、`notes`
+  - 若 `status=unverified`，必须包含风险提示：`第三方来源，可能失效/错误 / Third-party source, may be invalid or expired.`
+  - 同一码仅首次发现时发送，后续仅状态变化再补发
 - 完成后回复 NO_REPLY
