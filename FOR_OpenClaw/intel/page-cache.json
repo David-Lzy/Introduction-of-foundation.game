@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-04-03",
+  "updated_on": "2026-04-05",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -517,6 +517,36 @@
       "last_fetched": "2026-03-23T10:32:30Z",
       "status": 200,
       "cache_note": "soft-launch era article (2024-09), historical background not current patch intel"
+    },
+    "https://funplus.com/newsroom/": {
+      "fingerprint": "6bacd6ef383e3df1ce7ac934d761aa78f8e14d5d13c30709ce4574b9a37de8a2",
+      "title": "Newsroom - FunPlus",
+      "last_fetched": "2026-04-05T06:11:43Z",
+      "status": 200
+    },
+    "https://funplus.com/info/whats-next-in-2026/": {
+      "fingerprint": "02251142549d197d64824415f86d47add60e28a695a23706b26f875e9cc31fba",
+      "title": "What's next in 2026 (Part II)",
+      "last_fetched": "2026-04-05T06:11:43Z",
+      "status": 200
+    },
+    "https://store.funplus.com/foundation": {
+      "fingerprint": "6a5cb0ec94a2a011a8a571109e8582bb68a3e297317a2dcecd7cf01f57e4657b",
+      "title": "Foundation Top-up Centre",
+      "last_fetched": "2026-04-05T06:11:43Z",
+      "status": 200
+    },
+    "https://foundation-store.funplus.com/foundation/": {
+      "fingerprint": "d6910b7f5d4856cf6792f1ef42de56ff8e508b234a58d78adc020eb85e8a8da6",
+      "title": "Foundation Top-up Centre",
+      "last_fetched": "2026-04-05T06:11:43Z",
+      "status": 200
+    },
+    "https://funplus.com/foundation-galactic-frontier-announces-soft-launch/": {
+      "fingerprint": "61e3f36fe3b078f0aa922c5f5f99f9b88ee66888ef3b06386880336d691b7a71",
+      "title": "Foundation: Galactic Frontier announces soft launch",
+      "last_fetched": "2026-04-05T06:11:43Z",
+      "status": 200
     }
   }
 }
