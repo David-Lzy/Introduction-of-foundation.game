@@ -20,6 +20,8 @@
   - [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
   - [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
 - 打架与战斗
+  - [PVP/README.md](/SimplifiedChinese/PVP/README)
+  - [PVP/1.商会PVP规则与安全须知.md](/SimplifiedChinese/PVP/1.商会PVP规则与安全须知)
   - [战斗/0.VS商会对决策略.md](/SimplifiedChinese/战斗/0.VS商会对决策略)
   - [活动/README.md](/SimplifiedChinese/活动/README)
 - 活动与节奏
@@ -31,4 +33,4 @@
   - [其他技巧.md](/SimplifiedChinese/其他技巧)
 
 ---
-更新日期：2026-02-23
+更新日期：2026-04-27

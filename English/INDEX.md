@@ -20,6 +20,8 @@
   - [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
   - [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
 - Combat and PvP
+  - [pvp/README.md](/English/pvp/README)
+  - [pvp/1.Guild PvP Rules and Safety.md](/English/pvp/1.Guild PvP Rules and Safety)
   - [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
   - [events/README.md](/English/events/README)
 - Events and cadence
@@ -31,4 +33,4 @@
   - [other_tips.md](/English/other_tips)
 
 ---
-Updated on: 2026-02-23
+Updated on: 2026-04-27

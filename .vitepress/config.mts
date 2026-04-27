@@ -36,7 +36,16 @@ const sidebarSC = [
         text: '活动',
         collapsed: true,
         items: [
-          { text: '0.VS商会对决策略.md', link: '/SimplifiedChinese/活动/0.VS商会对决策略' }
+          { text: '0.VS商会对决策略.md', link: '/SimplifiedChinese/战斗/0.VS商会对决策略' }
+        ]
+      },
+      {
+        text: 'PVP',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/SimplifiedChinese/PVP/README' },
+          { text: '1.商会PVP规则与安全须知.md', link: '/SimplifiedChinese/PVP/1.商会PVP规则与安全须知' },
+          { text: '2.PVP速查卡.md', link: '/SimplifiedChinese/PVP/2.PVP速查卡' }
         ]
       },
       {
@@ -114,7 +123,16 @@ const sidebarTC = [
         text: '活動',
         collapsed: true,
         items: [
-          { text: '0.VS商會對決策略.md', link: '/TraditionalChinese/活動/0.VS商會對決策略' }
+          { text: '0.VS商會對決策略.md', link: '/TraditionalChinese/戰鬥/0.VS商會對決策略' }
+        ]
+      },
+      {
+        text: 'PVP',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/TraditionalChinese/PVP/README' },
+          { text: '1.商會PVP規則與安全須知.md', link: '/TraditionalChinese/PVP/1.商會PVP規則與安全須知' },
+          { text: '2.PVP速查卡.md', link: '/TraditionalChinese/PVP/2.PVP速查卡' }
         ]
       },
       {
@@ -192,7 +210,16 @@ const sidebarEN = [
         text: 'events',
         collapsed: true,
         items: [
-          { text: '0.VS Guild Duel Strategy.md', link: '/English/events/0.VS Guild Duel Strategy' }
+          { text: '0.VS Guild Duel Strategy.md', link: '/English/combat/0.VS Guild Duel Strategy' }
+        ]
+      },
+      {
+        text: 'pvp',
+        collapsed: true,
+        items: [
+          { text: 'README.md', link: '/English/pvp/README' },
+          { text: '1.Guild PvP Rules and Safety.md', link: '/English/pvp/1.Guild PvP Rules and Safety' },
+          { text: '2.PvP Quick Reference Card.md', link: '/English/pvp/2.PvP Quick Reference Card' }
         ]
       },
       {
