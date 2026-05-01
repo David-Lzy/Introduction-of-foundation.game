@@ -26,6 +26,10 @@
   - [活動/README.md](/TraditionalChinese/活動/README)
 - 活動與節奏
   - [活動/README.md](/TraditionalChinese/活動/README)
+  - [活動/1.暗域戰場（Shadowfront）組織與打法.md](/TraditionalChinese/活動/1.暗域戰場（Shadowfront）組織與打法)
+  - [活動/2.捍衛商路（Defend the Trade Route）.md](/TraditionalChinese/活動/2.捍衛商路（Defend the Trade Route）)
+  - [活動/3.軍備競演（Arms Race）.md](/TraditionalChinese/活動/3.軍備競演（Arms Race）)
+  - [活動/4.對決戰場（VS第6天）.md](/TraditionalChinese/活動/4.對決戰場（VS第6天）)
   - [兌換碼/README.md](/TraditionalChinese/兌換碼/README)
 - 避坑與消費
   - [避坑/0.日常充值建議與性價比分析.md](/TraditionalChinese/避坑/0.日常充值建議與性價比分析)
@@ -33,4 +37,4 @@
   - [其他技巧.md](/TraditionalChinese/其他技巧)
 
 ---
-更新日期：2026-04-27
+更新日期：2026-05-02

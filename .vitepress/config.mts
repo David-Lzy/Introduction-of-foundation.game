@@ -36,7 +36,14 @@ const sidebarSC = [
         text: '活动',
         collapsed: true,
         items: [
-          { text: '0.VS商会对决策略.md', link: '/SimplifiedChinese/战斗/0.VS商会对决策略' }
+          { text: 'README.md', link: '/SimplifiedChinese/活动/README' },
+          { text: '1.暗域战场（Shadowfront）组织与打法.md', link: '/SimplifiedChinese/活动/1.暗域战场（Shadowfront）组织与打法' },
+          { text: '2.捍卫商路（Defend the Trade Route）.md', link: '/SimplifiedChinese/活动/2.捍卫商路（Defend the Trade Route）' },
+          { text: '3.军备竞演（Arms Race）.md', link: '/SimplifiedChinese/活动/3.军备竞演（Arms Race）' },
+          { text: '4.对决战场（VS第6天）.md', link: '/SimplifiedChinese/活动/4.对决战场（VS第6天）' },
+          { text: '0.VS商会对决策略.md', link: '/SimplifiedChinese/战斗/0.VS商会对决策略' },
+          { text: 'Blossom-Promise.md', link: '/SimplifiedChinese/活动/Blossom-Promise' },
+          { text: 'Dominion-Warzone.md', link: '/SimplifiedChinese/活动/Dominion-Warzone' }
         ]
       },
       {
@@ -123,7 +130,14 @@ const sidebarTC = [
         text: '活動',
         collapsed: true,
         items: [
-          { text: '0.VS商會對決策略.md', link: '/TraditionalChinese/戰鬥/0.VS商會對決策略' }
+          { text: 'README.md', link: '/TraditionalChinese/活動/README' },
+          { text: '1.暗域戰場（Shadowfront）組織與打法.md', link: '/TraditionalChinese/活動/1.暗域戰場（Shadowfront）組織與打法' },
+          { text: '2.捍衛商路（Defend the Trade Route）.md', link: '/TraditionalChinese/活動/2.捍衛商路（Defend the Trade Route）' },
+          { text: '3.軍備競演（Arms Race）.md', link: '/TraditionalChinese/活動/3.軍備競演（Arms Race）' },
+          { text: '4.對決戰場（VS第6天）.md', link: '/TraditionalChinese/活動/4.對決戰場（VS第6天）' },
+          { text: '0.VS商會對決策略.md', link: '/TraditionalChinese/戰鬥/0.VS商會對決策略' },
+          { text: 'Blossom-Promise.md', link: '/TraditionalChinese/活動/Blossom-Promise' },
+          { text: 'Dominion-Warzone.md', link: '/TraditionalChinese/活動/Dominion-Warzone' }
         ]
       },
       {
@@ -210,7 +224,14 @@ const sidebarEN = [
         text: 'events',
         collapsed: true,
         items: [
-          { text: '0.VS Guild Duel Strategy.md', link: '/English/combat/0.VS Guild Duel Strategy' }
+          { text: 'README.md', link: '/English/events/README' },
+          { text: '1.Shadowfront Guild Operations.md', link: '/English/events/1.Shadowfront Guild Operations' },
+          { text: '2.Defend the Trade Route.md', link: '/English/events/2.Defend the Trade Route' },
+          { text: '3.Arms Race.md', link: '/English/events/3.Arms Race' },
+          { text: '4.Duel Battlefield (VS Day 6).md', link: '/English/events/4.Duel Battlefield (VS Day 6)' },
+          { text: '0.VS Guild Duel Strategy.md', link: '/English/combat/0.VS Guild Duel Strategy' },
+          { text: 'Blossom-Promise.md', link: '/English/events/Blossom-Promise' },
+          { text: 'Dominion-Warzone.md', link: '/English/events/Dominion-Warzone' }
         ]
       },
       {

@@ -26,6 +26,10 @@
   - [events/README.md](/English/events/README)
 - Events and cadence
   - [events/README.md](/English/events/README)
+  - [events/1.Shadowfront Guild Operations.md](/English/events/1.Shadowfront%20Guild%20Operations)
+  - [events/2.Defend the Trade Route.md](/English/events/2.Defend%20the%20Trade%20Route)
+  - [events/3.Arms Race.md](/English/events/3.Arms%20Race)
+  - [events/4.Duel Battlefield (VS Day 6).md](/English/events/4.Duel%20Battlefield%20(VS%20Day%206))
   - [codes/README.md](/English/codes/README)
 - Pitfalls and spending
   - [pitfalls/0.Daily Spending Advice and Value Analysis.md](/English/pitfalls/0.Daily Spending Advice and Value Analysis)
@@ -33,4 +37,4 @@
   - [other_tips.md](/English/other_tips)
 
 ---
-Updated on: 2026-04-27
+Updated on: 2026-05-02

@@ -26,6 +26,10 @@
   - [活动/README.md](/SimplifiedChinese/活动/README)
 - 活动与节奏
   - [活动/README.md](/SimplifiedChinese/活动/README)
+  - [活动/1.暗域战场（Shadowfront）组织与打法.md](/SimplifiedChinese/活动/1.暗域战场（Shadowfront）组织与打法)
+  - [活动/2.捍卫商路（Defend the Trade Route）.md](/SimplifiedChinese/活动/2.捍卫商路（Defend the Trade Route）)
+  - [活动/3.军备竞演（Arms Race）.md](/SimplifiedChinese/活动/3.军备竞演（Arms Race）)
+  - [活动/4.对决战场（VS第6天）.md](/SimplifiedChinese/活动/4.对决战场（VS第6天）)
   - [兑换码/README.md](/SimplifiedChinese/兑换码/README)
 - 避坑与消费
   - [避坑/0.日常充值建议与性价比分析.md](/SimplifiedChinese/避坑/0.日常充值建议与性价比分析)
@@ -33,4 +37,4 @@
   - [其他技巧.md](/SimplifiedChinese/其他技巧)
 
 ---
-更新日期：2026-04-27
+更新日期：2026-05-02
