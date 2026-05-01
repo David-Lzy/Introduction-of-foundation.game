@@ -19,6 +19,7 @@
 - 商會與協作
   - [發育/1.商會入門.md](/TraditionalChinese/發育/1.商會入門)
   - [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)
+  - [發育/7.活動排班與負責人分配.md](/TraditionalChinese/發育/7.活動排班與負責人分配)
 - 打架與戰鬥
   - [PVP/README.md](/TraditionalChinese/PVP/README)
   - [PVP/1.商會PVP規則與安全須知.md](/TraditionalChinese/PVP/1.商會PVP規則與安全須知)

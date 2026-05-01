@@ -19,6 +19,7 @@
 - 商会与协作
   - [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
   - [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
+  - [发育/7.活动排班与负责人分配.md](/SimplifiedChinese/发育/7.活动排班与负责人分配)
 - 打架与战斗
   - [PVP/README.md](/SimplifiedChinese/PVP/README)
   - [PVP/1.商会PVP规则与安全须知.md](/SimplifiedChinese/PVP/1.商会PVP规则与安全须知)

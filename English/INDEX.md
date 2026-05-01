@@ -19,6 +19,7 @@
 - Guild and collaboration
   - [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
   - [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
+  - [progression/7.Guild Event Scheduling and Responsibility Allocation.md](/English/progression/7.Guild Event Scheduling and Responsibility Allocation)
 - Combat and PvP
   - [pvp/README.md](/English/pvp/README)
   - [pvp/1.Guild PvP Rules and Safety.md](/English/pvp/1.Guild PvP Rules and Safety)

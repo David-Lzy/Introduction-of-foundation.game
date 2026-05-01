@@ -29,7 +29,8 @@ const sidebarSC = [
           { text: '3.建筑与核心升级策略.md', link: '/SimplifiedChinese/发育/3.建筑与核心升级策略' },
           { text: '4.旗舰培养.md', link: '/SimplifiedChinese/发育/4.旗舰培养' },
           { text: '5.英雄培养.md', link: '/SimplifiedChinese/发育/5.英雄培养' },
-          { text: '6.主线与开荒.md', link: '/SimplifiedChinese/发育/6.主线与开荒' }
+          { text: '6.主线与开荒.md', link: '/SimplifiedChinese/发育/6.主线与开荒' },
+          { text: '7.活动排班与负责人分配.md', link: '/SimplifiedChinese/发育/7.活动排班与负责人分配' }
         ]
       },
       {
@@ -123,7 +124,8 @@ const sidebarTC = [
           { text: '3.建築與核心升級策略.md', link: '/TraditionalChinese/發育/3.建築與核心升級策略' },
           { text: '4.旗艦培養.md', link: '/TraditionalChinese/發育/4.旗艦培養' },
           { text: '5.英雄培養.md', link: '/TraditionalChinese/發育/5.英雄培養' },
-          { text: '6.主線與開荒.md', link: '/TraditionalChinese/發育/6.主線與開荒' }
+          { text: '6.主線與開荒.md', link: '/TraditionalChinese/發育/6.主線與開荒' },
+          { text: '7.活動排班與負責人分配.md', link: '/TraditionalChinese/發育/7.活動排班與負責人分配' }
         ]
       },
       {
@@ -217,7 +219,8 @@ const sidebarEN = [
           { text: '3.Building and Core Upgrade Strategy.md', link: '/English/progression/3.Building and Core Upgrade Strategy' },
           { text: '4.Flagship Development.md', link: '/English/progression/4.Flagship Development' },
           { text: '5.Hero Development.md', link: '/English/progression/5.Hero Development' },
-          { text: '6.Mainline Push and Expansion.md', link: '/English/progression/6.Mainline Push and Expansion' }
+          { text: '6.Mainline Push and Expansion.md', link: '/English/progression/6.Mainline Push and Expansion' },
+          { text: '7.Guild Event Scheduling and Responsibility Allocation.md', link: '/English/progression/7.Guild Event Scheduling and Responsibility Allocation' }
         ]
       },
       {
