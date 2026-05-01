@@ -547,6 +547,34 @@
       "title": "Foundation: Galactic Frontier announces soft launch",
       "last_fetched": "2026-04-05T06:11:43Z",
       "status": 200
+    },
+    "https://x.com/FoundationGF_EN/status/2038601573056241782": {
+      "fingerprint": "40a0f0785692961bb438dd2d3ccc95bd4d2a06a9f4ccccb8953619edb689599e",
+      "title": "x.com status error/fallback",
+      "last_fetched": "2026-05-01T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+    },
+    "https://x.com/FoundationGF_EN/status/2032094653986525679": {
+      "fingerprint": "40a0f0785692961bb438dd2d3ccc95bd4d2a06a9f4ccccb8953619edb689599e",
+      "title": "x.com status error/fallback",
+      "last_fetched": "2026-05-01T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+    },
+    "https://www.foundation.game/en/news/foundation-galactic-frontier-coming-soon-steam": {
+      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-01T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339337": {
+      "fingerprint": "8f65bb6a2c0257e146f4e371588951a1a9c367c15f8838191c48eb81ef064e33",
+      "title": "Foundation: Galactic Frontier Forge Your Galactic Legacy",
+      "last_fetched": "2026-05-01T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
     }
   }
 }
