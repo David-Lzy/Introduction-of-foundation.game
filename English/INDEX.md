@@ -23,6 +23,7 @@
 - Combat and PvP
   - [pvp/README.md](/English/pvp/README)
   - [pvp/1.Guild PvP Rules and Safety.md](/English/pvp/1.Guild PvP Rules and Safety)
+  - [pvp/3.Holo Arena Tips.md](/English/pvp/3.Holo Arena Tips)
   - [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
   - [events/README.md](/English/events/README)
 - Events and cadence

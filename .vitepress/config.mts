@@ -53,7 +53,8 @@ const sidebarSC = [
         items: [
           { text: 'README.md', link: '/SimplifiedChinese/PVP/README' },
           { text: '1.商会PVP规则与安全须知.md', link: '/SimplifiedChinese/PVP/1.商会PVP规则与安全须知' },
-          { text: '2.PVP速查卡.md', link: '/SimplifiedChinese/PVP/2.PVP速查卡' }
+          { text: '2.PVP速查卡.md', link: '/SimplifiedChinese/PVP/2.PVP速查卡' },
+          { text: '3.Holo Arena 小贴士.md', link: '/SimplifiedChinese/PVP/3.Holo Arena 小贴士' }
         ]
       },
       {
@@ -243,7 +244,8 @@ const sidebarEN = [
         items: [
           { text: 'README.md', link: '/English/pvp/README' },
           { text: '1.Guild PvP Rules and Safety.md', link: '/English/pvp/1.Guild PvP Rules and Safety' },
-          { text: '2.PvP Quick Reference Card.md', link: '/English/pvp/2.PvP Quick Reference Card' }
+          { text: '2.PvP Quick Reference Card.md', link: '/English/pvp/2.PvP Quick Reference Card' },
+          { text: '3.Holo Arena Tips.md', link: '/English/pvp/3.Holo Arena Tips' }
         ]
       },
       {
