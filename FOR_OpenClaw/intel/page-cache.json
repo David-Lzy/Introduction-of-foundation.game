@@ -575,6 +575,27 @@
       "last_fetched": "2026-05-01T11:30:00Z",
       "status": 200,
       "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6756863237": {
+      "fingerprint": "8b07cb835702bf033f532398cca6337d42b8a0264cf114475f5a3c7680bd2f66",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-02T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-02 verification fetch; official App Store major update metadata confirms signature armament + weapon entries"
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339469": {
+      "fingerprint": "d216b089fdc5349d65cfe17df899edf7c59b657db627e6b967ebf23b2700f692",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-02T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-02 verification fetch; official App Store major update metadata confirms Gail Dornick arrival only"
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339388": {
+      "fingerprint": "ba71918010066f1aea7df74906a1ee66ca7896e4c99d3db0b0810898a8a49c14",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-02T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-02 verification fetch; official App Store event metadata confirms Easter Celebration theme only"
     }
   }
 }

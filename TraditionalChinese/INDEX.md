@@ -23,6 +23,7 @@
 - 打架與戰鬥
   - [PVP/README.md](/TraditionalChinese/PVP/README)
   - [PVP/1.商會PVP規則與安全須知.md](/TraditionalChinese/PVP/1.商會PVP規則與安全須知)
+  - [PVP/3.Holo Arena 小貼士.md](/TraditionalChinese/PVP/3.Holo Arena 小貼士)
   - [戰鬥/0.VS商會對決策略.md](/TraditionalChinese/戰鬥/0.VS商會對決策略)
   - [活動/README.md](/TraditionalChinese/活動/README)
 - 活動與節奏
