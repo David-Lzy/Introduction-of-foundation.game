@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-04-05",
+  "updated_on": "2026-05-03",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -596,6 +596,27 @@
       "last_fetched": "2026-05-02T11:30:00Z",
       "status": 200,
       "cache_note": "2026-05-02 verification fetch; official App Store event metadata confirms Easter Celebration theme only"
+    },
+    "https://apps.apple.com/gb/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "2c7aca4aae36f334ada4db0a685a0b7c0943bcc1034e04dbd2359f59ed67931e",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-03 verification fetch; official App Store version history confirms versions 1.1.36, 1.1.21, 1.1.11"
+    },
+    "https://apps.apple.com/pl/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "8a8b71f4ac1646a7b754125a4093d58d25372d0cdf1ed158a5bdcebfe53bce44",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-03 verification fetch; duplicate regional App Store verification for version history"
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6756863515": {
+      "fingerprint": "26a66c86d703a1bb43a84b3a997118d29674c935190f94ca0e68fdb124b1ecc3",
+      "title": "Foundation: Galactic Frontier Forge Your Galactic Legacy",
+      "last_fetched": "2026-05-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-03 verification fetch; event URL direct check returned only generic marketing title / no usable event正文"
     }
   }
 }

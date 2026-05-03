@@ -1,5 +1,7 @@
 # News & Updates (Daily Incremental)
 
-This directory collects daily intelligence gathering results that are "new and passed deduplication."
+This directory collects daily intelligence gathering results that are new, deduplicated, and useful enough for player-facing reading.
 
-Suggested file naming: `YYYY-MM-DD.md`
+## Entries
+
+- [2026-05-03 App Store Version Notes](/English/news/2026-05-03)
