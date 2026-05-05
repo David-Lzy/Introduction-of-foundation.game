@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-03",
+  "updated_on": "2026-05-05",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -617,6 +617,30 @@
       "last_fetched": "2026-05-03T11:30:00Z",
       "status": 200,
       "cache_note": "2026-05-03 verification fetch; event URL direct check returned only generic marketing title / no usable event正文"
+    },
+    "https://apps.apple.com/ca/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "0d0360e02c926e91c365369b3bf9d366c88d16e7e37feab84cc16dfe39277964",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-05T11:38:18Z",
+      "status": 200
+    },
+    "https://apps.apple.com/nz/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "0d0360e02c926e91c365369b3bf9d366c88d16e7e37feab84cc16dfe39277964",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-05T11:38:18Z",
+      "status": 200
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-CA": {
+      "fingerprint": "33f1a3d089851830163d34b5307a11ff70f4589894fff372e8fb5b91542a97cc",
+      "title": "Foundation: Galactic Frontier - Apps on Google Play",
+      "last_fetched": "2026-05-05T11:38:18Z",
+      "status": 200
+    },
+    "https://www.foundation.game/en/news/foundation-galactic-frontier-steam-version-coming-soon": {
+      "fingerprint": "cfc6fe73aafcc06f8e335ac22c03398d9326b504a3ce854e2829732f506d0e96",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-05T11:38:18Z",
+      "status": 200
     }
   }
 }
