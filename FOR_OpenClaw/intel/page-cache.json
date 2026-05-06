@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-05",
+  "updated_on": "2026-05-06",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -641,6 +641,34 @@
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-05T11:38:18Z",
       "status": 200
+    },
+    "https://apps.apple.com/ie/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "534dabc0c420a10634b42ae81dad0af43ba5f312320178b4be486baf4e5058d7",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-06 verification fetch; regional App Store page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes"
+    },
+    "https://apps.apple.com/de/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "534dabc0c420a10634b42ae81dad0af43ba5f312320178b4be486baf4e5058d7",
+      "title": "Galactic Frontier-App – App Store",
+      "last_fetched": "2026-05-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-06 verification fetch; German regional App Store page repeats version 1.1.36 notes already ingested on 2026-05-03"
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?platform=ipad": {
+      "fingerprint": "534dabc0c420a10634b42ae81dad0af43ba5f312320178b4be486baf4e5058d7",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-06 verification fetch; iPad parameter variant repeats version 1.1.36 notes already ingested on 2026-05-03"
+    },
+    "https://play.google.com/store/apps/details?hl=en_ZA&id=com.games.foundation": {
+      "fingerprint": "933b32b5583734da3fa241412c520d1753b151ced4d9b298c647f0adea126334",
+      "title": "Foundation: Galactic Frontier - Apps on Google Play",
+      "last_fetched": "2026-05-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-05-06 verification fetch; readability failed and only shell/style HTML was extracted, no usable What's new text"
     }
   }
 }
