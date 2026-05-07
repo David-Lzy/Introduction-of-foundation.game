@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-06",
+  "updated_on": "2026-05-07",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -669,6 +669,30 @@
       "last_fetched": "2026-05-06T11:30:00Z",
       "status": 200,
       "cache_note": "2026-05-06 verification fetch; readability failed and only shell/style HTML was extracted, no usable What's new text"
+    },
+    "https://apps.apple.com/fr/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "7f8bc5c3505508c677422c248e43b1bee5a46b31194c2d0e6d70f29a88e94c61",
+      "title": "App Foundation: Galactic Frontier - App Store (FR)",
+      "last_fetched": "2026-05-07T11:33:53.124Z",
+      "status": 200
+    },
+    "https://apps.apple.com/jp/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "9cf5f57483f0e4a8dfa41115a276caaf6235b9b19f88d1c0f25e0ee51b8c9c21",
+      "title": "ファウンデーション：銀河フロンティアアプリ - App Store",
+      "last_fetched": "2026-05-07T11:33:53.149Z",
+      "status": 200
+    },
+    "https://apps.apple.com/sg/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "8545bf45a7fedfede24da5bf75d182544ac753eac213aa05d00eb726ac99028e",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-07T11:33:53.084Z",
+      "status": 200
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-SG": {
+      "fingerprint": "56e3f1ce56eb76cde4a776ce07617e61f992dd67dc2f343453397da4709e07b8",
+      "title": "Google Play shell HTML (en-SG)",
+      "last_fetched": "2026-05-07T11:33:53.026Z",
+      "status": 200
     }
   }
 }
