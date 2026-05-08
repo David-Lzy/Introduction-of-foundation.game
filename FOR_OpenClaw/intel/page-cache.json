@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-07",
+  "updated_on": "2026-05-08",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -692,6 +692,36 @@
       "fingerprint": "56e3f1ce56eb76cde4a776ce07617e61f992dd67dc2f343453397da4709e07b8",
       "title": "Google Play shell HTML (en-SG)",
       "last_fetched": "2026-05-07T11:33:53.026Z",
+      "status": 200
+    },
+    "https://apps.apple.com/hk/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "1a6bb46d8ae141942d62b6a990cd368afc751e3c7b203a1d750aeb8c257f453e",
+      "title": "《基地：星界無間》App - App Store",
+      "last_fetched": "2026-05-08T11:36:46.914Z",
+      "status": 200
+    },
+    "https://apps.apple.com/my/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "f9d72893aa34a5ba506ea665021bde337404f56336a0cf9118d3c67dbc5ab2d6",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-08T11:35:33.440Z",
+      "status": 200
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-AU": {
+      "fingerprint": "03b804c036641250bd9731f5df0b7c7303a1affb550ba83e28365cf1504f039d",
+      "title": "Google Play raw HTML fallback",
+      "last_fetched": "2026-05-08T11:35:33.312Z",
+      "status": 200
+    },
+    "https://gamepretty.com/foundation-galactic-frontier-codes/": {
+      "fingerprint": "06cace92cfd57ea7492275620003e5d7c6ce88ab88c676885ecef08c6482e1a7",
+      "title": "Foundation: Galactic Frontier Codes for January 2026",
+      "last_fetched": "2026-05-08T11:36:17.805Z",
+      "status": 200
+    },
+    "https://deliventura.com/foundation-galactic-frontier-codes-update/": {
+      "fingerprint": "aab6debb00ad82c226cddcc4467518e8a8f0d26af73b9f6b52eac6ad11e58ceb",
+      "title": "Foundation: Galactic Frontier codes (Update) - 02/2026",
+      "last_fetched": "2026-05-08T11:36:18.075Z",
       "status": 200
     }
   }
