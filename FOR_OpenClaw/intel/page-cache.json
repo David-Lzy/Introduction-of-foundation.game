@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-08",
+  "updated_on": "2026-05-09",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -683,10 +683,11 @@
       "status": 200
     },
     "https://apps.apple.com/sg/app/foundation-galactic-frontier/id6737595599": {
-      "fingerprint": "8545bf45a7fedfede24da5bf75d182544ac753eac213aa05d00eb726ac99028e",
+      "fingerprint": "a7de8823ed3cee801539536c1fd1988aba34ddb7dcf2886ea7cf3383f50aa7cf",
       "title": "Foundation: Galactic Frontier App - App Store",
-      "last_fetched": "2026-05-07T11:33:53.084Z",
-      "status": 200
+      "last_fetched": "2026-05-09T11:32:45.461Z",
+      "status": 200,
+      "cache_note": "2026-05-09 verification fetch; Singapore App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-SG": {
       "fingerprint": "56e3f1ce56eb76cde4a776ce07617e61f992dd67dc2f343453397da4709e07b8",
@@ -723,6 +724,34 @@
       "title": "Foundation: Galactic Frontier codes (Update) - 02/2026",
       "last_fetched": "2026-05-08T11:36:18.075Z",
       "status": 200
+    },
+    "https://apps.apple.com/ph/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "527ebe3323e43ef43b6011572a0ebdda22a45d76ac58166ed54acb0baaeb0032",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-09T11:34:00.988Z",
+      "status": 200,
+      "cache_note": "2026-05-09 verification fetch; Philippines App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03"
+    },
+    "https://apps.apple.com/in/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "6ff6e086216757f8cd6c5c46a30c8efb6b46c19e9ea03345bb7fbdaa469b5dea",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-09T11:34:01.002Z",
+      "status": 200,
+      "cache_note": "2026-05-09 verification fetch; India App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-IN": {
+      "fingerprint": "e4a034231549948aa636ff68ba4db1352e8e80841982ad3c9ebb66175de70107",
+      "title": "Google Play locale shell fetch",
+      "last_fetched": "2026-05-09T11:34:00.973Z",
+      "status": 200,
+      "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
+    },
+    "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
+      "fingerprint": "bfc375de6236734a5f8bebd9ffae37232f84515d1a41f15b0a7406bf1d5d9be4",
+      "title": "Foundation: Galactic Frontier codes in May 2026 - Mobi.gg",
+      "last_fetched": "2026-05-09T11:32:45.430Z",
+      "status": 200,
+      "cache_note": "2026-05-09 first fetch; third-party code list with two previously undocumented strings but no rewards/expiry/official evidence"
     }
   }
 }
