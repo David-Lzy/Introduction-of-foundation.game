@@ -752,6 +752,20 @@
       "last_fetched": "2026-05-09T11:32:45.430Z",
       "status": 200,
       "cache_note": "2026-05-09 first fetch; third-party code list with two previously undocumented strings but no rewards/expiry/official evidence"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=id": {
+      "fingerprint": "d6f990a9d63866e6684d7cd7442914246ae7b91f551815800bd30b9aa7aa96fb",
+      "title": "Foundation: Galactic Frontier - Apps on Google Play",
+      "last_fetched": "2026-05-10T11:35:53Z",
+      "status": 200,
+      "cache_note": "What's new still shows Emerald Adventure, Network Telemetry Officer, and Commerce Guild Duel Champion Weapon point quests (old March 2026 update)"
+    },
+    "https://apps.apple.com/gw/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "0b5943d8fa4408760813a777ee4bc7880db785f5f18882b949141b09d3da9e56",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-10T11:35:53Z",
+      "status": 200,
+      "cache_note": "Version 1.1.36 notes match 2026-05-03 player-facing news entry"
     }
   }
 }
