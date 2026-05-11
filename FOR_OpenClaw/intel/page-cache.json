@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-09",
+  "updated_on": "2026-05-11",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -766,6 +766,69 @@
       "last_fetched": "2026-05-10T11:35:53Z",
       "status": 200,
       "cache_note": "Version 1.1.36 notes match 2026-05-03 player-facing news entry"
+    },
+    "https://apps.apple.com/br/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "25477c03ca814e7a508f157e11be23d7e8ad67c4945651328a8d7df3bd585f68",
+      "title": "Galactic Frontier – App Store",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; Brazil App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+    },
+    "https://apps.apple.com/mx/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "72593cad542e04137d0cca60ef1b596a5491533a3e62148b641b99bf1dba5b91",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; Mexico App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+    },
+    "https://apps.apple.com/kr/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "d29711fe5a966b56b516dc5d88dfa77c216da9518ba6d84d87d5f8cc99458988",
+      "title": "파운데이션: 우주 전선 앱 - App Store",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; Korea App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=ar": {
+      "fingerprint": "2978669ccd4d6e0ebbcfdfa5c151d967ad252ba0a6906363ddf04d6f5563b32d",
+      "title": "Google Play raw HTML fallback",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; Arabic Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=nl": {
+      "fingerprint": "7a2ea1c844455003e895c1321746b1e4a76679e644b629564018ce63874442e6",
+      "title": "Google Play raw HTML fallback",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; Dutch Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=sv": {
+      "fingerprint": "c53cf0f801e52be9b459809e59bdbeb2da26de5ae4fce3586aca8a2cd067ff5b",
+      "title": "Google Play raw HTML fallback",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; Swedish Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+    },
+    "https://www.52gaming.net/foundation-galactic-frontier-codes/": {
+      "fingerprint": "f8d914fa7e625a3b33804015355521d3514108e3b6a6c583bfdc7dcc703bf118",
+      "title": "52gaming.net",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; raw shell/domain-only response, no redeem-code正文 extracted"
+    },
+    "https://www.levelwinner.com/foundation-galactic-frontier-codes-guide-active-codes-and-redeem-guide/": {
+      "fingerprint": "8885c47b0c228d155732ce4a74f3b594766d780f99b64a06e1ce36a497e47cf8",
+      "title": "The #1 Source for iOS and Android Game Guides - Level Winner",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 200,
+      "cache_note": "2026-05-11 verification fetch; target URL redirected to Level Winner homepage, no Foundation-specific正文"
+    },
+    "https://www.jaxon.gg/foundation-galactic-frontier-codes/": {
+      "fingerprint": "7e873339307d28bbde4fc045af450bc8a0e6f791f3f50dfb4824debf3c3c3819",
+      "title": "Page not found » Jaxon.GG",
+      "last_fetched": "2026-05-11T11:33:00Z",
+      "status": 404,
+      "cache_note": "2026-05-11 verification fetch; target URL returned 404 page not found"
     }
   }
 }
