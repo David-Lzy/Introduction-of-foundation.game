@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-11",
+  "updated_on": "2026-05-12",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -829,6 +829,48 @@
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 404,
       "cache_note": "2026-05-11 verification fetch; target URL returned 404 page not found"
+    },
+    "https://apps.apple.com/es/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "83cef1c4447c59f8dce69d82fff70450d8ef5aa0f5cea524afc004fbbadd46ab",
+      "title": "App Foundation: Galactic Frontier - App Store (ES)",
+      "last_fetched": "2026-05-12T11:43:11Z",
+      "status": 200,
+      "cache_note": "2026-05-12 verification fetch; Spain App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+    },
+    "https://apps.apple.com/it/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "83cef1c4447c59f8dce69d82fff70450d8ef5aa0f5cea524afc004fbbadd46ab",
+      "title": "App Foundation: Galactic Frontier - App Store (IT)",
+      "last_fetched": "2026-05-12T11:43:11Z",
+      "status": 200,
+      "cache_note": "2026-05-12 verification fetch; Italy App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+    },
+    "https://apps.apple.com/pt/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "83cef1c4447c59f8dce69d82fff70450d8ef5aa0f5cea524afc004fbbadd46ab",
+      "title": "Foundation: Galactic Frontier - App Store (PT)",
+      "last_fetched": "2026-05-12T11:43:11Z",
+      "status": 200,
+      "cache_note": "2026-05-12 verification fetch; Portugal App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=hi": {
+      "fingerprint": "de6f04c586d13a2efbc90a2d238fed446dc88b8970523201eeda636b96e8914f",
+      "title": "Google Play raw HTML fallback",
+      "last_fetched": "2026-05-12T11:43:11Z",
+      "status": 200,
+      "cache_note": "2026-05-12 verification fetch; Hindi Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=es": {
+      "fingerprint": "de6f04c586d13a2efbc90a2d238fed446dc88b8970523201eeda636b96e8914f",
+      "title": "Google Play raw HTML fallback",
+      "last_fetched": "2026-05-12T11:43:11Z",
+      "status": 200,
+      "cache_note": "2026-05-12 verification fetch; Spanish Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+    },
+    "https://play.google.com/store/apps/details?id=com.games.foundation&hl=fr": {
+      "fingerprint": "de6f04c586d13a2efbc90a2d238fed446dc88b8970523201eeda636b96e8914f",
+      "title": "Google Play raw HTML fallback",
+      "last_fetched": "2026-05-12T11:43:11Z",
+      "status": 200,
+      "cache_note": "2026-05-12 verification fetch; French Google Play locale returned shell/raw HTML only, no usable What's new extracted"
     }
   }
 }
