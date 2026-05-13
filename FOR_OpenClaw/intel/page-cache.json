@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-12",
+  "updated_on": "2026-05-13",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -871,6 +871,55 @@
       "last_fetched": "2026-05-12T11:43:11Z",
       "status": 200,
       "cache_note": "2026-05-12 verification fetch; French Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+    },
+    "https://mobi.gg/en/tips/foundation-galactic-frontier-tier-list/": {
+      "fingerprint": "2490e2a3a500864d3a8defd943c7bf3224fa477b65a60958d6684490b5309a6e",
+      "title": "Foundation: Galactic Frontier tier list (May 2026) - Mobi.gg",
+      "last_fetched": "2026-05-13T11:34:00Z",
+      "status": 200,
+      "cache_note": "2026-05-13 first fetch; third-party tier list with stale 2025 update stamp and generic rankings only"
+    },
+    "https://gamegeekfusion.com/foundation-galactic-frontier-tier-list/": {
+      "fingerprint": "27b45759adceadc28440c2e73a965f32dd7b262e94b6f8d9b49d4f2fd8433b25",
+      "title": "Foundation: Galactic Frontier Tier List (May 2026)",
+      "last_fetched": "2026-05-13T11:34:00Z",
+      "status": 200,
+      "cache_note": "2026-05-13 first fetch; third-party tier list plus reroll advice, but no strong evidence or fresh patch linkage"
+    },
+    "https://apkpure.net/foundation-galactic-frontier/com.games.foundation/download": {
+      "fingerprint": "38d75b57e2e3d321a01282313fd74975d985e0caa7ba8bbf54a1f3240f227f18",
+      "title": "Download Foundation: Galactic Frontier 1.1.36.... APK for Android",
+      "last_fetched": "2026-05-13T11:34:00Z",
+      "status": 200,
+      "cache_note": "2026-05-13 first fetch; APK mirror repeats partial 1.1.36 notes already documented from official App Store sources"
+    },
+    "https://www.bluestacks.com/apps/strategy/foundation-on-pc.html": {
+      "fingerprint": "65f9031bb52bc7ec8e49c049a14088af8164c4491568ea997769fb6c9c4605f3",
+      "title": "Galactic Frontier on PC & Mac (Emulator)",
+      "last_fetched": "2026-05-13T11:34:00Z",
+      "status": 200,
+      "cache_note": "2026-05-13 first fetch; emulator landing page that paraphrases known 1.1.36 update bullets"
+    },
+    "https://apps.apple.com/ro/app/foundation-galactic-frontier/id6737595599?l=ro&platform=mac": {
+      "fingerprint": "0a14e0126e3b2a0f1b3b94400ef22eaacdf681f736f595696ba13af63a1b3a68",
+      "title": "Aplicația Foundation: Galactic Frontier - App Store",
+      "last_fetched": "2026-05-13T11:34:00Z",
+      "status": 200,
+      "cache_note": "2026-05-13 verification fetch; Romania App Store Mac parameter page repeats version 1.1.36 notes already documented on 2026-05-03/12"
+    },
+    "https://apps.apple.com/sb/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "0a14e0126e3b2a0f1b3b94400ef22eaacdf681f736f595696ba13af63a1b3a68",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-13T11:34:00Z",
+      "status": 200,
+      "cache_note": "2026-05-13 verification fetch; Solomon Islands App Store page repeats version 1.1.36 notes already documented on 2026-05-03/12"
+    },
+    "https://x.com/FoundationGF_EN/status/2032094259797750057": {
+      "fingerprint": "0d9bc0248a8cd4103369c43e996f5a81f6b81b78e0c24812755149f0a8d8c6b3",
+      "title": "x.com status error/fallback",
+      "last_fetched": "2026-05-13T11:34:00Z",
+      "status": 200,
+      "cache_note": "2026-05-13 verification fetch; direct fetch returned only Something went wrong fallback, no usable post body"
     }
   }
 }
