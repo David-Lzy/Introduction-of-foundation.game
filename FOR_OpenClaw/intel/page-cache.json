@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-13",
+  "updated_on": "2026-05-14",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -920,6 +920,27 @@
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
       "cache_note": "2026-05-13 verification fetch; direct fetch returned only Something went wrong fallback, no usable post body"
+    },
+    "https://www.foundation.game/en/landing-pc": {
+      "fingerprint": "1c9add0141d8c23a115c3c431e1898f3a947bd8ac9b9f4f546554962ccf0e127",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-14T11:32:00Z",
+      "status": 200,
+      "cache_note": "2026-05-14 first fetch; official Windows landing page confirms Windows launch + Permanent Portrait Frame + accumulated sign-in rewards"
+    },
+    "https://www.foundation.game/en/landing-store": {
+      "fingerprint": "eef9e9239896bcaf7b6e42f2d89016e26467e446e45a377b5cbddf77f85543c6",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-14T11:32:00Z",
+      "status": 200,
+      "cache_note": "2026-05-14 first fetch; official store promo page only exposes Global Launch Celebration / Celebration Exclusive Value Pack / Weekly Perks names"
+    },
+    "https://www.foundation.game/en/thetraderera": {
+      "fingerprint": "99131ccfc58598e712c3ee0d0ffe93cfeeb0f4ac7c1ed980dfeda27a55d70f22",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-05-14T11:32:00Z",
+      "status": 200,
+      "cache_note": "2026-05-14 first fetch; dated 2025-10-21 global launch trailer promo, no current player-facing increment"
     }
   }
 }
