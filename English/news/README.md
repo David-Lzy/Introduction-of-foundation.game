@@ -1,8 +1,9 @@
-# News & Updates (Daily Incremental)
+# News Intel (Daily Deltas)
 
-This directory collects daily intelligence gathering results that are new, deduplicated, and useful enough for player-facing reading.
+This folder contains daily intel items that were newly collected, deduped, and are directly useful to players.
 
 ## Entries
 
-- [2026-05-14 Official Windows Launch & Login Rewards](/English/news/2026-05-14)
-- [2026-05-03 App Store Version Notes](/English/news/2026-05-03)
+- [2026-05-15 Social-Mirror Update: Migration, event testing, and a Mother's Day code](/English/news/2026-05-15)
+- [2026-05-14 Official Windows launch and login rewards](/English/news/2026-05-14)
+- [2026-05-03 App Store patch notes](/English/news/2026-05-03)

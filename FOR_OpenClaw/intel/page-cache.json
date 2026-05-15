@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-14",
+  "updated_on": "2026-05-15",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -941,6 +941,27 @@
       "last_fetched": "2026-05-14T11:32:00Z",
       "status": 200,
       "cache_note": "2026-05-14 first fetch; dated 2025-10-21 global launch trailer promo, no current player-facing increment"
+    },
+    "https://w.twstalker.com/FoundationGF_EN": {
+      "fingerprint": "76201914243227f3d9157d84ab7419f665b889a5eed357fb012cb45b4013f466",
+      "title": "Foundation: Galactic Front @FoundationGF_EN - Twitter Profile | TwStalker",
+      "last_fetched": "2026-05-15T11:36:00Z",
+      "status": 200,
+      "cache_note": "2026-05-15 search-snippet verified social mirror; migration rules + United Frontline test scope + Gungnir + Dominion Warzone point tuning + MOTHERDAY26 code"
+    },
+    "https://apps.apple.com/jm/app/foundation-galactic-frontier/id6737595599": {
+      "fingerprint": "3f60fe622ca1ece90fbb19b97704047d6fd03d5f4ee14bc227df9e8985ead28b",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-15T11:36:00Z",
+      "status": 200,
+      "cache_note": "2026-05-15 verification fetch; Jamaica App Store page repeats version 1.1.36 notes already documented on 2026-05-03"
+    },
+    "https://apps.apple.com/pt/app/foundation-galactic-frontier/id6737595599?l=en-GB": {
+      "fingerprint": "39dea2bdb4129254a44963b97c2470c7ef765c2c9ba38d6ded06b269b7442368",
+      "title": "Foundation: Galactic Frontier App - App Store",
+      "last_fetched": "2026-05-15T11:36:00Z",
+      "status": 200,
+      "cache_note": "2026-05-15 verification fetch; Portugal App Store page repeats version 1.1.36 notes already documented on 2026-05-03"
     }
   }
 }

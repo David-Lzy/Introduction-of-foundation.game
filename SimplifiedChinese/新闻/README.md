@@ -4,5 +4,6 @@
 
 ## 条目
 
+- [2026-05-15 社媒镜像：迁服、活动测试与母亲节兑换码](/SimplifiedChinese/新闻/2026-05-15)
 - [2026-05-14 官方 Windows 版上线与登录奖励](/SimplifiedChinese/新闻/2026-05-14)
 - [2026-05-03 App Store 版本更新要点](/SimplifiedChinese/新闻/2026-05-03)

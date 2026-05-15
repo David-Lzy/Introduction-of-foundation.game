@@ -13,8 +13,8 @@
 ## 当前有效兑换码
 
 ### 限时兑换码
-- **HERPOWER** - 专属奖励（有效期至 2026-04-08）
-  - 来源：第三方聚合站点
+- **MOTHERDAY26** - 奖励未公开（有效期至 2026-06-07 23:59 UTC）
+  - 来源：TwStalker / Telegram 社媒镜像
   - 状态：未验证
   - 注意：Third-party source, may be invalid or expired.
 
@@ -31,6 +31,7 @@
 
 ## 已过期兑换码
 
+- **HERPOWER** - 已于 2026-04-08 过期
 - **LUNARFOUNDATION** - 已于 2026-03-17 过期
 - **TRADERS100K** - 已于 2026-02-25 过期
 - **HAPPYFRIDAY** - 已于 2026-02-28 过期
@@ -38,5 +39,5 @@
 - **COSMIC2026** - 已于 2026-02-01 过期
 
 ---
-*最后更新：2026-03-28*  
-*来源：PocketGamer, UCNGame*
+*最后更新：2026-05-15*  
+*来源：TwStalker, Telegram, PocketGamer*

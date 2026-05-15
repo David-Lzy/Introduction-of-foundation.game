@@ -4,5 +4,6 @@
 
 ## 條目
 
+- [2026-05-15 社媒鏡像：遷服、活動測試與母親節兌換碼](/TraditionalChinese/新聞/2026-05-15)
 - [2026-05-14 官方 Windows 版上線與登入獎勵](/TraditionalChinese/新聞/2026-05-14)
 - [2026-05-03 App Store 版本更新要點](/TraditionalChinese/新聞/2026-05-03)

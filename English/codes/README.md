@@ -13,8 +13,8 @@ This document provides redeem code information for Foundation: Galactic Frontier
 ## Active Codes
 
 ### Limited-Time Codes
-- **HERPOWER** - Exclusive rewards (Valid until April 8, 2026)
-  - Source: Third-party aggregator
+- **MOTHERDAY26** - Reward details not disclosed (Valid until 2026-06-07 23:59 UTC)
+  - Source: TwStalker / Telegram social mirrors
   - Status: unverified
   - Note: Third-party source, may be invalid or expired.
 
@@ -31,6 +31,7 @@ This document provides redeem code information for Foundation: Galactic Frontier
 
 ## Expired Codes
 
+- **HERPOWER** - Expired on 2026-04-08
 - **LUNARFOUNDATION** - Expired on 2026-03-17
 - **TRADERS100K** - Expired on 2026-02-25
 - **HAPPYFRIDAY** - Expired on 2026-02-28
@@ -38,5 +39,5 @@ This document provides redeem code information for Foundation: Galactic Frontier
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-03-28*  
-*Sources: PocketGamer, UCNGame*
+*Last updated: 2026-05-15*  
+*Sources: TwStalker, Telegram, PocketGamer*
