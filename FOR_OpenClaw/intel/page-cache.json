@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-15",
+  "updated_on": "2026-05-16",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -962,6 +962,18 @@
       "last_fetched": "2026-05-15T11:36:00Z",
       "status": 200,
       "cache_note": "2026-05-15 verification fetch; Portugal App Store page repeats version 1.1.36 notes already documented on 2026-05-03"
+    },
+    "https://gamewith.jp/foundation-gf/551336": {
+      "fingerprint": "7dacb80730ba3600b8f55b1de7df3ac41d822d2a3d7044fe634295b213f57496",
+      "title": "GameWith codes list: MOTHERDAY26 rewards + NEWFRONTIER + GALAXYTHANKS",
+      "last_fetched": "2026-05-16T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/555868": {
+      "fingerprint": "5123175636b446cb83cd5889ba743a717ed9d8ef88a9afe45f83fe045ec3f7f9",
+      "title": "GameWith maintenance page: May 12 maintenance timing only",
+      "last_fetched": "2026-05-16T11:30:00Z",
+      "status": 200
     }
   }
 }

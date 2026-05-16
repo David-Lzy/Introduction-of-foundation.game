@@ -13,8 +13,18 @@
 ## 當前有效兌換碼
 
 ### 限時兌換碼
-- **MOTHERDAY26** - 獎勵未公開（有效期至 2026-06-07 23:59 UTC）
-  - 來源：TwStalker / Telegram 社媒鏡像
+- **MOTHERDAY26** - Venturous Memory x3、銀河幣 40,000 x3、Universal Speedup (30m) x3（有效期至 2026-06-07 23:59 UTC）
+  - 來源：GameWith；TwStalker / Telegram 社媒鏡像曾先行披露過期時間
+  - 狀態：未驗證
+  - 注意：Third-party source, may be invalid or expired.
+
+- **NEWFRONTIER** - Venturous Memory x3、銀河幣 4,000 x3、Research Speedup (15m) x3（有效期至 2026-06-26 23:59 UTC）
+  - 來源：GameWith
+  - 狀態：未驗證
+  - 注意：Third-party source, may be invalid or expired.
+
+- **GALAXYTHANKS** - 銀河幣 4,000 x3、Universal Speedup (15m) x3、Hyper Crystal x20（有效期至 2026-06-26 23:59 UTC）
+  - 來源：GameWith
   - 狀態：未驗證
   - 注意：Third-party source, may be invalid or expired.
 
@@ -39,5 +49,5 @@
 - **COSMIC2026** - 已於 2026-02-01 過期
 
 ---
-*最後更新：2026-05-15*  
-*來源：TwStalker, Telegram, PocketGamer*
+*最後更新：2026-05-16*  
+*來源：GameWith, TwStalker, Telegram, PocketGamer*

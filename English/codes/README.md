@@ -13,8 +13,18 @@ This document provides redeem code information for Foundation: Galactic Frontier
 ## Active Codes
 
 ### Limited-Time Codes
-- **MOTHERDAY26** - Reward details not disclosed (Valid until 2026-06-07 23:59 UTC)
-  - Source: TwStalker / Telegram social mirrors
+- **MOTHERDAY26** - Venturous Memory x3, Galactic Coin 40,000 x3, Universal Speedup (30m) x3 (Valid until 2026-06-07 23:59 UTC)
+  - Source: GameWith; TwStalker / Telegram social mirrors previously exposed the expiry
+  - Status: unverified
+  - Note: Third-party source, may be invalid or expired.
+
+- **NEWFRONTIER** - Venturous Memory x3, Galactic Coin 4,000 x3, Research Speedup (15m) x3 (Valid until 2026-06-26 23:59 UTC)
+  - Source: GameWith
+  - Status: unverified
+  - Note: Third-party source, may be invalid or expired.
+
+- **GALAXYTHANKS** - Galactic Coin 4,000 x3, Universal Speedup (15m) x3, Hyper Crystal x20 (Valid until 2026-06-26 23:59 UTC)
+  - Source: GameWith
   - Status: unverified
   - Note: Third-party source, may be invalid or expired.
 
@@ -39,5 +49,5 @@ This document provides redeem code information for Foundation: Galactic Frontier
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-05-15*  
-*Sources: TwStalker, Telegram, PocketGamer*
+*Last updated: 2026-05-16*  
+*Sources: GameWith, TwStalker, Telegram, PocketGamer*
