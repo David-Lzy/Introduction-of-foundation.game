@@ -16,6 +16,7 @@
 - 开荒与主线
   - [发育/6.主线与开荒.md](/SimplifiedChinese/发育/6.主线与开荒)
   - [基础/1.基础资源获取.md](/SimplifiedChinese/基础/1.基础资源获取)
+  - [发育/8.Crew获取、配置与养成.md](/SimplifiedChinese/发育/8.Crew获取、配置与养成)
 - 商会与协作
   - [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
   - [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)

@@ -16,6 +16,7 @@
 - Mainline and early expansion
   - [progression/6.Mainline Push and Expansion.md](/English/progression/6.Mainline Push and Expansion)
   - [basics/1.Basic Resource Acquisition.md](/English/basics/1.Basic Resource Acquisition)
+  - [progression/8.Crew Acquisition, Assignment, and Growth.md](/English/progression/8.Crew Acquisition, Assignment, and Growth)
 - Guild and collaboration
   - [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
   - [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)

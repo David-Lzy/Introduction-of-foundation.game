@@ -16,6 +16,7 @@
 - 開荒與主線
   - [發育/6.主線與開荒.md](/TraditionalChinese/發育/6.主線與開荒)
   - [基礎/1.基礎資源獲取.md](/TraditionalChinese/基礎/1.基礎資源獲取)
+  - [發育/8.Crew獲取、配置與養成.md](/TraditionalChinese/發育/8.Crew獲取、配置與養成)
 - 商會與協作
   - [發育/1.商會入門.md](/TraditionalChinese/發育/1.商會入門)
   - [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)

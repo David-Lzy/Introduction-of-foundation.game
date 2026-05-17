@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-16",
+  "updated_on": "2026-05-17",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -974,6 +974,27 @@
       "title": "GameWith maintenance page: May 12 maintenance timing only",
       "last_fetched": "2026-05-16T11:30:00Z",
       "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/560409": {
+      "fingerprint": "d3ca499df9dc97dc8bcf4fd3c2251b740f1a679746845ff187eb6d614cc40294",
+      "title": "【ファウンデーション】情報データの集め方と使い道【銀河フロンティア】",
+      "last_fetched": "2026-05-17T11:33:26Z",
+      "status": 200,
+      "cache_note": "GameWith guide; Info Data sources and spending route"
+    },
+    "https://gamewith.jp/foundation-gf/555613": {
+      "fingerprint": "586b765848df3d14597d75054b9ec16bcccce279ff7b3ad5db7678d94bbd4cb5",
+      "title": "【ファウンデーション】クルーの入手方法と強化のやり方【銀河フロンティア】",
+      "last_fetched": "2026-05-17T11:33:26Z",
+      "status": 200,
+      "cache_note": "GameWith guide; Crew unlocks, assignment, Echo Hub growth"
+    },
+    "https://gamewith.jp/foundation-gf/560318": {
+      "fingerprint": "c7d4aa0d9b870d8bf21e977cb0d6562e79e20251bca1d5a7db5660cd5495fd7b",
+      "title": "【ファウンデーション】温もりの手紙イベントのやり方と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-17T11:33:26Z",
+      "status": 200,
+      "cache_note": "GameWith event guide; expired by 2026-05-17"
     }
   }
 }
