@@ -8,6 +8,7 @@
 - [捍卫商路（Defend the Trade Route）](/SimplifiedChinese/活动/2.捍卫商路（Defend the Trade Route）)
 - [军备竞演（Arms Race）](/SimplifiedChinese/活动/3.军备竞演（Arms Race）)
 - [对决战场（VS第6天）](/SimplifiedChinese/活动/4.对决战场（VS第6天）)
+- [SvS每日积分细则（Day1-6）](/SimplifiedChinese/活动/5.SvS每日积分细则（Day1-6）)
 - [Blossom Promise](/SimplifiedChinese/活动/Blossom-Promise)
 - [Dominion Warzone](/SimplifiedChinese/活动/Dominion-Warzone)
 
@@ -17,6 +18,7 @@
 - 想看商会护送与冷却管理：先读捍卫商路
 - 想看士气、预约与协作 PVE：先读军备竞演
 - 想看 VS 周六高强度作战：先读对决战场
+- 想看 SvS 每天该囤什么、哪天该释放什么：读 SvS 每日积分细则
 
 ## 注意事项
 

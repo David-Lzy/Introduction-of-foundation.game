@@ -8,6 +8,7 @@ This section collects high-value event notes for guild scheduling, battlefield e
 - [Defend the Trade Route](/English/events/2.Defend%20the%20Trade%20Route)
 - [Arms Race](/English/events/3.Arms%20Race)
 - [Duel Battlefield (VS Day 6)](/English/events/4.Duel%20Battlefield%20(VS%20Day%206))
+- [SvS Daily Scoring Breakdown (Day 1-6)](/English/events/5.SvS%20Daily%20Scoring%20Breakdown%20(Day%201-6))
 - [Blossom Promise](/English/events/Blossom-Promise)
 - [Dominion Warzone](/English/events/Dominion-Warzone)
 
@@ -17,6 +18,7 @@ This section collects high-value event notes for guild scheduling, battlefield e
 - For manual guild escort scheduling and cooldown tracking: start with Defend the Trade Route
 - For Morale-based cooperative PvE: start with Arms Race
 - For high-intensity VS Day 6 combat discipline: start with Duel Battlefield
+- For what to save each day and when to release it: read SvS Daily Scoring Breakdown
 
 ## Notes
 
