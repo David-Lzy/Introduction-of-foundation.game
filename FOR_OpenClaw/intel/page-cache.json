@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-17",
+  "updated_on": "2026-05-18",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -995,6 +995,48 @@
       "last_fetched": "2026-05-17T11:33:26Z",
       "status": 200,
       "cache_note": "GameWith event guide; expired by 2026-05-17"
+    },
+    "https://gamewith.jp/foundation-gf": {
+      "fingerprint": "8363267ad494d198da16fd90057dd644dc02627d38013a5324222bf5286578bc",
+      "title": "ファウンデーション攻略｜ファウンデーション：銀河フロンティア - ゲームウィズ",
+      "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/560217": {
+      "fingerprint": "7913db1f3c7bfff061b5081a4092b13399cee16754129af4d2d13452095d2db6",
+      "title": "【ファウンデーション】宇宙でできること｜惑星と恒星の違い【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/560292": {
+      "fingerprint": "8268fbbb7582af80caa9c29c4f4e11ca239619f49d757f95f1a3dd30cac96c22",
+      "title": "【ファウンデーション】母港の設定方法とメリット【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/560970": {
+      "fingerprint": "4812045dc36311f8499d35c5c7872dbd4bbdcde4b73428e155c9b07a94f29626",
+      "title": "【ファウンデーション】ワープのやり方とメリット【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/559714": {
+      "fingerprint": "f63acf7f88adbe476d3efff7456e2804d209ff3bea6783ba779ce1fb82476466",
+      "title": "【ファウンデーション】スペース・エンカウンターの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/559169": {
+      "fingerprint": "3c11fb9e5329ab97c85d9692e36fc53ee2f4f13e217711178399738ce69c118c",
+      "title": "【ファウンデーション】指揮値の効果と上げ方【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/555661": {
+      "fingerprint": "1bc91be83b43920a3472b816229ee275c669b7fcd9fa263bcebba510e4fedc21",
+      "title": "【ファウンデーション】エコーハブの強化方法【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
     }
   }
 }
