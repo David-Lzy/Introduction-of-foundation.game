@@ -17,7 +17,9 @@
   - [發育/6.主線與開荒.md](/TraditionalChinese/發育/6.主線與開荒)
   - [基礎/1.基礎資源獲取.md](/TraditionalChinese/基礎/1.基礎資源獲取)
   - [發育/8.Crew獲取、配置與養成.md](/TraditionalChinese/發育/8.Crew獲取、配置與養成)
+  - [基礎/6.行商人網絡與交易航路.md](/TraditionalChinese/基礎/6.行商人網絡與交易航路)
 - 商會與協作
+  - [基礎/6.行商人網絡與交易航路.md](/TraditionalChinese/基礎/6.行商人網絡與交易航路)
   - [發育/1.商會入門.md](/TraditionalChinese/發育/1.商會入門)
   - [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)
   - [發育/7.活動排班與負責人分配.md](/TraditionalChinese/發育/7.活動排班與負責人分配)
@@ -36,8 +38,9 @@
   - [兌換碼/README.md](/TraditionalChinese/兌換碼/README)
 - 避坑與消費
   - [避坑/0.日常充值建議與性價比分析.md](/TraditionalChinese/避坑/0.日常充值建議與性價比分析)
+  - [發育/9.商店優先級與兌換策略.md](/TraditionalChinese/發育/9.商店優先級與兌換策略)
 - 碎片技巧
   - [其他技巧.md](/TraditionalChinese/其他技巧)
 
 ---
-更新日期：2026-05-02
+更新日期：2026-05-19

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-18",
+  "updated_on": "2026-05-19",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1036,6 +1036,42 @@
       "fingerprint": "1bc91be83b43920a3472b816229ee275c669b7fcd9fa263bcebba510e4fedc21",
       "title": "【ファウンデーション】エコーハブの強化方法【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549993": {
+      "fingerprint": "27f0c27884d90bb16cd2699ee3a4337420d24617ef4f544dca48dca461c690ba",
+      "title": "【ファウンデーション】ショップのおすすめアイテム【銀河フロンティア】",
+      "last_fetched": "2026-05-19T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/550629": {
+      "fingerprint": "9b60f245ba3c207c8c2b4f1ab0c35a3ab67a75849fc45afb64d403b5a6a03aeb",
+      "title": "【ファウンデーション】戦功の集め方とPvPの注意点【銀河フロンティア】",
+      "last_fetched": "2026-05-19T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/550688": {
+      "fingerprint": "19803617ba6c4de3484cd20ec7f4dd1554a4b769e9c04c521a2e8c934a30762a",
+      "title": "【ファウンデーション】戦力マイルストーンの概要と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-19T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/551967": {
+      "fingerprint": "7ff6587483510578b5a06e4e6e4cb3f6097ca5bb5280689d28c121f506de6cf2",
+      "title": "【ファウンデーション】集結のやり方と参加方法【銀河フロンティア】",
+      "last_fetched": "2026-05-19T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/552189": {
+      "fingerprint": "1a52bd9f5a572cf33176ddb8e6988816adb402e48b35f582fd2ccfec241ee1b7",
+      "title": "【ファウンデーション】行商人ネットワーク(行商人依頼)のやり方と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-19T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/554118": {
+      "fingerprint": "e7160a55273fb54c52508a9b12d7b103d32f14c859c9c8469e4bb394f77d9032",
+      "title": "【ファウンデーション】交易航路のやり方と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-19T11:30:00Z",
       "status": 200
     }
   }

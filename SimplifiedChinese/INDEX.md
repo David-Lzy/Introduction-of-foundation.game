@@ -17,7 +17,9 @@
   - [发育/6.主线与开荒.md](/SimplifiedChinese/发育/6.主线与开荒)
   - [基础/1.基础资源获取.md](/SimplifiedChinese/基础/1.基础资源获取)
   - [发育/8.Crew获取、配置与养成.md](/SimplifiedChinese/发育/8.Crew获取、配置与养成)
+  - [基础/6.行商人网络与交易航路.md](/SimplifiedChinese/基础/6.行商人网络与交易航路)
 - 商会与协作
+  - [基础/6.行商人网络与交易航路.md](/SimplifiedChinese/基础/6.行商人网络与交易航路)
   - [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
   - [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
   - [发育/7.活动排班与负责人分配.md](/SimplifiedChinese/发育/7.活动排班与负责人分配)
@@ -36,8 +38,9 @@
   - [兑换码/README.md](/SimplifiedChinese/兑换码/README)
 - 避坑与消费
   - [避坑/0.日常充值建议与性价比分析.md](/SimplifiedChinese/避坑/0.日常充值建议与性价比分析)
+  - [发育/9.商店优先级与兑换策略.md](/SimplifiedChinese/发育/9.商店优先级与兑换策略)
 - 碎片技巧
   - [其他技巧.md](/SimplifiedChinese/其他技巧)
 
 ---
-更新日期：2026-05-02
+更新日期：2026-05-19

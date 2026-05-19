@@ -17,7 +17,9 @@
   - [progression/6.Mainline Push and Expansion.md](/English/progression/6.Mainline Push and Expansion)
   - [basics/1.Basic Resource Acquisition.md](/English/basics/1.Basic Resource Acquisition)
   - [progression/8.Crew Acquisition, Assignment, and Growth.md](/English/progression/8.Crew Acquisition, Assignment, and Growth)
+  - [basics/6.Merchant Network and Trade Routes.md](/English/basics/6.Merchant%20Network%20and%20Trade%20Routes)
 - Guild and collaboration
+  - [basics/6.Merchant Network and Trade Routes.md](/English/basics/6.Merchant%20Network%20and%20Trade%20Routes)
   - [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
   - [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
   - [progression/7.Guild Event Scheduling and Responsibility Allocation.md](/English/progression/7.Guild Event Scheduling and Responsibility Allocation)
@@ -36,8 +38,9 @@
   - [codes/README.md](/English/codes/README)
 - Pitfalls and spending
   - [pitfalls/0.Daily Spending Advice and Value Analysis.md](/English/pitfalls/0.Daily Spending Advice and Value Analysis)
+  - [progression/9.Store Priorities and Exchange Strategy.md](/English/progression/9.Store%20Priorities%20and%20Exchange%20Strategy)
 - Misc small tips
   - [other_tips.md](/English/other_tips)
 
 ---
-Updated on: 2026-05-02
+Updated on: 2026-05-19
