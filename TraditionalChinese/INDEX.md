@@ -18,8 +18,10 @@
   - [基礎/1.基礎資源獲取.md](/TraditionalChinese/基礎/1.基礎資源獲取)
   - [發育/8.Crew獲取、配置與養成.md](/TraditionalChinese/發育/8.Crew獲取、配置與養成)
   - [基礎/6.行商人網絡與交易航路.md](/TraditionalChinese/基礎/6.行商人網絡與交易航路)
+  - [基礎/7.Trader Era階段任務與解鎖路線.md](/TraditionalChinese/基礎/7.Trader Era階段任務與解鎖路線)
 - 商會與協作
   - [基礎/6.行商人網絡與交易航路.md](/TraditionalChinese/基礎/6.行商人網絡與交易航路)
+  - [基礎/7.Trader Era階段任務與解鎖路線.md](/TraditionalChinese/基礎/7.Trader Era階段任務與解鎖路線)
   - [發育/1.商會入門.md](/TraditionalChinese/發育/1.商會入門)
   - [發育/2.商會管理說明.md](/TraditionalChinese/發育/2.商會管理說明)
   - [發育/7.活動排班與負責人分配.md](/TraditionalChinese/發育/7.活動排班與負責人分配)
@@ -43,4 +45,4 @@
   - [其他技巧.md](/TraditionalChinese/其他技巧)
 
 ---
-更新日期：2026-05-19
+更新日期：2026-05-20

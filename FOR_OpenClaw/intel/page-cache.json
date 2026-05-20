@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-19",
+  "updated_on": "2026-05-20",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1072,6 +1072,42 @@
       "fingerprint": "e7160a55273fb54c52508a9b12d7b103d32f14c859c9c8469e4bb394f77d9032",
       "title": "【ファウンデーション】交易航路のやり方と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-19T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549816": {
+      "fingerprint": "8f167a19b73a1cd9df0926852623e8bcfd5c4a3de04343b95d5b27cc3cf026ad",
+      "title": "【ファウンデーション】戦闘機の作成方法【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-20T11:31:24Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549886": {
+      "fingerprint": "f4a6da70b2e1f2658e970d296cb7a14095cfd2c63c975b700c3e806e83ea7bc4",
+      "title": "【ファウンデーション】取り返しのつかない要素【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-20T11:31:24Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/552995": {
+      "fingerprint": "1c04a1ac82039bb013e4e3d40fbd7a06f939ff8f194e258d230847953f7d0e63",
+      "title": "【ファウンデーション】惑星占領のやり方とメリット【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-20T11:31:24Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/553399": {
+      "fingerprint": "a97aa2bec82ca0650f81bee1f537088d224a33475499409e362665b8d43758c8",
+      "title": "【ファウンデーション】献納船の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-20T11:31:24Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/556660": {
+      "fingerprint": "90f7c7d34e26cbb69bed9860c9a896f9f825ef7b5cb2e3a28c7f6903c7cb013e",
+      "title": "【ファウンデーション】トレーダーエラの確認方法と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-20T11:31:24Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/560969": {
+      "fingerprint": "f82557b3fea4f151fde75374ccb70d818dbd594b0c8f8a62eac57bf4b8c737e7",
+      "title": "【ファウンデーション】ギルド対決の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-20T11:31:24Z",
       "status": 200
     }
   }

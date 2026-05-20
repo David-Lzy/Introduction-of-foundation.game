@@ -18,8 +18,10 @@
   - [基础/1.基础资源获取.md](/SimplifiedChinese/基础/1.基础资源获取)
   - [发育/8.Crew获取、配置与养成.md](/SimplifiedChinese/发育/8.Crew获取、配置与养成)
   - [基础/6.行商人网络与交易航路.md](/SimplifiedChinese/基础/6.行商人网络与交易航路)
+  - [基础/7.Trader Era阶段任务与解锁路线.md](/SimplifiedChinese/基础/7.Trader Era阶段任务与解锁路线)
 - 商会与协作
   - [基础/6.行商人网络与交易航路.md](/SimplifiedChinese/基础/6.行商人网络与交易航路)
+  - [基础/7.Trader Era阶段任务与解锁路线.md](/SimplifiedChinese/基础/7.Trader Era阶段任务与解锁路线)
   - [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
   - [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
   - [发育/7.活动排班与负责人分配.md](/SimplifiedChinese/发育/7.活动排班与负责人分配)
@@ -43,4 +45,4 @@
   - [其他技巧.md](/SimplifiedChinese/其他技巧)
 
 ---
-更新日期：2026-05-19
+更新日期：2026-05-20
