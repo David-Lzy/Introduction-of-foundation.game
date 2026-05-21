@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-20",
+  "updated_on": "2026-05-21",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1108,6 +1108,43 @@
       "fingerprint": "f82557b3fea4f151fde75374ccb70d818dbd594b0c8f8a62eac57bf4b8c737e7",
       "title": "【ファウンデーション】ギルド対決の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-20T11:31:24Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/546985": {
+      "fingerprint": "03a1580f41d7f47a3f081ccd326312c5e17f9c3a910b0445be37d1528b6105fb",
+      "title": "【ファウンデーション】序盤の効率的な進め方【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-21T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/546989": {
+      "fingerprint": "6a7e9ba11ddb2c4c51238248cb9918a8fa1c37f857c6780bee869b190a4bf73d",
+      "title": "【ファウンデーション】旗艦の解放条件・入手方法【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-21T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/548513": {
+      "fingerprint": "fad2e05cfbbcf0ec88b70fecdaa19f2eab15507d5fe1326504850625d5cfce3c",
+      "title": "【ファウンデーション】母艦(マザーシップ)施設の開発優先度まとめ【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-21T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/546983": {
+      "fingerprint": "c4fe9a6a1a53cff90910d595ff18f69180f820b4eb64d6cebc7aa8a44b172e2e",
+      "title": "【ファウンデーション】毎日やるべきことまとめ【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-21T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/559315": {
+      "fingerprint": "5a17f5a1492352b873d2c8aa0a22e44985048b9438a6dd9f21ea2e6a28e6ab47",
+      "title": "【ファウンデーション】ギルドチケットの集め方と使い道【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-21T11:30:00Z",
+      "status": 200,
+      "cache_note": "readability returned only boilerplate; no usable body extracted"
+    },
+    "https://gamewith.jp/foundation-gf/547013": {
+      "fingerprint": "469fa1de9fec54a20543d9e71696c46b08493e140ab2b82caa34e2bb9878263f",
+      "title": "【ファウンデーション】旗艦パーツの入手方法と装備のやり方【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-21T11:30:00Z",
       "status": 200
     }
   }

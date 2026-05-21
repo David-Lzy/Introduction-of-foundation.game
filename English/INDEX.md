@@ -10,7 +10,8 @@
 7. [progression/6.Mainline Push and Expansion.md](/English/progression/6.Mainline Push and Expansion)
 8. [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
 9. [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
-10. [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
+10. [basics/8.Daily and Weekly Routine Checklist.md](/English/basics/8.Daily%20and%20Weekly%20Routine%20Checklist)
+11. [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
 
 ## Quick jump by scenario
 - Mainline and early expansion
@@ -19,9 +20,11 @@
   - [progression/8.Crew Acquisition, Assignment, and Growth.md](/English/progression/8.Crew Acquisition, Assignment, and Growth)
   - [basics/6.Merchant Network and Trade Routes.md](/English/basics/6.Merchant%20Network%20and%20Trade%20Routes)
   - [basics/7.Trader Era Mission Roadmap.md](/English/basics/7.Trader%20Era%20Mission%20Roadmap)
+  - [basics/8.Daily and Weekly Routine Checklist.md](/English/basics/8.Daily%20and%20Weekly%20Routine%20Checklist)
 - Guild and collaboration
   - [basics/6.Merchant Network and Trade Routes.md](/English/basics/6.Merchant%20Network%20and%20Trade%20Routes)
   - [basics/7.Trader Era Mission Roadmap.md](/English/basics/7.Trader%20Era%20Mission%20Roadmap)
+  - [basics/8.Daily and Weekly Routine Checklist.md](/English/basics/8.Daily%20and%20Weekly%20Routine%20Checklist)
   - [progression/1.Guild Introduction.md](/English/progression/1.Guild Introduction)
   - [progression/2.Guild Management Notes.md](/English/progression/2.Guild Management Notes)
   - [progression/7.Guild Event Scheduling and Responsibility Allocation.md](/English/progression/7.Guild Event Scheduling and Responsibility Allocation)
@@ -45,4 +48,4 @@
   - [other_tips.md](/English/other_tips)
 
 ---
-Updated on: 2026-05-20
+Updated on: 2026-05-21

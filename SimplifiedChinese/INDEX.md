@@ -10,7 +10,8 @@
 7. [发育/6.主线与开荒.md](/SimplifiedChinese/发育/6.主线与开荒)
 8. [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
 9. [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
-10. [战斗/0.VS商会对决策略.md](/SimplifiedChinese/战斗/0.VS商会对决策略)
+10. [基础/8.每日与每周例行清单.md](/SimplifiedChinese/基础/8.每日与每周例行清单)
+11. [战斗/0.VS商会对决策略.md](/SimplifiedChinese/战斗/0.VS商会对决策略)
 
 ## 按场景快速跳转
 - 开荒与主线
@@ -19,9 +20,11 @@
   - [发育/8.Crew获取、配置与养成.md](/SimplifiedChinese/发育/8.Crew获取、配置与养成)
   - [基础/6.行商人网络与交易航路.md](/SimplifiedChinese/基础/6.行商人网络与交易航路)
   - [基础/7.Trader Era阶段任务与解锁路线.md](/SimplifiedChinese/基础/7.Trader Era阶段任务与解锁路线)
+  - [基础/8.每日与每周例行清单.md](/SimplifiedChinese/基础/8.每日与每周例行清单)
 - 商会与协作
   - [基础/6.行商人网络与交易航路.md](/SimplifiedChinese/基础/6.行商人网络与交易航路)
   - [基础/7.Trader Era阶段任务与解锁路线.md](/SimplifiedChinese/基础/7.Trader Era阶段任务与解锁路线)
+  - [基础/8.每日与每周例行清单.md](/SimplifiedChinese/基础/8.每日与每周例行清单)
   - [发育/1.商会入门.md](/SimplifiedChinese/发育/1.商会入门)
   - [发育/2.商会管理说明.md](/SimplifiedChinese/发育/2.商会管理说明)
   - [发育/7.活动排班与负责人分配.md](/SimplifiedChinese/发育/7.活动排班与负责人分配)
@@ -45,4 +48,4 @@
   - [其他技巧.md](/SimplifiedChinese/其他技巧)
 
 ---
-更新日期：2026-05-20
+更新日期：2026-05-21
