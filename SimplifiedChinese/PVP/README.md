@@ -6,6 +6,7 @@
 1. [1.商会PVP规则与安全须知.md](/SimplifiedChinese/PVP/1.商会PVP规则与安全须知)
 2. [2.PVP速查卡.md](/SimplifiedChinese/PVP/2.PVP速查卡)
 3. [3.Holo Arena 小贴士.md](/SimplifiedChinese/PVP/3.Holo Arena 小贴士)
+4. [4.Glory Arena.md](/SimplifiedChinese/PVP/4.Glory Arena)
 
 ## 本专题涵盖
 - 什么目标不能打
@@ -14,3 +15,4 @@
 - 商会沟通要求
 - 新人常见 PvP 纪律问题
 - Holo Arena 的选人、站位与重赛思路
+- Glory Arena 的清票、选人和三队成型节奏

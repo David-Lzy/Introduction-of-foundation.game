@@ -32,6 +32,7 @@
   - [pvp/README.md](/English/pvp/README)
   - [pvp/1.Guild PvP Rules and Safety.md](/English/pvp/1.Guild PvP Rules and Safety)
   - [pvp/3.Holo Arena Tips.md](/English/pvp/3.Holo Arena Tips)
+  - [pvp/4.Glory Arena.md](/English/pvp/4.Glory%20Arena)
   - [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
   - [events/README.md](/English/events/README)
 - Events and cadence
@@ -40,6 +41,7 @@
   - [events/2.Defend the Trade Route.md](/English/events/2.Defend%20the%20Trade%20Route)
   - [events/3.Arms Race.md](/English/events/3.Arms%20Race)
   - [events/4.Duel Battlefield (VS Day 6).md](/English/events/4.Duel%20Battlefield%20(VS%20Day%206))
+  - [events/6.Crime Hunt.md](/English/events/6.Crime%20Hunt)
   - [codes/README.md](/English/codes/README)
 - Pitfalls and spending
   - [pitfalls/0.Daily Spending Advice and Value Analysis.md](/English/pitfalls/0.Daily Spending Advice and Value Analysis)
@@ -48,4 +50,4 @@
   - [other_tips.md](/English/other_tips)
 
 ---
-Updated on: 2026-05-21
+Updated on: 2026-05-22

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-21",
+  "updated_on": "2026-05-22",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1146,6 +1146,56 @@
       "title": "【ファウンデーション】旗艦パーツの入手方法と装備のやり方【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-21T11:30:00Z",
       "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/561370": {
+      "fingerprint": "fe21d68e1aab8de594d3df26513b408df59f3ba039b3cb2508bad0c501be1284",
+      "title": "【ファウンデーション】クライムハントの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/555472": {
+      "fingerprint": "8c9bf2d4a494a1b5d037f54b78051446c8ed59bc8ba3ff0027784cdb729f1a95",
+      "title": "【ファウンデーション】栄光アリーナの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/552844": {
+      "fingerprint": "fafa2ed7ef3184954fd7c7671d8a5f72e6ed6f242f0783a405e89475775aea07",
+      "title": "【ファウンデーション】レイディアントの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/553073": {
+      "fingerprint": "01db385d2a7f0098d7d5a60986c9ed1ba1394d9ec79b8a04f7b507aebad4559b",
+      "title": "【ファウンデーション】至高の尖兵の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/552105": {
+      "fingerprint": "eeb3cf75a03a6e8f14bb15b6a5eff80a0574aa7eec382fc27e6db40dfaf48bdb",
+      "title": "【ファウンデーション】アップデート最新情報まとめ【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/560763": {
+      "fingerprint": "5cbb2c42f86eac2b1f98e78904d1c792c4cd86d3e148134134badf96850fc7ff",
+      "title": "【ファウンデーション】クルー一覧【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/559872": {
+      "fingerprint": "1c8a2ba7c6dbb0823ebeb2a4dedb47bb0471a7a9fafb6b6d56f8ff43f685d300",
+      "title": "【ファウンデーション】栄光コインの集め方と使い道【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200,
+      "cache_note": "正文抽取失败 / boilerplate only"
+    },
+    "https://gamewith.jp/foundation-gf/559863": {
+      "fingerprint": "9bb2e93c4ba435a4dba7e7bd158f7c160f600c85ccae6b73f4ed86a4c2a6f3b7",
+      "title": "【ファウンデーション】旗艦一覧【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-22T11:32:00Z",
+      "status": 200,
+      "cache_note": "正文抽取失败 / boilerplate only"
     }
   }
 }

@@ -32,6 +32,7 @@
   - [PVP/README.md](/TraditionalChinese/PVP/README)
   - [PVP/1.商會PVP規則與安全須知.md](/TraditionalChinese/PVP/1.商會PVP規則與安全須知)
   - [PVP/3.Holo Arena 小貼士.md](/TraditionalChinese/PVP/3.Holo Arena 小貼士)
+  - [PVP/4.Glory Arena.md](/TraditionalChinese/PVP/4.Glory Arena)
   - [戰鬥/0.VS商會對決策略.md](/TraditionalChinese/戰鬥/0.VS商會對決策略)
   - [活動/README.md](/TraditionalChinese/活動/README)
 - 活動與節奏
@@ -40,6 +41,7 @@
   - [活動/2.捍衛商路（Defend the Trade Route）.md](/TraditionalChinese/活動/2.捍衛商路（Defend the Trade Route）)
   - [活動/3.軍備競演（Arms Race）.md](/TraditionalChinese/活動/3.軍備競演（Arms Race）)
   - [活動/4.對決戰場（VS第6天）.md](/TraditionalChinese/活動/4.對決戰場（VS第6天）)
+  - [活動/6.Crime Hunt.md](/TraditionalChinese/活動/6.Crime Hunt)
   - [兌換碼/README.md](/TraditionalChinese/兌換碼/README)
 - 避坑與消費
   - [避坑/0.日常充值建議與性價比分析.md](/TraditionalChinese/避坑/0.日常充值建議與性價比分析)
@@ -48,4 +50,4 @@
   - [其他技巧.md](/TraditionalChinese/其他技巧)
 
 ---
-更新日期：2026-05-21
+更新日期：2026-05-22

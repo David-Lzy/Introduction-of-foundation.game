@@ -32,6 +32,7 @@
   - [PVP/README.md](/SimplifiedChinese/PVP/README)
   - [PVP/1.商会PVP规则与安全须知.md](/SimplifiedChinese/PVP/1.商会PVP规则与安全须知)
   - [PVP/3.Holo Arena 小贴士.md](/SimplifiedChinese/PVP/3.Holo Arena 小贴士)
+  - [PVP/4.Glory Arena.md](/SimplifiedChinese/PVP/4.Glory Arena)
   - [战斗/0.VS商会对决策略.md](/SimplifiedChinese/战斗/0.VS商会对决策略)
   - [活动/README.md](/SimplifiedChinese/活动/README)
 - 活动与节奏
@@ -40,6 +41,7 @@
   - [活动/2.捍卫商路（Defend the Trade Route）.md](/SimplifiedChinese/活动/2.捍卫商路（Defend the Trade Route）)
   - [活动/3.军备竞演（Arms Race）.md](/SimplifiedChinese/活动/3.军备竞演（Arms Race）)
   - [活动/4.对决战场（VS第6天）.md](/SimplifiedChinese/活动/4.对决战场（VS第6天）)
+  - [活动/6.Crime Hunt.md](/SimplifiedChinese/活动/6.Crime Hunt)
   - [兑换码/README.md](/SimplifiedChinese/兑换码/README)
 - 避坑与消费
   - [避坑/0.日常充值建议与性价比分析.md](/SimplifiedChinese/避坑/0.日常充值建议与性价比分析)
@@ -48,4 +50,4 @@
   - [其他技巧.md](/SimplifiedChinese/其他技巧)
 
 ---
-更新日期：2026-05-21
+更新日期：2026-05-22
