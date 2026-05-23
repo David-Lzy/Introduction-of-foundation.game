@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-22",
+  "updated_on": "2026-05-23",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1196,6 +1196,30 @@
       "last_fetched": "2026-05-22T11:32:00Z",
       "status": 200,
       "cache_note": "正文抽取失败 / boilerplate only"
+    },
+    "https://gamewith.jp/foundation-gf/549880": {
+      "fingerprint": "897304327353b6096837bf14d2e6876422341f536c95f379e2265feba2914066",
+      "title": "【ファウンデーション】旗艦の昇格方法とメリット【銀河フロンティア】",
+      "last_fetched": "2026-05-23T11:33:29Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/548933": {
+      "fingerprint": "a275f5d49d99f0985aecd5eb915ba030ac440e147a4b62eecd82cf988935eb36",
+      "title": "【ファウンデーション】戦闘機の修理方法【銀河フロンティア】",
+      "last_fetched": "2026-05-23T11:33:29Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/551484": {
+      "fingerprint": "1665637da3273c181c0bdf7d99844ae9757d95d5e107c0dd81de67b4023a3383",
+      "title": "【ファウンデーション】イベント一覧｜最新情報まとめ【銀河フロンティア】",
+      "last_fetched": "2026-05-23T11:33:29Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/557907": {
+      "fingerprint": "0220251a794fa9a4629138ea15c7284dadbcd45b89127f4550fb5ab95092cddb",
+      "title": "【ファウンデーション】実弾型のキャラ一覧【銀河フロンティア】",
+      "last_fetched": "2026-05-23T11:33:29Z",
+      "status": 200
     }
   }
 }
