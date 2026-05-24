@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-23",
+  "updated_on": "2026-05-24",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1219,6 +1219,54 @@
       "fingerprint": "0220251a794fa9a4629138ea15c7284dadbcd45b89127f4550fb5ab95092cddb",
       "title": "【ファウンデーション】実弾型のキャラ一覧【銀河フロンティア】",
       "last_fetched": "2026-05-23T11:33:29Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/558007": {
+      "fingerprint": "2b70d54c2bc5cc5845dc42e6bd5e3d0db530126324105ab859f0a79e1cef2c31",
+      "title": "【ファウンデーション】スキンの変え方と入手方法【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/547641": {
+      "fingerprint": "baad3a8444970f84a99ee128ac9973edc0bf018105818cd8ddfe2756fe9f9f54",
+      "title": "【ファウンデーション】ギルドの入り方とメリット【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/547373": {
+      "fingerprint": "e438b82e3cc5ddec1a5b42f1939ec9b504ce1efc6f521342af2c8fc028737022",
+      "title": "【ファウンデーション】メインクエストの進め方【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/550570": {
+      "fingerprint": "7aa2b62f15c62a56208dd0db71b47229c922501491706bf72f6840cd70ad2cb1",
+      "title": "【ファウンデーション】ロールの種類と役割【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/555571": {
+      "fingerprint": "fd49fa7c16170fa6d82e96f5ef1982f21cc2885eecb0ced0132d2aaa1dfd0cad",
+      "title": "【ファウンデーション】ガチャ(募集)一覧【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549002": {
+      "fingerprint": "c726b8fad72363f614b8c06aa60a55b57cc151a7c72befada6f30854e0d82ca8",
+      "title": "【ファウンデーション】名前(ユーザー名)の変更方法【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/546990": {
+      "fingerprint": "7f8e3b41050b8f9ed450e3f75bd36c6241aeba20208b3e402c7971f7ebe81539",
+      "title": "【ファウンデーション】おすすめ設定と変更方法【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/548992": {
+      "fingerprint": "db1550c0f1c82e04456ab58e89788e245c6ed6b570307d55160b3c9dea8b591b",
+      "title": "【ファウンデーション】電力システムの仕組みと状態まとめ【銀河フロンティア】",
+      "last_fetched": "2026-05-24T11:32:30Z",
       "status": 200
     }
   }
