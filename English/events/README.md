@@ -10,6 +10,7 @@ This section collects high-value event notes for guild scheduling, battlefield e
 - [Duel Battlefield (VS Day 6)](/English/events/4.Duel%20Battlefield%20(VS%20Day%206))
 - [SvS Daily Scoring Breakdown (Day 1-6)](/English/events/5.SvS%20Daily%20Scoring%20Breakdown%20(Day%201-6))
 - [Crime Hunt](/English/events/6.Crime%20Hunt)
+- [Calamity Boss Event](/English/events/7.Calamity%20Boss%20Event)
 - [Blossom Promise](/English/events/Blossom-Promise)
 - [Dominion Warzone](/English/events/Dominion-Warzone)
 
@@ -19,6 +20,7 @@ This section collects high-value event notes for guild scheduling, battlefield e
 - For manual guild escort scheduling and cooldown tracking: start with Defend the Trade Route
 - For Morale-based cooperative PvE: start with Arms Race
 - For `Agent Signal` routing, tracking, and rally discipline: read Crime Hunt
+- For multi-fleet world-boss damage planning: read Calamity Boss Event
 - For high-intensity VS Day 6 combat discipline: start with Duel Battlefield
 - For what to save each day and when to release it: read SvS Daily Scoring Breakdown
 

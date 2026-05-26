@@ -21,6 +21,8 @@
   - [基礎/6.行商人網絡與交易航路.md](/TraditionalChinese/基礎/6.行商人網絡與交易航路)
   - [基礎/7.Trader Era階段任務與解鎖路線.md](/TraditionalChinese/基礎/7.Trader Era階段任務與解鎖路線)
   - [基礎/8.每日與每週例行清單.md](/TraditionalChinese/基礎/8.每日與每週例行清單)
+  - [基礎/9.地圖圖示速查.md](/TraditionalChinese/基礎/9.地圖圖示速查)
+  - [基礎/10.遺跡掠奪者（Ruins Raiders）.md](/TraditionalChinese/基礎/10.遺跡掠奪者（Ruins Raiders）)
 - 商會與協作
   - [基礎/6.行商人網絡與交易航路.md](/TraditionalChinese/基礎/6.行商人網絡與交易航路)
   - [基礎/7.Trader Era階段任務與解鎖路線.md](/TraditionalChinese/基礎/7.Trader Era階段任務與解鎖路線)
@@ -34,6 +36,7 @@
   - [PVP/3.Holo Arena 小貼士.md](/TraditionalChinese/PVP/3.Holo Arena 小貼士)
   - [PVP/4.Glory Arena.md](/TraditionalChinese/PVP/4.Glory Arena)
   - [戰鬥/0.VS商會對決策略.md](/TraditionalChinese/戰鬥/0.VS商會對決策略)
+  - [戰鬥/1.風格剋制與能量共鳴.md](/TraditionalChinese/戰鬥/1.風格剋制與能量共鳴)
   - [活動/README.md](/TraditionalChinese/活動/README)
 - 活動與節奏
   - [活動/README.md](/TraditionalChinese/活動/README)
@@ -42,6 +45,7 @@
   - [活動/3.軍備競演（Arms Race）.md](/TraditionalChinese/活動/3.軍備競演（Arms Race）)
   - [活動/4.對決戰場（VS第6天）.md](/TraditionalChinese/活動/4.對決戰場（VS第6天）)
   - [活動/6.Crime Hunt.md](/TraditionalChinese/活動/6.Crime Hunt)
+  - [活動/7.卡拉米蒂降臨（Calamity）.md](/TraditionalChinese/活動/7.卡拉米蒂降臨（Calamity）)
   - [兌換碼/README.md](/TraditionalChinese/兌換碼/README)
 - 避坑與消費
   - [避坑/0.日常充值建議與性價比分析.md](/TraditionalChinese/避坑/0.日常充值建議與性價比分析)
@@ -50,4 +54,4 @@
   - [其他技巧.md](/TraditionalChinese/其他技巧)
 
 ---
-更新日期：2026-05-22
+更新日期：2026-05-26

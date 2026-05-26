@@ -21,6 +21,8 @@
   - [basics/6.Merchant Network and Trade Routes.md](/English/basics/6.Merchant%20Network%20and%20Trade%20Routes)
   - [basics/7.Trader Era Mission Roadmap.md](/English/basics/7.Trader%20Era%20Mission%20Roadmap)
   - [basics/8.Daily and Weekly Routine Checklist.md](/English/basics/8.Daily%20and%20Weekly%20Routine%20Checklist)
+  - [basics/9.Map Icon Quick Reference.md](/English/basics/9.Map%20Icon%20Quick%20Reference)
+  - [basics/10.Ruins Raiders.md](/English/basics/10.Ruins%20Raiders)
 - Guild and collaboration
   - [basics/6.Merchant Network and Trade Routes.md](/English/basics/6.Merchant%20Network%20and%20Trade%20Routes)
   - [basics/7.Trader Era Mission Roadmap.md](/English/basics/7.Trader%20Era%20Mission%20Roadmap)
@@ -34,6 +36,7 @@
   - [pvp/3.Holo Arena Tips.md](/English/pvp/3.Holo Arena Tips)
   - [pvp/4.Glory Arena.md](/English/pvp/4.Glory%20Arena)
   - [combat/0.VS Guild Duel Strategy.md](/English/combat/0.VS Guild Duel Strategy)
+  - [combat/1.Style Counters and Energy Resonance.md](/English/combat/1.Style%20Counters%20and%20Energy%20Resonance)
   - [events/README.md](/English/events/README)
 - Events and cadence
   - [events/README.md](/English/events/README)
@@ -42,6 +45,7 @@
   - [events/3.Arms Race.md](/English/events/3.Arms%20Race)
   - [events/4.Duel Battlefield (VS Day 6).md](/English/events/4.Duel%20Battlefield%20(VS%20Day%206))
   - [events/6.Crime Hunt.md](/English/events/6.Crime%20Hunt)
+  - [events/7.Calamity Boss Event.md](/English/events/7.Calamity%20Boss%20Event)
   - [codes/README.md](/English/codes/README)
 - Pitfalls and spending
   - [pitfalls/0.Daily Spending Advice and Value Analysis.md](/English/pitfalls/0.Daily Spending Advice and Value Analysis)
@@ -50,4 +54,4 @@
   - [other_tips.md](/English/other_tips)
 
 ---
-Updated on: 2026-05-22
+Updated on: 2026-05-26

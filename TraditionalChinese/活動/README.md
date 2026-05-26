@@ -10,6 +10,7 @@
 - [對決戰場（VS第6天）](/TraditionalChinese/活動/4.對決戰場（VS第6天）)
 - [SvS每日積分細則（Day1-6）](/TraditionalChinese/活動/5.SvS每日積分細則（Day1-6）)
 - [Crime Hunt](/TraditionalChinese/活動/6.Crime Hunt)
+- [卡拉米蒂降臨（Calamity）](/TraditionalChinese/活動/7.卡拉米蒂降臨（Calamity）)
 - [Blossom Promise](/TraditionalChinese/活動/Blossom-Promise)
 - [Dominion Warzone](/TraditionalChinese/活動/Dominion-Warzone)
 
@@ -19,6 +20,7 @@
 - 想看商會護送與冷卻管理：先讀捍衛商路
 - 想看士氣、預約與協作 PVE：先讀軍備競演
 - 想看 `Agent Signal`、追蹤與集結節奏：讀 Crime Hunt
+- 想看多人世界 Boss 的累計傷害節奏：讀卡拉米蒂降臨
 - 想看 VS 週六高強度作戰：先讀對決戰場
 - 想看 SvS 每天該囤什麼、哪天該釋放什麼：讀 SvS 每日積分細則
 

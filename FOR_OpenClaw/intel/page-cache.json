@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-24",
+  "updated_on": "2026-05-26",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1268,6 +1268,90 @@
       "title": "【ファウンデーション】電力システムの仕組みと状態まとめ【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
       "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/561655": {
+      "fingerprint": "2d93b0450da7df713faf153a7771623bc26b9be5d8260e04d6c6254a74ae6b6a",
+      "title": "【ファウンデーション】ロボット大爆発の攻略と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-25T11:31:40Z",
+      "status": 200,
+      "cache_note": "Robot Explosion: 5-minute/100 robots, attacker team, energy pickups, merit/training/resource rewards"
+    },
+    "https://gamewith.jp/foundation-gf/556691": {
+      "fingerprint": "4bbcc8b082d892144fffd7adbda745df0282bef6aff677892d6bd0cc5b34128c",
+      "title": "【ファウンデーション】救済方舟の攻略と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-25T11:31:40Z",
+      "status": 200,
+      "cache_note": "Rescue Ark: Crime Hunt target, Agent Signal odds, rally rewards and daily reward caps"
+    },
+    "https://gamewith.jp/foundation-gf/556129": {
+      "fingerprint": "0e5333230be94d799e0ff284ff09f2f0790f73866fd794a60615a7b4bf83b3bf",
+      "title": "【ファウンデーション】至高祈祷艦の攻略と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-25T11:31:40Z",
+      "status": 200,
+      "cache_note": "Supreme Prayer Ship: Atonement Harbor, request support, 3 daily rewards, Black Card +1"
+    },
+    "https://gamewith.jp/foundation-gf/553271": {
+      "fingerprint": "91775ecaf7e6192d57447f80b92676a157c0a6a7043bc111eb5904526177af17",
+      "title": "【ファウンデーション】カラミティ降臨の攻略と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-25T11:31:40Z",
+      "status": 200,
+      "cache_note": "Calamity boss: wormhole locate, all fleets attack, repair uptime, damage thresholds, 3/5 kill rewards, 5 daily normal loot cap"
+    },
+    "https://gamewith.jp/foundation-gf/550092": {
+      "fingerprint": "5db11e283687b2841882b66d70ed73136f597600f4cbef57c6b1a11dff92589a",
+      "title": "【ファウンデーション】おすすめ課金アイテム【銀河フロンティア】",
+      "last_fetched": "2026-05-25T11:31:40Z",
+      "status": 200,
+      "cache_note": "Spending guide: first purchase, monthly/weekly pass, beginner premium, hero pass, credits, counterattack fund, black card"
+    },
+    "https://gamewith.jp/foundation-gf/546987": {
+      "fingerprint": "0e42f6293bb99d86f37e9dc4e3c5eaf149b204615ae725716341aa0806e882eb",
+      "title": "【ファウンデーション】キャラ(ヒーロー)の入手方法・解放のやり方【銀河フロンティア】",
+      "last_fetched": "2026-05-25T11:31:40Z",
+      "status": 200,
+      "cache_note": "Hero acquisition: Chapter 4 recruitment, Voyage Memory sources, limited recruitment separation, shard unlock rules, non-gacha hero sources"
+    },
+    "https://gamewith.jp/foundation-gf/551471": {
+      "fingerprint": "cb9d4f90b0073c40638f44316574363f991e016d75fa92ee74128ed1f0432834",
+      "title": "【ファウンデーション】事前登録の報酬と受け取り方【銀河フロンティア】",
+      "last_fetched": "2026-05-25T11:31:40Z",
+      "status": 200,
+      "cache_note": "Pre-registration rewards page extraction returned only editorial/copyright boilerplate; no usable body"
+    },
+    "https://gamewith.jp/foundation-gf/547685": {
+      "fingerprint": "3cc7d201cddf97abbe827c79d19d4e7d7b832959d5d7b1ee508b86cb10223ac1",
+      "title": "【ファウンデーション】戦闘の基本とテクニック【銀河フロンティア】",
+      "last_fetched": "2026-05-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Combat basics: space vs ground battle, left-to-right skill order, non-boss target priority, red-circle dodge"
+    },
+    "https://gamewith.jp/foundation-gf/548230": {
+      "fingerprint": "d27f496865087cae060d1cefe56faaee25267f28f4a87e191bb0b2b89b6ca924",
+      "title": "【ファウンデーション】型(スタイル)の解説と相性【銀河フロンティア】",
+      "last_fetched": "2026-05-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Style counters: space battle only, Kinetic/Ion/Beam triangle, 2/3-hero energy resonance bonuses"
+    },
+    "https://gamewith.jp/foundation-gf/546994": {
+      "fingerprint": "3fc96c806161ebd5a90424e75088ebd0e60338fbdec059bcfc2189c6801ab812",
+      "title": "【ファウンデーション】アカウント連携と引き継ぎのやり方【銀河フロンティア】",
+      "last_fetched": "2026-05-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Account linking: settings path, supported providers, account switch flow, multi-bind recommendation"
+    },
+    "https://gamewith.jp/foundation-gf/546986": {
+      "fingerprint": "cebfc2254e7cd71dc3681032a4fb8752bd73e49a7931ee32a2daa866f494f2cf",
+      "title": "【ファウンデーション】マップアイコンの見方まとめ【銀河フロンティア】",
+      "last_fetched": "2026-05-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Map icons: direct pickup vs travel nodes, planet/internal icon meanings, clear non-boss nodes first"
+    },
+    "https://gamewith.jp/foundation-gf/555335": {
+      "fingerprint": "09c1744fd67ab32985f344f8b77fb6717fc4e308e7efd4b0528230fe5bd37213",
+      "title": "【ファウンデーション】遺跡レイダーズのやり方と報酬【銀河フロンティア】",
+      "last_fetched": "2026-05-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Ruins Raiders: Energy Core Lv.13 unlock, parallel excavation, 4 raids/day, 50% integrity floor, 25% resource raid"
     }
   }
 }
