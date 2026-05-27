@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-26",
+  "updated_on": "2026-05-27",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1352,6 +1352,54 @@
       "last_fetched": "2026-05-26T11:30:00Z",
       "status": 200,
       "cache_note": "Ruins Raiders: Energy Core Lv.13 unlock, parallel excavation, 4 raids/day, 50% integrity floor, 25% resource raid"
+    },
+    "https://gamewith.jp/foundation-gf/547633": {
+      "fingerprint": "2c9cb5d0cded7a9cb25dba0878a334c98a1f82c88b5349d9043f30cec8e6207b",
+      "title": "【ファウンデーション】資源(リソース)の集め方と使い道【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549325": {
+      "fingerprint": "6001812fab77e4d3b5ea803d68462fbaae9fcf41f3673d8c54f2c21831d8d39c",
+      "title": "【ファウンデーション】行動力(AP)の増やし方と使い道【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/548998": {
+      "fingerprint": "ed68b1ca58078c1f8926b8c437096dd0a202d6bd4a53fbaa3b555c3ee6103df1",
+      "title": "【ファウンデーション】修理モジュールの集め方と使い道【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/548769": {
+      "fingerprint": "715958108c6e5e51b07fde1138e94fd833610f30231eba2010a04d23e354aba2",
+      "title": "【ファウンデーション】食料の集め方と使い道【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/548981": {
+      "fingerprint": "311c60dd8641647ac58e36cc8a5aa78c1e7a922ebf40bce3df8c5eb657e5123c",
+      "title": "【ファウンデーション】ギャラクシーコインの効率の良い集め方【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/548799": {
+      "fingerprint": "e66fa38fe2d71cf7838ca1ef2b9faac7830db45b9770fea951d5c1943859a35a",
+      "title": "【ファウンデーション】金属の集め方と使い道【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/546995": {
+      "fingerprint": "3b2515162deb6a4f3607b061a22bf4067e990b8683d2df5d371f499f819f446e",
+      "title": "【ファウンデーション】戦闘力の上げ方｜強化方法まとめ【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/547012": {
+      "fingerprint": "c6bfffa930f7e8ca9b1b9d96fff110c59021a4d3d1ff49b882ed942b357c336d",
+      "title": "【ファウンデーション】旗艦のレベルの上げ方【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-05-27T11:32:30Z",
+      "status": 200
     }
   }
 }
