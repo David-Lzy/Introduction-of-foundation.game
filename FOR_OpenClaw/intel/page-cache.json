@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-05-30",
+  "updated_on": "2026-06-04",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1414,6 +1414,12 @@
       "last_fetched": "2026-05-30T11:35:17Z",
       "status": 200,
       "cache_note": "formation guide; marketing-heavy whale-targeted content"
+    },
+    "https://gamewith.jp/foundation-gf/556407": {
+      "fingerprint": "04c9a6e7df3a28588436ed56775cdbe63a9b8d46c7fd947487983877adf8442c",
+      "title": "【ファウンデーション】おすすめの最強編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-04T11:30:00Z",
+      "status": 200
     }
   }
 }
