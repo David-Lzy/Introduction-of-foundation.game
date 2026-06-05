@@ -1420,6 +1420,48 @@
       "title": "【ファウンデーション】おすすめの最強編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-04T11:30:00Z",
       "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/562333": {
+      "fingerprint": "97395fe8c6605021eb03fcec7c83625bd936105f7cdb9b903d83c1e3a5d2ba39",
+      "title": "【ファウンデーション】名声PTの上げ方【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameWith guide; reputation points check path, Trader Era tab switch, and daily chest bonus link"
+    },
+    "https://gamewith.jp/foundation-gf/549206": {
+      "fingerprint": "1af710463abea5504c396d7389c940e591018633b37b82a97442b5c1a8c74d9b",
+      "title": "【ファウンデーション】ゾラ・ドミニの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameWith guide; Zora Domini team comps, upgrade order, and awakening breakpoints"
+    },
+    "https://gamewith.jp/foundation-gf/551356": {
+      "fingerprint": "d1733431c42dc0eb9829fec3f21e99e89afe375cd55ed1d3429c8b75b089dd16",
+      "title": "【ファウンデーション】武器の選び方と入手方法【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameWith guide; weapon acquisition and synthesis details, but largely overlaps existing docs"
+    },
+    "https://gamewith.jp/foundation-gf/560335": {
+      "fingerprint": "0c1a122bd6a41489886ec6e2585571bc3e6770bf4cf4e820e885732d9c29766d",
+      "title": "【ファウンデーション】シャドウフロントの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameWith guide; Shadowfront rewards and vault rules, but overlaps existing event docs"
+    },
+    "https://gamewith.jp/foundation-gf/550594": {
+      "fingerprint": "1f85ce39d535443c17270689987bcd7f99b8610b1e44fcd6ea1821cdc2903096",
+      "title": "【ファウンデーション】艦隊評価の上げ方と確認方法【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameWith guide; fleet rating explanation, but mostly overlaps current flagship and PvP docs"
+    },
+    "https://gamewith.jp/foundation-gf/546988": {
+      "fingerprint": "895a2c235d69aab4d752ffb0add7e4375701418e746254e42ab2b46218e7d91a",
+      "title": "【ファウンデーション】勝てないときにやるべきこと【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameWith guide; fail-state checklist, but overlaps current basics/PvE docs"
     }
   }
 }
