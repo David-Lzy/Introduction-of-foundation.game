@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-06-04",
+  "updated_on": "2026-06-07",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1462,6 +1462,60 @@
       "last_fetched": "2026-06-05T11:30:00Z",
       "status": 200,
       "cache_note": "GameWith guide; fail-state checklist, but overlaps current basics/PvE docs"
+    },
+    "https://gamewith.jp/foundation-gf/547010": {
+      "fingerprint": "6a60eaba0ca8510631785ade239e372ac66ab528bf8cac6b5d2d25142d9a9919",
+      "title": "【ファウンデーション】旗艦(フラッグシップ)の強化方法まとめ【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/560720": {
+      "fingerprint": "44f4e7de4c3ee4e01c20dc9f67841c5610f3ee11be23fd88919507cf4c10ba6f",
+      "title": "【ファウンデーション】貨物室の効果と解放条件【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549210": {
+      "fingerprint": "04b0e7aa280ebd297a89169eeffab9ff464d95cca0d1286781993f6ecdd18357",
+      "title": "【ファウンデーション】キラービーの評価とスキル【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549204": {
+      "fingerprint": "bb1c60567b1dc7bbece7bfe610df8528d7ca7c8bb786f9e6214baa04f364ce21",
+      "title": "【ファウンデーション】エヴァ・フォン・トリアーの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549208": {
+      "fingerprint": "573a0f30b50d7ec72ba36b40e97174c191c0bcc7a347fd03a6971a00620530ed",
+      "title": "【ファウンデーション】リリーの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549209": {
+      "fingerprint": "3ff39d670784b080976bbb9a88ac1b179057ad856a3c0b246b509ac4135638c4",
+      "title": "【ファウンデーション】エヴァン・ロジャースの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549203": {
+      "fingerprint": "d9bd17b7f740e507f23baa96c57cfa1d5bef964a757506638a5298c3f2535850",
+      "title": "【ファウンデーション】コクーンの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549490": {
+      "fingerprint": "93c57a5a9b12679be108f4e578fc0df4c6f58f3de6345f7b43dc9e8c637cbbb6",
+      "title": "【ファウンデーション】リセマラは不要！しなくていい理由を解説【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/552893": {
+      "fingerprint": "e5d0fd4aec8a778a7a078c9619c2f6bf5ccfd61645f001e6b1405c4b14a55ab0",
+      "title": "【ファウンデーション】反攻作戦の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
     }
   }
 }
