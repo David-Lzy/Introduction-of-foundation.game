@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-06-07",
+  "updated_on": "2026-06-10",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1515,6 +1515,30 @@
       "fingerprint": "e5d0fd4aec8a778a7a078c9619c2f6bf5ccfd61645f001e6b1405c4b14a55ab0",
       "title": "【ファウンデーション】反攻作戦の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549345": {
+      "fingerprint": "d8d0b30f5cf66030db23df31aee832c7c43949623c448f930460aef5dfb04eef",
+      "title": "【ファウンデーション】最強キャラランキング・Tier表【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-10T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549207": {
+      "fingerprint": "e282ff81e36c4d4fab01a54f5a434e2733e9b8057feed68f1a1a953b001a510c",
+      "title": "【ファウンデーション】天音樹里の評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-10T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/549205": {
+      "fingerprint": "e317fc5d6097a3cd413f00fd1ce5435de7f1499b0c7eab4261d9e4d0eba6c38a",
+      "title": "【ファウンデーション】アリーヤの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-10T11:30:00Z",
+      "status": 200
+    },
+    "https://gamewith.jp/foundation-gf/546998": {
+      "fingerprint": "0eeea0761d84e01840fb39c3d4dd5c96fe0b0c5a9966f04b85f623563a9292fa",
+      "title": "【ファウンデーション】星ランクの上げ方とメリット【銀河フロンティア】 - ゲームウィズ",
+      "last_fetched": "2026-06-10T11:30:00Z",
       "status": 200
     }
   }
