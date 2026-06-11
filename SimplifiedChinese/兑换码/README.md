@@ -13,11 +13,6 @@
 ## 当前有效兑换码
 
 ### 限时兑换码
-- **MOTHERDAY26** - Venturous Memory x3、银河币 40,000 x3、Universal Speedup (30m) x3（有效期至 2026-06-07 23:59 UTC）
-  - 来源：GameWith；TwStalker / Telegram 社媒镜像曾先行披露过期时间
-  - 状态：未验证
-  - 注意：Third-party source, may be invalid or expired.
-
 - **NEWFRONTIER** - Venturous Memory x3、银河币 4,000 x3、Research Speedup (15m) x3（有效期至 2026-06-26 23:59 UTC）
   - 来源：GameWith
   - 状态：未验证
@@ -27,6 +22,19 @@
   - 来源：GameWith
   - 状态：未验证
   - 注意：Third-party source, may be invalid or expired.
+
+### 未注明到期时间的兑换码
+- **FLEET777** - Spindle K93 x3、Maia x3、造船加速（30 分钟）x3
+  - 来源：GameWith
+  - 状态：未验证
+  - 注意：Third-party source, may be invalid or expired.
+  - 未列出到期时间
+
+- **HERO777** - Kama Moai x1、Venturous Memory x10
+  - 来源：GameWith
+  - 状态：未验证
+  - 注意：Third-party source, may be invalid or expired.
+  - 未列出到期时间
 
 ### 永久兑换码
 - **FOUNDATION** - 30分钟通用加速 x3, 10,000水 x3, 10,000金属 x3
@@ -41,6 +49,7 @@
 
 ## 已过期兑换码
 
+- **MOTHERDAY26** - 已于 2026-06-07 过期
 - **HERPOWER** - 已于 2026-04-08 过期
 - **LUNARFOUNDATION** - 已于 2026-03-17 过期
 - **TRADERS100K** - 已于 2026-02-25 过期
@@ -49,5 +58,5 @@
 - **COSMIC2026** - 已于 2026-02-01 过期
 
 ---
-*最后更新：2026-05-16*  
+*最后更新：2026-06-11*  
 *来源：GameWith, TwStalker, Telegram, PocketGamer*
