@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-06-10",
+  "updated_on": "2026-07-03",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1540,6 +1540,62 @@
       "title": "【ファウンデーション】星ランクの上げ方とメリット【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-10T11:30:00Z",
       "status": 200
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339421": {
+      "fingerprint": "85fb4f8b39e040c378c79addc64ef4995355854942be8a1da9f5c062c14c5ac7",
+      "title": "Foundation: Galactic Frontier - App Store (Special Event)",
+      "last_fetched": "2026-06-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "search snippet only; Star of the Guild event card"
+    },
+    "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6769331900": {
+      "fingerprint": "26f18f760d55d3077aef208390846ae5ef499028fdc9c512ee74a28e480feefb",
+      "title": "Foundation: Galactic Frontier - App Store (Major Update)",
+      "last_fetched": "2026-06-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "search snippet only; Appearance Store update card"
+    },
+    "https://x.com/FoundationGF_EN/status/2058171090871144547": {
+      "fingerprint": "5d0191ea60fd96c33f3721a1b9fa65b6afc8ca7a91bf6099ba036ed24ebdebd2",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-06-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "search snippet only; feedback board update post"
+    },
+    "https://x.com/FoundationGF_EN/status/2067230793341001979": {
+      "fingerprint": "3a23046c938f6e09abe42913a1e555b80384749caba9a7adf7c1e4522c5315e9",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-06-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "search snippet only; creative answers reward post"
+    },
+    "https://x.com/FoundationGF_EN/status/2068317952609563023": {
+      "fingerprint": "7fb636cb23562b85f7aa2d2ea2dd3e8e7eaefffc5eeeebb4876866a4739e01c2",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-06-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "search snippet only; community engagement prompt"
+    },
+    "https://x.com/FoundationGF_EN/status/2071564341468610610": {
+      "fingerprint": "26af4709b429d0622d3dc2ce2331828608a5f5c9d6587b2263f7a41c06a4bef9",
+      "title": "Official X maintenance notice: Guild Duel League test, Event Calendar, Appearance Shop, Favorites",
+      "last_fetched": "2026-07-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-07-03 official X note-tweet fetched; Guild Duel League 1-month test + 6-month season + League Rank + Rank Progress Points + Event Calendar + Appearance Shop + Favorites"
+    },
+    "https://x.com/FoundationGF_EN/status/2072666607160119316": {
+      "fingerprint": "3deeee13057b1fe790d54d32aca859b1eaa87fc65298135e677ad12d7af561ed",
+      "title": "Official X roadmap checkpoint: Server Transfer, Season 2 priorities, GALAXYWITHYOU code",
+      "last_fetched": "2026-07-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-07-03 official X note-tweet fetched; roadmap checkpoint issue 2 + Server Transfer rollout + United Frontline refinement + Season 2 priority + GALAXYWITHYOU code"
+    },
+    "https://www.facebook.com/FoundationGalacticFrontier/posts/-galaxy-progress-checkpoint-issue-2-is-here-the-quarterly-developer-roadmap-is-s/122256742694252135/": {
+      "fingerprint": "c73298eca2ad20f584ba9a85cfc897b271124aea13cb3f6cbc4fe5a9cd4329cd",
+      "title": "Official Facebook roadmap checkpoint: Galaxy Progress Checkpoint Issue 2",
+      "last_fetched": "2026-07-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "2026-07-03 Facebook og metadata fetched as title/description corroboration for roadmap checkpoint issue 2"
     }
   }
 }

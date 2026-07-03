@@ -13,6 +13,11 @@
 ## 当前有效兑换码
 
 ### 限时兑换码
+- **GALAXYWITHYOU** - 官方帖子未公开奖励内容（有效期至 2026-07-31 23:59 UTC）
+  - 来源：官方 X / Facebook 路线图更新
+  - 状态：官方来源
+  - 奖励明细未公开
+
 - **NEWFRONTIER** - Venturous Memory x3、银河币 4,000 x3、Research Speedup (15m) x3（有效期至 2026-06-26 23:59 UTC）
   - 来源：GameWith
   - 状态：未验证
@@ -58,5 +63,5 @@
 - **COSMIC2026** - 已于 2026-02-01 过期
 
 ---
-*最后更新：2026-06-11*  
-*来源：GameWith, TwStalker, Telegram, PocketGamer*
+*最后更新：2026-07-03*  
+*来源：官方 X、官方 Facebook、GameWith、TwStalker、Telegram、PocketGamer*
