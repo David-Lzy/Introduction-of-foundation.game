@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-07-04 官方社媒更新：Star of the Guild 与 7 月 7 日至 13 日的 Interstellar Migration 批次](/SimplifiedChinese/新闻/2026-07-04)
 - [2026-07-03 官方社媒更新：Guild Duel League 测试、路线图检查点与 GALAXYWITHYOU](/SimplifiedChinese/新闻/2026-07-03)
 - [2026-05-15 社媒镜像：迁服、活动测试与母亲节兑换码](/SimplifiedChinese/新闻/2026-05-15)
 - [2026-05-14 官方 Windows 版上线与登录奖励](/SimplifiedChinese/新闻/2026-05-14)

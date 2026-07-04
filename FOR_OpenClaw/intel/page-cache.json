@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-03",
+  "updated_on": "2026-07-04",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1596,6 +1596,20 @@
       "last_fetched": "2026-07-03T11:30:00Z",
       "status": 200,
       "cache_note": "2026-07-03 Facebook og metadata fetched as title/description corroboration for roadmap checkpoint issue 2"
+    },
+    "https://x.com/FoundationGF_EN/status/2068680336595193982": {
+      "fingerprint": "00de039586dad75388f119d0e899dec0397bc599549c50d18def2ccb5487d7a4",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-04T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X full text extracted; Star of the Guild qualification and reward structure"
+    },
+    "https://x.com/FoundationGF_EN/status/2071926727228502469": {
+      "fingerprint": "908a6aab23ab7f8a1a121b31217d52386fcd00748de19ed1bc699bad9d45cff7",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-04T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X full text extracted; Interstellar Migration July 7-13 schedule for Servers 1089-1120"
     }
   }
 }

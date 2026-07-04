@@ -216,3 +216,39 @@ terms:
     en: Legendary Training Manual
     banned:
       - 传说训练书
+
+  - key: interstellar_migration
+    zh_hans: Interstellar Migration
+    zh_hant: Interstellar Migration
+    en: Interstellar Migration
+    banned: []
+
+  - key: migration_permits
+    zh_hans: Migration Permits
+    zh_hant: Migration Permits
+    en: Migration Permits
+    banned: []
+
+  - key: united_frontline
+    zh_hans: United Frontline
+    zh_hant: United Frontline
+    en: United Frontline
+    banned: []
+
+  - key: gungnir
+    zh_hans: Gungnir
+    zh_hant: Gungnir
+    en: Gungnir
+    banned: []
+
+  - key: star_of_the_guild
+    zh_hans: Star of the Guild
+    zh_hant: Star of the Guild
+    en: Star of the Guild
+    banned: []
+
+  - key: honorable_trader
+    zh_hans: Honorable Trader
+    zh_hant: Honorable Trader
+    en: Honorable Trader
+    banned: []
