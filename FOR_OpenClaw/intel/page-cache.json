@@ -1610,6 +1610,34 @@
       "last_fetched": "2026-07-04T11:30:00Z",
       "status": 200,
       "cache_note": "official X full text extracted; Interstellar Migration July 7-13 schedule for Servers 1089-1120"
+    },
+    "https://x.com/FoundationGF_EN/status/2073415282929106991": {
+      "fingerprint": "e72928f700a9d39ea6ebe741c670948557d3d199e0ce74623492e2ee61c5027c",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X search snippet only; Guild Duel League explainer with July 6 test start, servers open >6 weeks, rank points, league tiers, exclusive rewards"
+    },
+    "https://x.com/FoundationGF_EN/status/2073028993692119507": {
+      "fingerprint": "28fcbff7665cb96fca965f3631254e1d6ad53e4aefebcf84c8ac618f1696d4de",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X search snippet only; Event Calendars for July 6-12, in-game calendar live, server schedule lookup, external calendar feedback prompt"
+    },
+    "https://x.com/FoundationGF_EN/status/2071941832309682207": {
+      "fingerprint": "52c244ce6456b7323e1ddacb261ca8c812b3d2d2a2c65f55296839713782b884",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X search snippet only; Appearance Shop explainer with Trader Center unlock, monthly skin rotation, Appearance Tokens exchange"
+    },
+    "https://x.com/FoundationGF_EN/status/2071579441428574506": {
+      "fingerprint": "3cfb1d905c6bfe172d3c1c75e28a1d9194f55457532fd10336b087e10aab24cd",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X search snippet only; Gram anniversary skin contest with community voting and participant gift-pack rewards"
     }
   }
 }
