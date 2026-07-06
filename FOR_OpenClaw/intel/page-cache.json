@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-04",
+  "updated_on": "2026-07-06",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1638,6 +1638,13 @@
       "last_fetched": "2026-07-05T11:30:00Z",
       "status": 200,
       "cache_note": "official X search snippet only; Gram anniversary skin contest with community voting and participant gift-pack rewards"
+    },
+    "https://www.facebook.com/FoundationGalacticFrontier/posts/-foundation-dev-roadmap-mid-2026-julyseptember-traders-the-galaxy-doesnt-stand-s/122257169654252135/": {
+      "fingerprint": "7a87e892b7638000a15ff06f04df24635254afd6a999247759f82e15eb5dc918",
+      "title": "Foundation Dev Roadmap: Mid 2026 (July-September) - Foundation: Galactic Frontier",
+      "last_fetched": "2026-07-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "official Facebook post; Season 2 currently targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders with shared Guild spaces, easier high-value excavations, and cross-server matchmaking; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights"
     }
   }
 }
