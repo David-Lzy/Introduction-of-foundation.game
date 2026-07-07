@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-06",
+  "updated_on": "2026-07-07",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1645,6 +1645,13 @@
       "last_fetched": "2026-07-06T11:30:00Z",
       "status": 200,
       "cache_note": "official Facebook post; Season 2 currently targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders with shared Guild spaces, easier high-value excavations, and cross-server matchmaking; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights"
+    },
+    "https://x.com/FoundationGF_EN/status/2074116153706955047": {
+      "fingerprint": "13ef6c23e2bd9dc16e250de7b11c9dcdaf786b175ac8e93650b94107e05f8ed7",
+      "title": "Maintenance Notice – July 7th, 2026",
+      "last_fetched": "2026-07-07T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X hot update; Galaxy Cup Carnival and Golden Ball Coins event signal; Hugo Crast unlocks on servers open at least 27 weeks; Shadowfront now allows voting for up to 2 battle slots and adds a Battle Arrangement reminder; Ascendancy Shrines respawn every 20 seconds; rally/garrison combat-craft repair allowed when Flagship is out of combat and not under War Frenzy; Operation Blackout Event Calendar bug fixed"
     }
   }
 }

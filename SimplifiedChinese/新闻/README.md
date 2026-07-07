@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-07-07 官方热更新：Galaxy Cup Carnival、Hugo Crast 与 Shadowfront 体验优化](/SimplifiedChinese/新闻/2026-07-07)
 - [2026-07-06 官方路线图更新：Season 2 目标窗口与下一波功能方向](/SimplifiedChinese/新闻/2026-07-06)
 - [2026-07-04 官方社媒更新：Star of the Guild 与 7 月 7 日至 13 日的 Interstellar Migration 批次](/SimplifiedChinese/新闻/2026-07-04)
 - [2026-07-03 官方社媒更新：Guild Duel League 测试、路线图检查点与 GALAXYWITHYOU](/SimplifiedChinese/新闻/2026-07-03)
