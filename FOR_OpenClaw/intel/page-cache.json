@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-07",
+  "updated_on": "2026-07-09",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1652,6 +1652,13 @@
       "last_fetched": "2026-07-07T11:30:00Z",
       "status": 200,
       "cache_note": "official X hot update; Galaxy Cup Carnival and Golden Ball Coins event signal; Hugo Crast unlocks on servers open at least 27 weeks; Shadowfront now allows voting for up to 2 battle slots and adds a Battle Arrangement reminder; Ascendancy Shrines respawn every 20 seconds; rally/garrison combat-craft repair allowed when Flagship is out of combat and not under War Frenzy; Operation Blackout Event Calendar bug fixed"
+    },
+    "https://x.com/FoundationGF_EN/status/2073753768517345282": {
+      "fingerprint": "ab615ee9bf89273c55a2258d60e400a39379f136871eb0b01bc2d9c4294cc1c2",
+      "title": "Foundation Dev Roadmap: Mid 2026 (July-September)",
+      "last_fetched": "2026-07-09T11:30:00Z",
+      "status": 200,
+      "cache_note": "official X note-tweet mirror of the July-September roadmap already covered from Facebook on 2026-07-06; Season 2 targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights"
     }
   }
 }

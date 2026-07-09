@@ -1,0 +1,21 @@
+# 2026-07-09 Daily Intel Pipeline Note
+
+- 日期：2026-07-09
+- 采集时间：2026-07-09 21:00 ACST / 2026-07-09 11:30 UTC
+- 已执行并遵守：`FOR_OpenClaw/pipeline/daily-job-prompt.md`、`FOR_OpenClaw/pipeline/ingestion-scorecard.yml`、`FOR_OpenClaw/pipeline/change-threshold.yml`、`FOR_OpenClaw/Translate/glossary.yml`、`FOR_OpenClaw/Translate/glossary-lint.md`。
+- 先检查 `visited-pages.jsonl` 与 `recheck-whitelist.txt`；7 条例行监控源全部命中 `visited_skip`。
+- 搜索侧复核结果：
+  - 官方新闻公开最新帖仍是 `2026-01-23` 的 `Foundation: Galactic Frontier — Steam Version Coming Soon`。
+  - 官方 X 今日浮出未入 `visited-pages.jsonl` 的直连页 `https://x.com/FoundationGF_EN/status/2073753768517345282`。
+  - 该 X 正文与 `2026-07-06` 已入库的 Facebook 路线图 `122257169654252135` 为同一批信息：`Season 2` 目标 `2026-08`、`Guild Ruins / Cross-Server Ruins`、`Shadowfront League`、`Boss Rush Gameplay`。
+  - 因正文已被 `SimplifiedChinese/新闻/2026-07-06.md`、`TraditionalChinese/新聞/2026-07-06.md`、`English/news/2026-07-06.md` 覆盖，所以按重复增量拒绝，不写玩家目录。
+  - Pocket Gamer `codes` 页仍只见 `FOUNDATION` 与 `FURTHERFUTURE`，无新 `first_seen`。
+  - Pocket Gamer `tier-list` 页仍停留在 `Updated on July 1st, 2026 - Version: 1.1.77`，没有新的正文级升降逻辑。
+  - Apple App Store 当前活动卡片仍只是已处理过的 `Galaxy Cup Carnival` / `Star of the Guild` 延续信号，没有形成独立高价值候选。
+- 本轮实际访问 1 条新 URL：`https://x.com/FoundationGF_EN/status/2073753768517345282`。
+- 本轮评分候选 3 条，均未通过入库：1 条因重复拒绝，2 条低于阈值。
+- `page-cache.json` 与 `visited-pages.jsonl` 已补记该 X 直连页；`seen-items.jsonl` 本轮不新增。
+- 本轮通过候选数 `0`，高价值增量 `0`，因此只写日报，不改玩家文档。
+- 日报落盘：`FOR_OpenClaw/intel/reports/2026-07-09.md`。
+- 术语 lint：本轮无玩家文档变更，禁用词残留为 0。
+- 兑换码：无新码 `first_seen`、无状态翻转，不触发双语快讯。
