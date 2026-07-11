@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-09",
+  "updated_on": "2026-07-11",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1659,6 +1659,18 @@
       "last_fetched": "2026-07-09T11:30:00Z",
       "status": 200,
       "cache_note": "official X note-tweet mirror of the July-September roadmap already covered from Facebook on 2026-07-06; Season 2 targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights"
+    },
+    "https://x.com/FoundationGF_EN/status/2075500963956211810": {
+      "fingerprint": "2c23e8fec9aa61d7a310b1ab73fd56af9479ddd76ff0d2a78507b7ddd1ddb425",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-11T11:30:00Z",
+      "status": 200
+    },
+    "https://x.com/FoundationGF_EN/status/2069767498895925278": {
+      "fingerprint": "b4999db32fd4c4e031d2b9e53a688e85dcdef8b4c70621a03288448a9081a44d",
+      "title": "Foundation: Galactic Frontier on X",
+      "last_fetched": "2026-07-11T11:30:00Z",
+      "status": 200
     }
   }
 }
