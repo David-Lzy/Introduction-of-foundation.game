@@ -1671,6 +1671,20 @@
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-11T11:30:00Z",
       "status": 200
+    },
+    "https://www.facebook.com/FoundationGalacticFrontier/posts/-traders-the-latest-event-calendars-are-here-from-july-13-to-july-19the-in-game-/122257799240252135/": {
+      "fingerprint": "ae42dea6d89aa7ce28892896830a4a92083e4eb9a07b645d57e56e37f4e5dc6a",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-07-13T11:30:00Z",
+      "status": 200,
+      "cache_note": "official Facebook weekly event calendar reminder for Jul 13-19; in-game calendar live; server schedules split by calendar variants; no new rule text beyond schedule notice"
+    },
+    "https://www.facebook.com/FoundationGalacticFrontier/posts/-the-galactic-cup-carnival-is-about-to-begin-the-galactic-cup-has-reached-its-pe/122257397906252135/": {
+      "fingerprint": "e0f9d77fee39e53ac54ce27acb58c003830b8edf01fa63fe0ecb7f75171b485a",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-07-13T11:30:00Z",
+      "status": 200,
+      "cache_note": "official Facebook Galaxy Cup Carnival reminder; public snippet highlights Energy Core Lv. 10 unlock requirement and Jul 13-19 timing; no detailed reward or mechanic breakdown"
     }
   }
 }
