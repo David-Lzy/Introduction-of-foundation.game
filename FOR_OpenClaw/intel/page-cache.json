@@ -1685,6 +1685,13 @@
       "last_fetched": "2026-07-13T11:30:00Z",
       "status": 200,
       "cache_note": "official Facebook Galaxy Cup Carnival reminder; public snippet highlights Energy Core Lv. 10 unlock requirement and Jul 13-19 timing; no detailed reward or mechanic breakdown"
+    },
+    "https://game.edu.kg/pt/foundation%3A-galactic-frontier/codes/": {
+      "fingerprint": "fde1e0c5ea58d4a4df133dd8cef664d8126c53c13bc6fc4ecbb8fd2ac05b5516",
+      "title": "Foundation: Galactic Frontier",
+      "last_fetched": "2026-07-19T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
     }
   }
 }

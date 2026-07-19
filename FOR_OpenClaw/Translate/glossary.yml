@@ -17,7 +17,7 @@ terms:
   - key: game_title
     zh_hans: Foundation：银河前线
     zh_hant: Foundation：銀河前線
-    en: Foundation: Galactic Frontier
+    en: "Foundation: Galactic Frontier"
     banned:
       - Foundation Galactic Frontier（无冒号）
 
