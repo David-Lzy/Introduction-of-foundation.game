@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-11",
+  "updated_on": "2026-07-20",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1692,6 +1692,13 @@
       "last_fetched": "2026-07-19T11:30:00Z",
       "status": 200,
       "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
+    },
+    "https://levelgeeks.net/foundation-galactic-frontier-codes/": {
+      "fingerprint": "41a41cc476f0f9853eb157d10fc2c61f8450e2b772f23d6abed5a6d8ba7e0cd6",
+      "title": "Foundation Galactic Frontier Codes (July 2026)",
+      "last_fetched": "2026-07-20T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party code list updated Jul 7; its claimed active list includes already-expired June codes and an unsupported long code list. Rejected as stale/internally inconsistent; no new code record created."
     }
   }
 }
