@@ -1699,6 +1699,13 @@
       "last_fetched": "2026-07-20T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party code list updated Jul 7; its claimed active list includes already-expired June codes and an unsupported long code list. Rejected as stale/internally inconsistent; no new code record created."
+    },
+    "https://guidesgame.ru/podarochnye-kody/foundation-galactic-frontier-rabochie-kody/": {
+      "fingerprint": "198d165b163cb07e3227e334b60f278731fef856703e573a8e4876c2cb964641",
+      "title": "Foundation Galactic Frontier — working codes for June 2026",
+      "last_fetched": "2026-07-21T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party code list was actually last updated Jun 1 despite dynamic July search wording; it marks expired CHILDRENSDAY26 and GALAXYTHANKS as active, claims 31 active codes, and offers unsupported strings. Rejected as stale/internally inconsistent; no new code record created."
     }
   }
 }
