@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-20",
+  "updated_on": "2026-07-24",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1706,6 +1706,20 @@
       "last_fetched": "2026-07-21T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party code list was actually last updated Jun 1 despite dynamic July search wording; it marks expired CHILDRENSDAY26 and GALAXYTHANKS as active, claims 31 active codes, and offers unsupported strings. Rejected as stale/internally inconsistent; no new code record created."
+    },
+    "https://www.lootbar.com/blog/en/foundation-galactic-frontier-redeem-codes-1779454794826.html": {
+      "fingerprint": "38ac654bbc1e8ecc61c948bb0668048c613487054bca4cfff9e2bb38d846c955",
+      "title": "Foundation: Galactic Frontier Redeem Codes July 2026 – Latest Working Codes, Free Rewards & Currency Guide",
+      "last_fetched": "2026-07-24T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party code article published Jul 1; body repeatedly calls its list May 2026 while labelling it July, lists expired codes without per-code sources/rewards/expiry, and gives only the already-known redemption path. Rejected as stale/internally inconsistent."
+    },
+    "https://foundation-galactic-frontier.soft112.com/": {
+      "fingerprint": "cabcfb9be10996511a49d19767833d1afce3afd72508cfb8fd135dbc1a9ba9f9",
+      "title": "Foundation: Galactic Frontier... Free Download",
+      "last_fetched": "2026-07-24T11:30:00Z",
+      "status": 200,
+      "cache_note": "Mirror version history; newest entry is version 1.1.67.222607 posted Jun 4. Its Stamina/Champion Weapon shop, Sacred Tribute Vessel duration, and mail ranking-visual notes are 50 days old; related features already exist in project records. Rejected for low novelty/freshness."
     }
   }
 }
