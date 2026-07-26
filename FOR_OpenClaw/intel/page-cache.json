@@ -1714,6 +1714,13 @@
       "status": 200,
       "cache_note": "Third-party code article published Jul 1; body repeatedly calls its list May 2026 while labelling it July, lists expired codes without per-code sources/rewards/expiry, and gives only the already-known redemption path. Rejected as stale/internally inconsistent."
     },
+    "https://www.ldshop.gg/blog/foundation-galactic-frontier/foundation-code.html": {
+      "fingerprint": "3c89bb7be7932b5ebac7d1cc4d945f019b169ed43d7d858c0784701420c056ab",
+      "title": "Foundation: Galactic Frontier Codes (July 2026) – Free Speedups, Water & Metal",
+      "last_fetched": "2026-07-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party list dated Jul 15. It marks CHILDRENSDAY26 and GALAXYTHANKS active through Jul 15 although the fetch was Jul 26; FOUNDATION and FURTHERFUTURE plus the redemption path are already recorded. Rejected for no novelty and stale status claims; no new code record created."
+    },
     "https://foundation-galactic-frontier.soft112.com/": {
       "fingerprint": "cabcfb9be10996511a49d19767833d1afce3afd72508cfb8fd135dbc1a9ba9f9",
       "title": "Foundation: Galactic Frontier... Free Download",
