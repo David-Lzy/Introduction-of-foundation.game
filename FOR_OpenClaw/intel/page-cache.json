@@ -747,11 +747,11 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "bfc375de6236734a5f8bebd9ffae37232f84515d1a41f15b0a7406bf1d5d9be4",
-      "title": "Foundation: Galactic Frontier codes in May 2026 - Mobi.gg",
-      "last_fetched": "2026-05-09T11:32:45.430Z",
+      "fingerprint": "1f3396b01b6ff2dc1fd0e29e40f59d8b7b213b3105fdf6fffc016fbb5d31d1e4",
+      "title": "Foundation: Galactic Frontier codes in July 2026 - Mobi.gg",
+      "last_fetched": "2026-07-27T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-09 first fetch; third-party code list with two previously undocumented strings but no rewards/expiry/official evidence"
+      "cache_note": "Page body dated Jun 1. Its July-labelled list contains CHILDRENSDAY26, MOTHERDAY26, NEWFRONTIER, FOUNDATION, FURTHERFUTURE, and CHAMPIONSPIRIT; all are existing project records and the page gives no per-code reward or expiry evidence. Rejected for no novelty and stale status claims."
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=id": {
       "fingerprint": "d6f990a9d63866e6684d7cd7442914246ae7b91f551815800bd30b9aa7aa96fb",
