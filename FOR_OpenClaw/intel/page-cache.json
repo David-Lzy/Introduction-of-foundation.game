@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-24",
+  "updated_on": "2026-07-28",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1727,6 +1727,20 @@
       "last_fetched": "2026-07-24T11:30:00Z",
       "status": 200,
       "cache_note": "Mirror version history; newest entry is version 1.1.67.222607 posted Jun 4. Its Stamina/Champion Weapon shop, Sacred Tribute Vessel duration, and mail ranking-visual notes are 50 days old; related features already exist in project records. Rejected for low novelty/freshness."
+    },
+    "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
+      "fingerprint": "ecce220cede141d32d3b9e1168272880010d09907c9510f3a4eee0fa298492db",
+      "title": "Foundation: Galactic Frontier codes (December 2025) - Working & Daily updated | {site_name}",
+      "last_fetched": "2026-07-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "GameEDU third-party rotating-code page. Its page body is dated Dec 23, 2025 despite a current-search label, says it is not affiliated with the game, and supplies unsupported generic strings. Rejected as stale, unverifiable content-farm material."
+    },
+    "https://funplus.com/funplus-general-campaign-terms-and-conditions/en/": {
+      "fingerprint": "5dac8567cf7cb8299a5b58e48a0db5093844ba4d667e48902e2c6bb2ebe99177",
+      "title": "FUNPLUS GENERAL CAMPAIGN TERMS AND CONDITIONS - EN - FunPlus",
+      "last_fetched": "2026-07-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "Official general campaign terms updated Jul 13. They name Foundation: Galactic Frontier as a Licensed Game and defer particulars to campaign-specific rules; no active event, player task, reward, or gameplay change is disclosed."
     }
   }
 }
