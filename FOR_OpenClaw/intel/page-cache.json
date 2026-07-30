@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-28",
+  "updated_on": "2026-07-30",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1741,6 +1741,30 @@
       "last_fetched": "2026-07-28T11:30:00Z",
       "status": 200,
       "cache_note": "Official general campaign terms updated Jul 13. They name Foundation: Galactic Frontier as a Licensed Game and defer particulars to campaign-specific rules; no active event, player task, reward, or gameplay change is disclosed."
+    },
+    "https://x.com/FoundationGF_EN/status/2081726303288647881": {
+      "fingerprint": "50f5f7743036894cd58f7ce55b040080030e2c74de9ef9ee2bce64aba1573af2",
+      "title": "Official maintenance update: Duel League launch timing, Flagship L70, Potent Empowerment, Dominion Warzone bye support",
+      "last_fetched": "2026-07-30T11:33:37Z",
+      "status": 200,
+      "published_at": "2026-07-27T13:00:01Z",
+      "summary": "Official July 28 maintenance: Commerce Guild Duel League test ended and next Duel starts a six-month season; Flagship Component cap 70 on 27-week servers; Quick Craft; Potent Empowerment at +6 using Catalyst Device and multiple Prismatic Cores; Dominion Warzone bye participation for days 1-5; rally-cancel fix."
+    },
+    "https://x.com/FoundationGF_EN/status/2082088696451616804": {
+      "fingerprint": "68998907e7d26f362ab97cb0a09040c4b1ec9214c9e835f99f48a184283666ba",
+      "title": "Official spaceship-design community voting: up to five votes, July 28-August 3",
+      "last_fetched": "2026-07-30T11:33:37Z",
+      "status": 200,
+      "published_at": "2026-07-28T13:00:03Z",
+      "summary": "Official spaceship-design voting runs July 28-August 3. Up to five votes per player; the top design will be implemented and distributed free. Game-controller entries are implementation-eligible; AI-marked entries are prize-only."
+    },
+    "https://x.com/FoundationGF_EN/status/2082451083968774602": {
+      "fingerprint": "4dc34beabca9ef788e2e0070eaf5fe27b664cd645944cde1142fd05077fa0419",
+      "title": "Official Murdoku challenge: rules, solution path, 1,000 Credits prizes, July 29-August 5",
+      "last_fetched": "2026-07-30T11:33:37Z",
+      "status": 200,
+      "published_at": "2026-07-29T13:00:03Z",
+      "summary": "Official Murdoku challenge runs July 29 14:01-August 5 23:59 UTC. Place one suspect per row and column; beds are occupiable, object squares are blocked; identify who shares Riian’s area. Ten random correct entries receive 1,000 Credits each."
     }
   }
 }
