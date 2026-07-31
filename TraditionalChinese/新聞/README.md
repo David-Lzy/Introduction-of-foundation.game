@@ -4,6 +4,7 @@
 
 ## 條目
 
+- [2026-07-31 官方開發者答疑：Season 2 試點、遷服處理與物品回收](/TraditionalChinese/新聞/2026-07-31)
 - [2026-07-30 官方更新：旗艦上限、強效賦能與限時社群活動](/TraditionalChinese/新聞/2026-07-30)
 - [2026-07-07 官方熱更新：Galaxy Cup Carnival、Hugo Crast 與 Shadowfront 體驗優化](/TraditionalChinese/新聞/2026-07-07)
 - [2026-07-06 官方路線圖更新：Season 2 目標窗口與下一波功能方向](/TraditionalChinese/新聞/2026-07-06)

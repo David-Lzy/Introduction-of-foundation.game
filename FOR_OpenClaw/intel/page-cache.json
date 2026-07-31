@@ -1765,6 +1765,22 @@
       "status": 200,
       "published_at": "2026-07-29T13:00:03Z",
       "summary": "Official Murdoku challenge runs July 29 14:01-August 5 23:59 UTC. Place one suspect per row and column; beds are occupiable, object squares are blocked; identify who shares Riian’s area. Ten random correct entries receive 1,000 Credits each."
+    },
+    "https://x.com/FoundationGF_EN/status/2080639134595498342": {
+      "fingerprint": "e2d6d408a1ca232f3d12dd6530f442661c31b8df0b2ad7b63408e41c82518b87",
+      "title": "Official Event Calendar: July 28-August 2, Dominion Warzone on Servers 1001-1140",
+      "last_fetched": "2026-07-31T11:30:00Z",
+      "status": 200,
+      "published_at": "2026-07-24T13:00:00Z",
+      "summary": "Official calendar says dates and times may change. Servers 1001-1140 have Dominion Warzone, replacing Top 100 Galactic Traders; rejected as a late-discovered, low-novelty historical calendar item."
+    },
+    "https://x.com/FoundationGF_EN/status/2082875336253911363": {
+      "fingerprint": "74cde88e2d44c4d30c88eaeba01574e7a115771998081dfa1773cb71767ca5ef",
+      "title": "Official July 2026 Developer Feedback: Season 2 pilot, migration, Glory, and Item Recycling",
+      "last_fetched": "2026-07-31T11:30:00Z",
+      "status": 200,
+      "published_at": "2026-07-30T17:05:52Z",
+      "summary": "Season 2 pilot planned for Servers 1001-1016 in August; Dominion Warzone expands August 10 to servers older than nine weeks; migration inbound quotas and Migration Officer escalation; expanded matchmaking pools; Glory no-award conditions; Item Recycling August 11 on 30+ day servers."
     }
   }
 }

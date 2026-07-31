@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-07-31 官方开发者答疑：Season 2 试点、迁服处理与物品回收](/SimplifiedChinese/新闻/2026-07-31)
 - [2026-07-30 官方更新：旗舰上限、强效赋能与限时社区活动](/SimplifiedChinese/新闻/2026-07-30)
 - [2026-07-07 官方热更新：Galaxy Cup Carnival、Hugo Crast 与 Shadowfront 体验优化](/SimplifiedChinese/新闻/2026-07-07)
 - [2026-07-06 官方路线图更新：Season 2 目标窗口与下一波功能方向](/SimplifiedChinese/新闻/2026-07-06)
