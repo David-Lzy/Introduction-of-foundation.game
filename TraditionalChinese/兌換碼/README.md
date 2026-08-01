@@ -13,11 +13,6 @@
 ## 當前有效兌換碼
 
 ### 限時兌換碼
-- **GALAXYWITHYOU** - 官方貼文未公開獎勵內容（有效期至 2026-07-31 23:59 UTC）
-  - 來源：官方 X / Facebook 路線圖更新
-  - 狀態：官方來源
-  - 獎勵明細未公開
-
 - **NEWFRONTIER** - Venturous Memory x3、銀河幣 4,000 x3、Research Speedup (15m) x3（有效期至 2026-06-26 23:59 UTC）
   - 來源：GameWith
   - 狀態：未驗證
@@ -54,6 +49,10 @@
 
 ## 已過期兌換碼
 
+- **GALAXYWITHYOU** - 已於 2026-07-31 23:59 UTC 過期
+  - 來源：官方 X / Facebook 路線圖更新
+  - 狀態：官方來源（已過期）
+  - 官方貼文未公開獎勵明細
 - **MOTHERDAY26** - 已於 2026-06-07 過期
 - **HERPOWER** - 已於 2026-04-08 過期
 - **LUNARFOUNDATION** - 已於 2026-03-17 過期
@@ -63,5 +62,5 @@
 - **COSMIC2026** - 已於 2026-02-01 過期
 
 ---
-*最後更新：2026-07-03*  
+*最後更新：2026-08-01*
 *來源：官方 X、官方 Facebook、GameWith、TwStalker、Telegram、PocketGamer*

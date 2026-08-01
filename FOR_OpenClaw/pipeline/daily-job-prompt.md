@@ -33,9 +33,11 @@
 - 无法验证时统一收录为 `status=unverified`。
 - notes 必须包含：`Third-party source, may be invalid or expired.`
 - 同一码去重；状态变化时更新原记录。
-- **新兑换码 Discord 通知**：当发现新兑换码时，必须发送双语通知到 Discord 群组 `https://discord.gg/6eKnWNhhJ`。
-  - 通知格式：中英双语，包含兑换码、有效期、奖励、来源。
-  - 仅在新码首次发现时发送一次通知。
+- **新兑换码 Discord 通知**：当发现新兑换码时，必须分别发送到对应语言的兑换码频道；不得混发到更新日志频道。
+  - 简体中文频道：Discord `1488881399258812516`（兑换码｜passcode－cn），只发送中文。
+  - English channel: Discord `1497944825239048494` (passcode－en), English only.
+  - 通知必须包含兑换码、有效期、奖励、来源链接和状态；未验证码必须显示风险提示。
+  - 仅在新码首次发现时发送一次；后续仅状态变化才补发，并以 `seen-items.jsonl` 与频道近期消息交叉去重。
 
 输出：
 - FOR_OpenClaw/intel/reports/YYYY-MM-DD.md
@@ -49,9 +51,13 @@
 
 发送：
 - 将日报发到 Discord 频道 1475011423414259937
-- 当发现“新兑换码”（first_seen 新增）时，额外发送一条【双语快讯】到 Discord（你提供的群：`https://discord.gg/6eKnWNhhJ`）
-  - 中文 + English 同一条消息
-  - 必含字段：`code`、`status`、`first_seen`、`source_url`、`notes`
-  - 若 `status=unverified`，必须包含风险提示：`第三方来源，可能失效/错误 / Third-party source, may be invalid or expired.`
-  - 同一码仅首次发现时发送，后续仅状态变化再补发
+- **新增情报更新日志（严格静默门控）**：仅当本次运行发现并通过门控的、此前未收录的玩家可用情报，且已实际写入玩家目录时，才发布更新日志；没有合格新增、只有复查/缓存命中/格式或镜像修订时，绝不发送更新日志。
+  - 简体中文频道：Discord `1487801078547349585`（更新日誌｜update-logs－cn）。只发送中文。
+  - English channel: Discord `1497944824915951658` (update-logs－en). Send English only.
+  - 两条消息内容应对应同一批新增：简短标题、可执行要点、适用条件或时效、来源链接；不贴内部评分卡、流水账或无关的日报。
+  - 不补发历史内容；同一条情报不得重复发布。发送前以 `seen-items.jsonl`、当日入库记录和频道近期消息交叉去重。
+- 当发现“新兑换码”（first_seen 新增）时，分别发布到兑换码｜passcode－cn（`1488881399258812516`）与 passcode－en（`1497944825239048494`）。
+  - 两条消息须分别使用中文和英文，包含：`code`、`status`、`first_seen`、`source_url`、`notes`。
+  - 若 `status=unverified`，两种语言都必须包含风险提示。
+  - 同一码仅首次发现时发送，后续仅状态变化再补发。
 - 完成后回复 NO_REPLY
