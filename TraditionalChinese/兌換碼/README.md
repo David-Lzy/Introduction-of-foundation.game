@@ -13,6 +13,11 @@
 ## 當前有效兌換碼
 
 ### 限時兌換碼
+- **CHAMPIONSPIRIT** - 獎勵未公開（有效期至 2029-02-03）
+  - 來源：UCNGame（2026-07-30 更新）
+  - 狀態：未驗證
+  - 注意：Third-party source, may be invalid or expired.
+
 - **NEWFRONTIER** - Venturous Memory x3、銀河幣 4,000 x3、Research Speedup (15m) x3（有效期至 2026-06-26 23:59 UTC）
   - 來源：GameWith
   - 狀態：未驗證
@@ -62,5 +67,5 @@
 - **COSMIC2026** - 已於 2026-02-01 過期
 
 ---
-*最後更新：2026-08-01*
-*來源：官方 X、官方 Facebook、GameWith、TwStalker、Telegram、PocketGamer*
+*最後更新：2026-08-02*
+*來源：官方 X、官方 Facebook、GameWith、TwStalker、Telegram、PocketGamer、UCNGame*

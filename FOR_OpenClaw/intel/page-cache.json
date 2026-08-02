@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-07-30",
+  "updated_on": "2026-08-02",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -126,9 +126,9 @@
       "status": 200
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "22a4c8a83ad8f465ca01e022e24e4529f23c353101769b2ffee025021d35213b",
-      "title": "Foundation Galactic Frontier Codes (APR 2026) [UPDATED!]",
-      "last_fetched": "2026-04-03T10:30:51.325Z",
+      "fingerprint": "0cbdff3963d2b0c865292f45093362c08e1ddc0aa5a743960682e9dcec0788ca",
+      "title": "Foundation Galactic Frontier Codes (JUL 2026) [UPDATED!]",
+      "last_fetched": "2026-08-02T11:33:40Z",
       "status": 200
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {

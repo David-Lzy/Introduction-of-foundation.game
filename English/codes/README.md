@@ -13,6 +13,11 @@ This document provides redeem code information for Foundation: Galactic Frontier
 ## Active Codes
 
 ### Limited-Time Codes
+- **CHAMPIONSPIRIT** - Reward details not disclosed (Valid until 2029-02-03)
+  - Source: UCNGame (updated 2026-07-30)
+  - Status: unverified
+  - Note: Third-party source, may be invalid or expired.
+
 - **NEWFRONTIER** - Venturous Memory x3, Galactic Coin 4,000 x3, Research Speedup (15m) x3 (Valid until 2026-06-26 23:59 UTC)
   - Source: GameWith
   - Status: unverified
@@ -62,5 +67,5 @@ This document provides redeem code information for Foundation: Galactic Frontier
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-08-01*
-*Sources: Official X, Official Facebook, GameWith, TwStalker, Telegram, PocketGamer*
+*Last updated: 2026-08-02*
+*Sources: Official X, Official Facebook, GameWith, TwStalker, Telegram, PocketGamer, UCNGame*
