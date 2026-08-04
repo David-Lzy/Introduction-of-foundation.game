@@ -1781,6 +1781,13 @@
       "status": 200,
       "published_at": "2026-07-30T17:05:52Z",
       "summary": "Season 2 pilot planned for Servers 1001-1016 in August; Dominion Warzone expands August 10 to servers older than nine weeks; migration inbound quotas and Migration Officer escalation; expanded matchmaking pools; Glory no-award conditions; Item Recycling August 11 on 30+ day servers."
+    },
+    "https://redeemcodestoday.com/en/codes/foundation-galactic-frontier": {
+      "fingerprint": null,
+      "title": "Fetch timeout",
+      "last_fetched": "2026-08-04T11:30:00Z",
+      "status": 0,
+      "cache_note": "First fetch timed out. Search snippet lists CHAMPIONSPIRIT as expired, conflicting with an existing third-party unverified claim; no body was obtained and no official evidence supports a status change."
     }
   }
 }
