@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-08-02",
+  "updated_on": "2026-08-05",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -28,11 +28,11 @@
       "status": 200
     },
     "https://steamcommunity.com/app/4223760/": {
-      "fingerprint": "ca1517c2becf33f51d245b11cf2c32a678c1cc710acb5625b6098965bba4b43a",
+      "fingerprint": "21cdbc41103823be52921f23ac18de0df421196df7910540bb0ea910a4708fba",
       "title": "Steam Community :: Foundation: Galactic Frontier",
-      "last_fetched": "2026-02-26T10:30:43.467Z",
+      "last_fetched": "2026-08-05T11:30:00Z",
       "status": 200,
-      "cache_note": "hub/navigation-heavy"
+      "cache_note": "Hub's only official announcement is the January 15 Steam-coming-in-2026 post; current content is community discussion and reveals no new player-actionable information."
     },
     "https://www.facebook.com/FoundationGalacticFrontier/": {
       "fingerprint": "02e6a0d3c12be5e60a201940e18b1855fb478ee6c94908598a46680a4a83e746",
@@ -1788,6 +1788,13 @@
       "last_fetched": "2026-08-04T11:30:00Z",
       "status": 0,
       "cache_note": "First fetch timed out. Search snippet lists CHAMPIONSPIRIT as expired, conflicting with an existing third-party unverified claim; no body was obtained and no official evidence supports a status change."
+    },
+    "https://lordstrategist.com/en/foundation-galactic-frontier/gift-code": {
+      "fingerprint": "0e355589f69d4b3ac5dd205e53ce46bfee957361df2d829a0e119a2d69640c39",
+      "title": "Foundation: Galactic Frontier Gift Codes & Promo Codes | LordStrategist",
+      "last_fetched": "2026-08-05T11:30:00Z",
+      "status": 200,
+      "cache_note": "Independent code list includes many entries dated Aug 6, after this run, and treats known expired codes as current. It provides no reward, expiry, or official evidence per new-looking code; rejected as internally inconsistent third-party data."
     }
   }
 }
