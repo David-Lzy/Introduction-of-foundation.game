@@ -4,6 +4,7 @@
 
 ## 條目
 
+- [2026-08-08 Google Play 更新：英雄專屬武器與進行中的商會對決聯賽](/TraditionalChinese/新聞/2026-08-08)
 - [2026-07-31 官方開發者答疑：Season 2 試點、遷服處理與物品回收](/TraditionalChinese/新聞/2026-07-31)
 - [2026-07-30 官方更新：旗艦上限、強效賦能與限時社群活動](/TraditionalChinese/新聞/2026-07-30)
 - [2026-07-07 官方熱更新：Galaxy Cup Carnival、Hugo Crast 與 Shadowfront 體驗優化](/TraditionalChinese/新聞/2026-07-07)

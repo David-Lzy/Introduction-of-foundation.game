@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-08-05",
+  "updated_on": "2026-08-08",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1795,6 +1795,28 @@
       "last_fetched": "2026-08-05T11:30:00Z",
       "status": 200,
       "cache_note": "Independent code list includes many entries dated Aug 6, after this run, and treats known expired codes as current. It provides no reward, expiry, or official evidence per new-looking code; rejected as internally inconsistent third-party data."
+    },
+    "https://play.google.com/store/apps/details?hl=en_AU&id=com.games.foundation": {
+      "fingerprint": "4ba0d47c98d445d3f66d70ef80e37146016f17e8b6216236058b79b9912a1f27",
+      "title": "Foundation: Galactic Frontier – Apps on Google Play",
+      "last_fetched": "2026-08-08T11:30:00Z",
+      "status": 200,
+      "published_at": "2026-07-22",
+      "summary": "Champion-exclusive weapons for Fist of Luminism — Aliya and Warden — Eva von Trier unlock on servers open at least 27 weeks; Champion Weapon Fragments now identify compatible Champion role and Style; attacking a War Prism in Duel Day removes Interstellar Shelter."
+    },
+    "https://play.google.com/store/apps/eventdetails/4831058346923715348": {
+      "fingerprint": "70f8f27be3d7ac87f150e48b260acb7cbc470ead10dd4dcfe21da5055a1cb6aa",
+      "title": "Rise Through the Ranks",
+      "last_fetched": "2026-08-08T11:30:00Z",
+      "status": 200,
+      "summary": "Official event says the Commerce Guild Duel League has officially begun and ends on August 17 (storefront local date)."
+    },
+    "https://play.google.com/store/apps/eventdetails/4832009952064234087": {
+      "fingerprint": "5e02bb59d2b2bd9f593fb51e7dc02647ab1b35be9470456bc02407f17fb099ea",
+      "title": "Secrets Woven in the Heavenly Court",
+      "last_fetched": "2026-08-08T11:30:00Z",
+      "status": 200,
+      "cache_note": "Official narrative promotion for Rue Corintha; no mechanic, eligibility, reward, timing, or actionable player detail. Rejected."
     }
   }
 }
