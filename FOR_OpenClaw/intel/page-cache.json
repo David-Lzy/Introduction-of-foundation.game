@@ -1817,6 +1817,21 @@
       "last_fetched": "2026-08-08T11:30:00Z",
       "status": 200,
       "cache_note": "Official narrative promotion for Rue Corintha; no mechanic, eligibility, reward, timing, or actionable player detail. Rejected."
+    },
+    "https://play.google.com/store/apps/details?hl=en_GB&id=com.games.foundation": {
+      "fingerprint": "4d727c14d18fafa23949eb8144bb0c2e34e1a512ccd77ec3ac1af9bae4cff21f",
+      "title": "Foundation: Galactic Frontier – Apps on Google Play",
+      "last_fetched": "2026-08-09T11:30:00Z",
+      "status": 200,
+      "published_at": "2026-06-04",
+      "cache_note": "Official regional listing. Its June 4 notes (Discount Shop Stamina/Champion Weapon items, Sacred Tribute Vessel 30-minute duration, mail ranking visuals) are stale and offer no material addition beyond existing game coverage; rejected."
+    },
+    "https://play.google.com/store/apps/eventdetails/4831275385076292779": {
+      "fingerprint": "8ce3867d2161b3a1768da121bf484492244f1aa7dd29ee2da2ed68e26fb274a4",
+      "title": "A Frontier Legend Sets Sail",
+      "last_fetched": "2026-08-09T11:30:00Z",
+      "status": 200,
+      "cache_note": "Official Hugo Crast promotion. It provides no release timing, acquisition condition, reward, or mechanics; Hugo's 27-week availability is already recorded from the July 7 maintenance notice. Rejected."
     }
   }
 }
