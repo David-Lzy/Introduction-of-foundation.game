@@ -1826,6 +1826,13 @@
       "published_at": "2026-06-04",
       "cache_note": "Official regional listing. Its June 4 notes (Discount Shop Stamina/Champion Weapon items, Sacred Tribute Vessel 30-minute duration, mail ranking visuals) are stale and offer no material addition beyond existing game coverage; rejected."
     },
+    "https://www.reddit.com/r/FoundationGFrontier/comments/1qwela3/foundation_exploration_event/": {
+      "fingerprint": "7a16a894e4216864b1f3255e492be16bf61e41cf80bd0e37ef33831b4171306a",
+      "title": "Foundation exploration event : r/FoundationGFrontier",
+      "last_fetched": "2026-08-10T11:30:00Z",
+      "status": 200,
+      "summary": "Community thread contains player-shared exploration coordinate codes, including recent August entries. Participants state they are used through an external exploration link rather than the in-game Gift Code section; the codes are user-specific/limited and have no official validity, expiry, or reward evidence."
+    },
     "https://play.google.com/store/apps/eventdetails/4831275385076292779": {
       "fingerprint": "8ce3867d2161b3a1768da121bf484492244f1aa7dd29ee2da2ed68e26fb274a4",
       "title": "A Frontier Legend Sets Sail",
