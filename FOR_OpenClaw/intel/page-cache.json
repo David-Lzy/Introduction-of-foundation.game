@@ -1839,6 +1839,20 @@
       "last_fetched": "2026-08-09T11:30:00Z",
       "status": 200,
       "cache_note": "Official Hugo Crast promotion. It provides no release timing, acquisition condition, reward, or mechanics; Hugo's 27-week availability is already recorded from the July 7 maintenance notice. Rejected."
+    },
+    "https://www.reddit.com/r/LootBar_gg/comments/1vkjhav/what_are_foundation_galactic_frontierthe_best/": {
+      "fingerprint": "1364b8abc9e73fc2f8571d7b6ca7dc9ec377615e65c9e722a000251c2ada7ca7",
+      "title": "what are Foundation: Galactic Frontier:the Best Value Packs : r/LootBar_gg",
+      "last_fetched": "2026-08-11T11:30:00Z",
+      "status": 200,
+      "cache_note": "Promotional third-party spending list ranks monthly cards, passes, and packs but gives no prices, reward quantities, eligibility, or primary evidence. Its generic advice is not a player-facing increment; rejected."
+    },
+    "https://www.reddit.com/r/LootBar_gg/comments/1vlbm0a/how_to_win_more_pvp_in_battles_foundation/": {
+      "fingerprint": "5af31852963fafd445e7bfd81ed9caa3620a8d96156af7dcfc5aa06383fd7b4a",
+      "title": "How to Win More PvP in Battles Foundation: Galactic Frontier : r/LootBar_gg",
+      "last_fetched": "2026-08-11T11:30:00Z",
+      "status": 200,
+      "cache_note": "Promotional third-party PvP article repeats existing energy counter, compatible Champion, flagship, crew, scouting, and Commerce Guild advice without data, patch-specific detail, or primary evidence. Rejected."
     }
   }
 }
