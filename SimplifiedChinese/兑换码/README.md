@@ -10,6 +10,17 @@
 4. 点击「兑换礼包码」
 5. 输入兑换码并确认
 
+## 官方网页兑换入口
+
+如无法在游戏内操作，也可使用官方网页兑换入口：
+
+1. 打开 [Foundation: Galactic Frontier 官方兑换页](https://foundation-website-release.kingsgroup.cn/en/cdk)。
+2. 输入角色 UID（可在游戏左上角头像处查看），然后登录。
+3. 输入兑换码并点击 **Redeem**。
+4. 前往游戏内邮件领取奖励。
+
+适用条件：需要有效的角色 UID 和可用兑换码；页面不会显示可用码清单。
+
 ## 当前有效兑换码
 
 ### 限时兑换码
@@ -67,5 +78,5 @@
 - **COSMIC2026** - 已于 2026-02-01 过期
 
 ---
-*最后更新：2026-08-02*
-*来源：官方 X、官方 Facebook、GameWith、TwStalker、Telegram、PocketGamer、UCNGame*
+*最后更新：2026-08-13*
+*来源：官方兑换页、官方 X、官方 Facebook、GameWith、TwStalker、Telegram、PocketGamer、UCNGame*

@@ -10,6 +10,17 @@ This document provides redeem code information for Foundation: Galactic Frontier
 4. Tap Redeem Gift Code
 5. Enter the code and confirm
 
+## Official Web Redemption Portal
+
+If you cannot redeem in-game, use the official web portal:
+
+1. Open the [official Foundation: Galactic Frontier redemption page](https://foundation-website-release.kingsgroup.cn/en/cdk).
+2. Enter your character UID (found by tapping the in-game avatar at top left), then log in.
+3. Enter the gift code and select **Redeem**.
+4. Claim the reward from in-game mail.
+
+Applies when you have a valid character UID and a usable gift code; the portal does not list available codes.
+
 ## Active Codes
 
 ### Limited-Time Codes
@@ -67,5 +78,5 @@ This document provides redeem code information for Foundation: Galactic Frontier
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-08-02*
-*Sources: Official X, Official Facebook, GameWith, TwStalker, Telegram, PocketGamer, UCNGame*
+*Last updated: 2026-08-13*
+*Sources: Official redemption portal, Official X, Official Facebook, GameWith, TwStalker, Telegram, PocketGamer, UCNGame*

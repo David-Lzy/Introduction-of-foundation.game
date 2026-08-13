@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-08-08",
+  "updated_on": "2026-08-13",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1853,6 +1853,13 @@
       "last_fetched": "2026-08-11T11:30:00Z",
       "status": 200,
       "cache_note": "Promotional third-party PvP article repeats existing energy counter, compatible Champion, flagship, crew, scouting, and Commerce Guild advice without data, patch-specific detail, or primary evidence. Rejected."
+    },
+    "https://foundation-website-release.kingsgroup.cn/en/cdk": {
+      "fingerprint": "15959c3a68b004e865a9912cf696027b52b0fc4ca0b2f244347368d7b8b6d98d",
+      "title": "Foundation: Galactic Frontier official redemption portal",
+      "last_fetched": "2026-08-13T11:30:00Z",
+      "status": 200,
+      "cache_note": "Official portal accepts a character UID and gift code, then directs players to claim the redeemed gift through in-game mail."
     },
     "https://twstalker.com/FoundationGF_EN": {
       "fingerprint": "0e788b41bb28efbf8f69fbc7f76bb6bf5dde965b2050fcabd89f085d98be7e6c",
