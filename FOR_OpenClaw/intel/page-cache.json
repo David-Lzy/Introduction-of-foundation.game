@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-08-13",
+  "updated_on": "2026-08-19",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.foundation.game/en/news": {
@@ -1867,6 +1867,13 @@
       "last_fetched": "2026-08-12T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party mirror exposed stale April 2026 posts rather than current August information; no new player-actionable update or redeem code. Rejected."
+    },
+    "https://ngntipkolamrenang.twstalker.com/FoundationGF_EN": {
+      "fingerprint": "df5f40bea0de4c64c832a43da8516c73c8de7aa7576bd0087df413308890c929",
+      "title": "Foundation: Galactic Frontier @FoundationGF_EN",
+      "last_fetched": "2026-08-19T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party TwStalker mirror profile: event-calendar post lists calendar A/B server scope and says timing may change; profile page presents unreliable relative timestamps and mixed stale content; no independently verifiable current event details or code. Rejected."
     }
   }
 }
