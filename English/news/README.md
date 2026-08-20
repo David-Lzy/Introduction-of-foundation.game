@@ -4,6 +4,7 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-08-20 August 11 maintenance: Energy Core expansion and battle-queue preparation](/English/news/2026-08-20)
 - [2026-08-08 Google Play update: Champion weapons and live Commerce Guild Duel League](/English/news/2026-08-08)
 - [2026-07-31 Official Developer Feedback: Season 2 pilot, migration handling, and recycling](/English/news/2026-07-31)
 - [2026-07-30 Official update: Flagship cap, Potent Empowerment, and limited-time community events](/English/news/2026-07-30)

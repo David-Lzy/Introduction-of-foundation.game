@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "updated_on": "2026-08-19",
+  "updated_on": "2026-08-20",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
+    "https://imginn.com/p/Db3EojrDZEw/": {
+      "fingerprint": "0a2c3cd7e8e5030360e14cac15908863f6f140fb411f6b1e98267fbe74660965",
+      "title": "Foundation: Galactic Frontier (@foundation_gf_en): Maintenance Notice – August 11",
+      "last_fetched": "2026-08-20T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party mirror of official Instagram maintenance post; details explicitly subject to change."
+    },
     "https://www.foundation.game/en/news": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
