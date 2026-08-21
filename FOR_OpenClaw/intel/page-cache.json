@@ -1881,6 +1881,20 @@
       "last_fetched": "2026-08-19T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party TwStalker mirror profile: event-calendar post lists calendar A/B server scope and says timing may change; profile page presents unreliable relative timestamps and mixed stale content; no independently verifiable current event details or code. Rejected."
+    },
+    "https://w.twstalker.com/FoundationGF_EN": {
+      "fingerprint": "361f151ba7380c4ba04b9da77166decdf0936e5e39693a426c772c1dffeb030c",
+      "title": "Foundation: Galactic Frontier @FoundationGF_EN",
+      "last_fetched": "2026-08-21T11:30:00Z",
+      "status": 200,
+      "cache_note": "Search capture exposed current August 18 hot-update, Navigation Day, and writing-contest text attributed to the official account. The direct mirror page itself has unreliable timestamps; player-facing entries retain this limitation."
+    },
+    "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
+      "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
+      "title": "Foundation Galactic Frontier Codes August 2026 [UPDATED] - MrGuider",
+      "last_fetched": "2026-08-21T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party page updated August 20 lists S2SupplyDrop as free rewards through 2026-09-30. Ingested under the code override with status=unverified and the required risk note."
     }
   }
 }

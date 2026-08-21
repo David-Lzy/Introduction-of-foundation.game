@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-08-21 Navigation Day：服务器日程与参与准备](/SimplifiedChinese/新闻/2026-08-21)
 - [2026-08-20 8 月 11 日维护：能量核心扩展与战斗队列准备](/SimplifiedChinese/新闻/2026-08-20)
 - [2026-08-08 Google Play 更新：英雄专属武器与进行中的商会对决联赛](/SimplifiedChinese/新闻/2026-08-08)
 - [2026-07-31 官方开发者答疑：Season 2 试点、迁服处理与物品回收](/SimplifiedChinese/新闻/2026-07-31)

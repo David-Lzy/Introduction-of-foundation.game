@@ -24,6 +24,11 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 ## Active Codes
 
 ### Limited-Time Codes
+- **S2SupplyDrop** - Free rewards (Valid until 2026-09-30)
+  - Source: [MrGuider](https://www.mrguider.org/codes/foundation-galactic-frontier-codes/) (updated 2026-08-20)
+  - Status: unverified
+  - Note: Third-party source, may be invalid or expired.
+
 - **CHAMPIONSPIRIT** - Reward details not disclosed (Valid until 2029-02-03)
   - Source: UCNGame (updated 2026-07-30)
   - Status: unverified
@@ -78,5 +83,5 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-08-13*
-*Sources: Official redemption portal, Official X, Official Facebook, GameWith, TwStalker, Telegram, PocketGamer, UCNGame*
+*Last updated: 2026-08-21*
+*Sources: Official redemption portal, Official X, Official Facebook, GameWith, TwStalker, Telegram, PocketGamer, UCNGame, MrGuider*
