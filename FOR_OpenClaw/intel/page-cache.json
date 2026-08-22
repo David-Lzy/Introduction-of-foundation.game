@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "updated_on": "2026-08-20",
+  "updated_on": "2026-08-22",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
+    "https://murpo.com/": {
+      "fingerprint": "c19a192dff1f2561798a1b02a03e787d3cea382f0730e35cc94c2fb388bcd8cb",
+      "title": "One moment, please...",
+      "last_fetched": "2026-08-22T11:30:00Z",
+      "status": 403,
+      "cache_note": "Cloudflare verification page only; no Foundation: Galactic Frontier article body was available for scoring."
+    },
     "https://imginn.com/p/Db3EojrDZEw/": {
       "fingerprint": "0a2c3cd7e8e5030360e14cac15908863f6f140fb411f6b1e98267fbe74660965",
       "title": "Foundation: Galactic Frontier (@foundation_gf_en): Maintenance Notice – August 11",
