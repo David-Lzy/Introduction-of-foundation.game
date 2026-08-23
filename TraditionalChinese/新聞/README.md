@@ -4,6 +4,7 @@
 
 ## 條目
 
+- [2026-08-23 8 月 11 日維護補充：核心 33、回收商店與對決日準備](/TraditionalChinese/新聞/2026-08-23)
 - [2026-08-21 Navigation Day：伺服器日程與參與準備](/TraditionalChinese/新聞/2026-08-21)
 - [2026-08-20 8 月 11 日維護：能量核心擴展與戰鬥隊列準備](/TraditionalChinese/新聞/2026-08-20)
 - [2026-08-08 Google Play 更新：英雄專屬武器與進行中的商會對決聯賽](/TraditionalChinese/新聞/2026-08-08)

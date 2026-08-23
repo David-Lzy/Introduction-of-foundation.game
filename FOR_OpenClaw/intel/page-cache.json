@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-08-22",
+  "updated_on": "2026-08-23",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://murpo.com/": {
@@ -9,6 +9,41 @@
       "last_fetched": "2026-08-22T11:30:00Z",
       "status": 403,
       "cache_note": "Cloudflare verification page only; no Foundation: Galactic Frontier article body was available for scoring."
+    },
+    "https://murpo.com/august-11th-2026-game-update": {
+      "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
+      "title": "August 11th 2026 Game update",
+      "last_fetched": "2026-08-23T11:30:00Z",
+      "status": 200,
+      "cache_note": "Community index linking to August 11 patch, fourth-Flagship, Core 35, and Renewal Shop articles; detailed patch candidate assessed separately."
+    },
+    "https://murpo.com/news/august-11th-2026-patch-notes": {
+      "fingerprint": "7f45c35956fae89a7d42fd030b1d5f60a1316a89704d90d6bf29cde3c164c2ab",
+      "title": "Foundation: Galactic Frontier — Aug 11, 2026 Patch Notes",
+      "last_fetched": "2026-08-23T11:30:00Z",
+      "status": 200,
+      "summary": "Community compilation of the August 11 maintenance: Energy Core expansion testing on 1001–1016, Fusion Seed prerequisite chain, fourth battle queue at Core 33, three style masteries, Renewal Shop at five-week server age, Migration 1121–1152, Duel Day destruction scoring, and convenience changes."
+    },
+    "https://murpo.com/news/flagship-and-arena-changes": {
+      "fingerprint": "0077bd2f59325757a8d4a75a417452ab3fd4050a57f154ccd270f98850b71f66",
+      "title": "4th Flagship Deployment: Arena and PvP Impact",
+      "last_fetched": "2026-08-23T11:30:00Z",
+      "status": 200,
+      "cache_note": "Community strategy commentary; its prerequisite path to Core 33 duplicates the August 11 patch candidate. No separate item written."
+    },
+    "https://murpo.com/news/core-35-arrives": {
+      "fingerprint": "2a8e8c9cd8d2ea6cb6148775cd13288efcd656e31fb4e48d513ead0dfba65ea8",
+      "title": "Core 35 arrives: what’s in the update",
+      "last_fetched": "2026-08-23T11:30:00Z",
+      "status": 200,
+      "cache_note": "Community update overview; the actionable, sourced details duplicate the August 11 patch candidate. No separate item written."
+    },
+    "https://murpo.com/news/recycle-shop": {
+      "fingerprint": "c4a7025c7e245fd7f39b78e4f415ca869c80fc924a8e0562f59deebc58eb2ed1",
+      "title": "Recycling / Renewal shop",
+      "last_fetched": "2026-08-23T11:30:00Z",
+      "status": 200,
+      "cache_note": "Community preview; the conversion eligibility and inputs are covered by the August 11 patch candidate. Its unconfirmed refresh and item claims were not written."
     },
     "https://imginn.com/p/Db3EojrDZEw/": {
       "fingerprint": "0a2c3cd7e8e5030360e14cac15908863f6f140fb411f6b1e98267fbe74660965",

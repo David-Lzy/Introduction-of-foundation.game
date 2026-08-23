@@ -4,6 +4,7 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-08-23 August 11 maintenance addendum: Core 33, Renewal Shop, and Duel Day preparation](/English/news/2026-08-23)
 - [2026-08-21 Navigation Day: server schedule and practical preparation](/English/news/2026-08-21)
 - [2026-08-20 August 11 maintenance: Energy Core expansion and battle-queue preparation](/English/news/2026-08-20)
 - [2026-08-08 Google Play update: Champion weapons and live Commerce Guild Duel League](/English/news/2026-08-08)
