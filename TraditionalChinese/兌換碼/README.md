@@ -25,9 +25,8 @@
 
 ### 限時兌換碼
 - **S2SupplyDrop** - 獎勵未公開（有效期至 2026-09-30）
-  - 來源：[MrGuider](https://www.mrguider.org/codes/foundation-galactic-frontier-codes/)（2026-08-20 更新）
-  - 狀態：未驗證
-  - 注意：Third-party source, may be invalid or expired.
+  - 來源：[官方 @foundation_gf_en Instagram 貼文鏡像](https://imginn.com/p/DcQtuZiDWtP/)（2026-08-20 發布）
+  - 狀態：官方帳號貼文鏡像確認可用；最終以遊戲內兌換結果為準
 
 - **CHAMPIONSPIRIT** - 獎勵未公開（有效期至 2029-02-03）
   - 來源：UCNGame（2026-07-30 更新）
@@ -83,5 +82,5 @@
 - **COSMIC2026** - 已於 2026-02-01 過期
 
 ---
-*最後更新：2026-08-21*
-*來源：官方兌換頁、官方 X、官方 Facebook、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*
+*最後更新：2026-08-25*
+*來源：官方兌換頁、官方 X、官方 Facebook、官方 Instagram 貼文鏡像、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*

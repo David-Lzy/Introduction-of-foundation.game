@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "updated_on": "2026-08-23",
+  "updated_on": "2026-08-25",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
+    "https://imginn.com/p/DcQtuZiDWtP/": {
+      "fingerprint": "4aae2e2730b6e8613a6b818b9d4b27b1ba50caa73045f5f19be59d7336193e46",
+      "title": "Foundation: Galactic Frontier (@foundation_gf_en): Season 2 Timeline Confirmed",
+      "last_fetched": "2026-08-25T11:30:00Z",
+      "status": 200,
+      "summary": "Third-party mirror of an August 20 official-account Instagram post: deployment starts Aug 25; Servers 1001–1016 form one Sep 1 Interstellar Migration group; Sep 7 preview; Sep 14 playable Season 2. It also confirms S2SupplyDrop through Sep 30 23:59 UTC and the in-game redemption path."
+    },
     "https://murpo.com/": {
       "fingerprint": "c19a192dff1f2561798a1b02a03e787d3cea382f0730e35cc94c2fb388bcd8cb",
       "title": "One moment, please...",
