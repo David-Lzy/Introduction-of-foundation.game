@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-08-25",
+  "updated_on": "2026-08-26",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://imginn.com/p/DcQtuZiDWtP/": {
@@ -1944,6 +1944,20 @@
       "last_fetched": "2026-08-21T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party page updated August 20 lists S2SupplyDrop as free rewards through 2026-09-30. Ingested under the code override with status=unverified and the required risk note."
+    },
+    "https://boostbot.org/blog/foundation-galactic-frontier-gift-codes/": {
+      "fingerprint": "abff969076f990736c8636f1ee30782e01d5b5810f2f9dd32f6ef6d856cbd9ca",
+      "title": "Foundation: Galactic Frontier Gift Codes + Redeem",
+      "last_fetched": "2026-08-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party August 9 code list repeats FOUNDATION and FURTHERFUTURE, both already in the player code tables as unverified. It adds no official evidence for a status change."
+    },
+    "https://www.instalker.org/FoundationGF_EN": {
+      "fingerprint": "e26cd124f12fc4feb8f4f93e939edcd71dfd6a30c0c0ca20752e731fd741dbcc",
+      "title": "Foundation: Galactic Front @FoundationGF_EN - Twitter Profile | Instalker",
+      "last_fetched": "2026-08-26T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party profile mirror surfaced event-calendar and maintenance snippets, but supplied no reliable, extracted player-facing change details or new code evidence. Rejected."
     }
   }
 }
