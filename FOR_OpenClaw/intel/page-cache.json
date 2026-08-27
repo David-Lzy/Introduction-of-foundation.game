@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-08-26",
+  "updated_on": "2026-08-27",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://imginn.com/p/DcQtuZiDWtP/": {
@@ -1958,6 +1958,13 @@
       "last_fetched": "2026-08-26T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party profile mirror surfaced event-calendar and maintenance snippets, but supplied no reliable, extracted player-facing change details or new code evidence. Rejected."
+    },
+    "https://www.gdr-online.com/news-gioco.asp?idgioco=18271": {
+      "fingerprint": "4c85535efe0ab2dec7968d118b9376839f7e7259d85a2637a89bcbb8ae63a200",
+      "title": "Foundation Galactic Frontier news, announcements and notices",
+      "last_fetched": "2026-08-27T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party news aggregator reproduced an August 25 maintenance notice: 27-week Energy Core expansion availability; Glory Arena lockout and defense-retention changes; Ruins Raiders cross-server testing; occupation leader selection; speedup/resource UI; style-center energy use; and Stellar Recruitment testing. One eligible but non-high-value increment; held behind the daily two-item gate pending primary confirmation."
     }
   }
 }
