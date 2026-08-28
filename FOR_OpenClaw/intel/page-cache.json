@@ -1965,6 +1965,13 @@
       "last_fetched": "2026-08-27T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party news aggregator reproduced an August 25 maintenance notice: 27-week Energy Core expansion availability; Glory Arena lockout and defense-retention changes; Ruins Raiders cross-server testing; occupation leader selection; speedup/resource UI; style-center energy use; and Stellar Recruitment testing. One eligible but non-high-value increment; held behind the daily two-item gate pending primary confirmation."
+    },
+    "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
+      "fingerprint": "fb9c107f43f27d07083f497f7dbc2e8b79390883a2b5a3402eb085c0653ceeb9",
+      "title": "Foundation: Galactic Frontier codes (August 2026) - Working & Daily updated | {site_name}",
+      "last_fetched": "2026-08-28T11:30:00Z",
+      "status": 200,
+      "cache_note": "Low-trust auto-generated code page. Its code list changes dynamically, supplies no source or reward evidence, and includes a share-to-unlock bundle; rejected."
     }
   }
 }
