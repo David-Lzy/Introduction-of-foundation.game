@@ -1,8 +1,15 @@
 {
   "version": 1,
-  "updated_on": "2026-08-29",
+  "updated_on": "2026-08-30",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
+    "https://www.instagram.com/foundation_gf_en/": {
+      "fingerprint": "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6",
+      "title": "Instagram",
+      "last_fetched": "2026-08-30T11:33:03Z",
+      "status": 200,
+      "cache_note": "Official profile endpoint returned no readable post body; no candidate content was available for ingestion."
+    },
     "https://www6.twstalker.com/FoundationGF_EN": {
       "fingerprint": "726adaae72741c967c6ff140ff0d4d3adf69ee52434861150f05eaa466006db8",
       "title": "Foundation: Galactic Front @FoundationGF_EN - Twitter Profile | TwStalker",
