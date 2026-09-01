@@ -24,6 +24,11 @@
 ## 當前有效兌換碼
 
 ### 限時兌換碼
+- **NavigationDay26** - 行動點藥水 100 x1、Venturous Memory x5、30 分鐘通用加速 x3（有效期至 2026-09-21 UTC）
+  - 來源：[官方 @FoundationGF_EN 貼文的 Sotwe 鏡像](https://www.sotwe.com/FoundationGF_EN?lang=en)（2026-09-01 擷取）
+  - 狀態：未驗證
+  - 注意：Third-party source, may be invalid or expired. 請以遊戲內兌換結果為準。
+
 - **S2SupplyDrop** - 獎勵未公開（有效期至 2026-09-30）
   - 來源：[官方 @foundation_gf_en Instagram 貼文鏡像](https://imginn.com/p/DcQtuZiDWtP/)（2026-08-20 發布）
   - 狀態：官方帳號貼文鏡像確認可用；最終以遊戲內兌換結果為準
@@ -82,5 +87,5 @@
 - **COSMIC2026** - 已於 2026-02-01 過期
 
 ---
-*最後更新：2026-08-25*
-*來源：官方兌換頁、官方 X、官方 Facebook、官方 Instagram 貼文鏡像、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*
+*最後更新：2026-09-01*
+*來源：官方兌換頁、官方 X、官方 Facebook、官方 Instagram 貼文鏡像、Sotwe、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*
