@@ -1993,6 +1993,34 @@
       "last_fetched": "2026-09-01T11:30:00Z",
       "status": 200,
       "summary": "Third-party mirror of official-account posts: current Aug 31-Sep 6 calendar guidance; Beacon Fest for servers 1017-1231 through Sep 1; and NavigationDay26, listed through Sep 21 UTC for AP Potion 100 x1, Venturous Memory x5, and 30-minute Universal Speedup x3. Schedule and redemption require in-game confirmation."
+    },
+    "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
+      "fingerprint": "fa13a6ef00b9aff44a9080d9feb848a6407b08861b354ffda4d1f84279021797",
+      "title": "Foundation: Galactic Frontier codes (September 2026) - Fill up on Water and Metal",
+      "last_fetched": "2026-09-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "Current list repeats FOUNDATION and FURTHERFUTURE, already in player code tables. Its expired-code list is consistent with prior expiry evidence; no new actionable code or status flip."
+    },
+    "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
+      "fingerprint": "4ba8a4588caaa2e1397cbb2239d23f857e49cfae663652ecf5c50f1d0154d8ec",
+      "title": "Foundation: Galactic Frontier codes in September 2026 | Free and valid",
+      "last_fetched": "2026-09-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party list claims CHILDRENSDAY26, MOTHERDAY26 and other elapsed codes are valid despite independent sources placing their expiry in June. Rejected as internally stale/inconsistent; no status change recorded."
+    },
+    "https://www.bluestacks.com/blog/redeem-codes/foundation-galactic-frontier-redeem-codes-en.html": {
+      "fingerprint": "e05877bbe6f53a0af11b8d2a64491385e5118d84f08bb1bd2585dd99e4df16a2",
+      "title": "All Working Foundation: Galactic Frontier Redeem Codes for September 2026",
+      "last_fetched": "2026-09-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party list repeats FOUNDATION and FURTHERFUTURE and incorrectly claims STELLARSTART active despite established expiry evidence. Rejected; no new code or status change."
+    },
+    "https://www.memuplay.com/blog/foundation-galactic-frontier-codes.html": {
+      "fingerprint": "e012ecd4f3a1f1255fff8c322f68239eacebb88022c8c7b22f699589a6cd8b9c",
+      "title": "Latest Foundation: Galactic Frontier Codes September 2026: Free Rewards & Redeem Guide",
+      "last_fetched": "2026-09-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party page lists only already-recorded S2SupplyDrop through 2026-09-30 and repeats the redemption path. No new code or status evidence."
     }
   }
 }
