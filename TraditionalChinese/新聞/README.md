@@ -4,6 +4,7 @@
 
 ## 條目
 
+- [2026-09-04 Season 2 藏字挑戰：提交答案時附上 UID](/TraditionalChinese/新聞/2026-09-04)
 - [2026-09-01 9 月 1 日行動檢查：活動日曆與 Navigation Day 收尾](/TraditionalChinese/新聞/2026-09-01)
 - [2026-08-29 8 月 25 日維護：競技場結算與跨服玩法準備](/TraditionalChinese/新聞/2026-08-29)
 - [2026-08-25 Season 2 時間表調整：遷服與試玩準備](/TraditionalChinese/新聞/2026-08-25)

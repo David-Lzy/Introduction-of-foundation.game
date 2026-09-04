@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-09-04 Season 2 藏字挑战：提交答案时附上 UID](/SimplifiedChinese/新闻/2026-09-04)
 - [2026-09-01 9 月 1 日行动检查：活动日历与 Navigation Day 收尾](/SimplifiedChinese/新闻/2026-09-01)
 - [2026-08-29 8 月 25 日维护：竞技场结算与跨服玩法准备](/SimplifiedChinese/新闻/2026-08-29)
 - [2026-08-25 Season 2 时间表调整：迁服与试玩准备](/SimplifiedChinese/新闻/2026-08-25)

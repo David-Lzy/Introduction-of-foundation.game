@@ -2021,6 +2021,13 @@
       "last_fetched": "2026-09-03T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party page lists only already-recorded S2SupplyDrop through 2026-09-30 and repeats the redemption path. No new code or status evidence."
+    },
+    "https://twstalker.com/FoundationGF_EN": {
+      "fingerprint": "7aafd6709a364f3f90b9f4c4fd84daf21f3e9fc3eced9c40b7380f3d67d9d6e0",
+      "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | TwStalker",
+      "last_fetched": "2026-09-04T11:30:00Z",
+      "status": 403,
+      "cache_note": "Direct fetch was blocked, but the indexed page body exposed an official-account mirror post: a hidden-letter Season 2 challenge runs Sep 1 00:01 UTC through Sep 8 23:59 UTC; entrants assemble letters found in posts from Aug 4 onward and comment the word plus UID. Ten winners receive 2,000 Credits. Ingested as a time-limited actionable event; verify against the official live post."
     }
   }
 }
