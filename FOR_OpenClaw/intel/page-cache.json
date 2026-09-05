@@ -2028,6 +2028,13 @@
       "last_fetched": "2026-09-04T11:30:00Z",
       "status": 403,
       "cache_note": "Direct fetch was blocked, but the indexed page body exposed an official-account mirror post: a hidden-letter Season 2 challenge runs Sep 1 00:01 UTC through Sep 8 23:59 UTC; entrants assemble letters found in posts from Aug 4 onward and comment the word plus UID. Ten winners receive 2,000 Credits. Ingested as a time-limited actionable event; verify against the official live post."
+    },
+    "https://x.com/FoundationGF_EN": {
+      "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
+      "title": "Foundation: Galactic Frontier (@FoundationGF_EN)",
+      "last_fetched": "2026-09-05T11:30:00Z",
+      "status": 403,
+      "cache_note": "Official X profile could not be read (403); no post body was available for scoring or ingestion."
     }
   }
 }
