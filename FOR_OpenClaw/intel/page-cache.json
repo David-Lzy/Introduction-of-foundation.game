@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-09-01",
+  "updated_on": "2026-09-06",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2035,6 +2035,27 @@
       "last_fetched": "2026-09-05T11:30:00Z",
       "status": 403,
       "cache_note": "Official X profile could not be read (403); no post body was available for scoring or ingestion."
+    },
+    "https://www.ldshop.gg/blog/foundation-galactic-frontier/foundation-code.html": {
+      "fingerprint": "556000fc0d6e60926a2be37166a1c654224310b67e4c779f93d0da087144bdcb",
+      "title": "Foundation: Galactic Frontier Codes (September 2026) – Free Speedups, Water & Metal",
+      "last_fetched": "2026-09-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party retailer list incorrectly labels CHILDRENSDAY26 and GALAXYTHANKS active through September 15 despite independently recorded June expiries. FOUNDATION and FURTHERFUTURE duplicate existing unverified entries. Rejected; no code status changed."
+    },
+    "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
+      "fingerprint": "fc893ce820cd6c997d0f0108daa2ef2298f0875d931b3ededc2964185ada2e16",
+      "title": "Foundation: Galactic Frontier codes (September 2026) - Working & Daily updated | {site_name}",
+      "last_fetched": "2026-09-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "Low-trust auto-generated code page. It presents opaque rotating strings, unrelated generic prose, and states it is not affiliated with Foundation: Galactic Frontier; rejected."
+    },
+    "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
+      "fingerprint": "b2769656546e5a0ab642c7232530f372a46a2898789408773850500a7120a031",
+      "title": "Foundation Galactic Frontier Codes (SEP 2026) [UPDATED!]",
+      "last_fetched": "2026-09-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "Updated list repeats existing codes and expiry claims, including S2SupplyDrop through September 30 and CHAMPIONSPIRIT through 2029-02-03. No new code or reliable status change."
     }
   }
 }
