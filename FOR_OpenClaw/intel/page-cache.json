@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-09-06",
+  "updated_on": "2026-09-07",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -194,6 +194,13 @@
       "title": "All Working Foundation: Galactic Frontier Redeem Codes for April 2026 | BlueStacks",
       "last_fetched": "2026-04-03T10:30:51.325Z",
       "status": 200
+    },
+    "https://www.linegames.org/fr/foundation:-galactic-frontier-codes/": {
+      "fingerprint": "95aa84bf43a7282d89c5c1e28bd89bd605cd0f5c3b281b139a63e56922d36200",
+      "title": "Foundation: Galactic Frontier codes (Septembre 2026) - Actifs et mis à jour quotidiennement | LINEGames",
+      "last_fetched": "2026-09-07T11:30:00Z",
+      "status": 200,
+      "cache_note": "Unaffiliated auto-generated code page. It lists opaque rotating strings, generic copy, fabricated-looking reviews, and no source, reward, or expiration evidence; rejected."
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "0cbdff3963d2b0c865292f45093362c08e1ddc0aa5a743960682e9dcec0788ca",
