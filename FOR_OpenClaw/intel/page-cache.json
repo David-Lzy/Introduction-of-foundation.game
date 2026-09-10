@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-09-07",
+  "updated_on": "2026-09-10",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2063,6 +2063,13 @@
       "last_fetched": "2026-09-06T11:30:00Z",
       "status": 200,
       "cache_note": "Updated list repeats existing codes and expiry claims, including S2SupplyDrop through September 30 and CHAMPIONSPIRIT through 2029-02-03. No new code or reliable status change."
+    },
+    "https://www.foundation.game/en/news/epoch-of-fusion-seed-lv35-buildings-4th-battle-queue": {
+      "fingerprint": "35cf9c9ae417083eaf062955152cc944c4c66b6597eeb4d04050f75243010597",
+      "title": "Epoch of Fusion Seed — LV35 Buildings & 4th Battle Queue",
+      "last_fetched": "2026-09-10T11:30:00Z",
+      "status": 200,
+      "cache_note": "Official announcement: Week-27/60% Combat Craft Modification gate; Fusion Seed production and sources; Energy Core Lvl 35 cap; fourth Battle Queue at Core Lvl 33; Style specializations at 80%."
     }
   }
 }

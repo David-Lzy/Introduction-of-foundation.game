@@ -4,6 +4,7 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-09-10 Epoch of Fusion Seed: prepare for Lvl 35 buildings and a fourth Battle Queue](/English/news/2026-09-10)
 - [2026-09-04 Season 2 hidden-letter challenge: submit the answer with your UID](/English/news/2026-09-04)
 - [2026-09-01 September 1 action check: event-calendar timing and Navigation Day closeout](/English/news/2026-09-01)
 - [2026-08-29 August 25 maintenance: Arena settlement and cross-server preparation](/English/news/2026-08-29)
