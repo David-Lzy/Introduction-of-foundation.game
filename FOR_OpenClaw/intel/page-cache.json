@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-09-10",
+  "updated_on": "2026-09-11",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2070,6 +2070,20 @@
       "last_fetched": "2026-09-10T11:30:00Z",
       "status": 200,
       "cache_note": "Official announcement: Week-27/60% Combat Craft Modification gate; Fusion Seed production and sources; Energy Core Lvl 35 cap; fourth Battle Queue at Core Lvl 33; Style specializations at 80%."
+    },
+    "https://imginn.com/p/Dc55mb-FK3y/": {
+      "fingerprint": "02ab40120f7297b45ee86df68ed12aad29cfaeacea91a9319f2e4272dd65f5f5",
+      "title": "Foundation: Galactic Frontier (@foundation_gf_en): Official Season 2 FAQ",
+      "last_fetched": "2026-09-11T11:30:00Z",
+      "status": 200,
+      "summary": "Official-account mirror FAQ: S2 begins Sep 14 on Servers 1–16; other 90-day servers await validation. Account and Guild progression carry over; Season 1 unfinished content ends at entry with retroactive rewards; each server has its own Siwenna map; seasonal resources reset; migration is suspended during S2."
+    },
+    "https://murpo.com/news/klara-dev-feedback-abb02d696af5bfcc385e": {
+      "fingerprint": "11ae3be69f88d6afadcad06a3009d622ff0e355cb037acd81a5bbb59425bb759",
+      "title": "Galactic Frontier clarifies Season 2 transitions: guild progress, maps, and compensation",
+      "last_fetched": "2026-09-11T11:30:00Z",
+      "status": 200,
+      "summary": "Follow-up FAQ citing Foundation Discord announcements: Guild membership, research, and levels carry over; players can regroup by outer regions or Guild Hub; maps and Phase 1 progress are server-specific; no server merge."
     }
   }
 }

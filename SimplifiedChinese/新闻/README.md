@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-09-11 Season 2 问答：上线前保护好你的赛季过渡计划](/SimplifiedChinese/新闻/2026-09-11)
 - [2026-09-10 融合种子纪元：为 35 级建筑与第四战斗队列做准备](/SimplifiedChinese/新闻/2026-09-10)
 - [2026-09-04 Season 2 藏字挑战：提交答案时附上 UID](/SimplifiedChinese/新闻/2026-09-04)
 - [2026-09-01 9 月 1 日行动检查：活动日历与 Navigation Day 收尾](/SimplifiedChinese/新闻/2026-09-01)
