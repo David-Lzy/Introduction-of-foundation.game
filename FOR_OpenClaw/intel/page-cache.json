@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_on": "2026-09-11",
+  "updated_on": "2026-09-13",
   "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2084,6 +2084,13 @@
       "last_fetched": "2026-09-11T11:30:00Z",
       "status": 200,
       "summary": "Follow-up FAQ citing Foundation Discord announcements: Guild membership, research, and levels carry over; players can regroup by outer regions or Guild Hub; maps and Phase 1 progress are server-specific; no server merge."
+    },
+    "https://www.sotwe.com/foundationgf_en": {
+      "fingerprint": "f14f5a195a566bcf3bd8a4cd286bd2f70b5347004ad05f5d90acea2f3f50d0a3",
+      "title": "Foundation: Galactic Frontier @foundationgf_en - Twitter Profile | Sotwe",
+      "last_fetched": "2026-09-13T11:30:00Z",
+      "status": 200,
+      "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game."
     }
   }
 }

@@ -4,6 +4,7 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-09-13 Season 2 schedule and launch maintenance (Servers 1001–1016)](/English/news/2026-09-13)
 - [2026-09-11 Season 2 FAQ: protect your transition plan before launch](/English/news/2026-09-11)
 - [2026-09-10 Epoch of Fusion Seed: prepare for Lvl 35 buildings and a fourth Battle Queue](/English/news/2026-09-10)
 - [2026-09-04 Season 2 hidden-letter challenge: submit the answer with your UID](/English/news/2026-09-04)
