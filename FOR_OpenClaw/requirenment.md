@@ -29,11 +29,11 @@
 
 ## 4) 去重与增量规则
 - 维护去重库：`FOR_OpenClaw/intel/seen-items.jsonl`。
-- 维护页面缓存库：`FOR_OpenClaw/intel/page-cache.json`（记录 URL、上次抓取时间、内容指纹/ETag/Last-Modified、状态）。
-- 维护“已访问页面库”：`FOR_OpenClaw/intel/visited-pages.jsonl`（每行记录 url、first_seen、last_seen、status、notes）。
+- 维护页面缓存库：`FOR_OpenClaw/intel/page-cache.json`（记录 URL、规范化正文的 SHA-256 内容指纹、ETag/Last-Modified、状态和最后探测时间）。
+- 维护“已访问页面库”：`FOR_OpenClaw/intel/visited-pages.jsonl`（每行记录 url、first_seen、status、notes；只作首次发现与审计）。
 - 与历史采集结果、历史文档做比对，只保留增量。
 - 同一信息不重复入库；状态变化则更新原记录。
-- 默认不重复访问已在 `visited-pages.jsonl` 的 URL；仅 `FOR_OpenClaw/intel/recheck-whitelist.txt` 中的 URL 允许复查。
+- 每日对候选 URL 做轻量内容探测：优先条件请求；无验证器时计算规范化正文的 SHA-256。哈希/验证器未变化时，立即停止，不再阅读、评分或入库；只有新 URL 或内容哈希变化才进入正文处理与打分。`visited-pages.jsonl` 不得作为跳过动态来源的门槛。
 
 ## 5) 文档组织与分类
 - 项目整体视为教程体系（不是单独“教程区”逻辑）。

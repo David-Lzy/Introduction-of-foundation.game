@@ -1,7 +1,7 @@
 {
-  "version": 1,
-  "updated_on": "2026-09-13",
-  "description": "Daily crawl page cache to avoid re-reading unchanged pages.",
+  "version": 2,
+  "updated_on": "2026-09-14",
+  "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
       "fingerprint": "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6",

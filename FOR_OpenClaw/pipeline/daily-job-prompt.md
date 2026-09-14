@@ -12,15 +12,16 @@
 - 先逐条打分，再决定是否入库。
 - 对通过入库的来源，必须把关键内容“整理进正文”（步骤/要点/结论），并在文末给出引用来源；禁止只放链接指针。
 
-候选处理流程：
-1) 先查已访问页面库（FOR_OpenClaw/intel/visited-pages.jsonl）：
-   - 若 URL 已访问且不在 FOR_OpenClaw/intel/recheck-whitelist.txt，直接跳过，不再访问。
-2) 再查页面缓存（FOR_OpenClaw/intel/page-cache.json）：若 URL 内容指纹未变化，可复用缓存摘要。
-3) 读取正文（禁止只贴链接）
-4) 去重比对（FOR_OpenClaw/intel/seen-items.jsonl + 历史文档）
-5) 按 scorecard 四维打分（credibility/actionability/novelty/freshness）
-6) 通过 ingestion gate 才可进入“可写候选”
-7) 应用 daily gate：
+候选处理流程（内容哈希增量检测）：
+1) 先查页面缓存（FOR_OpenClaw/intel/page-cache.json），再对每个候选 URL 做**轻量内容探测**；`visited-pages.jsonl` 仅保留首次发现/审计记录，绝不可再作为“已访问即跳过”的门槛。
+   - 缓存项存在 `etag` 或 `last_modified` 时，优先使用条件请求（`If-None-Match` / `If-Modified-Since`）。收到 `304 Not Modified` 即为 `cache_hit`，不得下载、阅读或评分正文。
+   - 无可用验证器时，获取可读正文并按同一规范化规则（去掉抓取时间、cookie 横幅、随机 nonce、导航/广告等不属于文章主体的噪声）计算 UTF-8 `SHA-256`。哈希等于缓存 `fingerprint` 时记为 `cache_hit`：立刻停止，不做语义阅读、评分、历史比对或玩家文档改动。
+   - 首次遇到 URL 记为 `cache_miss`；哈希不同或条件请求返回新的正文记为 `cache_changed`。只有这两种状态才读取正文并继续后续流程。
+   - 探测失败、403、验证码页或无法得到稳定正文时记为 `probe_error`；保存状态和探测时间，但不得以旧缓存或搜索摘要推断发生变化。
+2) 对 `cache_miss` / `cache_changed` 的正文做去重比对（FOR_OpenClaw/intel/seen-items.jsonl + 历史文档）。
+3) 按 scorecard 四维打分（credibility/actionability/novelty/freshness）。
+4) 通过 ingestion gate 才可进入“可写候选”。
+5) 应用 daily gate：
    - 若当日通过候选 < N 且无高价值增量：只发日报，不改玩家文档
 
 目录与分类：
@@ -42,10 +43,9 @@
 输出：
 - FOR_OpenClaw/intel/reports/YYYY-MM-DD.md
   - 必含每个候选的打分卡记录与通过/丢弃原因
-  - 标注缓存命中情况（cache_hit/cache_miss）
-  - 标注已访问跳过情况（visited_skip）
-- 更新 FOR_OpenClaw/intel/page-cache.json（新增/刷新 URL 指纹与时间）
-- 更新 FOR_OpenClaw/intel/visited-pages.jsonl（新增本日实际访问 URL）
+- 标注探测结果（cache_hit/cache_miss/cache_changed/probe_error）及每个命中/变化 URL 的哈希判定；不得再以 `visited_skip` 作为内容去重结论。
+- 更新 FOR_OpenClaw/intel/page-cache.json：每项至少保存 `fingerprint`（规范化正文的 SHA-256）、`fingerprint_algorithm: sha256`、`last_checked`、`status`；可用时也保存 `etag` / `last_modified`。仅内容变化时刷新 `last_fetched`、标题和正文摘要。
+- 更新 FOR_OpenClaw/intel/visited-pages.jsonl：仅首次发现 URL 时新增；不要为未变化页面追加重复记录。
 - 仅在阈值满足时写入玩家目录（三语镜像）
 - 任务结束前执行术语 lint（禁用词残留=0）
 
