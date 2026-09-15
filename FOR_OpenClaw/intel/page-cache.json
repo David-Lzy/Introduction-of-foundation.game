@@ -74,10 +74,13 @@
       "cache_note": "Third-party mirror of official Instagram maintenance post; details explicitly subject to change."
     },
     "https://www.foundation.game/en/news": {
-      "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
+      "fingerprint": "d32f134ace2cf5c67192f2c6f1fed4bbe6c9011740308fdfd8de2c77e4fb79f9",
+      "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-04-03T10:30:51.325Z",
-      "status": 200
+      "last_fetched": "2026-09-15T11:31:16Z",
+      "last_checked": "2026-09-15T11:31:16Z",
+      "status": 200,
+      "summary": "Official news index unchanged in substance: the latest entry remains the Sep 9 Epoch of Fusion Seed update already ingested on Sep 10."
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
       "fingerprint": "1e6cbece996ad4c8887505009ec0e4e39aa91b03d58f059d7755b38fe6401528",
@@ -2002,16 +2005,20 @@
       "summary": "Third-party mirror of official-account posts: current Aug 31-Sep 6 calendar guidance; Beacon Fest for servers 1017-1231 through Sep 1; and NavigationDay26, listed through Sep 21 UTC for AP Potion 100 x1, Venturous Memory x5, and 30-minute Universal Speedup x3. Schedule and redemption require in-game confirmation."
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "fa13a6ef00b9aff44a9080d9feb848a6407b08861b354ffda4d1f84279021797",
+      "fingerprint": "6b1f8573b23c3350e8f14e40da0abee81c6ca2ab6e9eead59a2b6e2213a077a8",
+      "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (September 2026) - Fill up on Water and Metal",
-      "last_fetched": "2026-09-03T11:30:00Z",
+      "last_fetched": "2026-09-15T11:31:17Z",
+      "last_checked": "2026-09-15T11:31:17Z",
       "status": 200,
       "cache_note": "Current list repeats FOUNDATION and FURTHERFUTURE, already in player code tables. Its expired-code list is consistent with prior expiry evidence; no new actionable code or status flip."
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "4ba8a4588caaa2e1397cbb2239d23f857e49cfae663652ecf5c50f1d0154d8ec",
+      "fingerprint": "3a939ac527e260022aa5aeaf99f899dab1796c9d8fdb9e266471365772683de8",
+      "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes in September 2026 | Free and valid",
-      "last_fetched": "2026-09-03T11:30:00Z",
+      "last_fetched": "2026-09-15T11:31:18Z",
+      "last_checked": "2026-09-15T11:31:18Z",
       "status": 200,
       "cache_note": "Third-party list claims CHILDRENSDAY26, MOTHERDAY26 and other elapsed codes are valid despite independent sources placing their expiry in June. Rejected as internally stale/inconsistent; no status change recorded."
     },
@@ -2051,9 +2058,11 @@
       "cache_note": "Third-party retailer list incorrectly labels CHILDRENSDAY26 and GALAXYTHANKS active through September 15 despite independently recorded June expiries. FOUNDATION and FURTHERFUTURE duplicate existing unverified entries. Rejected; no code status changed."
     },
     "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
-      "fingerprint": "fc893ce820cd6c997d0f0108daa2ef2298f0875d931b3ededc2964185ada2e16",
+      "fingerprint": "a69ee8ecbf39e553d67efe8a24a86a170499265b27f5b669114142fb6576029c",
+      "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (September 2026) - Working & Daily updated | {site_name}",
-      "last_fetched": "2026-09-06T11:30:00Z",
+      "last_fetched": "2026-09-15T11:31:21Z",
+      "last_checked": "2026-09-15T11:31:21Z",
       "status": 200,
       "cache_note": "Low-trust auto-generated code page. It presents opaque rotating strings, unrelated generic prose, and states it is not affiliated with Foundation: Galactic Frontier; rejected."
     },
@@ -2091,6 +2100,15 @@
       "last_fetched": "2026-09-13T11:30:00Z",
       "status": 200,
       "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game."
+    },
+    "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
+      "fingerprint": "bdbdd5ac027011a3b25afca6e90dda7616a2134ae0aa719fc0a43d974dcc04ce",
+      "fingerprint_algorithm": "sha256",
+      "title": "Foundation: Galactic Frontier Gift Codes (September 2026)",
+      "last_fetched": "2026-09-15T11:31:20Z",
+      "last_checked": "2026-09-15T11:31:20Z",
+      "status": 200,
+      "summary": "Third-party commercial code article repeats S2SupplyDrop, CHILDRENSDAY26, GALAXYTHANKS, FOUNDATION, and FURTHERFUTURE. Its active claims conflict with recorded expiry evidence for the June codes; no new code or reliable status change."
     }
   }
 }
