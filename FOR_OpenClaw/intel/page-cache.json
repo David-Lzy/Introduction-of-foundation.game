@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-09-14",
+  "updated_on": "2026-09-16T11:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -74,13 +74,13 @@
       "cache_note": "Third-party mirror of official Instagram maintenance post; details explicitly subject to change."
     },
     "https://www.foundation.game/en/news": {
-      "fingerprint": "d32f134ace2cf5c67192f2c6f1fed4bbe6c9011740308fdfd8de2c77e4fb79f9",
+      "fingerprint": "80f49e665f5b2a3d1dfc3d51f24bcd5f2d5e27dbc011c8bdeeae655967affe1e",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-09-15T11:31:16Z",
-      "last_checked": "2026-09-15T11:31:16Z",
+      "last_fetched": "2026-09-16T11:30:00Z",
+      "last_checked": "2026-09-16T11:30:00Z",
       "status": 200,
-      "summary": "Official news index unchanged in substance: the latest entry remains the Sep 9 Epoch of Fusion Seed update already ingested on Sep 10."
+      "summary": "Official news index remains substantively unchanged: its latest entry is the Sep 9 Epoch of Fusion Seed update already ingested on Sep 10."
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
       "fingerprint": "1e6cbece996ad4c8887505009ec0e4e39aa91b03d58f059d7755b38fe6401528",
@@ -145,10 +145,15 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "91ed307f23734851da11f63abc54a7ac8ce1ef12df8ff47f5d5ef624756c3cd7",
-      "title": "Foundation: Galactic Frontier codes (March 2026) - Fill up on Water and Metal",
-      "last_fetched": "2026-04-03T10:30:51.325Z",
-      "status": 200
+      "fingerprint": "6dd203a02b8d5a163e87299e47d26f9a5a6e03f354a2c7af62ddccba7f87dcec",
+      "fingerprint_algorithm": "sha256",
+      "title": "Foundation: Galactic Frontier codes (September 2026) - Fill up on Water and Metal",
+      "last_fetched": "2026-09-16T11:30:00Z",
+      "last_checked": "2026-09-16T11:30:00Z",
+      "status": 200,
+      "cache_note": "Current list repeats FOUNDATION and FURTHERFUTURE, already in player code tables. Its expired-code list is consistent with prior expiry evidence; no new actionable code or status flip.",
+      "last_modified": "Mon, 14 Sep 2026 02:06:14 GMT",
+      "summary": "Current list repeats already recorded codes and redemption steps; its historical expiry list adds no reliable status change."
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
       "fingerprint": "9b6422fe9d554c75fa1be4a98a6c4089d9c7216ad9b58c0bf882d557bfec3e98",
@@ -193,10 +198,14 @@
       "status": 200
     },
     "https://www.bluestacks.com/blog/redeem-codes/foundation-galactic-frontier-redeem-codes-en.html": {
-      "fingerprint": "86156b72d6c99175571c3946ea00de89fd099418f84e9f90bcf6f1e4c511b418",
-      "title": "All Working Foundation: Galactic Frontier Redeem Codes for April 2026 | BlueStacks",
-      "last_fetched": "2026-04-03T10:30:51.325Z",
-      "status": 200
+      "fingerprint": "8d3d7a93140d2cd0eb4a4fa0a3762f4f4fa3724646cfc2cfd62d394af77f2b1a",
+      "title": "All Working Foundation: Galactic Frontier Redeem Codes for September 2026",
+      "last_fetched": "2026-09-16T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party list repeats FOUNDATION and FURTHERFUTURE and incorrectly claims STELLARSTART active despite established expiry evidence. Rejected; no new code or status change.",
+      "summary": "Third-party list repeats FOUNDATION and FURTHERFUTURE and again labels historically expired STELLARSTART as active; no reliable new code or status change.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-16T11:30:00Z"
     },
     "https://www.linegames.org/fr/foundation:-galactic-frontier-codes/": {
       "fingerprint": "95aa84bf43a7282d89c5c1e28bd89bd605cd0f5c3b281b139a63e56922d36200",
@@ -206,16 +215,18 @@
       "cache_note": "Unaffiliated auto-generated code page. It lists opaque rotating strings, generic copy, fabricated-looking reviews, and no source, reward, or expiration evidence; rejected."
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "0cbdff3963d2b0c865292f45093362c08e1ddc0aa5a743960682e9dcec0788ca",
-      "title": "Foundation Galactic Frontier Codes (JUL 2026) [UPDATED!]",
-      "last_fetched": "2026-08-02T11:33:40Z",
-      "status": 200
+      "fingerprint": "b2769656546e5a0ab642c7232530f372a46a2898789408773850500a7120a031",
+      "title": "Foundation Galactic Frontier Codes (SEP 2026) [UPDATED!]",
+      "last_fetched": "2026-09-06T11:30:00Z",
+      "status": 200,
+      "cache_note": "Updated list repeats existing codes and expiry claims, including S2SupplyDrop through September 30 and CHAMPIONSPIRIT through 2029-02-03. No new code or reliable status change."
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "84339838ef39b2cbc9cf6db3cea11591849d13a1a8abab7689e7ed820c4e41f9",
-      "title": "Just a moment...",
-      "last_fetched": "2026-03-04T10:31:30Z",
-      "status": 403
+      "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
+      "title": "Foundation Galactic Frontier Codes August 2026 [UPDATED] - MrGuider",
+      "last_fetched": "2026-08-21T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party page updated August 20 lists S2SupplyDrop as free rewards through 2026-09-30. Ingested under the code override with status=unverified and the required risk note."
     },
     "https://www.supercheats.com/foundation-galactic-frontier-codes": {
       "fingerprint": "84339838ef39b2cbc9cf6db3cea11591849d13a1a8abab7689e7ed820c4e41f9",
@@ -279,10 +290,11 @@
       "status": 200
     },
     "https://www.memuplay.com/blog/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "b90905de79029cfb52b90dc4fd74fe14f151acb21923f424bee3ce7c1d727876",
-      "title": "Fetch result",
-      "last_fetched": "2026-03-07T10:31:41Z",
-      "status": 200
+      "fingerprint": "e012ecd4f3a1f1255fff8c322f68239eacebb88022c8c7b22f699589a6cd8b9c",
+      "title": "Latest Foundation: Galactic Frontier Codes September 2026: Free Rewards & Redeem Guide",
+      "last_fetched": "2026-09-03T11:30:00Z",
+      "status": 200,
+      "cache_note": "Third-party page lists only already-recorded S2SupplyDrop through 2026-09-30 and repeats the redemption path. No new code or status evidence."
     },
     "https://www.facebook.com/FoundationGalacticFrontier/posts/%EF%B8%8F-cheers-to-a-new-galactic-year-traders-the-galaxy-is-alive-with-energy-start-20/122233461686252135/": {
       "fingerprint": "64a0354cd2f12d9792eca3f6edf0c9492829d6834d8d3134714ed65ef19f2b28",
@@ -827,11 +839,14 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "1f3396b01b6ff2dc1fd0e29e40f59d8b7b213b3105fdf6fffc016fbb5d31d1e4",
-      "title": "Foundation: Galactic Frontier codes in July 2026 - Mobi.gg",
-      "last_fetched": "2026-07-27T11:30:00Z",
+      "fingerprint": "28b5f8dd2b08819dbceb54bfde9c7ec5c9780955b8b992c7170502ef1c900ae4",
+      "fingerprint_algorithm": "sha256",
+      "title": "Foundation: Galactic Frontier codes in September 2026 | Free and valid",
+      "last_fetched": "2026-09-16T11:30:00Z",
+      "last_checked": "2026-09-16T11:30:00Z",
       "status": 200,
-      "cache_note": "Page body dated Jun 1. Its July-labelled list contains CHILDRENSDAY26, MOTHERDAY26, NEWFRONTIER, FOUNDATION, FURTHERFUTURE, and CHAMPIONSPIRIT; all are existing project records and the page gives no per-code reward or expiry evidence. Rejected for no novelty and stale status claims."
+      "cache_note": "Third-party list claims CHILDRENSDAY26, MOTHERDAY26 and other elapsed codes are valid despite independent sources placing their expiry in June. Rejected as internally stale/inconsistent; no status change recorded.",
+      "summary": "Third-party list repeats existing codes and presents elapsed codes as valid; no reliable status change."
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=id": {
       "fingerprint": "d6f990a9d63866e6684d7cd7442914246ae7b91f551815800bd30b9aa7aa96fb",
@@ -1023,11 +1038,11 @@
       "cache_note": "2026-05-14 first fetch; dated 2025-10-21 global launch trailer promo, no current player-facing increment"
     },
     "https://w.twstalker.com/FoundationGF_EN": {
-      "fingerprint": "76201914243227f3d9157d84ab7419f665b889a5eed357fb012cb45b4013f466",
-      "title": "Foundation: Galactic Front @FoundationGF_EN - Twitter Profile | TwStalker",
-      "last_fetched": "2026-05-15T11:36:00Z",
+      "fingerprint": "361f151ba7380c4ba04b9da77166decdf0936e5e39693a426c772c1dffeb030c",
+      "title": "Foundation: Galactic Frontier @FoundationGF_EN",
+      "last_fetched": "2026-08-21T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-15 search-snippet verified social mirror; migration rules + United Frontline test scope + Gungnir + Dominion Warzone point tuning + MOTHERDAY26 code"
+      "cache_note": "Search capture exposed current August 18 hot-update, Navigation Day, and writing-contest text attributed to the official account. The direct mirror page itself has unreliable timestamps; player-facing entries retain this limitation."
     },
     "https://apps.apple.com/jm/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "3f60fe622ca1ece90fbb19b97704047d6fd03d5f4ee14bc227df9e8985ead28b",
@@ -1774,11 +1789,15 @@
       "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
     },
     "https://levelgeeks.net/foundation-galactic-frontier-codes/": {
-      "fingerprint": "41a41cc476f0f9853eb157d10fc2c61f8450e2b772f23d6abed5a6d8ba7e0cd6",
-      "title": "Foundation Galactic Frontier Codes (July 2026)",
-      "last_fetched": "2026-07-20T11:30:00Z",
+      "fingerprint": "35dd7097060dfcc375cfc1ad1475f01dd36f7c8124989df1360cff7ee5d73e34",
+      "title": "Foundation Galactic Frontier Codes (September 2026)",
+      "last_fetched": "2026-09-16T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party code list updated Jul 7; its claimed active list includes already-expired June codes and an unsupported long code list. Rejected as stale/internally inconsistent; no new code record created."
+      "cache_note": "Third-party code list updated Jul 7; its claimed active list includes already-expired June codes and an unsupported long code list. Rejected as stale/internally inconsistent; no new code record created.",
+      "last_modified": "Wed, 16 Sep 2026 09:09:57 GMT",
+      "summary": "Third-party list repeats recorded codes and unsupported PLAYONPC2026; no reward, validity, or primary-source evidence supports a new record.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-16T11:30:00Z"
     },
     "https://guidesgame.ru/podarochnye-kody/foundation-galactic-frontier-rabochie-kody/": {
       "fingerprint": "198d165b163cb07e3227e334b60f278731fef856703e573a8e4876c2cb964641",
@@ -1795,11 +1814,11 @@
       "cache_note": "Third-party code article published Jul 1; body repeatedly calls its list May 2026 while labelling it July, lists expired codes without per-code sources/rewards/expiry, and gives only the already-known redemption path. Rejected as stale/internally inconsistent."
     },
     "https://www.ldshop.gg/blog/foundation-galactic-frontier/foundation-code.html": {
-      "fingerprint": "3c89bb7be7932b5ebac7d1cc4d945f019b169ed43d7d858c0784701420c056ab",
-      "title": "Foundation: Galactic Frontier Codes (July 2026) – Free Speedups, Water & Metal",
-      "last_fetched": "2026-07-26T11:30:00Z",
+      "fingerprint": "556000fc0d6e60926a2be37166a1c654224310b67e4c779f93d0da087144bdcb",
+      "title": "Foundation: Galactic Frontier Codes (September 2026) – Free Speedups, Water & Metal",
+      "last_fetched": "2026-09-06T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party list dated Jul 15. It marks CHILDRENSDAY26 and GALAXYTHANKS active through Jul 15 although the fetch was Jul 26; FOUNDATION and FURTHERFUTURE plus the redemption path are already recorded. Rejected for no novelty and stale status claims; no new code record created."
+      "cache_note": "Third-party retailer list incorrectly labels CHILDRENSDAY26 and GALAXYTHANKS active through September 15 despite independently recorded June expiries. FOUNDATION and FURTHERFUTURE duplicate existing unverified entries. Rejected; no code status changed."
     },
     "https://foundation-galactic-frontier.soft112.com/": {
       "fingerprint": "cabcfb9be10996511a49d19767833d1afce3afd72508cfb8fd135dbc1a9ba9f9",
@@ -1809,11 +1828,15 @@
       "cache_note": "Mirror version history; newest entry is version 1.1.67.222607 posted Jun 4. Its Stamina/Champion Weapon shop, Sacred Tribute Vessel duration, and mail ranking-visual notes are 50 days old; related features already exist in project records. Rejected for low novelty/freshness."
     },
     "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
-      "fingerprint": "ecce220cede141d32d3b9e1168272880010d09907c9510f3a4eee0fa298492db",
-      "title": "Foundation: Galactic Frontier codes (December 2025) - Working & Daily updated | {site_name}",
-      "last_fetched": "2026-07-28T11:30:00Z",
+      "fingerprint": "0b1bb8d8d8631c4bd3714ed6ce9d091215cce171f6b4edf9c9fe5d913150b311",
+      "fingerprint_algorithm": "sha256",
+      "title": "Foundation: Galactic Frontier codes (September 2026) - Working & Daily updated | {site_name}",
+      "last_fetched": "2026-09-16T11:30:00Z",
+      "last_checked": "2026-09-16T11:30:00Z",
       "status": 200,
-      "cache_note": "GameEDU third-party rotating-code page. Its page body is dated Dec 23, 2025 despite a current-search label, says it is not affiliated with the game, and supplies unsupported generic strings. Rejected as stale, unverifiable content-farm material."
+      "cache_note": "Low-trust auto-generated code page. It presents opaque rotating strings, unrelated generic prose, and states it is not affiliated with Foundation: Galactic Frontier; rejected.",
+      "last_modified": "Wed, 16 Sep 2026 11:28:18 GMT",
+      "summary": "Low-trust auto-generated code page with opaque rotating strings and no verifiable rewards; rejected."
     },
     "https://funplus.com/funplus-general-campaign-terms-and-conditions/en/": {
       "fingerprint": "5dac8567cf7cb8299a5b58e48a0db5093844ba4d667e48902e2c6bb2ebe99177",
@@ -1942,11 +1965,11 @@
       "cache_note": "Official portal accepts a character UID and gift code, then directs players to claim the redeemed gift through in-game mail."
     },
     "https://twstalker.com/FoundationGF_EN": {
-      "fingerprint": "0e788b41bb28efbf8f69fbc7f76bb6bf5dde965b2050fcabd89f085d98be7e6c",
+      "fingerprint": "7aafd6709a364f3f90b9f4c4fd84daf21f3e9fc3eced9c40b7380f3d67d9d6e0",
       "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | TwStalker",
-      "last_fetched": "2026-08-12T11:30:00Z",
-      "status": 200,
-      "cache_note": "Third-party mirror exposed stale April 2026 posts rather than current August information; no new player-actionable update or redeem code. Rejected."
+      "last_fetched": "2026-09-04T11:30:00Z",
+      "status": 403,
+      "cache_note": "Direct fetch was blocked, but the indexed page body exposed an official-account mirror post: a hidden-letter Season 2 challenge runs Sep 1 00:01 UTC through Sep 8 23:59 UTC; entrants assemble letters found in posts from Aug 4 onward and comment the word plus UID. Ten winners receive 2,000 Credits. Ingested as a time-limited actionable event; verify against the official live post."
     },
     "https://ngntipkolamrenang.twstalker.com/FoundationGF_EN": {
       "fingerprint": "df5f40bea0de4c64c832a43da8516c73c8de7aa7576bd0087df413308890c929",
@@ -1954,20 +1977,6 @@
       "last_fetched": "2026-08-19T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party TwStalker mirror profile: event-calendar post lists calendar A/B server scope and says timing may change; profile page presents unreliable relative timestamps and mixed stale content; no independently verifiable current event details or code. Rejected."
-    },
-    "https://w.twstalker.com/FoundationGF_EN": {
-      "fingerprint": "361f151ba7380c4ba04b9da77166decdf0936e5e39693a426c772c1dffeb030c",
-      "title": "Foundation: Galactic Frontier @FoundationGF_EN",
-      "last_fetched": "2026-08-21T11:30:00Z",
-      "status": 200,
-      "cache_note": "Search capture exposed current August 18 hot-update, Navigation Day, and writing-contest text attributed to the official account. The direct mirror page itself has unreliable timestamps; player-facing entries retain this limitation."
-    },
-    "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
-      "title": "Foundation Galactic Frontier Codes August 2026 [UPDATED] - MrGuider",
-      "last_fetched": "2026-08-21T11:30:00Z",
-      "status": 200,
-      "cache_note": "Third-party page updated August 20 lists S2SupplyDrop as free rewards through 2026-09-30. Ingested under the code override with status=unverified and the required risk note."
     },
     "https://boostbot.org/blog/foundation-galactic-frontier-gift-codes/": {
       "fingerprint": "abff969076f990736c8636f1ee30782e01d5b5810f2f9dd32f6ef6d856cbd9ca",
@@ -1990,13 +1999,6 @@
       "status": 200,
       "cache_note": "Third-party news aggregator reproduced an August 25 maintenance notice: 27-week Energy Core expansion availability; Glory Arena lockout and defense-retention changes; Ruins Raiders cross-server testing; occupation leader selection; speedup/resource UI; style-center energy use; and Stellar Recruitment testing. One eligible but non-high-value increment; held behind the daily two-item gate pending primary confirmation."
     },
-    "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
-      "fingerprint": "fb9c107f43f27d07083f497f7dbc2e8b79390883a2b5a3402eb085c0653ceeb9",
-      "title": "Foundation: Galactic Frontier codes (August 2026) - Working & Daily updated | {site_name}",
-      "last_fetched": "2026-08-28T11:30:00Z",
-      "status": 200,
-      "cache_note": "Low-trust auto-generated code page. Its code list changes dynamically, supplies no source or reward evidence, and includes a share-to-unlock bundle; rejected."
-    },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
       "fingerprint": "27cffeb64206c4601b5ffc9fa633821e6fb8deef333c5830d68852a4bfe0c3cb",
       "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | Sotwe",
@@ -2004,74 +2006,12 @@
       "status": 200,
       "summary": "Third-party mirror of official-account posts: current Aug 31-Sep 6 calendar guidance; Beacon Fest for servers 1017-1231 through Sep 1; and NavigationDay26, listed through Sep 21 UTC for AP Potion 100 x1, Venturous Memory x5, and 30-minute Universal Speedup x3. Schedule and redemption require in-game confirmation."
     },
-    "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "6b1f8573b23c3350e8f14e40da0abee81c6ca2ab6e9eead59a2b6e2213a077a8",
-      "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes (September 2026) - Fill up on Water and Metal",
-      "last_fetched": "2026-09-15T11:31:17Z",
-      "last_checked": "2026-09-15T11:31:17Z",
-      "status": 200,
-      "cache_note": "Current list repeats FOUNDATION and FURTHERFUTURE, already in player code tables. Its expired-code list is consistent with prior expiry evidence; no new actionable code or status flip."
-    },
-    "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "3a939ac527e260022aa5aeaf99f899dab1796c9d8fdb9e266471365772683de8",
-      "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes in September 2026 | Free and valid",
-      "last_fetched": "2026-09-15T11:31:18Z",
-      "last_checked": "2026-09-15T11:31:18Z",
-      "status": 200,
-      "cache_note": "Third-party list claims CHILDRENSDAY26, MOTHERDAY26 and other elapsed codes are valid despite independent sources placing their expiry in June. Rejected as internally stale/inconsistent; no status change recorded."
-    },
-    "https://www.bluestacks.com/blog/redeem-codes/foundation-galactic-frontier-redeem-codes-en.html": {
-      "fingerprint": "e05877bbe6f53a0af11b8d2a64491385e5118d84f08bb1bd2585dd99e4df16a2",
-      "title": "All Working Foundation: Galactic Frontier Redeem Codes for September 2026",
-      "last_fetched": "2026-09-03T11:30:00Z",
-      "status": 200,
-      "cache_note": "Third-party list repeats FOUNDATION and FURTHERFUTURE and incorrectly claims STELLARSTART active despite established expiry evidence. Rejected; no new code or status change."
-    },
-    "https://www.memuplay.com/blog/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "e012ecd4f3a1f1255fff8c322f68239eacebb88022c8c7b22f699589a6cd8b9c",
-      "title": "Latest Foundation: Galactic Frontier Codes September 2026: Free Rewards & Redeem Guide",
-      "last_fetched": "2026-09-03T11:30:00Z",
-      "status": 200,
-      "cache_note": "Third-party page lists only already-recorded S2SupplyDrop through 2026-09-30 and repeats the redemption path. No new code or status evidence."
-    },
-    "https://twstalker.com/FoundationGF_EN": {
-      "fingerprint": "7aafd6709a364f3f90b9f4c4fd84daf21f3e9fc3eced9c40b7380f3d67d9d6e0",
-      "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | TwStalker",
-      "last_fetched": "2026-09-04T11:30:00Z",
-      "status": 403,
-      "cache_note": "Direct fetch was blocked, but the indexed page body exposed an official-account mirror post: a hidden-letter Season 2 challenge runs Sep 1 00:01 UTC through Sep 8 23:59 UTC; entrants assemble letters found in posts from Aug 4 onward and comment the word plus UID. Ten winners receive 2,000 Credits. Ingested as a time-limited actionable event; verify against the official live post."
-    },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
       "title": "Foundation: Galactic Frontier (@FoundationGF_EN)",
       "last_fetched": "2026-09-05T11:30:00Z",
       "status": 403,
       "cache_note": "Official X profile could not be read (403); no post body was available for scoring or ingestion."
-    },
-    "https://www.ldshop.gg/blog/foundation-galactic-frontier/foundation-code.html": {
-      "fingerprint": "556000fc0d6e60926a2be37166a1c654224310b67e4c779f93d0da087144bdcb",
-      "title": "Foundation: Galactic Frontier Codes (September 2026) – Free Speedups, Water & Metal",
-      "last_fetched": "2026-09-06T11:30:00Z",
-      "status": 200,
-      "cache_note": "Third-party retailer list incorrectly labels CHILDRENSDAY26 and GALAXYTHANKS active through September 15 despite independently recorded June expiries. FOUNDATION and FURTHERFUTURE duplicate existing unverified entries. Rejected; no code status changed."
-    },
-    "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
-      "fingerprint": "a69ee8ecbf39e553d67efe8a24a86a170499265b27f5b669114142fb6576029c",
-      "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes (September 2026) - Working & Daily updated | {site_name}",
-      "last_fetched": "2026-09-15T11:31:21Z",
-      "last_checked": "2026-09-15T11:31:21Z",
-      "status": 200,
-      "cache_note": "Low-trust auto-generated code page. It presents opaque rotating strings, unrelated generic prose, and states it is not affiliated with Foundation: Galactic Frontier; rejected."
-    },
-    "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "b2769656546e5a0ab642c7232530f372a46a2898789408773850500a7120a031",
-      "title": "Foundation Galactic Frontier Codes (SEP 2026) [UPDATED!]",
-      "last_fetched": "2026-09-06T11:30:00Z",
-      "status": 200,
-      "cache_note": "Updated list repeats existing codes and expiry claims, including S2SupplyDrop through September 30 and CHAMPIONSPIRIT through 2029-02-03. No new code or reliable status change."
     },
     "https://www.foundation.game/en/news/epoch-of-fusion-seed-lv35-buildings-4th-battle-queue": {
       "fingerprint": "35cf9c9ae417083eaf062955152cc944c4c66b6597eeb4d04050f75243010597",
@@ -2102,13 +2042,13 @@
       "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game."
     },
     "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "bdbdd5ac027011a3b25afca6e90dda7616a2134ae0aa719fc0a43d974dcc04ce",
+      "fingerprint": "ea255d5ee96212060e69c1aae976c24a42f3d9f1dd6f765ec4693bd6afc4260d",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Gift Codes (September 2026)",
-      "last_fetched": "2026-09-15T11:31:20Z",
-      "last_checked": "2026-09-15T11:31:20Z",
+      "last_fetched": "2026-09-16T11:30:00Z",
+      "last_checked": "2026-09-16T11:30:00Z",
       "status": 200,
-      "summary": "Third-party commercial code article repeats S2SupplyDrop, CHILDRENSDAY26, GALAXYTHANKS, FOUNDATION, and FURTHERFUTURE. Its active claims conflict with recorded expiry evidence for the June codes; no new code or reliable status change."
+      "summary": "Third-party commercial code article repeats recorded codes; its active claims for old codes conflict with recorded expiry evidence."
     }
   }
 }
