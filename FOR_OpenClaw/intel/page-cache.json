@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-09-16T11:30:00Z",
+  "updated_on": "2026-09-17T11:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -74,11 +74,11 @@
       "cache_note": "Third-party mirror of official Instagram maintenance post; details explicitly subject to change."
     },
     "https://www.foundation.game/en/news": {
-      "fingerprint": "80f49e665f5b2a3d1dfc3d51f24bcd5f2d5e27dbc011c8bdeeae655967affe1e",
+      "fingerprint": "31c4605d09e59920ff641ae0f52af17b9fd206161bbf50595ac498b2cf87f7ea",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-09-16T11:30:00Z",
-      "last_checked": "2026-09-16T11:30:00Z",
+      "last_fetched": "2026-09-17T11:30:00Z",
+      "last_checked": "2026-09-17T11:30:00Z",
       "status": 200,
       "summary": "Official news index remains substantively unchanged: its latest entry is the Sep 9 Epoch of Fusion Seed update already ingested on Sep 10."
     },
@@ -149,7 +149,7 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (September 2026) - Fill up on Water and Metal",
       "last_fetched": "2026-09-16T11:30:00Z",
-      "last_checked": "2026-09-16T11:30:00Z",
+      "last_checked": "2026-09-17T11:30:00Z",
       "status": 200,
       "cache_note": "Current list repeats FOUNDATION and FURTHERFUTURE, already in player code tables. Its expired-code list is consistent with prior expiry evidence; no new actionable code or status flip.",
       "last_modified": "Mon, 14 Sep 2026 02:06:14 GMT",
@@ -198,14 +198,14 @@
       "status": 200
     },
     "https://www.bluestacks.com/blog/redeem-codes/foundation-galactic-frontier-redeem-codes-en.html": {
-      "fingerprint": "8d3d7a93140d2cd0eb4a4fa0a3762f4f4fa3724646cfc2cfd62d394af77f2b1a",
+      "fingerprint": "ae16fd3590910a3b50ce99a3c9de26964a7c54e80df05eda53067e70155f75d9",
       "title": "All Working Foundation: Galactic Frontier Redeem Codes for September 2026",
-      "last_fetched": "2026-09-16T11:30:00Z",
+      "last_fetched": "2026-09-17T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party list repeats FOUNDATION and FURTHERFUTURE and incorrectly claims STELLARSTART active despite established expiry evidence. Rejected; no new code or status change.",
       "summary": "Third-party list repeats FOUNDATION and FURTHERFUTURE and again labels historically expired STELLARSTART as active; no reliable new code or status change.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-16T11:30:00Z"
+      "last_checked": "2026-09-17T11:30:00Z"
     },
     "https://www.linegames.org/fr/foundation:-galactic-frontier-codes/": {
       "fingerprint": "95aa84bf43a7282d89c5c1e28bd89bd605cd0f5c3b281b139a63e56922d36200",
@@ -839,11 +839,11 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "28b5f8dd2b08819dbceb54bfde9c7ec5c9780955b8b992c7170502ef1c900ae4",
+      "fingerprint": "6200dcfa67bc5cecd60c87aa5d6d42c900f65adaa78e2908ab6fdeecab9d9fa2",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes in September 2026 | Free and valid",
-      "last_fetched": "2026-09-16T11:30:00Z",
-      "last_checked": "2026-09-16T11:30:00Z",
+      "last_fetched": "2026-09-17T11:30:00Z",
+      "last_checked": "2026-09-17T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party list claims CHILDRENSDAY26, MOTHERDAY26 and other elapsed codes are valid despite independent sources placing their expiry in June. Rejected as internally stale/inconsistent; no status change recorded.",
       "summary": "Third-party list repeats existing codes and presents elapsed codes as valid; no reliable status change."
@@ -1789,15 +1789,15 @@
       "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
     },
     "https://levelgeeks.net/foundation-galactic-frontier-codes/": {
-      "fingerprint": "35dd7097060dfcc375cfc1ad1475f01dd36f7c8124989df1360cff7ee5d73e34",
+      "fingerprint": "357cd7ad70dceb94d19be3ab5a2e3d188ee66365de62f426c04659febc448c01",
       "title": "Foundation Galactic Frontier Codes (September 2026)",
-      "last_fetched": "2026-09-16T11:30:00Z",
+      "last_fetched": "2026-09-17T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party code list updated Jul 7; its claimed active list includes already-expired June codes and an unsupported long code list. Rejected as stale/internally inconsistent; no new code record created.",
-      "last_modified": "Wed, 16 Sep 2026 09:09:57 GMT",
+      "last_modified": "Thu, 17 Sep 2026 09:08:38 GMT",
       "summary": "Third-party list repeats recorded codes and unsupported PLAYONPC2026; no reward, validity, or primary-source evidence supports a new record.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-16T11:30:00Z"
+      "last_checked": "2026-09-17T11:30:00Z"
     },
     "https://guidesgame.ru/podarochnye-kody/foundation-galactic-frontier-rabochie-kody/": {
       "fingerprint": "198d165b163cb07e3227e334b60f278731fef856703e573a8e4876c2cb964641",
@@ -1828,14 +1828,14 @@
       "cache_note": "Mirror version history; newest entry is version 1.1.67.222607 posted Jun 4. Its Stamina/Champion Weapon shop, Sacred Tribute Vessel duration, and mail ranking-visual notes are 50 days old; related features already exist in project records. Rejected for low novelty/freshness."
     },
     "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
-      "fingerprint": "0b1bb8d8d8631c4bd3714ed6ce9d091215cce171f6b4edf9c9fe5d913150b311",
+      "fingerprint": "f709bbc6dbeccb8ff8657de96a7ae87e28e593c92a57d5e456fc5a42593dc663",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (September 2026) - Working & Daily updated | {site_name}",
-      "last_fetched": "2026-09-16T11:30:00Z",
-      "last_checked": "2026-09-16T11:30:00Z",
+      "last_fetched": "2026-09-17T11:30:00Z",
+      "last_checked": "2026-09-17T11:30:00Z",
       "status": 200,
       "cache_note": "Low-trust auto-generated code page. It presents opaque rotating strings, unrelated generic prose, and states it is not affiliated with Foundation: Galactic Frontier; rejected.",
-      "last_modified": "Wed, 16 Sep 2026 11:28:18 GMT",
+      "last_modified": "Thu, 17 Sep 2026 11:29:21 GMT",
       "summary": "Low-trust auto-generated code page with opaque rotating strings and no verifiable rewards; rejected."
     },
     "https://funplus.com/funplus-general-campaign-terms-and-conditions/en/": {
@@ -2042,11 +2042,11 @@
       "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game."
     },
     "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "ea255d5ee96212060e69c1aae976c24a42f3d9f1dd6f765ec4693bd6afc4260d",
+      "fingerprint": "41b9864ef8cb902614228c8d320c55e6f5b3a89651af8e38ee86a6e46489f5e0",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Gift Codes (September 2026)",
-      "last_fetched": "2026-09-16T11:30:00Z",
-      "last_checked": "2026-09-16T11:30:00Z",
+      "last_fetched": "2026-09-17T11:30:00Z",
+      "last_checked": "2026-09-17T11:30:00Z",
       "status": 200,
       "summary": "Third-party commercial code article repeats recorded codes; its active claims for old codes conflict with recorded expiry evidence."
     }
