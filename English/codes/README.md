@@ -24,6 +24,11 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 ## Active Codes
 
 ### Limited-Time Codes
+- **CHEERS100K** - Reward details not disclosed (a third-party page claims validity through 2026-09-30)
+  - Sources: [Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/) and [LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/) (captured 2026-09-19)
+  - Status: unverified
+  - Note: Third-party source, may be invalid or expired. Confirm redemption in-game.
+
 - **NavigationDay26** - AP Potion 100 x1, Venturous Memory x5, 30-minute Universal Speedup x3 (Valid until 2026-09-21 UTC)
   - Source: [Sotwe mirror of official @FoundationGF_EN post](https://www.sotwe.com/FoundationGF_EN?lang=en) (captured 2026-09-01)
   - Status: unverified
@@ -87,5 +92,5 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-09-01*
+*Last updated: 2026-09-19*
 *Sources: Official redemption portal, Official X, Official Facebook, official Instagram post mirror, Sotwe, GameWith, TwStalker, Telegram, PocketGamer, UCNGame, MrGuider*

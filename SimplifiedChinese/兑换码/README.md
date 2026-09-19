@@ -24,6 +24,11 @@
 ## 当前有效兑换码
 
 ### 限时兑换码
+- **CHEERS100K** - 奖励未公开（第三方页面称有效期至 2026-09-30）
+  - 来源：[Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/)；[LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/)（2026-09-19 抓取）
+  - 状态：未验证
+  - 注意：Third-party source, may be invalid or expired. 请以游戏内兑换结果为准。
+
 - **NavigationDay26** - 行动点药水 100 x1、Venturous Memory x5、30 分钟通用加速 x3（有效期至 2026-09-21 UTC）
   - 来源：[官方 @FoundationGF_EN 帖文的 Sotwe 镜像](https://www.sotwe.com/FoundationGF_EN?lang=en)（2026-09-01 抓取）
   - 状态：未验证
@@ -87,5 +92,5 @@
 - **COSMIC2026** - 已于 2026-02-01 过期
 
 ---
-*最后更新：2026-09-01*
+*最后更新：2026-09-19*
 *来源：官方兑换页、官方 X、官方 Facebook、官方 Instagram 帖文镜像、Sotwe、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*

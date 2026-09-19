@@ -24,6 +24,11 @@
 ## 當前有效兌換碼
 
 ### 限時兌換碼
+- **CHEERS100K** - 獎勵未公開（第三方頁面稱有效期至 2026-09-30）
+  - 來源：[Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/)；[LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/)（2026-09-19 擷取）
+  - 狀態：未驗證
+  - 注意：Third-party source, may be invalid or expired. 請以遊戲內兌換結果為準。
+
 - **NavigationDay26** - 行動點藥水 100 x1、Venturous Memory x5、30 分鐘通用加速 x3（有效期至 2026-09-21 UTC）
   - 來源：[官方 @FoundationGF_EN 貼文的 Sotwe 鏡像](https://www.sotwe.com/FoundationGF_EN?lang=en)（2026-09-01 擷取）
   - 狀態：未驗證
@@ -87,5 +92,5 @@
 - **COSMIC2026** - 已於 2026-02-01 過期
 
 ---
-*最後更新：2026-09-01*
+*最後更新：2026-09-19*
 *來源：官方兌換頁、官方 X、官方 Facebook、官方 Instagram 貼文鏡像、Sotwe、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*
