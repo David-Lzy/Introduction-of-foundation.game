@@ -1,0 +1,28 @@
+HTTP/2 200 
+date: Tue, 22 Sep 2026 11:31:56 GMT
+content-type: text/html;charset=utf-8
+vary: Accept-Encoding
+vary: Accept-Encoding
+x-apisix-chaitin-waf-time: 1
+x-apisix-chaitin-waf-status: 200
+x-apisix-chaitin-waf: yes
+x-apisix-chaitin-waf-action: pass
+pragma: no-cache
+expires: -1
+access-control-allow-origin: *
+x-auth-time: 1790076715730
+speculation-rules: "/cdn-cgi/speculation"
+x-powered-by: Nuxt
+access-control-allow-methods: *
+access-control-max-age: 5
+access-control-allow-headers: *
+set-cookie: REGION_KEY=AU; Max-Age=315360000; Path=/
+set-cookie: CURRENCY_KEY=AUD; Max-Age=315360000; Path=/
+set-cookie: isNotAcceptCookie=0; Max-Age=31536000; Path=/
+set-cookie: __cf_bm=kS3s4ny4PYgt.OmpTgCkgjlIX6rPEQ07Y50GBMhePmI-1790076715.4972632-1.0.1.1-EOK05Mgt_ZxHGk1JWW3NxECV1zZftbxayMeEaxKPnZsM_bXNMzeSHAFAE8VJAWmRz9985eEXtM60LlbF1f0ciz5Zium4Ybf1PHKk3GKoq2LQbPKU2D9lsWMkwamicvT8; HttpOnly; SameSite=None; Secure; Path=/; Domain=topuplive.com; Expires=Tue, 22 Sep 2026 12:01:56 GMT
+cf-cache-status: DYNAMIC
+content-encoding: gzip
+server: cloudflare
+cf-ray: a3f0fc6fdedbec7e-ADL
+alt-svc: h3=":443"; ma=86400
+

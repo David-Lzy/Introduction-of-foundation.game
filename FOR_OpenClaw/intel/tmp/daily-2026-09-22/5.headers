@@ -1,0 +1,20 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-dns-prefetch-control: on
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-xss-protection: 1; mode=block
+permissions-policy: geolocation=(), microphone=(), camera=()
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: frame-ancestors 'self' *.bluestacks.com;
+x-powered-by: Next.js
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+content-encoding: gzip
+date: Tue, 22 Sep 2026 11:31:54 GMT
+via: 1.1 google, 1.1 4ab519b4cd27a1b8a4b258d7f39bbc7e.cloudfront.net (CloudFront)
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+x-amz-cf-pop: SYD62-P2
+x-amz-cf-id: B-QE78CtkUuKWY5xdqK0UTwZWpqCbhAMhr1m9CnxiPquo_Q6e5o16w==
+vary: Origin
+

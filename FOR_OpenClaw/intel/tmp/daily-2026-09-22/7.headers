@@ -1,0 +1,25 @@
+HTTP/2 200 
+date: Tue, 22 Sep 2026 11:31:57 GMT
+content-type: text/html; charset=UTF-8
+last-modified: Sun, 20 Sep 2026 13:01:20 GMT
+server: cloudflare
+vary: Accept-Encoding
+x-site-cache-status: EXPIRED
+cdn-cache-control: public, max-age=3600, stale-while-revalidate=86400, stale-if-error=86400
+age: 86397
+ali-swift-global-savetime: 1789909432
+x-swift-savetime: Sun, 20 Sep 2026 13:03:52 GMT
+x-swift-cachetime: 1800
+timing-allow-origin: *
+eagleid: 2ff6169f17899094324168776e
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"endpoints":[{"url":"https://nel.teo-rum.com/eo-cgi/nel"}],"group":"eo-nel","max_age":604800}
+eo-log-uuid: 5419210824593750993
+eo-cache-status: HIT
+cache-control: max-age=14400
+nel: {"success_fraction":0.1,"report_to":"eo-nel","max_age":604800}
+cf-cache-status: UPDATING
+content-encoding: gzip
+cf-ray: a3f0fc79ffa755f0-ADL
+alt-svc: h3=":443"; ma=86400
+
