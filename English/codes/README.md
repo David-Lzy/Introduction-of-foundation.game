@@ -23,6 +23,18 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 
 ## Active Codes
 
+### Newly reported codes
+- **MOONFESTIVAL26** - Reward details not disclosed (third-party sources claim valid until 2026-10-07)
+  - Sources: [LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/) and [Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/) (captured 2026-09-26)
+  - Status: unverified
+  - Note: Third-party source, may be invalid or expired. Confirm redemption in-game.
+
+- **PLAYONPC2026** - Reward details and expiry not disclosed
+  - Source: [LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/) (captured 2026-09-26)
+  - Status: unverified
+  - Note: Third-party source, may be invalid or expired. Confirm redemption in-game.
+
+
 ### Limited-Time Codes
 - **CHEERS100K** - Reward details not disclosed (a third-party page claims validity through 2026-09-30)
   - Sources: [Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/) and [LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/) (captured 2026-09-19)
@@ -92,5 +104,5 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-09-19*
+*Last updated: 2026-09-26*
 *Sources: Official redemption portal, Official X, Official Facebook, official Instagram post mirror, Sotwe, GameWith, TwStalker, Telegram, PocketGamer, UCNGame, MrGuider*

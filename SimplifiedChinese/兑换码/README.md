@@ -23,6 +23,18 @@
 
 ## 当前有效兑换码
 
+### 新增报告兑换码
+- **MOONFESTIVAL26** - 奖励未公开（第三方来源称有效期至 2026-10-07）
+  - 来源：[LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/)；[Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/)（2026-09-26）
+  - 状态：未验证
+  - 注意：Third-party source, may be invalid or expired. 请以游戏内兑换结果为准。
+
+- **PLAYONPC2026** - 奖励与有效期未公开
+  - 来源：[LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/)（2026-09-26）
+  - 状态：未验证
+  - 注意：Third-party source, may be invalid or expired. 请以游戏内兑换结果为准。
+
+
 ### 限时兑换码
 - **CHEERS100K** - 奖励未公开（第三方页面称有效期至 2026-09-30）
   - 来源：[Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/)；[LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/)（2026-09-19 抓取）
@@ -92,5 +104,5 @@
 - **COSMIC2026** - 已于 2026-02-01 过期
 
 ---
-*最后更新：2026-09-19*
+*最后更新：2026-09-26*
 *来源：官方兑换页、官方 X、官方 Facebook、官方 Instagram 帖文镜像、Sotwe、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*
