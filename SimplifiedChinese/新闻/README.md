@@ -4,6 +4,8 @@
 
 ## 条目
 
+- [2026-09-28 Interstellar Migration 更新与 Shared Moonlight 收尾提醒](/SimplifiedChinese/新闻/2026-09-28)
+
 - [2026-09-13 Season 2 日程与开服维护（1001–1016 服）](/SimplifiedChinese/新闻/2026-09-13)
 - [2026-09-11 Season 2 问答：上线前保护好你的赛季过渡计划](/SimplifiedChinese/新闻/2026-09-11)
 - [2026-09-10 融合种子纪元：为 35 级建筑与第四战斗队列做准备](/SimplifiedChinese/新闻/2026-09-10)

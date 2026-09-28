@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-09-26T11:30:00Z",
+  "updated_on": "2026-09-28T11:33:56Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -25,11 +25,16 @@
       "summary": "Third-party mirror of an August 20 official-account Instagram post: deployment starts Aug 25; Servers 1001–1016 form one Sep 1 Interstellar Migration group; Sep 7 preview; Sep 14 playable Season 2. It also confirms S2SupplyDrop through Sep 30 23:59 UTC and the in-game redemption path."
     },
     "https://murpo.com/": {
-      "fingerprint": "c19a192dff1f2561798a1b02a03e787d3cea382f0730e35cc94c2fb388bcd8cb",
-      "title": "One moment, please...",
-      "last_fetched": "2026-08-22T11:30:00Z",
-      "status": 403,
-      "cache_note": "Cloudflare verification page only; no Foundation: Galactic Frontier article body was available for scoring."
+      "fingerprint": "c6b3522c0a718ad68b1e88e24bfb1247244a18b30f701c8b9dda7fb5bcb56e65",
+      "title": "Foundation: Galactic Frontier Guides, News &amp; Community — Frontier News",
+      "last_fetched": "2026-09-28T11:33:03Z",
+      "status": 200,
+      "cache_note": "Cloudflare verification page only; no Foundation: Galactic Frontier article body was available for scoring.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-28T11:33:03Z",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "summary": "Readable page probed; candidate content reviewed for this daily run."
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -76,9 +81,9 @@
     "https://www.foundation.game/en/news": {
       "fingerprint": "b796f306a69d8557968c8ea1f8b1e95545d83f082bb22769bf1ea097fa188f93",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier Top-Up Center Back Epoch of Fusion Seed — LV35 Buildings & 4th Battle Queue Foundation: Galactic Frontier — Steam Versio",
+      "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-09-25T11:30:00Z",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "status": 200,
       "summary": "Probed readable page; reviewed for this daily run.",
       "status_label": "cache_hit",
@@ -151,13 +156,13 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (September 2026)",
       "last_fetched": "2026-09-27T11:30:00Z",
-      "last_checked": "2026-09-27T11:30:00Z",
-      "status": 200,
+      "last_checked": "2026-09-28T11:33:03Z",
+      "status": 304,
       "cache_note": "Current list repeats FOUNDATION and FURTHERFUTURE, already in player code tables. Its expired-code list is consistent with prior expiry evidence; no new actionable code or status flip.",
       "last_modified": "Sun, 27 Sep 2026 11:32:09 GMT",
       "summary": "Updated Sep 26; lists FOUNDATION and FURTHERFUTURE plus historical codes; no new code or supported status change.",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed"
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit"
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
       "fingerprint": "9b6422fe9d554c75fa1be4a98a6c4089d9c7216ad9b58c0bf882d557bfec3e98",
@@ -203,13 +208,13 @@
     },
     "https://www.bluestacks.com/blog/redeem-codes/foundation-galactic-frontier-redeem-codes-en.html": {
       "fingerprint": "572bd7e9394813954a5c34570662876040c3d18330f758c4c6696e9722a7bb69",
-      "title": "All Working Foundation: Galactic Frontier Redeem Codes for September 2026 | BlueStacks Blog Redeem Codes Redeem Codes All Working Foundation: Galactic",
+      "title": "All Working Foundation: Galactic Frontier Redeem Codes for September 2026 | BlueStacks",
       "last_fetched": "2026-09-25T11:30:00Z",
       "status": 200,
       "cache_note": "Third-party list repeats FOUNDATION and FURTHERFUTURE and incorrectly claims STELLARSTART active despite established expiry evidence. Rejected; no new code or status change.",
       "summary": "Probed readable page; reviewed for this daily run.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "status_label": "cache_hit",
       "probe_state": "cache_hit"
     },
@@ -227,7 +232,7 @@
       "status": 403,
       "cache_note": "Updated list repeats existing codes and expiry claims, including S2SupplyDrop through September 30 and CHAMPIONSPIRIT through 2029-02-03. No new code or reliable status change.",
       "status_label": "probe_error",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "fingerprint_algorithm": "sha256",
       "probe_state": "probe_error"
     },
@@ -238,7 +243,7 @@
       "status": 403,
       "cache_note": "Third-party page updated August 20 lists S2SupplyDrop as free rewards through 2026-09-30. Ingested under the code override with status=unverified and the required risk note.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "probe_state": "probe_error",
       "status_label": "probe_error"
     },
@@ -853,14 +858,14 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "5f2b2a18cb0145b5d11c82564a9b0595990d8129ca57172cc8d3b749033cd447",
+      "fingerprint": "80068b16843657d463f7c503118bc7500b7ef708e956eacf1973bb690fbdcf6c",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes in September 2026",
-      "last_fetched": "2026-09-27T11:30:00Z",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "title": "Foundation: Galactic Frontier codes in September 2026 - Mobi.gg",
+      "last_fetched": "2026-09-28T11:33:03Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "status": 200,
       "cache_note": "Third-party list claims CHILDRENSDAY26, MOTHERDAY26 and other elapsed codes are valid despite independent sources placing their expiry in June. Rejected as internally stale/inconsistent; no status change recorded.",
-      "summary": "Updated Sep 25; repeats registered codes, including old expired codes still called valid; no new code or status evidence.",
+      "summary": "Readable page probed; candidate content reviewed for this daily run.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -1805,15 +1810,15 @@
       "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
     },
     "https://levelgeeks.net/foundation-galactic-frontier-codes/": {
-      "fingerprint": "cb17df58afbbc908627d362f45452d6cf55a8d6a9764b86d6144d6cd6f6eaacb",
+      "fingerprint": "1592fc66e659d8645b876606df487d50222c76eac0e8a99eb7527d31a33f17df",
       "title": "Foundation Galactic Frontier Codes (September 2026)",
-      "last_fetched": "2026-09-27T11:30:00Z",
+      "last_fetched": "2026-09-28T11:33:03Z",
       "status": 200,
       "cache_note": "Third-party code list updated Jul 7; its claimed active list includes already-expired June codes and an unsupported long code list. Rejected as stale/internally inconsistent; no new code record created.",
-      "last_modified": "Sun, 27 Sep 2026 10:00:24 GMT",
-      "summary": "Updated Sep 26; repeats registered codes and makes internally conflicting claims about GALAXYTHANKS, CHAMPIONSPIRIT and other expired codes; no reliable status flip.",
+      "last_modified": "Mon, 28 Sep 2026 11:33:07 GMT",
+      "summary": "Readable page probed; candidate content reviewed for this daily run.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -1850,13 +1855,13 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes and Redemption Guide",
       "last_fetched": "2026-09-27T11:30:00Z",
-      "last_checked": "2026-09-27T11:30:00Z",
-      "status": 200,
+      "last_checked": "2026-09-28T11:33:03Z",
+      "status": 304,
       "cache_note": "Low-trust auto-generated code page. It presents opaque rotating strings, unrelated generic prose, and states it is not affiliated with Foundation: Galactic Frontier; rejected.",
       "last_modified": "Sat, 26 Sep 2026 16:25:51 GMT",
       "summary": "Generic unsubstantiated prose without code strings or useful code evidence.",
-      "probe_state": "cache_changed",
-      "status_label": "cache_changed"
+      "probe_state": "cache_hit",
+      "status_label": "cache_hit"
     },
     "https://funplus.com/funplus-general-campaign-terms-and-conditions/en/": {
       "fingerprint": "5dac8567cf7cb8299a5b58e48a0db5093844ba4d667e48902e2c6bb2ebe99177",
@@ -1998,7 +2003,8 @@
       "status": 403,
       "cache_note": "Third-party TwStalker mirror profile: event-calendar post lists calendar A/B server scope and says timing may change; profile page presents unreliable relative timestamps and mixed stale content; no independently verifiable current event details or code. Rejected.",
       "status_label": "probe_error",
-      "last_checked": "2026-09-25T11:30:00Z"
+      "last_checked": "2026-09-28T11:33:03Z",
+      "probe_state": "probe_error"
     },
     "https://boostbot.org/blog/foundation-galactic-frontier-gift-codes/": {
       "fingerprint": "abff969076f990736c8636f1ee30782e01d5b5810f2f9dd32f6ef6d856cbd9ca",
@@ -2062,31 +2068,65 @@
       "last_fetched": "2026-09-13T11:30:00Z",
       "status": 403,
       "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game.",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "status_label": "probe_error",
       "probe_state": "probe_error"
     },
     "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "3743a9ada2d6a102c87797627fb602c42324a3e5fd30ccc333d8ab200052e5ef",
+      "fingerprint": "88bd82500ad997fccdbda157197ff1c6f6aea8568cfe1d820ba6abbd9b13079a",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Gift Codes (September 2026)",
-      "last_fetched": "2026-09-27T11:30:00Z",
-      "last_checked": "2026-09-27T11:30:00Z",
+      "last_fetched": "2026-09-28T11:33:03Z",
+      "last_checked": "2026-09-28T11:33:03Z",
       "status": 200,
-      "summary": "Repeats registered codes and retains expired-code claims; no new code or reliable status change.",
+      "summary": "Readable page probed; candidate content reviewed for this daily run.",
       "probe_state": "cache_changed",
       "status_label": "cache_changed"
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "e00b39f0e173a2e40fe2d4fdd8fa86a92be7e08ccde8436ba1d2bf28665131c8",
+      "fingerprint": "2a4e9c724c4b18645fd7a87805808ee965c4e97045e96958d9fba329eef0607e",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier Codes (September 2026)",
-      "last_checked": "2026-09-27T11:30:00Z",
-      "last_fetched": "2026-09-27T11:30:00Z",
+      "title": "Foundation: Galactic Frontier Codes (September 2026) | AAYYY",
+      "last_checked": "2026-09-28T11:33:03Z",
+      "last_fetched": "2026-09-28T11:33:03Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "summary": "Readable page probed; candidate content reviewed for this daily run.",
+      "last_modified": "Mon, 28 Sep 2026 11:33:09 GMT"
+    },
+    "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
+      "fingerprint": "53edebedff1c2a902c6a4dfe9d40719b926228c7220614f7e8a36bc3e1857455",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-28T11:33:03Z",
       "status": 200,
       "status_label": "cache_miss",
       "probe_state": "cache_miss",
-      "summary": "Contains opaque generic strings GF777, GF888, GF999, WELCOMEGF and GALACTIC2024 with no traceable evidence; rejected as unreliable."
+      "title": "Shared Moonlight rewards at risk during server migration — Frontier News",
+      "last_fetched": "2026-09-28T11:33:03Z",
+      "summary": "Readable page probed; candidate content reviewed for this daily run."
+    },
+    "https://murpo.com/news/klara-game-news-4f5dd7180918908f1f62": {
+      "fingerprint": "c9ba249b924edc21e1fcae12f869d0896242f8a9b09fdf40b29925f19d61d522",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-28T11:33:03Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Interstellar Migration previews planned to stay in-game longer — Frontier News",
+      "last_fetched": "2026-09-28T11:33:03Z",
+      "summary": "Readable page probed; candidate content reviewed for this daily run."
+    },
+    "https://murpo.com/news/klara-game-news-eee8cca928bf18880db9": {
+      "fingerprint": "8bf057fb7270c7aad17d572d1fe24aa0bd8b6e398c366795845751dd9f2ee8d4",
+      "fingerprint_algorithm": "sha256",
+      "title": "Interstellar Migration slots: 3/8/80/80 per group — Frontier News",
+      "last_checked": "2026-09-28T11:33:56Z",
+      "last_fetched": "2026-09-28T11:33:56Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "summary": "Third-party community publisher reproduces official Discord notice; player-impacting slot allocation and unchanged Migration Power tier details reviewed."
     }
   }
 }
