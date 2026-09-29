@@ -4,6 +4,8 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-09-29 September Developer Feedback: practical changes and planning notes](/English/news/2026-09-29)
+
 - [2026-09-28 Interstellar Migration update and Shared Moonlight closeout](/English/news/2026-09-28)
 
 - [2026-09-13 Season 2 schedule and launch maintenance (Servers 1001–1016)](/English/news/2026-09-13)

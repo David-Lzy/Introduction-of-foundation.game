@@ -4,6 +4,8 @@
 
 ## 條目
 
+- [2026-09-29 9 月開發者答疑：玩家實用資訊](/TraditionalChinese/新聞/2026-09-29)
+
 - [2026-09-28 Interstellar Migration 更新與 Shared Moonlight 收尾提醒](/TraditionalChinese/新聞/2026-09-28)
 
 - [2026-09-13 Season 2 日程與開服維護（1001–1016 服）](/TraditionalChinese/新聞/2026-09-13)
