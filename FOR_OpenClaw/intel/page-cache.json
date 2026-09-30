@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-09-29T11:30:00Z",
+  "updated_on": "2026-09-30T11:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -25,16 +25,16 @@
       "summary": "Third-party mirror of an August 20 official-account Instagram post: deployment starts Aug 25; Servers 1001–1016 form one Sep 1 Interstellar Migration group; Sep 7 preview; Sep 14 playable Season 2. It also confirms S2SupplyDrop through Sep 30 23:59 UTC and the in-game redemption path."
     },
     "https://murpo.com/": {
-      "fingerprint": "5a36d16cd76fab407a6a530579af977f982abec38758b2679ee91a5afeb657b8",
+      "fingerprint": "245386e5a3d3253c56e990c535eb53ef27ff1dab4ca1ffc35f699f1740d6c35f",
       "title": "Foundation: Galactic Frontier Guides, News &amp; Community — Frontier News",
-      "last_fetched": "2026-09-29T11:30:00Z",
+      "last_fetched": "2026-09-30T11:30:00Z",
       "status": 200,
       "cache_note": "Index now links to September Developer Feedback dated Sep 28 and the Sep 29 game update; discovered one new article.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-09-30T11:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Readable page probed; candidate content reviewed for this daily run."
+      "summary": "New September 29 VIP-only story was linked from the index; no actionable player information."
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -83,7 +83,7 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-09-25T11:30:00Z",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-09-30T11:30:00Z",
       "status": 200,
       "summary": "Probed readable page; reviewed for this daily run.",
       "status_label": "cache_hit",
@@ -156,7 +156,7 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (September 2026)",
       "last_fetched": "2026-09-29T11:30:00Z",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-09-30T11:30:00Z",
       "status": 200,
       "cache_note": "Updated code list reviewed; repeats existing codes, no new code or supported status transition.",
       "last_modified": "Tue, 29 Sep 2026 11:32:36 GMT",
@@ -214,7 +214,7 @@
       "cache_note": "September redeem-code list reviewed; no distinct actionable information.",
       "summary": "Probed readable page; reviewed for this daily run.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-09-30T11:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -2069,7 +2069,7 @@
       "last_fetched": "2026-09-29T11:30:00Z",
       "status": 200,
       "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game.",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-09-30T11:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "fingerprint_algorithm": "sha256",
@@ -2139,13 +2139,24 @@
     "https://murpo.com/news/klara-dev-feedback-42a3187a381171c6472b": {
       "fingerprint": "f0a8d73501683ec10a64fab249008ea97323edd8d25e2d8b99f1a60ef32a08a7",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-09-30T11:30:00Z",
       "last_fetched": "2026-09-29T11:30:00Z",
       "status": 200,
       "status_label": "cache_miss",
       "probe_state": "cache_miss",
       "title": "September 2026 Developer Feedback: 11 Answers — Frontier News",
       "summary": "Official Discord answers: create characters before S2; S2 runs once per server then players remain on Siwenna; seasonal Magnetic Storm content and Resistance buildings reset; Lily Valor Shop monthly purchase limit 20→40; Commerce Guild Duel recovery period planned; some migration groups include 16 servers; tap resource bar for Glory Shop; report suspected event bots to Customer Support; new Champion expected late October."
+    },
+    "https://murpo.com/news/klara-game-news-a33f63f0fd803eb4e6e9": {
+      "fingerprint": "eb50fd3bca4165dee8a3a94001a4ec53ac9f9eb4d87bc636e488c4fcb5f84abc",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-30T11:30:00Z",
+      "last_fetched": "2026-09-30T11:30:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Lost Chrono Map: The Bait — VIP-Only Foundation Story — Frontier News",
+      "summary": "VIP-only Chrono Map fiction; no actionable gameplay instruction; rejected by scorecard."
     }
   }
 }
