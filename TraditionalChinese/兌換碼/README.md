@@ -46,10 +46,6 @@
   - 狀態：未驗證
   - 注意：Third-party source, may be invalid or expired. 請以遊戲內兌換結果為準。
 
-- **S2SupplyDrop** - 獎勵未公開（有效期至 2026-09-30）
-  - 來源：[官方 @foundation_gf_en Instagram 貼文鏡像](https://imginn.com/p/DcQtuZiDWtP/)（2026-08-20 發布）
-  - 狀態：官方帳號貼文鏡像確認可用；最終以遊戲內兌換結果為準
-
 - **CHAMPIONSPIRIT** - 獎勵未公開（有效期至 2029-02-03）
   - 來源：UCNGame（2026-07-30 更新）
   - 狀態：未驗證
@@ -91,6 +87,10 @@
 
 ## 已過期兌換碼
 
+- **S2SupplyDrop** - 已於 2026-09-30 23:59 UTC 到期；獎勵未公開
+  - 來源：[官方 @foundation_gf_en Instagram 貼文鏡像](https://imginn.com/p/DcQtuZiDWtP/)（2026-08-20 發布）
+  - 狀態：官方帳號貼文鏡像所示有效期已結束
+
 - **GALAXYWITHYOU** - 已於 2026-07-31 23:59 UTC 過期
   - 來源：官方 X / Facebook 路線圖更新
   - 狀態：官方來源（已過期）
@@ -104,5 +104,5 @@
 - **COSMIC2026** - 已於 2026-02-01 過期
 
 ---
-*最後更新：2026-09-26*
+*最後更新：2026-10-01*
 *來源：官方兌換頁、官方 X、官方 Facebook、官方 Instagram 貼文鏡像、Sotwe、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*

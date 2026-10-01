@@ -46,10 +46,6 @@ Applies when you have a valid character UID and a usable gift code; the portal d
   - Status: unverified
   - Note: Third-party source, may be invalid or expired. Confirm redemption in-game.
 
-- **S2SupplyDrop** - Free rewards (Valid until 2026-09-30)
-  - Source: [official @foundation_gf_en Instagram post mirror](https://imginn.com/p/DcQtuZiDWtP/) (posted 2026-08-20)
-  - Status: active as confirmed by an official-account post mirror; confirm redemption in-game
-
 - **CHAMPIONSPIRIT** - Reward details not disclosed (Valid until 2029-02-03)
   - Source: UCNGame (updated 2026-07-30)
   - Status: unverified
@@ -91,6 +87,10 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 
 ## Expired Codes
 
+- **S2SupplyDrop** - Expired 2026-09-30 23:59 UTC
+  - Source: [official @foundation_gf_en Instagram post mirror](https://imginn.com/p/DcQtuZiDWtP/) (posted 2026-08-20)
+  - Status: expired after the announced validity window; reward details were not disclosed
+
 - **GALAXYWITHYOU** - Expired on 2026-07-31 23:59 UTC
   - Source: Official X / Facebook roadmap update
   - Status: official (expired)
@@ -104,5 +104,5 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-09-26*
+*Last updated: 2026-10-01*
 *Sources: Official redemption portal, Official X, Official Facebook, official Instagram post mirror, Sotwe, GameWith, TwStalker, Telegram, PocketGamer, UCNGame, MrGuider*

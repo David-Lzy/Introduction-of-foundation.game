@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-09-30T11:30:00Z",
+  "updated_on": "2026-10-01T11:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -21,8 +21,12 @@
       "fingerprint": "4aae2e2730b6e8613a6b818b9d4b27b1ba50caa73045f5f19be59d7336193e46",
       "title": "Foundation: Galactic Frontier (@foundation_gf_en): Season 2 Timeline Confirmed",
       "last_fetched": "2026-08-25T11:30:00Z",
-      "status": 200,
-      "summary": "Third-party mirror of an August 20 official-account Instagram post: deployment starts Aug 25; Servers 1001–1016 form one Sep 1 Interstellar Migration group; Sep 7 preview; Sep 14 playable Season 2. It also confirms S2SupplyDrop through Sep 30 23:59 UTC and the in-game redemption path."
+      "status": 403,
+      "summary": "Third-party mirror of an August 20 official-account Instagram post: deployment starts Aug 25; Servers 1001–1016 form one Sep 1 Interstellar Migration group; Sep 7 preview; Sep 14 playable Season 2. It also confirms S2SupplyDrop through Sep 30 23:59 UTC and the in-game redemption path.",
+      "last_checked": "2026-10-01T11:30:00Z",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
       "fingerprint": "245386e5a3d3253c56e990c535eb53ef27ff1dab4ca1ffc35f699f1740d6c35f",
@@ -83,7 +87,7 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-09-25T11:30:00Z",
-      "last_checked": "2026-09-30T11:30:00Z",
+      "last_checked": "2026-10-01T11:30:00Z",
       "status": 200,
       "summary": "Probed readable page; reviewed for this daily run.",
       "status_label": "cache_hit",
@@ -241,9 +245,9 @@
       "title": "Foundation Galactic Frontier Codes August 2026 [UPDATED] - MrGuider",
       "last_fetched": "2026-08-21T11:30:00Z",
       "status": 403,
-      "cache_note": "HTTP 403; no stable body.",
+      "cache_note": "HTTP 403; no stable body; no inference from search snippets.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-10-01T11:30:00Z",
       "probe_state": "probe_error",
       "status_label": "probe_error"
     },
@@ -858,14 +862,14 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "0992b84bf6a24d97dd09d3d05175fdbbf38a3c0ca00b75b1aba57482bbd9af82",
+      "fingerprint": "aee2383278f538988b66ccf45419ae7aeb7dca2d98261f90a3869d08a8493073",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes in September 2026 - Mobi.gg",
-      "last_fetched": "2026-09-29T11:30:00Z",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "title": "Foundation: Galactic Frontier codes in October 2026 | Free and valid",
+      "last_fetched": "2026-10-01T11:30:00Z",
+      "last_checked": "2026-10-01T11:30:00Z",
       "status": 200,
       "cache_note": "September 25 list reviewed; repeats already registered codes and unsupported GALAXYTHANKS/S2SupplyDrop status claims.",
-      "summary": "Readable page probed; candidate content reviewed for this daily run.",
+      "summary": "Updated title/list repeats registered codes; no new code or reliable status change.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -1810,15 +1814,15 @@
       "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
     },
     "https://levelgeeks.net/foundation-galactic-frontier-codes/": {
-      "fingerprint": "3f287f351cf6476f801b4abf55f5c26ff95fac8de3b9f0ccba90f11dc6e18f3a",
+      "fingerprint": "8a5a120f42fffc1a4fe72d51811f7a8aa5c18565f06ad1d05bb4250f7252f591",
       "title": "Foundation Galactic Frontier Codes (September 2026)",
-      "last_fetched": "2026-09-29T11:30:00Z",
+      "last_fetched": "2026-10-01T11:30:00Z",
       "status": 200,
       "cache_note": "September 29 list reviewed; repeats registered codes and conflicts with recorded code dates/status.",
-      "last_modified": "Tue, 29 Sep 2026 04:56:51 GMT",
-      "summary": "Readable page probed; candidate content reviewed for this daily run.",
+      "last_modified": "Thu, 01 Oct 2026 06:12:16 GMT",
+      "summary": "October 1 page revision repeats registered codes and contains contradictory active/expired claims; no new code accepted.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-10-01T11:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
