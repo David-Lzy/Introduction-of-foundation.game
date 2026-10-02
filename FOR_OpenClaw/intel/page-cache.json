@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-01T11:30:00Z",
+  "updated_on": "2026-10-02T11:32:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "245386e5a3d3253c56e990c535eb53ef27ff1dab4ca1ffc35f699f1740d6c35f",
-      "title": "Foundation: Galactic Frontier Guides, News &amp; Community — Frontier News",
-      "last_fetched": "2026-09-30T11:30:00Z",
+      "fingerprint": "d78ab5555d8e399459def226a5b640b45a83bff2dc614ed4d099eb8bcdf1b392",
+      "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
+      "last_fetched": "2026-10-02T11:32:00Z",
       "status": 200,
       "cache_note": "Index now links to September Developer Feedback dated Sep 28 and the Sep 29 game update; discovered one new article.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-30T11:30:00Z",
+      "last_checked": "2026-10-02T11:32:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "New September 29 VIP-only story was linked from the index; no actionable player information."
+      "summary": "Index newly lists an October 1 anniversary infographic guide contest; follow its linked article."
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -87,9 +87,9 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-09-25T11:30:00Z",
-      "last_checked": "2026-10-01T11:30:00Z",
+      "last_checked": "2026-10-02T11:32:00Z",
       "status": 200,
-      "summary": "Probed readable page; reviewed for this daily run.",
+      "summary": "Normalized readable text SHA-256 matches cache; no new official website news.",
       "status_label": "cache_hit",
       "probe_state": "cache_hit"
     },
@@ -231,12 +231,12 @@
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "b2769656546e5a0ab642c7232530f372a46a2898789408773850500a7120a031",
-      "title": "Foundation Galactic Frontier Codes (SEP 2026) [UPDATED!]",
+      "title": "Foundation Galactic Frontier Codes",
       "last_fetched": "2026-09-06T11:30:00Z",
       "status": 403,
-      "cache_note": "HTTP 403; no stable body.",
+      "cache_note": "HTTP 403; no stable body or fingerprint available. No inference from search snippets.",
       "status_label": "probe_error",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "last_checked": "2026-10-02T11:32:00Z",
       "fingerprint_algorithm": "sha256",
       "probe_state": "probe_error"
     },
@@ -245,9 +245,9 @@
       "title": "Foundation Galactic Frontier Codes August 2026 [UPDATED] - MrGuider",
       "last_fetched": "2026-08-21T11:30:00Z",
       "status": 403,
-      "cache_note": "HTTP 403; no stable body; no inference from search snippets.",
+      "cache_note": "HTTP 403; no stable body or fingerprint available. No inference from search snippets.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-01T11:30:00Z",
+      "last_checked": "2026-10-02T11:32:00Z",
       "probe_state": "probe_error",
       "status_label": "probe_error"
     },
@@ -2027,10 +2027,14 @@
     },
     "https://www.gdr-online.com/news-gioco.asp?idgioco=18271": {
       "fingerprint": "4c85535efe0ab2dec7968d118b9376839f7e7259d85a2637a89bcbb8ae63a200",
-      "title": "Foundation Galactic Frontier news, announcements and notices",
+      "title": "Foundation Galactic Frontier news and announcements",
       "last_fetched": "2026-08-27T11:30:00Z",
-      "status": 200,
-      "cache_note": "Third-party news aggregator reproduced an August 25 maintenance notice: 27-week Energy Core expansion availability; Glory Arena lockout and defense-retention changes; Ruins Raiders cross-server testing; occupation leader selection; speedup/resource UI; style-center energy use; and Stellar Recruitment testing. One eligible but non-high-value increment; held behind the daily two-item gate pending primary confirmation."
+      "status": 403,
+      "cache_note": "HTTP 403; no stable body or fingerprint available. No inference from search snippets.",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "last_checked": "2026-10-02T11:32:00Z",
+      "fingerprint_algorithm": "sha256"
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
       "fingerprint": "27cffeb64206c4601b5ffc9fa633821e6fb8deef333c5830d68852a4bfe0c3cb",
@@ -2080,13 +2084,13 @@
       "cache_note": "Recent official-account mirror post covers September Developer Feedback; de-duplicated with the full announcement below."
     },
     "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "2738013a83cd89e90751df279ae61ee6417c5af1463151dc1516cd7d644fc3c4",
+      "fingerprint": "ece3d7e9c392e8c2aa1504e5d132444b5e988f3ba4acb7afd0c3ac83e56a78a9",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier Gift Codes (September 2026)",
-      "last_fetched": "2026-09-29T11:30:00Z",
-      "last_checked": "2026-09-29T11:30:00Z",
+      "title": "Foundation: Galactic Frontier Gift Codes (October 2026)",
+      "last_fetched": "2026-10-02T11:32:00Z",
+      "last_checked": "2026-10-02T11:32:00Z",
       "status": 200,
-      "summary": "Readable page probed; candidate content reviewed for this daily run.",
+      "summary": "Lists GALAXYTHANKU (not GALAXYTHANKS) without expiry/reward detail; single third-party claim, not sufficient to register.",
       "probe_state": "cache_changed",
       "status_label": "cache_changed",
       "cache_note": "September 14 list reviewed; repeats previously registered codes and stale validity claims."
@@ -2161,6 +2165,28 @@
       "probe_state": "cache_miss",
       "title": "Lost Chrono Map: The Bait — VIP-Only Foundation Story — Frontier News",
       "summary": "VIP-only Chrono Map fiction; no actionable gameplay instruction; rejected by scorecard."
+    },
+    "https://murpo.com/news/klara-community-news-6b2aedb8030a6dcab171": {
+      "fingerprint": "c54ef79f893c37da98be9742fddf5ef1a567743e2411e5e384bd185d86d20314",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-02T11:32:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Foundation Marks First Anniversary With Infographic Gameplay Guide Contest",
+      "summary": "Official Discord contest summary: open game topic, solo or duo, submission through Oct 19 12:00 UTC and voting Oct 20–26.",
+      "last_fetched": "2026-10-02T11:32:00Z"
+    },
+    "https://gamevoyant.com/codes/foundation-galactic-frontier-codes": {
+      "fingerprint": "9adf2fb69b4bd5757e18795c51ffd54dec4441b849e07b02e6052900e26613b9",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-02T11:32:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Foundation Galactic Frontier Codes October 2026",
+      "summary": "Repeats already registered GALAXYTHANKS as active through Oct 25; conflicts with its prior expiry, no primary source found.",
+      "last_fetched": "2026-10-02T11:32:00Z"
     }
   }
 }

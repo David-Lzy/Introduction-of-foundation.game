@@ -4,6 +4,8 @@
 
 ## 當前重點活動
 
+- [周年慶攻略圖競賽：個人或雙人組隊投稿](/TraditionalChinese/活動/2026-10-02-周年慶攻略圖競賽)
+
 - [暗域戰場（Shadowfront）組織與打法](/TraditionalChinese/活動/1.暗域戰場（Shadowfront）組織與打法)
 - [捍衛商路（Defend the Trade Route）](/TraditionalChinese/活動/2.捍衛商路（Defend the Trade Route）)
 - [軍備競演（Arms Race）](/TraditionalChinese/活動/3.軍備競演（Arms Race）)

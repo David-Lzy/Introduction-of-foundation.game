@@ -4,6 +4,8 @@
 
 ## 当前重点活动
 
+- [周年庆攻略图竞赛：个人或双人组队投稿](/SimplifiedChinese/活动/2026-10-02-周年庆攻略图竞赛)
+
 - [暗域战场（Shadowfront）组织与打法](/SimplifiedChinese/活动/1.暗域战场（Shadowfront）组织与打法)
 - [捍卫商路（Defend the Trade Route）](/SimplifiedChinese/活动/2.捍卫商路（Defend the Trade Route）)
 - [军备竞演（Arms Race）](/SimplifiedChinese/活动/3.军备竞演（Arms Race）)
