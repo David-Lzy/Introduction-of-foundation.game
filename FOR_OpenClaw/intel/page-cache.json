@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "d78ab5555d8e399459def226a5b640b45a83bff2dc614ed4d099eb8bcdf1b392",
+      "fingerprint": "d82d2d8b9398fd493d07219372fd786b90836ce456b14d2080a15642fff2a899",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-02T11:32:00Z",
+      "last_fetched": "2026-10-03T11:30:00Z",
       "status": 200,
       "cache_note": "Index now links to September Developer Feedback dated Sep 28 and the Sep 29 game update; discovered one new article.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-02T11:32:00Z",
+      "last_checked": "2026-10-03T11:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Index newly lists an October 1 anniversary infographic guide contest; follow its linked article."
+      "summary": "Changed readable index reviewed; its listed contest, VIP story, and September developer feedback are previously reviewed items; no new actionable candidate."
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -87,9 +87,9 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-09-25T11:30:00Z",
-      "last_checked": "2026-10-02T11:32:00Z",
+      "last_checked": "2026-10-03T11:30:00Z",
       "status": 200,
-      "summary": "Normalized readable text SHA-256 matches cache; no new official website news.",
+      "summary": "Normalized readable text SHA-256 matches stored fingerprint; no new official news.",
       "status_label": "cache_hit",
       "probe_state": "cache_hit"
     },
@@ -156,15 +156,15 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "803fba62c53e7bee3722b0c45210086eba915c36ff9e2becec15c87f784ef273",
+      "fingerprint": "b16b824e89c805001ae4278bdf17c6a929406f5a20237c70fa29a8456c6259ef",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (September 2026)",
-      "last_fetched": "2026-09-29T11:30:00Z",
-      "last_checked": "2026-09-30T11:30:00Z",
+      "last_fetched": "2026-10-03T11:30:00Z",
+      "last_checked": "2026-10-03T11:30:00Z",
       "status": 200,
-      "cache_note": "Updated code list reviewed; repeats existing codes, no new code or supported status transition.",
+      "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate.",
       "last_modified": "Tue, 29 Sep 2026 11:32:36 GMT",
-      "summary": "Updated Sep 26; lists FOUNDATION and FURTHERFUTURE plus historical codes; no new code or supported status change.",
+      "summary": "Changed readable body reviewed; only previously registered code claims or conflicting status assertions, no accepted new item.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -862,14 +862,14 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "aee2383278f538988b66ccf45419ae7aeb7dca2d98261f90a3869d08a8493073",
+      "fingerprint": "1b8b896b8743c718e1e5652de0b443e50716e17bb8a33b5b2d9dd3306b1d2af1",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes in October 2026 | Free and valid",
-      "last_fetched": "2026-10-01T11:30:00Z",
-      "last_checked": "2026-10-01T11:30:00Z",
+      "last_fetched": "2026-10-03T11:30:00Z",
+      "last_checked": "2026-10-03T11:30:00Z",
       "status": 200,
-      "cache_note": "September 25 list reviewed; repeats already registered codes and unsupported GALAXYTHANKS/S2SupplyDrop status claims.",
-      "summary": "Updated title/list repeats registered codes; no new code or reliable status change.",
+      "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate.",
+      "summary": "Changed readable body reviewed; only previously registered code claims or conflicting status assertions, no accepted new item.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -1814,15 +1814,15 @@
       "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
     },
     "https://levelgeeks.net/foundation-galactic-frontier-codes/": {
-      "fingerprint": "8a5a120f42fffc1a4fe72d51811f7a8aa5c18565f06ad1d05bb4250f7252f591",
+      "fingerprint": "48ef624c4d45eb23a9576d5a5a6f332adebfb12bdb7b458e48808b5a062151cc",
       "title": "Foundation Galactic Frontier Codes (September 2026)",
-      "last_fetched": "2026-10-01T11:30:00Z",
+      "last_fetched": "2026-10-03T11:30:00Z",
       "status": 200,
-      "cache_note": "September 29 list reviewed; repeats registered codes and conflicts with recorded code dates/status.",
+      "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate.",
       "last_modified": "Thu, 01 Oct 2026 06:12:16 GMT",
-      "summary": "October 1 page revision repeats registered codes and contains contradictory active/expired claims; no new code accepted.",
+      "summary": "Changed readable body reviewed; only previously registered code claims or conflicting status assertions, no accepted new item.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-01T11:30:00Z",
+      "last_checked": "2026-10-03T11:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -2084,13 +2084,13 @@
       "cache_note": "Recent official-account mirror post covers September Developer Feedback; de-duplicated with the full announcement below."
     },
     "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "ece3d7e9c392e8c2aa1504e5d132444b5e988f3ba4acb7afd0c3ac83e56a78a9",
+      "fingerprint": "875be223a11bc076019179d0ba79d05790ac3428a9bc4de1fdfe561cd9b93723",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Gift Codes (October 2026)",
-      "last_fetched": "2026-10-02T11:32:00Z",
-      "last_checked": "2026-10-02T11:32:00Z",
+      "last_fetched": "2026-10-03T11:30:00Z",
+      "last_checked": "2026-10-03T11:30:00Z",
       "status": 200,
-      "summary": "Lists GALAXYTHANKU (not GALAXYTHANKS) without expiry/reward detail; single third-party claim, not sufficient to register.",
+      "summary": "Readable text lists GALAXYTHANKU with no reward/expiry and FOUNDATION/FURTHERFUTURE with generic reward claims; no primary evidence; no item passed ingestion gate.",
       "probe_state": "cache_changed",
       "status_label": "cache_changed",
       "cache_note": "September 14 list reviewed; repeats previously registered codes and stale validity claims."
@@ -2178,15 +2178,16 @@
       "last_fetched": "2026-10-02T11:32:00Z"
     },
     "https://gamevoyant.com/codes/foundation-galactic-frontier-codes": {
-      "fingerprint": "9adf2fb69b4bd5757e18795c51ffd54dec4441b849e07b02e6052900e26613b9",
+      "fingerprint": "071e290f1913d287e54962e935794b25f416afdd41e5576fc5e6c428d7fea6e5",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-02T11:32:00Z",
+      "last_checked": "2026-10-03T11:30:00Z",
       "status": 200,
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "title": "Foundation Galactic Frontier Codes October 2026",
-      "summary": "Repeats already registered GALAXYTHANKS as active through Oct 25; conflicts with its prior expiry, no primary source found.",
-      "last_fetched": "2026-10-02T11:32:00Z"
+      "summary": "Changed readable body reviewed; only previously registered code claims or conflicting status assertions, no accepted new item.",
+      "last_fetched": "2026-10-03T11:30:00Z",
+      "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate."
     }
   }
 }
