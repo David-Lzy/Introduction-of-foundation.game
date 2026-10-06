@@ -23,6 +23,12 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 
 ## Active Codes
 
+### Officially announced new code
+- **GALAXYTHANKU** - Galactic Coin 4,000 x3, 15-minute Universal Speedup x3, Prismatic Core x20 (no expiry disclosed)
+  - Source: [Official Foundation Discord announcement (transcribed by Murpo with original post link)](https://discord.com/channels/1538543817400000565/1546264462108008519/1556701017351913542); [announcement brief](https://murpo.com/news/klara-patch-notes-dcda237c55dede511d00) (2026-10-05)
+  - Status: officially announced; redemption result not independently verified
+  - Note: Redeem promptly; no expiry was stated.
+
 ### Newly reported codes
 - **MOONFESTIVAL26** - Reward details not disclosed (third-party sources claim valid until 2026-10-07)
   - Sources: [LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/) and [Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/) (captured 2026-09-26)

@@ -23,6 +23,12 @@
 
 ## 當前有效兌換碼
 
+### 官方公告新碼
+- **GALAXYTHANKU** - 銀河幣 4,000 x3、15 分鐘通用加速 x3、稜鏡核心 x20（有效期未公布）
+  - 來源：[Foundation 官方 Discord 公告（由 Murpo 轉錄並附原公告連結）](https://discord.com/channels/1538543817400000565/1546264462108008519/1556701017351913542)；[公告整理頁](https://murpo.com/news/klara-patch-notes-dcda237c55dede511d00)（2026-10-05）
+  - 狀態：官方已公告；未獨立驗證兌換結果
+  - 備註：請盡早兌換；公告未註明有效期。
+
 ### 新增回報兌換碼
 - **MOONFESTIVAL26** - 獎勵未公開（第三方來源稱有效期至 2026-10-07）
   - 來源：[LevelGeeks](https://levelgeeks.net/foundation-galactic-frontier-codes/)；[Mobi.gg](https://mobi.gg/en/codes/foundation-galactic-frontier-codes/)（2026-09-26）
