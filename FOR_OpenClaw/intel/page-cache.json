@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-07T10:34:54Z",
+  "updated_on": "2026-10-10T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,17 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "fb8e49adbb6d3adf0f60dd5344ea39db3937fcaf05e920bb933a784283460970",
+      "fingerprint": "78a8a6f490cf7e9dcf0a6028218b87b1f24ebdfe2e0fdeb19072fb60320189af",
       "title": "Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-07T10:34:54Z",
+      "last_fetched": "2026-10-09T10:30:00Z",
       "status": 200,
-      "cache_note": "Index now links to September Developer Feedback dated Sep 28 and the Sep 29 game update; discovered one new article.",
+      "cache_note": "Index text shows the already-recorded Oct 6 migration item, Oct 5 GALAXYTHANKU post, and Oct 1 contest; not scored as player intelligence.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-07T10:34:54Z",
+      "last_checked": "2026-10-09T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Index surfaces Oct 6 Interstellar Migration announcement for servers 1113–1192; separate article assessed."
+      "summary": "Normalized readable index refreshed; latest game entries remain Oct 6 Interstellar Migration and Oct 5 GALAXYTHANKU; no new candidate.",
+      "last_modified": null
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -83,16 +84,16 @@
       "cache_note": "Third-party mirror of official Instagram maintenance post; details explicitly subject to change."
     },
     "https://www.foundation.game/en/news": {
-      "fingerprint": "b796f306a69d8557968c8ea1f8b1e95545d83f082bb22769bf1ea097fa188f93",
+      "fingerprint": "496a3d9d9d818fedad8403675edb89920f64d37f4eb0a8686a6386e379860669",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-09-25T11:30:00Z",
-      "last_checked": "2026-10-07T10:32:11Z",
-      "status": "probe_error",
-      "summary": "Normalized readable-body SHA-256 matches; no new official news.",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
-      "probe_error": "Readable extractor returned only the title (29-character body); could not establish a stable normalized body or hash."
+      "last_fetched": "2026-10-09T10:30:00Z",
+      "last_checked": "2026-10-09T10:30:00Z",
+      "status": 200,
+      "summary": "Readable news index re-probed; newest official site article remains Epoch of Fusion Seed (Sep 9); no newly listed update.",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "last_modified": null
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
       "fingerprint": "1e6cbece996ad4c8887505009ec0e4e39aa91b03d58f059d7755b38fe6401528",
@@ -161,11 +162,11 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (October 2026) - Pocket Gamer",
       "last_fetched": "2026-10-05T10:30:00Z",
-      "last_checked": "2026-10-07T10:34:54Z",
-      "status": "cache_hit",
+      "last_checked": "2026-10-09T10:30:00Z",
+      "status": 304,
       "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate.",
       "last_modified": "Mon, 05 Oct 2026 10:34:07 GMT",
-      "summary": "Conditional request returned 304 Not Modified; body not read for this run.",
+      "summary": "If-Modified-Since returned HTTP 304; body not fetched, read, or scored.",
       "status_label": "cache_hit",
       "probe_state": "cache_hit"
     },
@@ -872,17 +873,16 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "7b70611e6289cf71eac7aae27d8a871a2cea2d83c5b76c9a96053ee15175810f",
+      "fingerprint": "e6e27cbb72f0da5a514f6af984296128bb5504f8bed7c52cb63b2d62695c0799",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes in October 2026 - Mobi.gg",
-      "last_fetched": "2026-10-05T10:30:00Z",
-      "last_checked": "2026-10-07T10:34:54Z",
-      "status": "probe_error",
+      "last_fetched": "2026-10-10T10:30:00Z",
+      "last_checked": "2026-10-10T10:30:00Z",
+      "status": 200,
       "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate.",
-      "summary": "Page last substantively updated Sep 25; repeats known codes including MOONFESTIVAL26, CHEERS100K and NavigationDay26.",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
-      "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
+      "summary": "Readable page last substantively updated Sep 25; repeats known codes including MOONFESTIVAL26, CHEERS100K and NavigationDay26.",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=id": {
       "fingerprint": "d6f990a9d63866e6684d7cd7442914246ae7b91f551815800bd30b9aa7aa96fb",
@@ -1077,8 +1077,12 @@
       "fingerprint": "361f151ba7380c4ba04b9da77166decdf0936e5e39693a426c772c1dffeb030c",
       "title": "Foundation: Galactic Frontier @FoundationGF_EN",
       "last_fetched": "2026-08-21T11:30:00Z",
-      "status": 200,
-      "cache_note": "Search capture exposed current August 18 hot-update, Navigation Day, and writing-contest text attributed to the official account. The direct mirror page itself has unreliable timestamps; player-facing entries retain this limitation."
+      "status": 403,
+      "cache_note": "Search capture exposed current August 18 hot-update, Navigation Day, and writing-contest text attributed to the official account. The direct mirror page itself has unreliable timestamps; player-facing entries retain this limitation.",
+      "last_checked": "2026-10-08T10:31:00Z",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "probe_error": "Direct lightweight request returned HTTP 403 Cloudflare challenge; no stable body. Search-index content was not used to infer change."
     },
     "https://apps.apple.com/jm/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "3f60fe622ca1ece90fbb19b97704047d6fd03d5f4ee14bc227df9e8985ead28b",
@@ -2113,16 +2117,16 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "5c97dab1f8c69fde0c3d21dc71ac3bab9a85ff3036f916136fac258002a4efaf",
+      "fingerprint": "a5ba496f9b1cc4341c079293ef3ffa6c3b0a2cae6d1e0f1860165b1f6ce9c978",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_checked": "2026-10-07T10:34:54Z",
-      "last_fetched": "2026-10-07T10:34:54Z",
+      "last_checked": "2026-10-10T10:30:00Z",
+      "last_fetched": "2026-10-10T10:30:00Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Updated Oct 7; lists generic GF777/GF888/GF999/WELCOMEGF/GALACTIC2024 strings without corroborating game-specific evidence. Rejected.",
-      "last_modified": "Wed, 07 Oct 2026 10:31:47 GMT",
+      "summary": "Updated Oct 10; lists generic GF777/GF888/GF999/WELCOMEGF/GALACTIC2024 without traceable game-specific evidence.",
+      "last_modified": "Sat, 10 Oct 2026 10:31:27 GMT",
       "cache_note": "Lists generic GF777/GF888/GF999/WELCOMEGF/GALACTIC2024 strings without traceable game-specific evidence; rejected."
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
@@ -2195,51 +2199,62 @@
       "last_fetched": "2026-10-05T10:30:00Z"
     },
     "https://gamevoyant.com/codes/foundation-galactic-frontier-codes": {
-      "fingerprint": "8e5ef042966544914c7418839a79f304c3e41f382b1a2252cf97ee41ded54c52",
+      "fingerprint": "40a2708027bdf0c7bd5bd722f31e280a8e81f89121809a8053fb9aa5668c2f4e",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-07T10:34:54Z",
-      "status": "probe_error",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "last_checked": "2026-10-10T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "title": "Foundation Galactic Frontier Codes October 2026",
-      "summary": "Lists MOONFESTIVAL26 (claimed through Oct 7), CHEERS100K (expired), NavigationDay26, S2SupplyDrop (expired), PLAYONPC2026; no rewards for most entries.",
-      "last_fetched": "2026-10-05T10:30:00Z",
-      "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate.",
-      "probe_error": "Extractor omitted the code table; no stable normalized body."
+      "summary": "Page checked Oct 3; lists MOONFESTIVAL26, CHEERS100K, NavigationDay26, S2SupplyDrop and PLAYONPC2026; no new codes or proof.",
+      "last_fetched": "2026-10-10T10:30:00Z",
+      "cache_note": "Probe succeeded; no new distinct or corroborated actionable candidate."
     },
     "https://9to5gaming.com/foundation-galactic-frontier-codes/": {
-      "fingerprint": "2593698d16db584f3bc2a84de67846e1cd7a2817fed9ccbf42894a7f86864be3",
+      "fingerprint": "6e27555a5a625e3f97efbce1bd55b5cd127bedb8f13cb37d88bd06f94edc7583",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-07T10:34:54Z",
-      "status": "probe_error",
+      "last_checked": "2026-10-10T10:30:00Z",
+      "status": 200,
       "title": "Foundation Galactic Frontier Codes October 2026",
-      "summary": "Code list mixes previously expired and active claims; contains internal contradictions and many unsubstantiated entries.",
-      "last_fetched": "2026-10-05T10:30:00Z",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
-      "probe_error": "Readable extraction was truncated; no stable normalized body."
+      "summary": "Page has stale and contradictory code claims, including already expired items and a GALAXYTHANKS spelling mismatch with the registered GALAXYTHANKU.",
+      "last_fetched": "2026-10-10T10:30:00Z",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed"
     },
     "https://murpo.com/news/klara-patch-notes-dcda237c55dede511d00": {
-      "fingerprint": "fb924d69b08e09fce7caa420f9acd53573834fe4ad256d1306c81b77a835a142",
+      "fingerprint": "48142a5be537ce1a64595845668a0d6836aa4932f2f15c60dbdfc5473c0dc232",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-06T10:35:00Z",
-      "status": "cache_miss",
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
-      "title": "GALAXYTHANKU — Frontier News",
-      "summary": "Official Discord gift-code announcement transcribed by Murpo; images show GALAXYTHANKU and reward bundle. Expiry not disclosed.",
-      "last_fetched": "2026-10-06T10:35:00Z"
+      "last_checked": "2026-10-09T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "title": "GALAXYTHANKU: New Gift Code — Frontier News",
+      "summary": "Normalized body excludes expiring signed Discord image URLs and navigation noise; page is the same registered Oct 5 GALAXYTHANKU transcription, with no expiry/status change evidence.",
+      "last_fetched": "2026-10-09T10:30:00Z",
+      "last_modified": null
     },
     "https://murpo.com/news/klara-game-news-c97125a0b92692c8268e": {
-      "fingerprint": "0eb2bc87a7ae356489555ad413e66ed6ef64e98d801ead1cf55c91300a16db09",
+      "fingerprint": "073c14d8dbe3ae8ee2f33e82b97e2e9b61078503d5c9d1e4b5474f72ab301187",
       "fingerprint_algorithm": "sha256",
-      "title": "🚀 Interstellar Migration Is Coming!",
-      "last_checked": "2026-10-07T10:32:11Z",
-      "last_fetched": "2026-10-07T10:32:11Z",
+      "title": "Interstellar Migration: October 13–19 for Servers 1113–1192 — Frontier News",
+      "last_checked": "2026-10-09T10:30:00Z",
+      "last_fetched": "2026-10-09T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "summary": "Body re-probed; same Oct 6 announcement already in seen-items; no new operational details.",
+      "last_modified": null
+    },
+    "https://www.foundation.game/en/news/frequently-asked-questions": {
+      "fingerprint": "a220eba47291fad70640538b6dc67ecca66ff650254b3ab5be9c122795ff383c",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-10T10:30:00Z",
       "status": 200,
       "status_label": "cache_miss",
       "probe_state": "cache_miss",
-      "summary": "Official Discord announcement reproduced by Murpo: Servers 1113–1192; five groups of 16; migration schedule Oct 13–19; no later chance before S2 and no confirmed S2 date for other servers."
+      "title": "Frequently Asked Questions",
+      "summary": "Official FAQ dated 2026-10-09: shared progression across Windows, iOS, Android, macOS using same account; core gameplay free-to-play; overview of features.",
+      "last_fetched": "2026-10-10T10:30:00Z"
     }
   }
 }
