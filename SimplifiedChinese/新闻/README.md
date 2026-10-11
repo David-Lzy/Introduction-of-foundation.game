@@ -4,6 +4,8 @@
 
 ## 条目
 
+- [2026-10-11 Foundation Q4 2026 路线图：活动、商会与英雄](/SimplifiedChinese/新闻/2026-10-11)
+
 - [2026-10-07 Interstellar Migration：1113–1192 服迁服安排（10 月 13–19 日）](/SimplifiedChinese/新闻/2026-10-07)
 
 - [2026-09-29 9 月开发者答疑：玩家实用信息](/SimplifiedChinese/新闻/2026-09-29)

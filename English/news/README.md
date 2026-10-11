@@ -4,6 +4,8 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-10-11 Q4 2026 Roadmap: Events, Guilds, and Champions](/English/news/2026-10-11)
+
 - [2026-10-07 Interstellar Migration: Servers 1113–1192 (October 13–19)](/English/news/2026-10-07)
 
 - [2026-09-29 September Developer Feedback: practical changes and planning notes](/English/news/2026-09-29)

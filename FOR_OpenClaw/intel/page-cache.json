@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-10T10:30:00Z",
+  "updated_on": "2026-10-11T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2255,6 +2255,17 @@
       "title": "Frequently Asked Questions",
       "summary": "Official FAQ dated 2026-10-09: shared progression across Windows, iOS, Android, macOS using same account; core gameplay free-to-play; overview of features.",
       "last_fetched": "2026-10-10T10:30:00Z"
+    },
+    "https://murpo.com/news/klara-game-news-d2c325e842fa2a57dabc": {
+      "fingerprint": "5c00fc1c745e6e6bcfd06c8c6be695f6ee8572b706c2c532f18a76384e09e5db",
+      "fingerprint_algorithm": "sha256",
+      "last_fetched": "2026-10-10T10:30:00Z",
+      "last_checked": "2026-10-11T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Foundation Q4 2026 Roadmap: Events, Guilds and Champions — Frontier News",
+      "summary": "Official Discord roadmap transcribed by Murpo: Guild Ruins development continues; Tower Defense enters regular rotation; Premier Arena cross-server tournament; Guild Duel War Prism 2.0; initial Item Exchange for Flagship Component Fragments and Stellar Fragments with weekly limit; two Beam Champions; Shadowfront League paused for Q4. All subject to change."
     }
   }
 }
