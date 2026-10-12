@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-11T10:30:00Z",
+  "updated_on": "2026-10-12T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "78a8a6f490cf7e9dcf0a6028218b87b1f24ebdfe2e0fdeb19072fb60320189af",
+      "fingerprint": "aad496d7df0f1723eeab6c122c9e3f00bfa7490bd5d7f499c7937a760f3ba84b",
       "title": "Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-09T10:30:00Z",
+      "last_fetched": "2026-10-12T10:30:00Z",
       "status": 200,
-      "cache_note": "Index text shows the already-recorded Oct 6 migration item, Oct 5 GALAXYTHANKU post, and Oct 1 contest; not scored as player intelligence.",
+      "cache_note": "Normalized readable text SHA-256; extracted body text with scripts/styles/nav/footer excluded and whitespace collapsed.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-09T10:30:00Z",
+      "last_checked": "2026-10-12T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Normalized readable index refreshed; latest game entries remain Oct 6 Interstellar Migration and Oct 5 GALAXYTHANKU; no new candidate.",
+      "summary": "Homepage now lists the Q4 roadmap published Oct 10; that candidate duplicates the Oct 11 roadmap item already ingested. No other new player-useful game item appeared in the readable index.",
       "last_modified": null
     },
     "https://murpo.com/august-11th-2026-game-update": {
@@ -2055,12 +2055,12 @@
       "fingerprint": "27cffeb64206c4601b5ffc9fa633821e6fb8deef333c5830d68852a4bfe0c3cb",
       "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | Sotwe",
       "last_fetched": "2026-09-01T11:30:00Z",
-      "status": "probe_error",
+      "status": 403,
       "summary": "Third-party mirror of official-account posts: current Aug 31-Sep 6 calendar guidance; Beacon Fest for servers 1017-1231 through Sep 1; and NavigationDay26, listed through Sep 21 UTC for AP Potion 100 x1, Venturous Memory x5, and 30-minute Universal Speedup x3. Schedule and redemption require in-game confirmation.",
-      "last_checked": "2026-10-07T10:32:11Z",
+      "last_checked": "2026-10-12T10:30:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
-      "probe_error": "HTTP 403; no stable body.",
+      "probe_error": "HTTP 403; no stable readable body. Search-index snippets were not used to infer changes.",
       "fingerprint_algorithm": "sha256"
     },
     "https://x.com/FoundationGF_EN": {
@@ -2260,12 +2260,23 @@
       "fingerprint": "5c00fc1c745e6e6bcfd06c8c6be695f6ee8572b706c2c532f18a76384e09e5db",
       "fingerprint_algorithm": "sha256",
       "last_fetched": "2026-10-10T10:30:00Z",
-      "last_checked": "2026-10-11T10:30:00Z",
+      "last_checked": "2026-10-12T10:30:00Z",
       "status": 200,
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "title": "Foundation Q4 2026 Roadmap: Events, Guilds and Champions — Frontier News",
-      "summary": "Official Discord roadmap transcribed by Murpo: Guild Ruins development continues; Tower Defense enters regular rotation; Premier Arena cross-server tournament; Guild Duel War Prism 2.0; initial Item Exchange for Flagship Component Fragments and Stellar Fragments with weekly limit; two Beam Champions; Shadowfront League paused for Q4. All subject to change."
+      "summary": "Official Discord roadmap transcribed by Murpo: Guild Ruins development continues; Tower Defense enters regular rotation; Premier Arena cross-server tournament; Guild Duel War Prism 2.0; initial Item Exchange for Flagship Component Fragments and Stellar Fragments with weekly limit; two Beam Champions; Shadowfront League paused for Q4. All subject to change.",
+      "cache_note": "Readable text unchanged from the prior fetch (same roadmap candidate already ingested on 2026-10-11); no scoring or ingestion this run."
+    },
+    "https://imginn.com/p/DdwGB-qlyKZ/": {
+      "fingerprint": null,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-12T10:30:00Z",
+      "status": 403,
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "title": "Instagram post mirror (probe blocked)",
+      "probe_error": "HTTP 403 challenge; no stable readable body. No content inferred from search snippets."
     }
   }
 }
