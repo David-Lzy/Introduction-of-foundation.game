@@ -24,10 +24,11 @@
 ## 当前有效兑换码
 
 ### 官方公告新码
-- **GALAXYTHANKU** - 银河币 4,000 x3、15 分钟通用加速 x3、棱镜核心 x20（有效期未公布）
+- **GALAXYTHANKU** - 银河币 4,000 x3、15 分钟通用加速 x3、棱镜核心 x20（有效期至 2026-10-25 23:59 UTC）
   - 来源：[Foundation 官方 Discord 公告（由 Murpo 转录并附原公告链接）](https://discord.com/channels/1538543817400000565/1546264462108008519/1556701017351913542)；[公告整理页](https://murpo.com/news/klara-patch-notes-dcda237c55dede511d00)（2026-10-05）
   - 状态：官方已公告；未独立验证兑换结果
-  - 备注：请尽早兑换；公告未注明有效期。
+  - 备注：官方账号更正了先前的兑换码错误，并注明有效期至 2026-10-25 23:59 UTC；请在此之前兑换。兑换结果尚未独立验证。
+  - 有效期来源：[FoundationGF_EN 官方账号的 Sotwe 镜像](https://www.sotwe.com/FoundationGF_EN?lang=en)。
 
 ### 新增报告兑换码
 - **MOONFESTIVAL26** - 奖励未公开（第三方来源称有效期至 2026-10-07）
@@ -110,5 +111,5 @@
 - **COSMIC2026** - 已于 2026-02-01 过期
 
 ---
-*最后更新：2026-10-01*
+*最后更新：2026-10-13*
 *来源：官方兑换页、官方 X、官方 Facebook、官方 Instagram 帖文镜像、Sotwe、GameWith、TwStalker、Telegram、PocketGamer、UCNGame、MrGuider*

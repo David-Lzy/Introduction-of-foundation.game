@@ -4,6 +4,7 @@
 
 ## 條目
 
+- [2026-10-13 Lucius Pullo：官方英雄技能預覽](/TraditionalChinese/新聞/2026-10-13)
 - [2026-10-11 Foundation Q4 2026 路線圖：活動、商會與英雄](/TraditionalChinese/新聞/2026-10-11)
 
 - [2026-10-07 Interstellar Migration：1113–1192 服遷服安排（10 月 13–19 日）](/TraditionalChinese/新聞/2026-10-07)

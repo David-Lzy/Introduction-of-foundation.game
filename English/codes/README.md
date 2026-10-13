@@ -24,10 +24,11 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 ## Active Codes
 
 ### Officially announced new code
-- **GALAXYTHANKU** - Galactic Coin 4,000 x3, 15-minute Universal Speedup x3, Prismatic Core x20 (no expiry disclosed)
+- **GALAXYTHANKU** - Galactic Coin 4,000 x3, 15-minute Universal Speedup x3, Prismatic Core x20 (valid until 2026-10-25 23:59 UTC)
   - Source: [Official Foundation Discord announcement (transcribed by Murpo with original post link)](https://discord.com/channels/1538543817400000565/1546264462108008519/1556701017351913542); [announcement brief](https://murpo.com/news/klara-patch-notes-dcda237c55dede511d00) (2026-10-05)
   - Status: officially announced; redemption result not independently verified
-  - Note: Redeem promptly; no expiry was stated.
+  - Note: The official account corrected an earlier code error and gave the deadline as 2026-10-25 23:59 UTC. Redeem before then; the redemption result has not been independently verified.
+  - Deadline source: [Official FoundationGF_EN account, mirrored by Sotwe](https://www.sotwe.com/FoundationGF_EN?lang=en).
 
 ### Newly reported codes
 - **MOONFESTIVAL26** - Reward details not disclosed (third-party sources claim valid until 2026-10-07)
@@ -110,5 +111,5 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 - **COSMIC2026** - Expired on 2026-02-01
 
 ---
-*Last updated: 2026-10-01*
+*Last updated: 2026-10-13*
 *Sources: Official redemption portal, Official X, Official Facebook, official Instagram post mirror, Sotwe, GameWith, TwStalker, Telegram, PocketGamer, UCNGame, MrGuider*
