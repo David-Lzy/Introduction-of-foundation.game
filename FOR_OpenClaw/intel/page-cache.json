@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-14T10:31:30Z",
+  "updated_on": "2026-10-15T10:31:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2119,17 +2119,16 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "a5ba496f9b1cc4341c079293ef3ffa6c3b0a2cae6d1e0f1860165b1f6ce9c978",
+      "fingerprint": "8056aab6850383e6473ce51c4b0748c173902fdfabb0d4dd1dc9ab150ce32268",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_checked": "2026-10-10T10:30:00Z",
-      "last_fetched": "2026-10-10T10:30:00Z",
+      "last_fetched": "2026-10-15T10:31:00Z",
+      "last_checked": "2026-10-15T10:31:00Z",
       "status": 200,
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
-      "summary": "Updated Oct 10; lists generic GF777/GF888/GF999/WELCOMEGF/GALACTIC2024 without traceable game-specific evidence.",
-      "last_modified": "Sat, 10 Oct 2026 10:31:27 GMT",
-      "cache_note": "Lists generic GF777/GF888/GF999/WELCOMEGF/GALACTIC2024 strings without traceable game-specific evidence; rejected."
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "cache_note": "First discovery; readable article body normalized after removing script/style/navigation/footer noise and whitespace; no ETag; page Last-Modified is same-day.",
+      "last_modified": "Thu, 15 Oct 2026 10:31:36 GMT"
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
       "fingerprint": "5a71d0d243e9674066680df1c4b077077c737db1fd70280af83ad6674fcb389c",
@@ -2294,6 +2293,17 @@
       "title": "Codes Foundation: Galactic Frontier en Octobre 2026 | Gratuits et valides",
       "summary": "Newly observed URL; Sep 25 list repeats registered codes, with no evidence of new code or status transition.",
       "last_fetched": "2026-10-14T10:31:30Z"
+    },
+    "https://murpo.com/news/klara-patch-notes-e260907235808ba90080": {
+      "fingerprint": "06b26bfd60060c96b329c9ccb6caeb5ef588d16f3269d1b73c99872e0e176ae6",
+      "fingerprint_algorithm": "sha256",
+      "title": "Foundation: Galactic Frontier – October 15 Version Update & Patch Notes",
+      "last_fetched": "2026-10-15T10:31:00Z",
+      "last_checked": "2026-10-15T10:31:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "cache_note": "First discovery; readable article body normalized after removing script/style/navigation/footer noise and whitespace; no ETag or Last-Modified validator."
     }
   }
 }
