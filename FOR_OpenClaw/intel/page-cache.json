@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "b9a5cf23ead03b7195badbe171ab85d81206a1cc54390f4101ea396da949ac6e",
+      "fingerprint": "78b6a64fb69bdbcea465111cdf3706408c4b13c7750ffb66443ba5422dbbf07d",
       "title": "Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-14T10:31:30Z",
+      "last_fetched": "2026-10-16T10:30:00Z",
       "status": 200,
-      "cache_note": "Readable page text normalized; no validator available.",
+      "cache_note": "Readable index lists October 15 update already assessed; normalized article-index text.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-14T10:31:30Z",
+      "last_checked": "2026-10-16T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Index includes Oct 13 VIP-only Stella community activity, but no public actionable details; earlier roadmap/migration items remain unchanged.",
+      "summary": "Index now lists October 15 update articles; event announcement details were assessed separately from the official-account mirror.",
       "last_modified": null
     },
     "https://murpo.com/august-11th-2026-game-update": {
@@ -88,7 +88,7 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-10-14T10:31:30Z",
+      "last_checked": "2026-10-16T10:30:00Z",
       "status": 200,
       "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
       "status_label": "probe_error",
@@ -159,15 +159,15 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "252dbe1d32e8820e776495165d3f4d09dcd19461602ce8f9aa901c9481216ac3",
+      "fingerprint": "f110f1f47a19ff45a9ed34bb578641f636f0a7f53fce2c6cd505eecb6eb06bb1",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (October 2026) - Fill up on Water and Metal",
-      "last_fetched": "2026-10-14T10:31:30Z",
-      "last_checked": "2026-10-14T10:31:30Z",
+      "last_fetched": "2026-10-16T10:30:00Z",
+      "last_checked": "2026-10-16T10:30:00Z",
       "status": 200,
-      "cache_note": "Readable page text normalized; no validator available.",
+      "cache_note": "Readable article body normalized; content matches Oct 14 review; Last-Modified header advanced but body facts unchanged.",
       "last_modified": "Mon, 05 Oct 2026 10:34:07 GMT",
-      "summary": "Readable article rechecked Oct 14; repeats FOUNDATION and FURTHERFUTURE; no new code or status evidence.",
+      "summary": "Oct 10 list remains FOUNDATION and FURTHERFUTURE, with no new active code.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -874,14 +874,14 @@
       "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "2de195b31648d7d4743c0c5c5e5fd4fdf452d2626d3b8208bbddd2e8d077f11d",
+      "fingerprint": "8d0a42d2118a5cc2e17a47ac1cd342b6cc8eba695e20dc5b7aec5e264e435056",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes in October 2026 | Free and valid",
-      "last_fetched": "2026-10-13T10:30:00Z",
-      "last_checked": "2026-10-13T10:30:00Z",
+      "last_fetched": "2026-10-16T10:30:00Z",
+      "last_checked": "2026-10-16T10:30:00Z",
       "status": 200,
-      "cache_note": "Readable page text normalized; no validator available.",
-      "summary": "Page text retains a September 25 update date and repeats known codes, including stale validity claims; no new code or official status evidence.",
+      "cache_note": "Readable article normalized; September 25 article copy; code list overlaps known/expired entries and adds no status evidence.",
+      "summary": "September 25 list overlaps existing seasonal/permanent codes; no new status evidence.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed"
     },
@@ -2054,16 +2054,16 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": "f9c6dedd28a84325afe795ed3fcc9064c42f0a2b735ae9188ce735718ac94c38",
-      "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | Sotwe",
-      "last_fetched": "2026-10-13T10:30:00Z",
+      "fingerprint": "d9979b05f69f122113a91cfec0d48428ad29c0ca8ba448d67c702620ce0294ff",
+      "title": "Foundation: Galactic Frontier @FoundationGF_EN — Astral Alignment Party anniversary post",
+      "last_fetched": "2026-10-16T10:30:00Z",
       "status": 200,
-      "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets.",
-      "last_checked": "2026-10-14T10:31:30Z",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "summary": "Official-account mirror post adds anniversary event dates, three-login ship skin condition, event activities, and 18-stop race.",
+      "last_checked": "2026-10-16T10:30:00Z",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "fingerprint_algorithm": "sha256",
-      "cache_note": "Normalized readable profile text via web.open; UI navigation, counters, repeated image echoes and whitespace noise removed. Direct curl returned HTTP 403, but a full readable page was available through the web reader."
+      "cache_note": "Official-account post readable through web reader; direct HTTP returned 403. Fingerprint covers normalized extracted current post body; profile chrome and duplicate image echo excluded."
     },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
@@ -2119,16 +2119,17 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "8056aab6850383e6473ce51c4b0748c173902fdfabb0d4dd1dc9ab150ce32268",
+      "fingerprint": "079cbf518b2af4a2a58ea8ef38b7001f0a60fda4e8c847b8904299bbd6964556",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_fetched": "2026-10-15T10:31:00Z",
-      "last_checked": "2026-10-15T10:31:00Z",
+      "last_fetched": "2026-10-16T10:30:00Z",
+      "last_checked": "2026-10-16T10:30:00Z",
       "status": 200,
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
-      "cache_note": "First discovery; readable article body normalized after removing script/style/navigation/footer noise and whitespace; no ETag; page Last-Modified is same-day.",
-      "last_modified": "Thu, 15 Oct 2026 10:31:36 GMT"
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "cache_note": "Readable article normalized; uncorroborated codes only, no official-source links.",
+      "last_modified": "Thu, 15 Oct 2026 10:31:36 GMT",
+      "summary": "Oct 16 list contains GF777, GF888, GF999, WELCOMEGF, GALACTIC2024 without evidence/corroboration."
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
       "fingerprint": "5a71d0d243e9674066680df1c4b077077c737db1fd70280af83ad6674fcb389c",
