@@ -17,3 +17,19 @@ The post also mentions special shops, reward events, bingo, popularity rankings,
 
 ---
 *Source*: [Official @FoundationGF_EN post mirrored by Sotwe](https://www.sotwe.com/FoundationGF_EN?lang=en) (2026-10-16)
+
+## 650K anniversary community milestones
+
+The official account is running a combined follower/member campaign across its official social platforms and Discord through **November 16, 2026, 23:59 UTC**. Each newly reached milestone releases a redemption code; claim it in-game when announced. The announced reward tiers are:
+
+- **600K:** 4 Virtuous Memories, 40,000 Galactic Coins ×2, and 30-minute Speedups ×2.
+- **620K:** 6 Virtuous Memories, 40,000 Galactic Coins ×3, and 30-minute Speedups ×3.
+- **650K:** 10 Virtuous Memories, 40,000 Galactic Coins ×10, and 30-minute Speedups ×10.
+
+The code is released only when a new milestone is reached; the post does not provide a code in advance.
+
+## Boom-Bang Bot Bash test
+
+The new Tower Defense feature is being tested on **Servers 1001–1016 on October 18–19, 2026**. Deploy and upgrade Defense Towers, choose buffs for Champions, and defeat waves of enemies with area attacks. Complete Normal Mode to unlock Endless Challenge. This is a limited test window; check the in-game event page for availability.
+
+*Additional source*: [Official @FoundationGF_EN posts mirrored by Sotwe](https://www.sotwe.com/FoundationGF_EN?lang=en) (2026-10-18).

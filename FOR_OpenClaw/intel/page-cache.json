@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-15T10:31:00Z",
+  "updated_on": "2026-10-18T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "78b6a64fb69bdbcea465111cdf3706408c4b13c7750ffb66443ba5422dbbf07d",
+      "fingerprint": "442567a6180a999be838936af1e61e783bd5c2993ba4d357833c65408ce36274",
       "title": "Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-16T10:30:00Z",
+      "last_fetched": "2026-10-18T10:30:00Z",
       "status": 200,
-      "cache_note": "Readable index lists October 15 update already assessed; normalized article-index text.",
+      "cache_note": "Normalized readable homepage content changed since Oct 16; new Oct 17 anniversary milestone and Champion movement-fix briefings appeared. No ETag or Last-Modified validator.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-16T10:30:00Z",
+      "last_checked": "2026-10-18T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Index now lists October 15 update articles; event announcement details were assessed separately from the official-account mirror.",
+      "summary": "Index now lists Oct 17 community milestone and resolved Champion movement issue; details assessed on their individual pages.",
       "last_modified": null
     },
     "https://murpo.com/august-11th-2026-game-update": {
@@ -2054,16 +2054,16 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": "d9979b05f69f122113a91cfec0d48428ad29c0ca8ba448d67c702620ce0294ff",
-      "title": "Foundation: Galactic Frontier @FoundationGF_EN — Astral Alignment Party anniversary post",
-      "last_fetched": "2026-10-16T10:30:00Z",
+      "fingerprint": "3312a2751e56be50ab2afdd656b9faffccd20b52031ec61a4814682c32e0e53c",
+      "title": "Foundation: Galactic Frontier @FoundationGF_EN — Boom-Bang Bot Bash test and 650K anniversary milestone posts",
+      "last_fetched": "2026-10-18T03:58:00Z",
       "status": 200,
-      "summary": "Official-account mirror post adds anniversary event dates, three-login ship skin condition, event activities, and 18-stop race.",
-      "last_checked": "2026-10-16T10:30:00Z",
+      "summary": "New official-account posts: Boom-Bang Bot Bash Tower Defense test on Servers 1001–1016 Oct 18–19 (Normal Mode unlocks Endless Challenge); 650K anniversary follower/member milestone campaign through Nov 16 with reward tiers and codes dropping at each milestone.",
+      "last_checked": "2026-10-18T03:58:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "fingerprint_algorithm": "sha256",
-      "cache_note": "Official-account post readable through web reader; direct HTTP returned 403. Fingerprint covers normalized extracted current post body; profile chrome and duplicate image echo excluded."
+      "cache_note": "Direct page request returned HTTP 403; live web-reader extracted readable official-account post text. Fingerprint covers normalized new post bodies only, with profile chrome, counters and crawler timestamps excluded."
     },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
@@ -2119,17 +2119,17 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "079cbf518b2af4a2a58ea8ef38b7001f0a60fda4e8c847b8904299bbd6964556",
+      "fingerprint": "0b0673d9f707e17c6800cbd051fd4b0df8de85d924bb0d0ebe539587bf9b6117",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_fetched": "2026-10-16T10:30:00Z",
-      "last_checked": "2026-10-16T10:30:00Z",
+      "last_fetched": "2026-10-18T03:58:00Z",
+      "last_checked": "2026-10-18T03:58:00Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "cache_note": "Readable article normalized; uncorroborated codes only, no official-source links.",
-      "last_modified": "Thu, 15 Oct 2026 10:31:36 GMT",
-      "summary": "Oct 16 list contains GF777, GF888, GF999, WELCOMEGF, GALACTIC2024 without evidence/corroboration."
+      "cache_note": "Conditional request returned 200; normalized article substance hashed after excluding dynamic update time, votes, comments and navigation. Old-code list duplicates prior probe; no code candidate accepted.",
+      "last_modified": "Sun, 18 Oct 2026 04:00:18 GMT",
+      "summary": "Oct 18 refresh repeats GF777, GF888, GF999, WELCOMEGF and GALACTIC2024; provides no code-specific evidence, expiry, or rewards. Matches the Oct 16 list; no new codes or status evidence."
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
       "fingerprint": "5a71d0d243e9674066680df1c4b077077c737db1fd70280af83ad6674fcb389c",
@@ -2305,6 +2305,28 @@
       "status_label": "cache_miss",
       "probe_state": "cache_miss",
       "cache_note": "First discovery; readable article body normalized after removing script/style/navigation/footer noise and whitespace; no ETag or Last-Modified validator."
+    },
+    "https://murpo.com/news/klara-community-news-e4440978d6f2feceea72": {
+      "fingerprint": "17a3fed83f6bb3b3d7761c62322f9ec738ce3b81751db902a4cdc10cc75af3de",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-18T10:30:00Z",
+      "last_fetched": "2026-10-18T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Foundation Anniversary 600K Community Milestone Event — Frontier News",
+      "summary": "Official Discord-announced anniversary campaign Oct 16–Nov 16 23:59 UTC; same 600K/620K/650K reward tiers and per-tier code drops already captured in the Oct 16 anniversary guide; duplicate, not ingested."
+    },
+    "https://murpo.com/news/klara-known-issues-7b95b3a01bd53613cbbc": {
+      "fingerprint": "3e16933a0a5082f42cc413e15e030e887b120f6fff780297d9f9c396c71bf97a",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-18T10:30:00Z",
+      "last_fetched": "2026-10-18T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Foundation: Galactic Frontier Champion Movement Fix — Frontier News",
+      "summary": "Official Discord fix notice: for players unable to move Champions during combat after the latest update, restart the game and download the latest update. Passed scorecard; written to three-language news pages."
     }
   }
 }
