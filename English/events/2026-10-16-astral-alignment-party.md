@@ -13,6 +13,12 @@ The official-account post mirrored by Sotwe lists these event windows:
 - **Port Parade Race:** Complete quests, improve your ship, and compete for ranking rewards across 18 parade stops.
 - **Reignite the Stars:** Team up with other Traders to restore planets, unlock milestone rewards, and work toward the celebration planet.
 
+## Reignite the Stars: cooperative and solo construction
+
+Use Construction Components to advance construction stages and claim rewards as planets are restored. Team up with other Traders to restore all four planets and unlock the Alignment Celebration Planet; after that, continue construction on your own. The event runs October 16–21 on Servers 1001–1016 and October 19–24 on Servers 1017–1264. Check the in-game event page for your server.
+
+*Additional source*: [Official @FoundationGF_EN post mirrored by Sotwe](https://www.sotwe.com/FoundationGF_EN?lang=en) (2026-10-19).
+
 The post also mentions special shops, reward events, bingo, popularity rankings, and gift draws without listing exact requirements or rewards. Check the in-game event pages for server-specific availability and rules.
 
 ---

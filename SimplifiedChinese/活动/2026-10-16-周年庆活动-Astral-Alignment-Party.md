@@ -13,6 +13,12 @@
 - **Port Parade Race：**完成任务、提升舰船，在 18 个巡游站点争取排名奖励。
 - **Reignite the Stars：**与其他 Trader 合作修复星球、解锁里程碑奖励，并共同建设庆典星球。
 
+## Reignite the Stars：协作与个人建设
+
+活动期间使用 Construction Components 推进建设阶段，星球修复后领取对应奖励。与其他 Trader 合作修复全部四颗星球后，会解锁 Alignment Celebration Planet；之后可继续个人建设。服务器 1001–1016 的活动窗口为 10月16–21日，服务器 1017–1264 为 10月19–24日。请在游戏内确认服务器活动页。
+
+*补充来源*：[官方 @FoundationGF_EN 帖子（Sotwe 镜像）](https://www.sotwe.com/FoundationGF_EN?lang=en)（2026-10-19）。
+
 帖子还提到特别商店、奖励活动、宾果、人气排名和抽奖，但未列出具体条件或奖励。请以游戏内活动页面显示的服务器适用范围和规则为准。
 
 ---

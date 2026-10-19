@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-18T10:30:00Z",
+  "updated_on": "2026-10-19T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2054,16 +2054,16 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": "3312a2751e56be50ab2afdd656b9faffccd20b52031ec61a4814682c32e0e53c",
-      "title": "Foundation: Galactic Frontier @FoundationGF_EN — Boom-Bang Bot Bash test and 650K anniversary milestone posts",
-      "last_fetched": "2026-10-18T03:58:00Z",
+      "fingerprint": "481535440cbe650ba0004bc547c7cbd5f7ff4746fe42c5dd1da52ea7ad43d2c6",
+      "title": "Official Reignite the Stars anniversary event post",
+      "last_fetched": "2026-10-19T10:30:00Z",
       "status": 200,
-      "summary": "New official-account posts: Boom-Bang Bot Bash Tower Defense test on Servers 1001–1016 Oct 18–19 (Normal Mode unlocks Endless Challenge); 650K anniversary follower/member milestone campaign through Nov 16 with reward tiers and codes dropping at each milestone.",
-      "last_checked": "2026-10-18T03:58:00Z",
+      "summary": "New official-account post specifies event windows by server group and the Construction Components loop: advance stages, claim rewards, restore four planets, then continue solo on Alignment Celebration Planet.",
+      "last_checked": "2026-10-19T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "fingerprint_algorithm": "sha256",
-      "cache_note": "Direct page request returned HTTP 403; live web-reader extracted readable official-account post text. Fingerprint covers normalized new post bodies only, with profile chrome, counters and crawler timestamps excluded."
+      "cache_note": "Direct profile fetch produced 403; web-reader returned the complete readable new official-account post. Normalized post body hashed with profile chrome, counters, navigation, and crawler timestamps excluded."
     },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
