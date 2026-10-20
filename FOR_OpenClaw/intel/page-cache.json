@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-19T10:30:00Z",
+  "updated_on": "2026-10-20T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,17 +29,18 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "442567a6180a999be838936af1e61e783bd5c2993ba4d357833c65408ce36274",
+      "fingerprint": "194e14cc44145db41bde5677c38d6ab82e15ab8a8c7758d44ff276e3cb1d4dfa",
       "title": "Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-18T10:30:00Z",
+      "last_fetched": "2026-10-20T10:30:00Z",
       "status": 200,
       "cache_note": "Normalized readable homepage content changed since Oct 16; new Oct 17 anniversary milestone and Champion movement-fix briefings appeared. No ETag or Last-Modified validator.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-18T10:30:00Z",
+      "last_checked": "2026-10-20T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Index now lists Oct 17 community milestone and resolved Champion movement issue; details assessed on their individual pages.",
-      "last_modified": null
+      "summary": "Latest listing includes an Oct 20 hot-update notice, without details on homepage.",
+      "last_modified": null,
+      "etag": null
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -2057,13 +2058,13 @@
       "fingerprint": "481535440cbe650ba0004bc547c7cbd5f7ff4746fe42c5dd1da52ea7ad43d2c6",
       "title": "Official Reignite the Stars anniversary event post",
       "last_fetched": "2026-10-19T10:30:00Z",
-      "status": 200,
+      "status": 403,
       "summary": "New official-account post specifies event windows by server group and the Construction Components loop: advance stages, claim rewards, restore four planets, then continue solo on Alignment Celebration Planet.",
-      "last_checked": "2026-10-19T10:30:00Z",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "last_checked": "2026-10-20T10:30:00Z",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
       "fingerprint_algorithm": "sha256",
-      "cache_note": "Direct profile fetch produced 403; web-reader returned the complete readable new official-account post. Normalized post body hashed with profile chrome, counters, navigation, and crawler timestamps excluded."
+      "cache_note": "Direct lightweight fetch returned HTTP 403; no stable normalized body or validators. Search/open snippets were not used to infer changed content or score candidates."
     },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
@@ -2327,6 +2328,19 @@
       "probe_state": "cache_miss",
       "title": "Foundation: Galactic Frontier Champion Movement Fix — Frontier News",
       "summary": "Official Discord fix notice: for players unable to move Champions during combat after the latest update, restart the game and download the latest update. Passed scorecard; written to three-language news pages."
+    },
+    "https://murpo.com/news/klara-game-news-357f46ded9cf6ad49023": {
+      "fingerprint": "ace22777b9b3da52783e807e347a6915edc2a59c94b0e8cc68b808c1fb278574",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-20T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "last_fetched": "2026-10-20T10:30:00Z",
+      "title": "Update Notice – October 20th, 2026",
+      "summary": "Murpo transcription states an Oct 20 hot update will require no maintenance and points to official Discord for details; no player-actionable change details in article.",
+      "etag": null,
+      "last_modified": null
     }
   }
 }
