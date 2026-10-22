@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-21T10:30:00Z",
+  "updated_on": "2026-10-22T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -160,17 +160,17 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "f110f1f47a19ff45a9ed34bb578641f636f0a7f53fce2c6cd505eecb6eb06bb1",
+      "fingerprint": "52d4dd5ce714f0555319fbd27596e93dbe3525fc848f29b3ecc447ad5c792d11",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes (October 2026) - Fill up on Water and Metal",
-      "last_fetched": "2026-10-16T10:30:00Z",
-      "last_checked": "2026-10-21T10:30:00Z",
+      "last_fetched": "2026-10-22T10:30:00Z",
+      "last_checked": "2026-10-22T10:30:00Z",
       "status": 200,
-      "cache_note": "Normalized readable code-list body matches the Oct 16 fingerprint; no new code or status change.",
+      "cache_note": "HTTP 200; normalized readable text SHA-256 differs from stored fingerprint; semantic code list unchanged.",
       "last_modified": "Mon, 05 Oct 2026 10:34:07 GMT",
-      "summary": "Oct 10 list remains FOUNDATION and FURTHERFUTURE, with no new active code.",
-      "status_label": "cache_hit",
-      "probe_state": "cache_hit"
+      "summary": "Oct 18 page lists only FOUNDATION and FURTHERFUTURE as active; no new code/status change.",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed"
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
       "fingerprint": "9b6422fe9d554c75fa1be4a98a6c4089d9c7216ad9b58c0bf882d557bfec3e98",
@@ -240,15 +240,16 @@
       "cache_note": "Unaffiliated auto-generated code page. It lists opaque rotating strings, generic copy, fabricated-looking reviews, and no source, reward, or expiration evidence; rejected."
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "b2769656546e5a0ab642c7232530f372a46a2898789408773850500a7120a031",
-      "title": "Foundation Galactic Frontier Codes",
-      "last_fetched": "2026-09-06T11:30:00Z",
-      "status": 403,
-      "cache_note": "HTTP 403; no stable readable body.",
-      "status_label": "probe_error",
-      "last_checked": "2026-10-04T10:30:00Z",
+      "fingerprint": "dbd055ba7a6687058c15531f777f5f8a426b0ad6404a53e1a6668bdb85525f46",
+      "title": "Foundation Galactic Frontier Codes OCT 2026 [UPDATED]",
+      "last_fetched": "2026-10-22T10:30:00Z",
+      "status": 200,
+      "cache_note": "HTTP 200; normalized readable text SHA-256 differs from previous stored fingerprint; new candidate FGF1stAnniv.",
+      "status_label": "cache_changed",
+      "last_checked": "2026-10-22T10:30:00Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "probe_error"
+      "probe_state": "cache_changed",
+      "summary": "Third-party page lists new code FGF1stAnniv, claims validity through Nov 7, 2026; reward details undisclosed."
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
