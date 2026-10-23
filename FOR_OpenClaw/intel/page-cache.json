@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-22T10:30:00Z",
+  "updated_on": "2026-10-23T10:32:16Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "194e14cc44145db41bde5677c38d6ab82e15ab8a8c7758d44ff276e3cb1d4dfa",
+      "fingerprint": "d130ef26353329d4ab89460e20e4b31eb10fd6bfab21afc9c6a2e4d208e96000",
       "title": "Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-20T10:30:00Z",
+      "last_fetched": "2026-10-23T10:32:16Z",
       "status": 200,
       "cache_note": "Normalized readable homepage content changed since Oct 16; new Oct 17 anniversary milestone and Champion movement-fix briefings appeared. No ETag or Last-Modified validator.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-20T10:30:00Z",
+      "last_checked": "2026-10-23T10:32:16Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Latest listing includes an Oct 20 hot-update notice, without details on homepage.",
+      "summary": "Homepage changed; surfaced Oct 22 known-issue guidance for white dot/uncontrolled screen movement plus Oct 21 anniversary/community articles. The actionable issue notice is separately probed and scored.",
       "last_modified": null,
       "etag": null
     },
@@ -162,15 +162,15 @@
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
       "fingerprint": "52d4dd5ce714f0555319fbd27596e93dbe3525fc848f29b3ecc447ad5c792d11",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes (October 2026) - Fill up on Water and Metal",
+      "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
       "last_fetched": "2026-10-22T10:30:00Z",
-      "last_checked": "2026-10-22T10:30:00Z",
+      "last_checked": "2026-10-23T10:32:16Z",
       "status": 200,
       "cache_note": "HTTP 200; normalized readable text SHA-256 differs from stored fingerprint; semantic code list unchanged.",
       "last_modified": "Mon, 05 Oct 2026 10:34:07 GMT",
       "summary": "Oct 18 page lists only FOUNDATION and FURTHERFUTURE as active; no new code/status change.",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed"
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit"
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
       "fingerprint": "9b6422fe9d554c75fa1be4a98a6c4089d9c7216ad9b58c0bf882d557bfec3e98",
@@ -241,14 +241,14 @@
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "dbd055ba7a6687058c15531f777f5f8a426b0ad6404a53e1a6668bdb85525f46",
-      "title": "Foundation Galactic Frontier Codes OCT 2026 [UPDATED]",
+      "title": "Foundation Galactic Frontier Codes (OCT 2026) [UPDATED!] - UCNGame",
       "last_fetched": "2026-10-22T10:30:00Z",
       "status": 200,
       "cache_note": "HTTP 200; normalized readable text SHA-256 differs from previous stored fingerprint; new candidate FGF1stAnniv.",
-      "status_label": "cache_changed",
-      "last_checked": "2026-10-22T10:30:00Z",
+      "status_label": "cache_hit",
+      "last_checked": "2026-10-23T10:32:16Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "cache_changed",
+      "probe_state": "cache_hit",
       "summary": "Third-party page lists new code FGF1stAnniv, claims validity through Nov 7, 2026; reward details undisclosed."
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
@@ -2354,6 +2354,32 @@
       "status_label": "cache_miss",
       "probe_state": "cache_miss",
       "summary": "FunPlus宇宙ストラテジーゲーム『ファウンデーション：銀河フロンティア』「群星同調」グローバルセレブレーション開催 FUNPLUS INTERNATIONAL AG 2026年10月21日 12時00分  グローバルゲームパブリッシャーFunPlusとパラマウント（Paramount）が共同開発した、モバイル・PCクロスプラットフォーム宇宙ストラテジーゲーム『ファウンデーション：銀河フロンティア』（Foundation: Galactic Frontier）では、「群星同調」グローバルセレブレーションを正式に開始しました。多彩なインタラクティブコンテンツと豊富な記念特典が登場し、すべての行商人の皆さまをこの銀河の祭典へお迎えします。 群星同調 世界の行商人とともに銀河の祭典へ SFの巨匠アイザック・アシモフの『ファウンデーション』シリーズを原作に、FunPlusとパラマウント・テレビジョンスタジオが共同開発した『ファウンデーション：銀河フロンティア』は、今年初めに日本でリリースされ、リリース直後に、App Storeのストラテジーゲーム無料ランキングで首位を獲得しました。以来、数か月にわたり多くのプレイヤーに親しまれています。プレイヤーは銀河を旅する行商人となり、銀河を探索し、大規模な艦隊戦を繰り広げながら、自らの勢力圏を広げていきます。 『ファウンデーション：銀河フロンティア』ではこのたび、グローバルセレブレーション「群星同調」を正式に開始しました。開催期間中は、サーバー1264およびそれ以前に開放されたすべてのサーバーで本イベントにご参加いただけます。星港、ギルド、艦隊、行商人がともに祝福のチャンネルへ集い、親しい仲間と協力して、静寂に包まれた惑星の復興や旧帝国の秘宝探しに挑みながら、次々に登場するさまざまな特別チャレンジやサプライズをお楽しみいただけます。――この瞬間、銀河全体があなたと共鳴します。 セレブレーション期間中は、新たな艦船スキンや拠点デコレーションが続々登場！旗艦の展示画面には花火のエフェクトも登場し、行商人の皆さまに銀河全体で祝う特別な雰囲気をお届けします。さらに、新たなクルーキャラクターもセレブレーションのサプライズとして登場し、行商人の皆さまとともに新たな銀河での冒険が始まります。 また、セレブレーションでは多彩なインタラクティブコンテ",
+      "etag": null,
+      "last_modified": null
+    },
+    "https://murpo.com/news/klara-known-issues-898861973e36515ec150": {
+      "fingerprint": "d693225e4bf49448162265e84532728603317393c761844826584a0a6bc9a919",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-23T10:32:16Z",
+      "last_fetched": "2026-10-23T10:32:16Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "White Dot or Uncontrolled Screen Movement: Controller Checks — Frontier News",
+      "summary": "Oct 22 known-issue instructions: disconnect controllers and wireless receivers and restart if not using a controller; also disconnect joysticks/throttle peripherals; report feedback via official Discord. The official announcement is linked.",
+      "etag": null,
+      "last_modified": null
+    },
+    "https://funplus.com/foundation-galactic-frontier-anniversary-event/": {
+      "fingerprint": "85a1a809c0e5be7ceb7b5445347b06420fd72844e344d86edfd4f72c142ef169",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-23T10:32:16Z",
+      "last_fetched": "2026-10-23T10:32:16Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Foundation: Galactic Frontier anniversary event - FunPlus",
+      "summary": "Official Oct 20 press release repeats Astral Alignment dates and eligibility already recorded in the player guide; adds Steam Next Fest Oct 19–26 wishlist promotion, not gameplay guidance.",
       "etag": null,
       "last_modified": null
     }
