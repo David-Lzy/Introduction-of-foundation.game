@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-23T10:32:16Z",
+  "updated_on": "2026-10-24T10:32:18Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "d130ef26353329d4ab89460e20e4b31eb10fd6bfab21afc9c6a2e4d208e96000",
-      "title": "Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-23T10:32:16Z",
+      "fingerprint": "c935a223ff10632e090c8a255f7698cb42c4849714fedf11cdff3b4626c7df81",
+      "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
+      "last_fetched": "2026-10-24T10:32:18Z",
       "status": 200,
-      "cache_note": "Normalized readable homepage content changed since Oct 16; new Oct 17 anniversary milestone and Champion movement-fix briefings appeared. No ETag or Last-Modified validator.",
+      "cache_note": "HTTP 200; readable homepage body changed. Oct 23 anniversary video/community item is non-actionable; existing known-issue notice unchanged.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-23T10:32:16Z",
+      "last_checked": "2026-10-24T10:32:18Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Homepage changed; surfaced Oct 22 known-issue guidance for white dot/uncontrolled screen movement plus Oct 21 anniversary/community articles. The actionable issue notice is separately probed and scored.",
+      "summary": "Foundation: Galactic Frontier Guides, News & Community — Frontier News Skip to content Latest intelligence Klara Basic is here: install your new Discord crewmate Klara is now available to anyone with a Murpo account. Bring Foundation Arena, Ruin Raiders, events, reminders and community tools to your Discord server. News 05 Sep 2026 Read the latest briefing → Latest intelligence Happy First Anniversary! Check 1st Anniversary Gala Video 🎉 👉 https://www.youtube.com/watch?v=DNdmgrqnqzQ Community News 23 Oct 2026 Read the latest briefing → ‹ › 01 / 02 Latest intelligence News View all transmissions ↗ Known Issues 22 Oct 2026 ⚠️ White Dot Appearing or Screen Moving on Its Own A white dot or circular indicator appearing at the center of the screen, or the in-game view moving on its own, may be re",
       "last_modified": null,
       "etag": null
     },
@@ -89,13 +89,14 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-10-16T10:30:00Z",
+      "last_checked": "2026-10-24T10:32:18Z",
       "status": 200,
       "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "last_modified": null,
-      "probe_error": "HTTP 200 returned only the site title; no stable readable news-index body was available for fingerprint comparison."
+      "probe_error": "HTTP 200 returned only the site title; no stable readable news-index body was available for fingerprint comparison.",
+      "etag": null
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
       "fingerprint": "1e6cbece996ad4c8887505009ec0e4e39aa91b03d58f059d7755b38fe6401528",
@@ -160,17 +161,19 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "52d4dd5ce714f0555319fbd27596e93dbe3525fc848f29b3ecc447ad5c792d11",
+      "fingerprint": "32c4622e0859da948abde112675e73d5249f06312158dfc36b7cbdc9af6b2380",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
-      "last_fetched": "2026-10-22T10:30:00Z",
-      "last_checked": "2026-10-23T10:32:16Z",
+      "title": "Foundation: Galactic Frontier codes | Pocket Gamer Arrow Down Menu PocketGamer.com Facebook X YouTube RSS Search X Facebook Reddit X Facebook X YouTube RSS",
+      "last_fetched": "2026-10-24T10:32:18Z",
+      "last_checked": "2026-10-25T10:30:00Z",
       "status": 200,
-      "cache_note": "HTTP 200; normalized readable text SHA-256 differs from stored fingerprint; semantic code list unchanged.",
-      "last_modified": "Mon, 05 Oct 2026 10:34:07 GMT",
-      "summary": "Oct 18 page lists only FOUNDATION and FURTHERFUTURE as active; no new code/status change.",
-      "status_label": "cache_hit",
-      "probe_state": "cache_hit"
+      "cache_note": "HTTP 200; page-body fingerprint changed (SHA-256); visible code list checked and no new code/status change found. Fingerprint includes page UI text, so future semantic review should use stable article-body normalization.",
+      "last_modified": "Thu, 22 Oct 2026 10:31:29 GMT",
+      "summary": "Foundation: Galactic Frontier codes | Pocket Gamer Promo & Redeem Codes Foundation: Galactic Frontier codes (October 2026) - Fill up on Water and Metal Space is an unforgiving beast, so we're here to give you a helping hand with these Foundation: Galactic Frontier codes. By Charlène Tavares | Oct 18 iOS + Android | Foundation: Galactic Frontier Prefer Pocket Gamer on Google Updated on October 18th, 2026 - checked for codes Created by FunPlus, Foundation: Galactic Frontier lets you dive into the universe of Isaac Asimov's Foundation novels. In this game, the Galactic Empire has fallen, new factions have arisen, and the fate of humanity is in your hands. You can be whoever you want: a trader, a bounty hunter, or even a political strategist. Navigate between the Empire, the Foundation, variou",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "etag": null,
+      "probe_error": "Stable normalized-body SHA-256 was not obtained during this run; no cached content was used to infer changes."
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
       "fingerprint": "9b6422fe9d554c75fa1be4a98a6c4089d9c7216ad9b58c0bf882d557bfec3e98",
@@ -245,11 +248,12 @@
       "last_fetched": "2026-10-22T10:30:00Z",
       "status": 200,
       "cache_note": "HTTP 200; normalized readable text SHA-256 differs from previous stored fingerprint; new candidate FGF1stAnniv.",
-      "status_label": "cache_hit",
-      "last_checked": "2026-10-23T10:32:16Z",
+      "status_label": "probe_error",
+      "last_checked": "2026-10-25T10:30:00Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "cache_hit",
-      "summary": "Third-party page lists new code FGF1stAnniv, claims validity through Nov 7, 2026; reward details undisclosed."
+      "probe_state": "probe_error",
+      "summary": "Third-party page lists new code FGF1stAnniv, claims validity through Nov 7, 2026; reward details undisclosed.",
+      "probe_error": "Stable normalized-body SHA-256 was not obtained during this run; no cached content was used to infer changes."
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
@@ -258,9 +262,10 @@
       "status": 403,
       "cache_note": "HTTP 403; no stable readable body.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-04T10:30:00Z",
+      "last_checked": "2026-10-25T10:30:00Z",
       "probe_state": "probe_error",
-      "status_label": "probe_error"
+      "status_label": "probe_error",
+      "probe_error": "Stable normalized-body SHA-256 was not obtained during this run; no cached content was used to infer changes."
     },
     "https://www.supercheats.com/foundation-galactic-frontier-codes": {
       "fingerprint": null,
@@ -2122,17 +2127,18 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "0b0673d9f707e17c6800cbd051fd4b0df8de85d924bb0d0ebe539587bf9b6117",
+      "fingerprint": "74087559e096d8d52abffddc1cab2d2508afb59f9cd87ca8dcfee4e4506f8e46",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_fetched": "2026-10-18T03:58:00Z",
-      "last_checked": "2026-10-18T03:58:00Z",
+      "last_fetched": "2026-10-24T10:32:18Z",
+      "last_checked": "2026-10-24T10:32:18Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "cache_note": "Conditional request returned 200; normalized article substance hashed after excluding dynamic update time, votes, comments and navigation. Old-code list duplicates prior probe; no code candidate accepted.",
-      "last_modified": "Sun, 18 Oct 2026 04:00:18 GMT",
-      "summary": "Oct 18 refresh repeats GF777, GF888, GF999, WELCOMEGF and GALACTIC2024; provides no code-specific evidence, expiry, or rewards. Matches the Oct 16 list; no new codes or status evidence."
+      "cache_note": "HTTP 200; conditional request returned 200 and fingerprint changed. Generic codes surfaced without expiry, reward details, or substantiating evidence; scorecard rejected.",
+      "last_modified": "Sat, 24 Oct 2026 10:31:54 GMT",
+      "summary": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY Home / Foundation: Galactic Frontier / Codes Foundation: Galactic Frontier Codes Active codes, reward details, and redemption instructions. 4.6 ★★★★★ 2,317 ratings Get new Foundation: Galactic Frontier codes first Email alerts when new usable codes are available. Email address Notify me No spam. Unsubscribe anytime. Active Foundation: Galactic Frontier Codes (October 2026) Updated Oct 24, 2026 · 09:00 UTC By Michael Smith Reviewed by James Brown Sources: Official announcements, community reports, and pre-registration promotions. Availability may vary by account and release stage. GF777 Copy 👍 383 👎 63 GF888 Show Copy 👍 370 👎 19 GF999 Show Copy 👍 897 👎 78 WELCOMEGF Show Copy 👍 917 👎 26 GALACTIC2024 Show Copy 👍 687 👎 49 How to Redeem",
+      "etag": null
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
       "fingerprint": "5a71d0d243e9674066680df1c4b077077c737db1fd70280af83ad6674fcb389c",
