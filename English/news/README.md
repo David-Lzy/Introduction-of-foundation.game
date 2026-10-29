@@ -4,6 +4,7 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-10-29 Season 2: Siwenna launch schedule (Servers 1017–1112)](/English/news/2026-10-29)
 - [2026-10-13 Lucius Pullo: official Champion skill preview](/English/news/2026-10-13)
 - [2026-10-11 Q4 2026 Roadmap: Events, Guilds, and Champions](/English/news/2026-10-11)
 

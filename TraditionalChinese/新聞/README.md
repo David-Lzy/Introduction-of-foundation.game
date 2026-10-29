@@ -4,6 +4,7 @@
 
 ## 條目
 
+- [2026-10-29 Season 2：Siwenna 上線安排（1017–1112 服）](/TraditionalChinese/新聞/2026-10-29)
 - [2026-10-13 Lucius Pullo：官方英雄技能預覽](/TraditionalChinese/新聞/2026-10-13)
 - [2026-10-11 Foundation Q4 2026 路線圖：活動、商會與英雄](/TraditionalChinese/新聞/2026-10-11)
 

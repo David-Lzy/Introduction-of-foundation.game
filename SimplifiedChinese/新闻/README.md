@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-10-29 Season 2：Siwenna 上线安排（1017–1112 服）](/SimplifiedChinese/新闻/2026-10-29)
 - [2026-10-13 Lucius Pullo：官方英雄技能预览](/SimplifiedChinese/新闻/2026-10-13)
 - [2026-10-11 Foundation Q4 2026 路线图：活动、商会与英雄](/SimplifiedChinese/新闻/2026-10-11)
 
