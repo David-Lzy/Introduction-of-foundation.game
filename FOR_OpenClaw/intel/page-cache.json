@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-29T10:30:00Z",
+  "updated_on": "2026-10-30T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "9f84599e98925c01d49577fd16106bef808c0e53ac948283e066920a1348d67b",
+      "fingerprint": "0495b532ec980742bccf336a346a98c758a88550e18a916193a84b5651401b0f",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-29T10:30:00Z",
+      "last_fetched": "2026-10-30T10:30:00Z",
       "status": 200,
-      "cache_note": "HTTP 200; normalized readable-body SHA-256 differs from stored fingerprint; homepage link surfaced a new detailed briefing.",
+      "cache_note": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-29T10:30:00Z",
+      "last_checked": "2026-10-30T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Homepage now surfaces the Oct 28 Siwenna Season 2 announcement and Oct 27 mid-November teaser; detailed new schedule is assessed from the linked briefing.",
+      "summary": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
       "last_modified": null,
       "etag": null
     },
@@ -89,15 +89,15 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-10-29T10:30:00Z",
-      "status": 200,
+      "last_checked": "2026-10-30T10:30:00Z",
+      "status": "probe_error",
       "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
-      "status_label": "cache_hit",
-      "probe_state": "cache_hit",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
       "last_modified": null,
-      "probe_error": "HTTP 200 returned only the site title; no stable readable news-index body was available for fingerprint comparison.",
+      "probe_error": "HTTP 200 yielded only the site title; no stable readable news body for normalized fingerprint comparison.",
       "etag": null,
-      "cache_note": "HTTP 200; normalized readable-body SHA-256 matches stored fingerprint; stopped without semantic review."
+      "cache_note": "HTTP 200 yielded only the site title; no stable readable news body for normalized fingerprint comparison."
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
       "fingerprint": "1e6cbece996ad4c8887505009ec0e4e39aa91b03d58f059d7755b38fe6401528",
@@ -162,15 +162,15 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "43c37b1aa64ca8c90224549301f3c1d9afa11e43c530b1fb78b9c3f700c5c591",
+      "fingerprint": "cd3f5761c6a7f29778cfe19c5027f6e9993abd6af30d158619b39ee83a7aff18",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier codes | Pocket Gamer Arrow Down Menu PocketGamer.com Facebook X YouTube RSS Search X Facebook Reddit X Facebook X YouTube RSS",
-      "last_fetched": "2026-10-26T10:30:00Z",
-      "last_checked": "2026-10-26T10:30:00Z",
+      "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
+      "last_fetched": "2026-10-30T10:30:00Z",
+      "last_checked": "2026-10-30T10:30:00Z",
       "status": 200,
-      "cache_note": "HTTP 200; page-body fingerprint changed (SHA-256); visible code list checked and no new code/status change found. Fingerprint includes page UI text, so future semantic review should use stable article-body normalization.",
+      "cache_note": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
       "last_modified": null,
-      "summary": "Foundation: Galactic Frontier codes | Pocket Gamer Promo & Redeem Codes Foundation: Galactic Frontier codes (October 2026) - Fill up on Water and Metal Space is an unforgiving beast, so we're here to give you a helping hand with these Foundation: Galactic Frontier codes. By Charlène Tavares | Oct 24 iOS + Android | Foundation: Galactic Frontier Prefer Pocket Gamer on Google X Facebook Reddit Updated on October 24th, 2026 - checked for codes Created by FunPlus, Foundation: Galactic Frontier lets you dive into the universe of Isaac Asimov's Foundation novels. In this game, the Galactic Empire has fallen, new factions have arisen, and the fate of humanity is in your hands. You can be whoever you want: a trader, a bounty hunter, or even a political strategist. Navigate between the Empire, the Foundation, various factions and rebels, all while confronting a mysterious enemy. To complete your mission, you'll need to construct your spaceship, take care of your crew, and handle emergencies. You'll meet a vast cast of characters, including a very knowledgeable robot, a space cowboy or even the galaxy's most wanted criminal. There are also codes you can redeem for freebies. Most of these provide useful resources, so don't hesitate to take a look at the complete Foundation: Galactic Frontier codes list below. Don't worry, we'll also explain how to redeem them. ALL ACTIVE FOUNDATION: GALACTIC FRONTIER CODES FOUNDATION – 30m Universal Speedup x3, 10,000 Water x3, 10,000 Metal x3 - No expi",
+      "summary": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "etag": null
@@ -246,12 +246,12 @@
       "fingerprint": "81e5491ea0681b8d9fc1836658f5565d8029a6e89839017d5638dee191cf000a",
       "title": "Foundation Galactic Frontier Codes (OCT 2026) [UPDATED!] - UCNGame",
       "last_fetched": "2026-10-29T10:30:00Z",
-      "status": 200,
-      "cache_note": "HTTP 200; normalized readable-body SHA-256 differs from stored fingerprint; content reviewed and deduplicated against existing code record.",
-      "status_label": "cache_changed",
-      "last_checked": "2026-10-29T10:30:00Z",
+      "status": 304,
+      "cache_note": "Conditional request with If-Modified-Since returned HTTP 304; stopped without body download, reading, or scoring.",
+      "status_label": "cache_hit",
+      "last_checked": "2026-10-30T10:30:00Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "cache_changed",
+      "probe_state": "cache_hit",
       "summary": "Updated third-party page repeats FGF1stAnniv, already recorded as unverified on Oct 22; expiry claim is unchanged and rewards remain unspecified.",
       "etag": null,
       "last_modified": "Thu, 29 Oct 2026 10:31:17 GMT"
@@ -2132,17 +2132,17 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "6be28a74fddd0c65abbdc1f1dc791db4a18e04e800d87641c8d35b36aab93531",
+      "fingerprint": "4e4255459199d74fb907a9f9d17ee4c8241981fecb3e8d0b9f8222cf0d16e1e6",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_fetched": "2026-10-29T10:30:00Z",
-      "last_checked": "2026-10-29T10:30:00Z",
+      "last_fetched": "2026-10-30T10:30:00Z",
+      "last_checked": "2026-10-30T10:30:00Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "cache_note": "HTTP 200; normalized readable-body SHA-256 differs from stored fingerprint; changed third-party code list reviewed and rejected.",
-      "last_modified": "Thu, 29 Oct 2026 10:31:17 GMT",
-      "summary": "Updated page lists generic codes GF777, GF888, GF999, WELCOMEGF and GALACTIC2024 without expiry or reward evidence; no actionable code was accepted.",
+      "cache_note": "Oct 30 refresh repeats GF777/GF888/GF999/WELCOMEGF/GALACTIC2024, with no traceable evidence, reward or expiry details.",
+      "last_modified": null,
+      "summary": "Oct 30 refresh repeats GF777/GF888/GF999/WELCOMEGF/GALACTIC2024, with no traceable evidence, reward or expiry details.",
       "etag": null
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
@@ -2420,6 +2420,19 @@
       "summary": "Official Discord announcement mirrored with direct original link: Season 2 launches Nov 9 UTC for Servers 1017–1112; pre-download/preview Nov 2–8; season-group lookup Nov 5–8; more server dates to follow.",
       "cache_note": "HTTP 200; first-seen URL; normalized readable-body SHA-256 recorded.",
       "etag": null
+    },
+    "https://imginn.com/p/De-hXtTFGPt/": {
+      "title": "Foundation: Galactic Frontier (@foundation_gf_en) Instagram post",
+      "last_checked": "2026-10-30T10:30:00Z",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "fingerprint_algorithm": "sha256",
+      "etag": null,
+      "last_modified": null,
+      "cache_note": "HTTP 403 on direct readable fetch; no stable body or fingerprint obtained. No scoring from indexed snippets.",
+      "probe_error": "HTTP 403 on direct readable fetch; no stable body or fingerprint obtained. No scoring from indexed snippets.",
+      "fingerprint": null,
+      "status": "probe_error"
     }
   }
 }
