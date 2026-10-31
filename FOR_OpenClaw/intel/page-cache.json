@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-30T10:30:00Z",
+  "updated_on": "2026-10-31T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "0495b532ec980742bccf336a346a98c758a88550e18a916193a84b5651401b0f",
+      "fingerprint": "32efbd0c99909c0c2374cce2d5cba7c7d79d075f6ce4d64ddd77146016f64cea",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-30T10:30:00Z",
+      "last_fetched": "2026-10-31T10:30:00Z",
       "status": 200,
       "cache_note": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-30T10:30:00Z",
+      "last_checked": "2026-10-31T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
+      "summary": "Readable body probed; assessed in daily report.",
       "last_modified": null,
       "etag": null
     },
@@ -89,11 +89,11 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-10-30T10:30:00Z",
-      "status": "probe_error",
+      "last_checked": "2026-10-31T10:30:00Z",
+      "status": 200,
       "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "last_modified": null,
       "probe_error": "HTTP 200 yielded only the site title; no stable readable news body for normalized fingerprint comparison.",
       "etag": null,
@@ -162,15 +162,15 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "cd3f5761c6a7f29778cfe19c5027f6e9993abd6af30d158619b39ee83a7aff18",
+      "fingerprint": "43c37b1aa64ca8c90224549301f3c1d9afa11e43c530b1fb78b9c3f700c5c591",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
-      "last_fetched": "2026-10-30T10:30:00Z",
-      "last_checked": "2026-10-30T10:30:00Z",
+      "last_fetched": "2026-10-31T10:30:00Z",
+      "last_checked": "2026-10-31T10:30:00Z",
       "status": 200,
       "cache_note": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
-      "last_modified": null,
-      "summary": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
+      "last_modified": "Mon, 26 Oct 2026 10:31:21 GMT",
+      "summary": "Readable body probed; assessed in daily report.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "etag": null
@@ -249,7 +249,7 @@
       "status": 304,
       "cache_note": "Conditional request with If-Modified-Since returned HTTP 304; stopped without body download, reading, or scoring.",
       "status_label": "cache_hit",
-      "last_checked": "2026-10-30T10:30:00Z",
+      "last_checked": "2026-10-31T10:30:00Z",
       "fingerprint_algorithm": "sha256",
       "probe_state": "cache_hit",
       "summary": "Updated third-party page repeats FGF1stAnniv, already recorded as unverified on Oct 22; expiry claim is unchanged and rewards remain unspecified.",
@@ -258,26 +258,28 @@
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
-      "title": "Foundation Galactic Frontier Codes August 2026 [UPDATED] - MrGuider",
+      "title": "Foundation Galactic Frontier Codes | MrGuider",
       "last_fetched": "2026-08-21T11:30:00Z",
       "status": 403,
       "cache_note": "HTTP 403; no stable readable body.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-26T10:30:00Z",
+      "last_checked": "2026-10-31T10:30:00Z",
       "probe_state": "probe_error",
       "status_label": "probe_error",
-      "probe_error": "HTTP 403; no stable normalized readable body fingerprint obtained by direct probe.",
+      "probe_error": "HTTP 403; no stable readable body; no semantic scoring.",
       "etag": null,
       "last_modified": null
     },
     "https://www.supercheats.com/foundation-galactic-frontier-codes": {
       "fingerprint": null,
-      "title": "Just a moment...",
+      "title": "Foundation: Galactic Frontier Codes | SuperCheats",
       "last_fetched": "2026-03-04T10:31:30Z",
-      "status": "probe_error",
-      "last_checked": "2026-10-05T10:30:00Z",
-      "probe_error": "HTTP 403",
-      "fingerprint_algorithm": "sha256"
+      "status": 403,
+      "last_checked": "2026-10-31T10:30:00Z",
+      "probe_error": "HTTP 403; no stable readable body; no semantic scoring.",
+      "fingerprint_algorithm": "sha256",
+      "status_label": "probe_error",
+      "probe_state": "probe_error"
     },
     "https://game.edu.kg/research/enbs/view-L2Jsb2cvZ2FtZS1ndWlkZXMvZm91bmRhdGlvbi9mZ3RmLXN1bW1vbmluZy1ndWlkZS1lbi5odG1s": {
       "fingerprint": "e9fc8478fe1bbce4258b6d9d44f53de50d2fbe6ae51b2d4e3f8499985088d136",
@@ -2132,17 +2134,17 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "4e4255459199d74fb907a9f9d17ee4c8241981fecb3e8d0b9f8222cf0d16e1e6",
+      "fingerprint": "b5929ccd407d16f4256ca767be8505dde832c3b5bae4c6fbb1419ac6bdeb05fb",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_fetched": "2026-10-30T10:30:00Z",
-      "last_checked": "2026-10-30T10:30:00Z",
+      "last_fetched": "2026-10-31T10:30:00Z",
+      "last_checked": "2026-10-31T10:30:00Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "cache_note": "Oct 30 refresh repeats GF777/GF888/GF999/WELCOMEGF/GALACTIC2024, with no traceable evidence, reward or expiry details.",
-      "last_modified": null,
-      "summary": "Oct 30 refresh repeats GF777/GF888/GF999/WELCOMEGF/GALACTIC2024, with no traceable evidence, reward or expiry details.",
+      "last_modified": "Sat, 31 Oct 2026 10:31:20 GMT",
+      "summary": "Readable body probed; assessed in daily report.",
       "etag": null
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
@@ -2423,16 +2425,39 @@
     },
     "https://imginn.com/p/De-hXtTFGPt/": {
       "title": "Foundation: Galactic Frontier (@foundation_gf_en) Instagram post",
-      "last_checked": "2026-10-30T10:30:00Z",
+      "last_checked": "2026-10-31T10:30:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
       "fingerprint_algorithm": "sha256",
       "etag": null,
       "last_modified": null,
       "cache_note": "HTTP 403 on direct readable fetch; no stable body or fingerprint obtained. No scoring from indexed snippets.",
-      "probe_error": "HTTP 403 on direct readable fetch; no stable body or fingerprint obtained. No scoring from indexed snippets.",
+      "probe_error": "HTTP 403; no stable readable body.",
       "fingerprint": null,
-      "status": "probe_error"
+      "status": 403
+    },
+    "https://topgamestrategies.com/guide/foundation-galactic-frontier-anniversary-event-guide-2026": {
+      "last_checked": "2026-10-31T10:30:00Z",
+      "status": 200,
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "fingerprint_algorithm": "sha256",
+      "etag": "W/\"6ad780bf-54c9\"",
+      "last_modified": "Tue, 20 Oct 2026 14:54:55 GMT",
+      "probe_error": "HTTP 200; no stable readable body; no semantic scoring.",
+      "title": "Foundation Galactic Frontier Anniversary Event Guide 2026",
+      "fingerprint": null
+    },
+    "https://murpo.com/news/klara-dev-feedback-8712fdd3ee447f8f2a8c": {
+      "fingerprint": "7b5c3a8ff0e3232a827c9329d9290baff0306197fa53302de5939c60a25e703b",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-10-31T10:30:00Z",
+      "last_fetched": "2026-10-31T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "October 2026 Developer Feedback — Foundation: Galactic Frontier",
+      "summary": "Official Discord developer feedback reproduced by Murpo; 13 answers on S2 Magnetic Storm Resistance, migration, guild duel matchmaking/rewards, events, unlock timing, and PC issues."
     }
   }
 }
