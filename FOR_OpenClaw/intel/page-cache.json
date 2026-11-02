@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-10-31T10:30:00Z",
+  "updated_on": "2026-11-02T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "32efbd0c99909c0c2374cce2d5cba7c7d79d075f6ce4d64ddd77146016f64cea",
+      "fingerprint": "acd9671a66c54977ec2bd964bbba711c021a3452644183c748b9c56000dd455f",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-10-31T10:30:00Z",
+      "last_fetched": "2026-11-02T10:30:00Z",
       "status": 200,
       "cache_note": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-31T10:30:00Z",
+      "last_checked": "2026-11-02T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Readable body probed; assessed in daily report.",
+      "summary": "Homepage now surfaces the Nov 1 Known Issues briefing on Guild Duel rewards, Flagship movement, and missing in-game emails.",
       "last_modified": null,
       "etag": null
     },
@@ -162,15 +162,15 @@
       "status": 200
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "43c37b1aa64ca8c90224549301f3c1d9afa11e43c530b1fb78b9c3f700c5c591",
+      "fingerprint": "3c084ad57ea8b254df3592c694ee1da6973dec1b6e6d4b0cc2b7018212f2c0a2",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
-      "last_fetched": "2026-10-31T10:30:00Z",
-      "last_checked": "2026-10-31T10:30:00Z",
+      "last_fetched": "2026-11-02T10:30:00Z",
+      "last_checked": "2026-11-02T10:30:00Z",
       "status": 200,
       "cache_note": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
-      "last_modified": "Mon, 26 Oct 2026 10:31:21 GMT",
-      "summary": "Readable body probed; assessed in daily report.",
+      "last_modified": "Sun, 01 Nov 2026 23:03:45 GMT",
+      "summary": "Nov 1 code list repeats FOUNDATION, FURTHERFUTURE, and CHAMPIONSPIRIT; reports CHAMPIONSPIRIT with a Feb 3, 2029 expiry but incorrectly places it under expired codes. No new code or reliable status change.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "etag": null
@@ -243,30 +243,30 @@
       "cache_note": "Unaffiliated auto-generated code page. It lists opaque rotating strings, generic copy, fabricated-looking reviews, and no source, reward, or expiration evidence; rejected."
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "81e5491ea0681b8d9fc1836658f5565d8029a6e89839017d5638dee191cf000a",
-      "title": "Foundation Galactic Frontier Codes (OCT 2026) [UPDATED!] - UCNGame",
-      "last_fetched": "2026-10-29T10:30:00Z",
-      "status": 304,
-      "cache_note": "Conditional request with If-Modified-Since returned HTTP 304; stopped without body download, reading, or scoring.",
+      "fingerprint": "661c18d2d3c4fe4c3925c38fb8d294c03e89e831f266cd4b6bf8cf6285d87b7f",
+      "title": "Foundation Galactic Frontier Codes (NOV 2026) [UPDATED!] - UCNGame",
+      "last_fetched": "2026-11-01T10:30:58Z",
+      "status": 200,
+      "cache_note": "Conditional If-Modified-Since request returned HTTP 200; normalized readable-body SHA-256 differs from prior fingerprint.",
       "status_label": "cache_hit",
-      "last_checked": "2026-10-31T10:30:00Z",
+      "last_checked": "2026-11-02T10:30:00Z",
       "fingerprint_algorithm": "sha256",
       "probe_state": "cache_hit",
-      "summary": "Updated third-party page repeats FGF1stAnniv, already recorded as unverified on Oct 22; expiry claim is unchanged and rewards remain unspecified.",
+      "summary": "Readable code list adds FNDBOO26, claims validity through Nov 11, 2026, with reward details undisclosed; existing codes repeated.",
       "etag": null,
-      "last_modified": "Thu, 29 Oct 2026 10:31:17 GMT"
+      "last_modified": "Sun, 01 Nov 2026 10:30:58 GMT"
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
-      "title": "Foundation Galactic Frontier Codes | MrGuider",
+      "title": "Foundation Galactic Frontier Codes",
       "last_fetched": "2026-08-21T11:30:00Z",
       "status": 403,
-      "cache_note": "HTTP 403; no stable readable body.",
+      "cache_note": "HTTP 403 challenge; no stable readable body or hash. No content inferred from search snippets.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-10-31T10:30:00Z",
+      "last_checked": "2026-11-02T10:30:00Z",
       "probe_state": "probe_error",
       "status_label": "probe_error",
-      "probe_error": "HTTP 403; no stable readable body; no semantic scoring.",
+      "probe_error": "HTTP 403 challenge; no stable readable body; no semantic inference.",
       "etag": null,
       "last_modified": null
     },
@@ -2458,6 +2458,26 @@
       "probe_state": "cache_miss",
       "title": "October 2026 Developer Feedback — Foundation: Galactic Frontier",
       "summary": "Official Discord developer feedback reproduced by Murpo; 13 answers on S2 Magnetic Storm Resistance, migration, guild duel matchmaking/rewards, events, unlock timing, and PC issues."
+    },
+    "https://imginn.com/p/DewW63kD7VW/": {
+      "title": "Foundation anniversary post mirror",
+      "last_checked": "2026-11-01T10:30:58Z",
+      "status": 403,
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
+      "cache_note": "HTTP 403 challenge; no stable readable body or hash. No content inferred from search snippets.",
+      "fingerprint_algorithm": "sha256"
+    },
+    "https://murpo.com/news/klara-known-issues-c693bcc378f25d2e4fa8": {
+      "fingerprint": "0e4e9404aeb01d572811e695ca31ac163f581f74c47cd775020b930733a65e35",
+      "title": "Guild Duel Rewards, Flagship Movement and Missing Emails: Known Issues",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-11-02T10:30:00Z",
+      "last_fetched": "2026-11-02T10:30:00Z",
+      "summary": "Nov 1 official known-issues notice reproduced by Murpo and linked to original Discord post: some players cannot claim Guild Duel rewards, Flagships can become stuck, and all in-game mail disappears after relogin; no workaround or fix date stated."
     }
   }
 }

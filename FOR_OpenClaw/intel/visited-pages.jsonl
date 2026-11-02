@@ -357,3 +357,4 @@
 {"first_seen": "2026-10-30", "url": "https://imginn.com/p/De-hXtTFGPt/", "status": "probe_error", "title": "Foundation: Galactic Frontier (@foundation_gf_en) Instagram post", "source": "Imginn mirror candidate; direct fetch returned HTTP 403; no stable readable body."}
 {"date": "2026-10-31", "url": "https://topgamestrategies.com/guide/foundation-galactic-frontier-anniversary-event-guide-2026", "status": 200, "title": null}
 {"date": "2026-10-31", "url": "https://murpo.com/news/klara-dev-feedback-8712fdd3ee447f8f2a8c", "status": 200, "title": "October 2026 Developer Feedback — Foundation: Galactic Frontier"}
+{"date": "2026-11-02", "url": "https://murpo.com/news/klara-known-issues-c693bcc378f25d2e4fa8", "title": "Guild Duel Rewards, Flagship Movement and Missing Emails: Known Issues", "source": "Murpo reproduction of official Foundation Discord announcement"}

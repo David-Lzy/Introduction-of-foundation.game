@@ -4,6 +4,8 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-11-02 Known issues: Commerce Guild Duel rewards, Flagship movement, and in-game mail](/English/news/2026-11-02)
+
 - [2026-10-31 October Developer Feedback: migration, matchmaking, and S2 access](/English/news/2026-10-31)
 
 - [2026-10-29 Season 2: Siwenna launch schedule (Servers 1017–1112)](/English/news/2026-10-29)
