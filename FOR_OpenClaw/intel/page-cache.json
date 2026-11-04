@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-03T10:32:02Z",
+  "updated_on": "2026-11-04T10:35:29Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -29,16 +29,16 @@
       "cache_note": "HTTP 403; no stable body; no inference from search snippets."
     },
     "https://murpo.com/": {
-      "fingerprint": "3133cb8b367f007991a91eec61823e810d724e486e2cf9c26b03ceabeccd819d",
+      "fingerprint": "7fecc5855c2befd0465786d657593c4295e8b51de904e982036a5380d429ba20",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-11-03T10:32:02Z",
+      "last_fetched": "2026-11-04T10:35:29Z",
       "status": 200,
       "cache_note": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-03T10:32:02Z",
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
-      "summary": "Homepage now surfaces the Nov 3 patch notes and hot-update notice.",
+      "last_checked": "2026-11-04T10:35:29Z",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "summary": "Changed homepage probe showed the existing Nov 3 patch-note item and Nov 3 hot-update notice; no new actionable details beyond separately assessed candidates.",
       "last_modified": null,
       "etag": null
     },
@@ -89,7 +89,7 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-10-31T10:30:00Z",
+      "last_checked": "2026-11-04T10:35:29Z",
       "status": 200,
       "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
       "status_label": "cache_hit",
@@ -166,13 +166,13 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
       "last_fetched": "2026-11-02T10:30:00Z",
-      "last_checked": "2026-11-02T10:30:00Z",
-      "status": 200,
+      "last_checked": "2026-11-04T10:35:29Z",
+      "status": 304,
       "cache_note": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
       "last_modified": "Sun, 01 Nov 2026 23:03:45 GMT",
       "summary": "Nov 1 code list repeats FOUNDATION, FURTHERFUTURE, and CHAMPIONSPIRIT; reports CHAMPIONSPIRIT with a Feb 3, 2029 expiry but incorrectly places it under expired codes. No new code or reliable status change.",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "etag": null
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
@@ -243,18 +243,18 @@
       "cache_note": "Unaffiliated auto-generated code page. It lists opaque rotating strings, generic copy, fabricated-looking reviews, and no source, reward, or expiration evidence; rejected."
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "9b08820efba7cf6a61e18b42b1a42e0b6748efe06b9df4e0fc32296d1cc3a543",
+      "fingerprint": "9df467fdee95a1a547072782b7f7ecd209ab98bbcede8326c5947af8c162eff6",
       "title": "Foundation Galactic Frontier Codes (NOV 2026) [UPDATED!] - UCNGame",
-      "last_fetched": "2026-11-03T10:32:02Z",
+      "last_fetched": "2026-11-04T10:35:29Z",
       "status": 200,
       "cache_note": "Conditional request returned HTTP 200; normalized readable-body SHA-256 differs from prior fingerprint; known codes repeated, no new code.",
-      "status_label": "cache_miss",
-      "last_checked": "2026-11-03T10:32:02Z",
+      "status_label": "cache_changed",
+      "last_checked": "2026-11-04T10:35:29Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "cache_miss",
-      "summary": "Updated Nov 3; repeats known codes FNDBOO26 and FGF1stAnniv and expired entries; no new code or supported status change.",
+      "probe_state": "cache_changed",
+      "summary": "Updated Nov 4 code list repeats registered FNDBOO26, FGF1stAnniv, expired codes, and old entries; no new code or credible status transition.",
       "etag": null,
-      "last_modified": "Tue, 03 Nov 2026 10:31:37 GMT"
+      "last_modified": "Wed, 04 Nov 2026 10:33:09 GMT"
     },
     "https://www.mrguider.org/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "0ba832e1b9669404d7394dbaa5c32ae21a2c4358c96ed43436901969a199b61e",
@@ -2050,8 +2050,11 @@
       "fingerprint": "e26cd124f12fc4feb8f4f93e939edcd71dfd6a30c0c0ca20752e731fd741dbcc",
       "title": "Foundation: Galactic Front @FoundationGF_EN - Twitter Profile | Instalker",
       "last_fetched": "2026-08-26T11:30:00Z",
-      "status": 200,
-      "cache_note": "Third-party profile mirror surfaced event-calendar and maintenance snippets, but supplied no reliable, extracted player-facing change details or new code evidence. Rejected."
+      "status": 403,
+      "cache_note": "HTTP 403; no stable readable profile body; no inference from search summaries.",
+      "last_checked": "2026-11-04T10:35:29Z",
+      "status_label": "probe_error",
+      "probe_state": "probe_error"
     },
     "https://www.gdr-online.com/news-gioco.asp?idgioco=18271": {
       "fingerprint": "4c85535efe0ab2dec7968d118b9376839f7e7259d85a2637a89bcbb8ae63a200",
@@ -2112,13 +2115,13 @@
       "fingerprint": "fbbbe1d650bff245c7f3584807357a8da3deddc4da51aa7e2ccb1e58cd9da78f",
       "title": "Foundation: Galactic Frontier @foundationgf_en - Twitter Profile | Sotwe",
       "last_fetched": "2026-09-29T11:30:00Z",
-      "status": 200,
+      "status": 403,
       "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game.",
-      "last_checked": "2026-09-30T11:30:00Z",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "last_checked": "2026-11-04T10:35:29Z",
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
       "fingerprint_algorithm": "sha256",
-      "cache_note": "Recent official-account mirror post covers September Developer Feedback; de-duplicated with the full announcement below."
+      "cache_note": "HTTP 403; no stable readable profile body; no inference from search summaries."
     },
     "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
       "fingerprint": "bd70311785a65fda09a3aa09cbacbe664f2ab7fbe18556c856cbab697e55ba36",
@@ -2482,10 +2485,10 @@
     "https://murpo.com/news/klara-patch-notes-69237bdf7e0e3f5cef39": {
       "fingerprint": "f00ebc24daffca948c36fe1ca1d81ad255a66ec674455fa414b37fbb4a7070e2",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-03T10:32:02Z",
+      "last_checked": "2026-11-04T10:35:29Z",
       "status": 200,
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "last_fetched": "2026-11-03T10:32:02Z",
       "title": "Foundation Patch Notes: 3 November Update — Frontier News",
       "summary": "Nov 3 patch notes: rotating Amusement Park Defense theme, War interface rally refresh, higher stack limits including Computational Components, confirmation when selected Flagship enhancement materials include Legendary-quality components, and select-server Planet Miner test.",
@@ -2495,15 +2498,26 @@
     "https://murpo.com/news/klara-game-news-3e9b78861fa2f8b4fc32": {
       "fingerprint": "8995751f4849ae9b71152e928e73d8f75b7cc8561eaa3f606b0c2022bb01ff37",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-03T10:32:02Z",
+      "last_checked": "2026-11-04T10:35:29Z",
       "status": 200,
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "last_fetched": "2026-11-03T10:32:02Z",
       "title": "Foundation: Galactic Frontier Hot Update — 3 November 2026 — Frontier News",
       "summary": "Official notice says hot update Nov 3 without maintenance; linked post contains no specific change list.",
       "etag": null,
       "last_modified": null
+    },
+    "https://www.instalker.org/FoundationGF_EN/status/2116877920346214745": {
+      "fingerprint": "6bba73e292efefae1e9b3b716a5ef01686f290f9be1b44cf1691d39273b7cffa",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-11-04T10:35:29Z",
+      "last_fetched": "2026-11-04T10:35:29Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Dominion Warzone: Battlefield Rules & Rewards — official-account post",
+      "summary": "Official FoundationGF_EN account post (readable via Instalker status page): idle fleet handling, Day 6 combat-loss recovery at 30% claimable for 3 days, Duel Day Chest spawn thresholds/rewards. Distinct operational details recorded; no rollout date stated."
     }
   }
 }
