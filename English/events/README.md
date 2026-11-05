@@ -5,6 +5,7 @@ This section collects high-value event notes for guild scheduling, battlefield e
 ## Current priority guides
 
 - [Anniversary Infographic Guide Contest: Solo or Duo Entry](/English/events/2026-10-02-anniversary-infographic-contest)
+- [Anniversary Party Bounty Drops (Nov 5–7 by server)](/English/events/2026-11-05-anniversary-party-bounty-drops)
 
 - [Shadowfront Guild Operations](/English/events/1.Shadowfront%20Guild%20Operations)
 - [Defend the Trade Route](/English/events/2.Defend%20the%20Trade%20Route)

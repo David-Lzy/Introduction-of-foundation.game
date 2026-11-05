@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-04T10:35:29Z",
+  "updated_on": "2026-11-05T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -8,14 +8,18 @@
       "title": "Instagram",
       "last_fetched": "2026-08-30T11:33:03Z",
       "status": 200,
-      "cache_note": "Official profile endpoint returned no readable post body; no candidate content was available for ingestion."
+      "cache_note": "Official profile endpoint returned no readable post body; no candidate content was available for ingestion.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-30T11:33:03Z"
     },
     "https://www6.twstalker.com/FoundationGF_EN": {
       "fingerprint": "726adaae72741c967c6ff140ff0d4d3adf69ee52434861150f05eaa466006db8",
       "title": "Foundation: Galactic Front @FoundationGF_EN - Twitter Profile | TwStalker",
       "last_fetched": "2026-08-29T11:30:00Z",
       "status": 200,
-      "summary": "Third-party mirror of official-account posts. August 25 maintenance: Energy Core expansion for servers open 27+ weeks; Glory Arena 15-minute settlement lockout and defense carry-over; Ruins Raiders cross-server test on 1001-1016; occupation Leader selection; speedup/chest QoL; and Starry Recruitment testing. Confirm final availability in-game."
+      "summary": "Third-party mirror of official-account posts. August 25 maintenance: Energy Core expansion for servers open 27+ weeks; Glory Arena 15-minute settlement lockout and defense carry-over; Ruins Raiders cross-server test on 1001-1016; occupation Leader selection; speedup/chest QoL; and Starry Recruitment testing. Confirm final availability in-game.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-29T11:30:00Z"
     },
     "https://imginn.com/p/DcQtuZiDWtP/": {
       "fingerprint": "4aae2e2730b6e8613a6b818b9d4b27b1ba50caa73045f5f19be59d7336193e46",
@@ -26,7 +30,8 @@
       "last_checked": "2026-10-01T11:30:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
-      "cache_note": "HTTP 403; no stable body; no inference from search snippets."
+      "cache_note": "HTTP 403; no stable body; no inference from search snippets.",
+      "fingerprint_algorithm": "sha256"
     },
     "https://murpo.com/": {
       "fingerprint": "7fecc5855c2befd0465786d657593c4295e8b51de904e982036a5380d429ba20",
@@ -35,9 +40,9 @@
       "status": 200,
       "cache_note": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-04T10:35:29Z",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "last_checked": "2026-11-05T10:30:00Z",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "summary": "Changed homepage probe showed the existing Nov 3 patch-note item and Nov 3 hot-update notice; no new actionable details beyond separately assessed candidates.",
       "last_modified": null,
       "etag": null
@@ -47,49 +52,61 @@
       "title": "August 11th 2026 Game update",
       "last_fetched": "2026-08-23T11:30:00Z",
       "status": 200,
-      "cache_note": "Community index linking to August 11 patch, fourth-Flagship, Core 35, and Renewal Shop articles; detailed patch candidate assessed separately."
+      "cache_note": "Community index linking to August 11 patch, fourth-Flagship, Core 35, and Renewal Shop articles; detailed patch candidate assessed separately.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-23T11:30:00Z"
     },
     "https://murpo.com/news/august-11th-2026-patch-notes": {
       "fingerprint": "7f45c35956fae89a7d42fd030b1d5f60a1316a89704d90d6bf29cde3c164c2ab",
       "title": "Foundation: Galactic Frontier — Aug 11, 2026 Patch Notes",
       "last_fetched": "2026-08-23T11:30:00Z",
       "status": 200,
-      "summary": "Community compilation of the August 11 maintenance: Energy Core expansion testing on 1001–1016, Fusion Seed prerequisite chain, fourth battle queue at Core 33, three style masteries, Renewal Shop at five-week server age, Migration 1121–1152, Duel Day destruction scoring, and convenience changes."
+      "summary": "Community compilation of the August 11 maintenance: Energy Core expansion testing on 1001–1016, Fusion Seed prerequisite chain, fourth battle queue at Core 33, three style masteries, Renewal Shop at five-week server age, Migration 1121–1152, Duel Day destruction scoring, and convenience changes.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-23T11:30:00Z"
     },
     "https://murpo.com/news/flagship-and-arena-changes": {
       "fingerprint": "0077bd2f59325757a8d4a75a417452ab3fd4050a57f154ccd270f98850b71f66",
       "title": "4th Flagship Deployment: Arena and PvP Impact",
       "last_fetched": "2026-08-23T11:30:00Z",
       "status": 200,
-      "cache_note": "Community strategy commentary; its prerequisite path to Core 33 duplicates the August 11 patch candidate. No separate item written."
+      "cache_note": "Community strategy commentary; its prerequisite path to Core 33 duplicates the August 11 patch candidate. No separate item written.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-23T11:30:00Z"
     },
     "https://murpo.com/news/core-35-arrives": {
       "fingerprint": "2a8e8c9cd8d2ea6cb6148775cd13288efcd656e31fb4e48d513ead0dfba65ea8",
       "title": "Core 35 arrives: what’s in the update",
       "last_fetched": "2026-08-23T11:30:00Z",
       "status": 200,
-      "cache_note": "Community update overview; the actionable, sourced details duplicate the August 11 patch candidate. No separate item written."
+      "cache_note": "Community update overview; the actionable, sourced details duplicate the August 11 patch candidate. No separate item written.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-23T11:30:00Z"
     },
     "https://murpo.com/news/recycle-shop": {
       "fingerprint": "c4a7025c7e245fd7f39b78e4f415ca869c80fc924a8e0562f59deebc58eb2ed1",
       "title": "Recycling / Renewal shop",
       "last_fetched": "2026-08-23T11:30:00Z",
       "status": 200,
-      "cache_note": "Community preview; the conversion eligibility and inputs are covered by the August 11 patch candidate. Its unconfirmed refresh and item claims were not written."
+      "cache_note": "Community preview; the conversion eligibility and inputs are covered by the August 11 patch candidate. Its unconfirmed refresh and item claims were not written.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-23T11:30:00Z"
     },
     "https://imginn.com/p/Db3EojrDZEw/": {
       "fingerprint": "0a2c3cd7e8e5030360e14cac15908863f6f140fb411f6b1e98267fbe74660965",
       "title": "Foundation: Galactic Frontier (@foundation_gf_en): Maintenance Notice – August 11",
       "last_fetched": "2026-08-20T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party mirror of official Instagram maintenance post; details explicitly subject to change."
+      "cache_note": "Third-party mirror of official Instagram maintenance post; details explicitly subject to change.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-20T11:30:00Z"
     },
     "https://www.foundation.game/en/news": {
       "fingerprint": "496a3d9d9d818fedad8403675edb89920f64d37f4eb0a8686a6386e379860669",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-11-04T10:35:29Z",
+      "last_checked": "2026-11-05T10:30:00Z",
       "status": 200,
       "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
       "status_label": "cache_hit",
@@ -103,70 +120,90 @@
       "fingerprint": "1e6cbece996ad4c8887505009ec0e4e39aa91b03d58f059d7755b38fe6401528",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-03-01T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-01T10:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "a39f1a03932d4918d0e9ab2c10e4f905309ea098019d18b28b09713186766c5e",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-03-01T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-01T10:30:00Z"
     },
     "https://store.steampowered.com/app/4223760/Foundation_Galactic_Frontier/": {
       "fingerprint": "74fda735f3bb54564123cd000e2964650a49f7ce40c8f119566dda0d7eee059e",
       "title": "Foundation: Galactic Frontier on Steam",
       "last_fetched": "2026-03-01T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-01T10:30:00Z"
     },
     "https://steamcommunity.com/app/4223760/": {
       "fingerprint": "21cdbc41103823be52921f23ac18de0df421196df7910540bb0ea910a4708fba",
       "title": "Steam Community :: Foundation: Galactic Frontier",
       "last_fetched": "2026-08-05T11:30:00Z",
       "status": 200,
-      "cache_note": "Hub's only official announcement is the January 15 Steam-coming-in-2026 post; current content is community discussion and reveals no new player-actionable information."
+      "cache_note": "Hub's only official announcement is the January 15 Steam-coming-in-2026 post; current content is community discussion and reveals no new player-actionable information.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-05T11:30:00Z"
     },
     "https://www.facebook.com/FoundationGalacticFrontier/": {
       "fingerprint": "02e6a0d3c12be5e60a201940e18b1855fb478ee6c94908598a46680a4a83e746",
       "title": "Facebook page fetch error",
       "last_fetched": "2026-02-26T10:30:43.467Z",
       "status": 400,
-      "cache_note": "fetch error"
+      "cache_note": "fetch error",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-02-26T10:30:43.467Z"
     },
     "https://x.com/FoundationGF_EN/status/2027005733716549797": {
       "fingerprint": "02bf692c933105467356715a320fe27a53245dac7f902a4dbfbe0c15d182169e",
       "title": "x.com status fetch fallback page",
       "last_fetched": "2026-02-27T10:31:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-02-27T10:31:00.000Z"
     },
     "https://funplus.com/foundation-galactic-frontier-global-launch/": {
       "fingerprint": "c68b219acfe55fdae309f18f4bf480ec65989a457eee8b2a55bec23f5cded6e9",
       "title": "Foundation: Galactic Frontier Global Launch",
       "last_fetched": "2026-02-27T10:31:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-02-27T10:31:00.000Z"
     },
     "https://www.foundation.game/en": {
       "fingerprint": "219542e5cbd6e3887e0a5f727ba6842b00ceab7e17ac0cb3b99a17a938c5c930",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-01T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-01T10:30:00Z"
     },
     "https://www.linegames.org/en/foundation:-galactic-frontier-codes/": {
       "fingerprint": "516d5b47ef9b68293851cab27670e2a838563e75495ab2df59cffb29a65a095a",
       "title": "All working Foundation: Galactic Frontier codes (March 2026) – Daily updated list",
       "last_fetched": "2026-03-01T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-01T10:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2007814609256747498": {
       "fingerprint": "b012f698c33d74ba32500331d955dfe02410ce7545fc3cf56635c7f65a5a0831",
       "title": "x.com status error/fallback",
       "last_fetched": "2026-03-02T10:31:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-02T10:31:00Z"
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
       "fingerprint": "3c084ad57ea8b254df3592c694ee1da6973dec1b6e6d4b0cc2b7018212f2c0a2",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
       "last_fetched": "2026-11-02T10:30:00Z",
-      "last_checked": "2026-11-04T10:35:29Z",
+      "last_checked": "2026-11-05T10:30:00Z",
       "status": 304,
       "cache_note": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
       "last_modified": "Sun, 01 Nov 2026 23:03:45 GMT",
@@ -179,13 +216,17 @@
       "fingerprint": "9b6422fe9d554c75fa1be4a98a6c4089d9c7216ad9b58c0bf882d557bfec3e98",
       "title": "Foundation: Galactic Frontier - IGN",
       "last_fetched": "2026-03-02T10:31:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-02T10:31:00Z"
     },
     "https://www.reddit.com/r/FoundationGFrontier/comments/1q7ixir/foundation_galactic_frontier_guide_and_checklist/": {
       "fingerprint": "0c069893f11c79efe6206cc57f1c20a1562d0df6a59d592856bdc6550b562bcf",
       "title": "The heart of the internet",
       "last_fetched": "2026-03-03T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-03T10:31:30Z"
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/tier-list/": {
       "fingerprint": "c5c7608c3689342cf686d0ca747ccfeaaff8b5c07effe48487903725c0163cd7",
@@ -203,25 +244,33 @@
       "fingerprint": "cbcab402489293c6309fc395441936d492a7e1a41ac3879ec399d2c810407877",
       "title": "Foundation: Galactic Frontier - FunPlus",
       "last_fetched": "2026-03-03T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-03T10:31:30Z"
     },
     "https://store.steampowered.com/news/app/4223760": {
       "fingerprint": "37e81caee62925b8415c1cf1323027fc263d1c698a98e0b1af97c87e2468a180",
       "title": "Foundation: Galactic Frontier - Steam News Hub",
       "last_fetched": "2026-03-03T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-03T10:31:30Z"
     },
     "https://www.ldplayer.net/blog/foundation-galactic-frontier-codes.html": {
       "fingerprint": "200d39d4990a357533b44590b44fec561a3cdf3d64fc3a28bb2b51590f578551",
       "title": "Access Denied",
       "last_fetched": "2026-03-03T10:31:30Z",
-      "status": 403
+      "status": 403,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-03T10:31:30Z"
     },
     "https://x.com/FoundationGF_EN/status/2028817672649994735/photo/1": {
       "fingerprint": "40a0f0785692961bb438dd2d3ccc95bd4d2a06a9f4ccccb8953619edb689599e",
       "title": "x.com status error/fallback",
       "last_fetched": "2026-03-04T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-04T10:31:30Z"
     },
     "https://www.bluestacks.com/blog/redeem-codes/foundation-galactic-frontier-redeem-codes-en.html": {
       "fingerprint": "50e8f2cff33bae6a53657a8b85e0b6b85d398438e440b5e31dbbdf8a72987330",
@@ -240,7 +289,9 @@
       "title": "Foundation: Galactic Frontier codes (Septembre 2026) - Actifs et mis à jour quotidiennement | LINEGames",
       "last_fetched": "2026-09-07T11:30:00Z",
       "status": 200,
-      "cache_note": "Unaffiliated auto-generated code page. It lists opaque rotating strings, generic copy, fabricated-looking reviews, and no source, reward, or expiration evidence; rejected."
+      "cache_note": "Unaffiliated auto-generated code page. It lists opaque rotating strings, generic copy, fabricated-looking reviews, and no source, reward, or expiration evidence; rejected.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-07T11:30:00Z"
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "9df467fdee95a1a547072782b7f7ecd209ab98bbcede8326c5947af8c162eff6",
@@ -248,10 +299,10 @@
       "last_fetched": "2026-11-04T10:35:29Z",
       "status": 200,
       "cache_note": "Conditional request returned HTTP 200; normalized readable-body SHA-256 differs from prior fingerprint; known codes repeated, no new code.",
-      "status_label": "cache_changed",
-      "last_checked": "2026-11-04T10:35:29Z",
+      "status_label": "cache_hit",
+      "last_checked": "2026-11-05T10:30:00Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "cache_changed",
+      "probe_state": "cache_hit",
       "summary": "Updated Nov 4 code list repeats registered FNDBOO26, FGF1stAnniv, expired codes, and old entries; no new code or credible status transition.",
       "etag": null,
       "last_modified": "Wed, 04 Nov 2026 10:33:09 GMT"
@@ -286,604 +337,790 @@
       "title": "Foundation Galactic Frontier Summoning Guide – How Recruitment Works and How to Get More Venturous Memory - Game Center",
       "last_fetched": "2026-03-05T10:31:30Z",
       "status": 200,
-      "cache_note": "summoning guide; third-party content farm style"
+      "cache_note": "summoning guide; third-party content farm style",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-05T10:31:30Z"
     },
     "https://www.youtube.com/watch?v=cXMFarxdyw0": {
       "fingerprint": "f5fe1d717017a4c66aa149c849c3d034f6df69ccd832a1f9b5de39c6fa7e3aad",
       "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 161 - YouTube",
       "last_fetched": "2026-03-05T10:31:30Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-05T10:31:30Z"
     },
     "https://www.youtube.com/watch?v=JmQ1NIZlZu8": {
       "fingerprint": "ed999fe92b40b3ac753123e8f2c1dfdbe686b2d49fde39332205dffa438960ba",
       "title": "Kaboom Robot Strategy - defeat 100 robots easy! Foundation Galactic Frontier Gameplay - YouTube",
       "last_fetched": "2026-03-05T10:31:30Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-05T10:31:30Z"
     },
     "https://www.linegames.org/en/operation-codes/": {
       "fingerprint": "d4185c68e6f83da76b86acb4d4ed5f81a87b3e1ebf901516db41100f0b981fe9",
       "title": "All working Operation codes (March 2026) – Daily updated list",
       "last_fetched": "2026-03-05T10:31:30Z",
       "status": 200,
-      "cache_note": "not Foundation-specific"
+      "cache_note": "not Foundation-specific",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-05T10:31:30Z"
     },
     "https://funplus.com/foundation-galactic-frontier-valentines-day-event/": {
       "fingerprint": "29e0b703e3f629b54192d90f8b5d7d4dc6fbc41a6e8c5213f13169ee05266d2d",
       "title": "Foundation: Galactic Frontier ‘Valentine’s Day’ Event",
       "last_fetched": "2026-03-06T10:31:30Z",
       "status": 200,
-      "cache_note": "official press release; event window Feb 9-15, 2026 (expired)"
+      "cache_note": "official press release; event window Feb 9-15, 2026 (expired)",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-06T10:31:30Z"
     },
     "https://www.youtube.com/watch?v=dRMIWaL0hdA": {
       "fingerprint": "bc65d3583b83f75899636222b54ba14f99aa1705699fb6742750096744c704d1",
       "title": "Foundation Galactic Frontier PVP ACTION! - YouTube",
       "last_fetched": "2026-03-06T10:31:30Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-06T10:31:30Z"
     },
     "https://apkpure.com/foundation-galactic-frontier/com.games.foundation": {
       "fingerprint": "92a3a4d63cc7073c912ae6a6d94c9c84344315bb45bf85335b8ec467e6188de2",
       "title": "Just a moment...",
       "last_fetched": "2026-03-06T10:31:30Z",
       "status": 403,
-      "cache_note": "blocked by anti-bot; no usable正文"
+      "cache_note": "blocked by anti-bot; no usable正文",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-06T10:31:30Z"
     },
     "https://www.reddit.com/r/FoundationGFrontier/comments/1ptzwfm/redeemable_codes/": {
       "fingerprint": "ffbaf63d595d6c8af7ebafe3a7a250f500c08b98774839203162570d53ccbb92",
       "title": "Reddit - The heart of the internet",
       "last_fetched": "2026-03-07T10:31:41Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-07T10:31:41Z"
     },
     "https://www.memuplay.com/blog/foundation-galactic-frontier-codes.html": {
       "fingerprint": "e012ecd4f3a1f1255fff8c322f68239eacebb88022c8c7b22f699589a6cd8b9c",
       "title": "Latest Foundation: Galactic Frontier Codes September 2026: Free Rewards & Redeem Guide",
       "last_fetched": "2026-09-03T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party page lists only already-recorded S2SupplyDrop through 2026-09-30 and repeats the redemption path. No new code or status evidence."
+      "cache_note": "Third-party page lists only already-recorded S2SupplyDrop through 2026-09-30 and repeats the redemption path. No new code or status evidence.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-03T11:30:00Z"
     },
     "https://www.facebook.com/FoundationGalacticFrontier/posts/%EF%B8%8F-cheers-to-a-new-galactic-year-traders-the-galaxy-is-alive-with-energy-start-20/122233461686252135/": {
       "fingerprint": "64a0354cd2f12d9792eca3f6edf0c9492829d6834d8d3134714ed65ef19f2b28",
       "title": "❄️ Cheers to a New... - Foundation: Galactic Frontier",
       "last_fetched": "2026-03-07T10:31:41Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-07T10:31:41Z"
     },
     "https://www.foundation.game/en/news/official-guide-10-tips-you-must-know": {
       "fingerprint": "50e0be1299df0a2adee0d5698b9a9da8840bfbe4215e926fec5f2c2787670e61",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-07T10:31:41Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-07T10:31:41Z"
     },
     "https://www.allclash.com/all-flagship-formations-in-foundation-galactic-frontier/": {
       "fingerprint": "cb39d6ffbb8bb82a55ebfcabef86b63327515c13f5c001e9df30db0d2e0198b5",
       "title": "Just a moment...",
       "last_fetched": "2026-03-08T10:31:51Z",
       "status": 403,
-      "cache_note": "fetch error / blocked or unavailable正文"
+      "cache_note": "fetch error / blocked or unavailable正文",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-08T10:31:51Z"
     },
     "https://www.bluestacks.com/blog/game-guides/foundation/fgtf-progression-guide-en.html": {
       "fingerprint": "9b601c69556bb3c19eea8098e87ea4960a57cb219cb2eba2ad99141d9b983c65",
       "title": "Foundation: Galactic Frontier Progression Guide – How to Grow Faster and Build a Strong Start | BlueStacks",
       "last_fetched": "2026-03-08T10:31:51Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-08T10:31:51Z"
     },
     "https://www.bluestacks.com/blog/game-guides/foundation/fgtf-beginners-guide-en.html": {
       "fingerprint": "c2d26968f55db03ab98df4cc1ee7f7eb55b5798070cb08c63d9e9642027e70ce",
       "title": "Foundation Galactic Frontier Beginner’s Guide – How to Get Started in the Galaxy | BlueStacks",
       "last_fetched": "2026-03-08T10:31:51Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-08T10:31:51Z"
     },
     "https://www.bitrue.com/blog/all-about-foundation-galactic-frontier-update": {
       "fingerprint": "6c5503b1211d1e113a6711c2a23ccffae44a7cdf877a7fe0256d89c641d93005",
       "title": "All About Foundation Galactic Frontier (Last Update)",
       "last_fetched": "2026-03-08T10:31:51Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-08T10:31:51Z"
     },
     "https://game.edu.kg/en/foundation:-galactic-frontier/codes/": {
       "fingerprint": "677a8b8136415b376e0a8c0bb20c45ad8fbe1cbf04695c2766e54dd1b6ed1a64",
       "title": "All working Foundation: Galactic Frontier codes (March 2026) – Daily updated list",
       "last_fetched": "2026-03-13T13:06:10Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-13T13:06:10Z"
     },
     "https://www.foundation.game/zh-TW": {
       "fingerprint": "29a6a24c0f96a04714d29be6fb8c65c9bc73eb43ba35933d7ef18cd11fba6169",
       "title": "基地：星界無間",
       "last_fetched": "2026-03-13T13:06:10Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-13T13:06:10Z"
     },
     "https://www.foundation.game/index.html": {
       "fingerprint": "25f98002eecbc8b15f5d651741842e988a737fc53fa99dd345ad926122dd22c8",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-13T13:06:10Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-13T13:06:10Z"
     },
     "https://fnd.foundation.game/": {
       "fingerprint": "bff83d4c54222670ad9b865cc94395f489bfd5116d34ffcea6a57289e4787aee",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-13T13:06:10Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-13T13:06:10Z"
     },
     "https://x.com/FoundationGF_EN/status/2031369483328303556": {
       "fingerprint": "70c94355506b6ffbc5dbcb1a43a44945ca54e9ec46bb997ae3da68a6c34fc2d3",
       "title": "x.com maintenance status (fetch fallback page)",
       "last_fetched": "2026-03-14T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:31:30Z"
     },
     "https://www.foundation.game/ja": {
       "fingerprint": "9ce7b04ee4f6eb858ec2d99587a2d6757f41564209c4d02c8f739164b4207242",
       "title": "ファウンデーション：銀河フロンティア",
       "last_fetched": "2026-03-14T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:31:30Z"
     },
     "https://www.foundation.game/en/news/official-guide-mastering-fleet-power": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-14T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:31:30Z"
     },
     "https://www.foundation.game/en/news/official-guide-port-occupation": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-14T10:31:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:31:30Z"
     },
     "https://www.foundation.game/en/news/foundation-galactic-frontier-steam-version-launching-in-q1-2026": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-14T10:51:53Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:51:53Z"
     },
     "https://x.com/FoundationGF_EN?lang=en": {
       "fingerprint": "b012f698c33d74ba32500331d955dfe02410ce7545fc3cf56635c7f65a5a0831",
       "title": "x.com profile error/fallback",
       "last_fetched": "2026-03-14T10:51:53Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:51:53Z"
     },
     "https://daikama.com/games/foundation-galactic-frontier/": {
       "fingerprint": "d2db6e9153e81c9680f7edb8431e126718b04e9aa2f492eacb87b129e681b830",
       "title": "Foundation: Galactic Frontier - Game Download, news and updates",
       "last_fetched": "2026-03-14T10:51:53Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:51:53Z"
     },
     "https://www.youtube.com/watch?v=oO9ba1dRX7c": {
       "fingerprint": "73d96da7d2c5c492a6b814118ec9cc924ce74cb6000bbf04a7a2c559af095768",
       "title": "Foundation: Galactic Frontier - Tips, Cheats, Gift Codes, and Strategy Guide! - YouTube",
       "last_fetched": "2026-03-14T10:51:53Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-14T10:51:53Z"
     },
     "https://www.foundation.game/en/news/foundation-galactic-frontier-announcement": {
       "fingerprint": "af638b39def1591017b1016a6c70e6d932489553f08168bffd4bf67a649f2a5c",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-15T10:31:30Z",
       "status": 200,
-      "cache_note": "readability title only; no正文提取"
+      "cache_note": "readability title only; no正文提取",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-15T10:31:30Z"
     },
     "https://www.youtube.com/watch?v=v7fHdzh6fj0": {
       "fingerprint": "cff859efaeb54eda31f7aed9f2611d8bbb37a91810277d9c6077c441e22369f7",
       "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 162 - YouTube",
       "last_fetched": "2026-03-15T10:31:30Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-15T10:31:30Z"
     },
     "https://www.youtube.com/watch?v=IjVunTpofvw": {
       "fingerprint": "cf83cfb14c5d9d3fea39f4cf5cd1e3f3fac6f9fe7ce42030a3498553856258f9",
       "title": "Cheats, Tips and Tricks! Top 100 and Guild VS Guild - Foundation Galactic Frontier Gameplay - YouTube",
       "last_fetched": "2026-03-15T10:31:30Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-15T10:31:30Z"
     },
     "https://www.linegames.org/en/fc26-codes/": {
       "fingerprint": "2968ebf56fd80906af5751a6f45d2555ae9951654c989b41b7ca88d477f80f8c",
       "title": "All working Fc26 codes (March 2026) – Daily updated list",
       "last_fetched": "2026-03-15T10:31:30Z",
       "status": 200,
-      "cache_note": "not Foundation-specific"
+      "cache_note": "not Foundation-specific",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-15T10:31:30Z"
     },
     "https://www.foundation.game/en/news/watch-and-play-foundation": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-16T10:31:39Z",
       "status": 200,
-      "cache_note": "readability title only; no正文提取"
+      "cache_note": "readability title only; no正文提取",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-16T10:31:39Z"
     },
     "https://www.foundation.game/en/news/fan-art-contest-design-challenge": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-16T10:31:39Z",
       "status": 200,
-      "cache_note": "readability title only; no正文提取"
+      "cache_note": "readability title only; no正文提取",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-16T10:31:39Z"
     },
     "https://www.foundation.game/en/news/official-guide-home-port": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-16T10:31:39Z",
       "status": 200,
-      "cache_note": "readability title only; no正文提取"
+      "cache_note": "readability title only; no正文提取",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-16T10:31:39Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en_US": {
       "fingerprint": "b1c9f105f41f85149f1298a08ab73b9d7f38b3dcf68608c4aa428af47e48f020",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-03-16T10:31:39Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-16T10:31:39Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation": {
       "fingerprint": "acf16ff1d3ca637bc94de5660e79828548e59fc7f20da96880c5cca08b07d65c",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-03-17T10:31:08Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-17T10:31:08Z"
     },
     "https://apps.apple.com/app/id6737595599": {
       "fingerprint": "07f6795bb48c5b715009121d4bb588d34bc66c72ff85aaea74c22825066b836a",
       "title": "‎Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-03-17T10:31:08Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-17T10:31:08Z"
     },
     "https://www.foundation.game/en/news/official-guide-10-tips-you-must-know?ref=daily": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-17T10:31:09Z",
       "status": 200,
-      "cache_note": "readability title only; no正文提取"
+      "cache_note": "readability title only; no正文提取",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-17T10:31:09Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en_AU": {
       "fingerprint": "7a51e3f35b809798c8d89b6205647d600d7e89eeefc29665fdb7fa9c857838d3",
       "title": "Foundation: Galactic Frontier – Apps on Google Play",
       "last_fetched": "2026-03-18T10:30:54Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-18T10:30:54Z"
     },
     "https://apps.apple.com/au/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "8a8f7eb0d8647b0c49d5b902a6a9d75ec8690c4abcbe0e12c38ba28cb8c857c8",
       "title": "‎Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-03-18T10:30:54Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-18T10:30:54Z"
     },
     "https://www.foundation.game/en/news/official-guide-mastering-fleet-power?utm_source=daily_intel": {
       "fingerprint": "df2ccceade8466a4e851a70b6ef12d86708176f5b5b32c406464ddbdde37a230",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-03-18T10:30:54Z",
       "status": 200,
-      "cache_note": "readability title only; no正文提取"
+      "cache_note": "readability title only; no正文提取",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-18T10:30:54Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-GB": {
       "fingerprint": "fc23153d80e8103cb1e03cc2d2e3df59f23060668721058186d18ebf2a072884",
       "title": "Foundation: Galactic Frontier – Apps on Google Play",
       "last_fetched": "2026-03-19T10:31:50Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-19T10:31:50Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?l=en": {
       "fingerprint": "f025fee81636c2c41ca011e0608ce4ec25d8d8d0bdfe536b22caed941f9891c1",
       "title": "‎Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-03-19T10:31:50Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-19T10:31:50Z"
     },
     "https://www.youtube.com/watch?v=-Rw8oCSyu0s": {
       "fingerprint": "accf3e5a8c79ad2d27998d790821984a5ffedc4fa3fe83785630a22a010aa965",
       "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 163 - YouTube",
       "last_fetched": "2026-03-19T10:31:50Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-19T10:31:50Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en": {
       "fingerprint": "461d3e05bbfb9a6d75471a8e646b1bdd8fba08bcadbe584ff800eb0c311b9c58",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-04-03T10:30:51.325Z",
       "status": 200,
-      "cache_note": "What's new: Spring Wonderland + Dominion Warzone expanded to 1001-1080 + rally optimizations"
+      "cache_note": "What's new: Spring Wonderland + Dominion Warzone expanded to 1001-1080 + rally optimizations",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-04-03T10:30:51.325Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?see-all=reviews&platform=ipad": {
       "fingerprint": "ac6392f65dd8aad275673be8541d3352cf1dc50669a3f5216da3fc9d2402cfee",
       "title": "Foundation: Galactic Frontier - Ratings & Reviews - App Store",
       "last_fetched": "2026-03-20T10:30:00Z",
       "status": 200,
-      "cache_note": "user reviews page; subjective community feedback"
+      "cache_note": "user reviews page; subjective community feedback",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-20T10:30:00Z"
     },
     "https://apps.apple.com/be/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "ace85c8c7ff88164799dbac7c324a189311f2fd85da3c0bccc5c4095c4c62fe5",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-03-20T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-20T10:30:00Z"
     },
     "https://www.linegames.org/en/2026-codes/": {
       "fingerprint": "7c24c946a4bba4892a6f76a6c822ac00d8ee102b1102d1a30d8d52e607063cfd",
       "title": "2026 codes (March 2026) - Working & Daily updated | {site_name}",
       "last_fetched": "2026-03-20T10:30:00Z",
       "status": 200,
-      "cache_note": "generic code farm page; not Foundation-specific official source"
+      "cache_note": "generic code farm page; not Foundation-specific official source",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-20T10:30:00Z"
     },
     "https://modyolo.com/foundation-galactic-frontier.html": {
       "fingerprint": "11353d9b7eadd1daa43f367d1565065489a2a181e3ee262f8e67db9d85d323fa",
       "title": "Foundation v1.8.16.150512 MOD APK (Menu, Damage & Defense Multiplier)",
       "last_fetched": "2026-03-21T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-21T10:30:00Z"
     },
     "https://foundation-galactic-frontier.en.softonic.com/android": {
       "fingerprint": "b9da1f1a2d85e55552e73f653caf2bd1cf0b6bbf3e7be3e948ac90a3404b5460",
       "title": "Foundation: Galactic Frontier for Android",
       "last_fetched": "2026-03-21T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-21T10:30:00Z"
     },
     "https://www.youtube.com/watch?v=2R8iF_c7x_c": {
       "fingerprint": "8477633e1518415c7d7207d167eff135133b1dc33afc24d1f034f069ce315cbd",
       "title": "Foundation: Galactic Frontier - ads vs gameplay | Badvertising - YouTube",
       "last_fetched": "2026-03-21T10:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-21T10:30:00Z"
     },
     "https://mturbogamer.com/2025/12/foundation-galactic-frontier-tips-tricks-guide/": {
       "fingerprint": "c3671eb9576a0f5a0f8a7a745f3d4facac06a29641c8e508c3f4e8967701c2d1",
       "title": "Foundation Galactic Frontier Top 10 Tips and Tricks!",
       "last_fetched": "2026-03-22T10:31:42.481Z",
       "status": 200,
-      "cache_note": "third-party generic tips article"
+      "cache_note": "third-party generic tips article",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-22T10:31:42.481Z"
     },
     "https://www.youtube.com/watch?v=8GR7CZpNmqc": {
       "fingerprint": "34a059dbd6e6b6f6b5ed87a0cceae7d978105186905283f65d74abd2aad28ddb",
       "title": "Most Players Waste Power in the Mid Game | Foundation Galactic Frontier Tips and Advanced Guide! - YouTube",
       "last_fetched": "2026-03-22T10:31:41.251Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-22T10:31:41.251Z"
     },
     "https://www.youtube.com/watch?v=NE05MzXGcGE": {
       "fingerprint": "be92a2f7346d9c5e7f012013700edba0b0daef87d938489cea34f4603f099f50",
       "title": "Foundation Galactic Frontier Guide: 3 Must-Know Tips for New Players - YouTube",
       "last_fetched": "2026-03-22T10:31:40.953Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-22T10:31:40.953Z"
     },
     "https://www.youtube.com/watch?v=yGHMKcPOXWc": {
       "fingerprint": "46a6da1ebd3c9af5c1fdb00037bd29d266d83e851a3c102ccc8903546785f059",
       "title": "Foundation Galactic Frontier Tips And Tricks - Best Strategy For Galactic Frontier - YouTube",
       "last_fetched": "2026-03-22T10:31:41.053Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-22T10:31:41.053Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en_GB": {
       "fingerprint": "ba82285dee2689fd8b42ddc3bd004829553e6ccd0a9637b06530fac1425d25cd",
       "title": "Foundation: Galactic Frontier – Apps on Google Play",
       "last_fetched": "2026-03-23T10:32:30Z",
       "status": 200,
-      "cache_note": "what's new includes Emerald Adventure event, Network Telemetry Officer profession, and Commerce Guild Duel point quests"
+      "cache_note": "what's new includes Emerald Adventure event, Network Telemetry Officer profession, and Commerce Guild Duel point quests",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-23T10:32:30Z"
     },
     "https://www.youtube.com/watch?v=jVYRBXLrj1o": {
       "fingerprint": "b6211631fc90e01422f7b33c9a2c127594325db178b9c40072ca354680344939",
       "title": "Foundation Galactic Frontier! - Gamercast Live Stream Episode 164 - YouTube",
       "last_fetched": "2026-03-23T10:32:30Z",
       "status": 200,
-      "cache_note": "readability only returns title line"
+      "cache_note": "readability only returns title line",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-23T10:32:30Z"
     },
     "https://bleedingcool.com/games/foundation-galactic-frontier-soft-launches-on-google-play/": {
       "fingerprint": "84066c7c81c1d6da54b4271767d86f027d461f161f22b68d7f0e46abcc689a9a",
       "title": "Foundation: Galactic Frontier Soft Launches On Google Play",
       "last_fetched": "2026-03-23T10:32:30Z",
       "status": 200,
-      "cache_note": "soft-launch era article (2024-09), historical background not current patch intel"
+      "cache_note": "soft-launch era article (2024-09), historical background not current patch intel",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-03-23T10:32:30Z"
     },
     "https://funplus.com/newsroom/": {
       "fingerprint": "6bacd6ef383e3df1ce7ac934d761aa78f8e14d5d13c30709ce4574b9a37de8a2",
       "title": "Newsroom - FunPlus",
       "last_fetched": "2026-04-05T06:11:43Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-04-05T06:11:43Z"
     },
     "https://funplus.com/info/whats-next-in-2026/": {
       "fingerprint": "02251142549d197d64824415f86d47add60e28a695a23706b26f875e9cc31fba",
       "title": "What's next in 2026 (Part II)",
       "last_fetched": "2026-04-05T06:11:43Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-04-05T06:11:43Z"
     },
     "https://store.funplus.com/foundation": {
       "fingerprint": "6a5cb0ec94a2a011a8a571109e8582bb68a3e297317a2dcecd7cf01f57e4657b",
       "title": "Foundation Top-up Centre",
       "last_fetched": "2026-04-05T06:11:43Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-04-05T06:11:43Z"
     },
     "https://foundation-store.funplus.com/foundation/": {
       "fingerprint": "d6910b7f5d4856cf6792f1ef42de56ff8e508b234a58d78adc020eb85e8a8da6",
       "title": "Foundation Top-up Centre",
       "last_fetched": "2026-04-05T06:11:43Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-04-05T06:11:43Z"
     },
     "https://funplus.com/foundation-galactic-frontier-announces-soft-launch/": {
       "fingerprint": "61e3f36fe3b078f0aa922c5f5f99f9b88ee66888ef3b06386880336d691b7a71",
       "title": "Foundation: Galactic Frontier announces soft launch",
       "last_fetched": "2026-04-05T06:11:43Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-04-05T06:11:43Z"
     },
     "https://x.com/FoundationGF_EN/status/2038601573056241782": {
       "fingerprint": "40a0f0785692961bb438dd2d3ccc95bd4d2a06a9f4ccccb8953619edb689599e",
       "title": "x.com status error/fallback",
       "last_fetched": "2026-05-01T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-01T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2032094653986525679": {
       "fingerprint": "40a0f0785692961bb438dd2d3ccc95bd4d2a06a9f4ccccb8953619edb689599e",
       "title": "x.com status error/fallback",
       "last_fetched": "2026-05-01T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-01T11:30:00Z"
     },
     "https://www.foundation.game/en/news/foundation-galactic-frontier-coming-soon-steam": {
       "fingerprint": "49749b48a5baeb3abc1e837814d2dbeb26bad43a17a50cca706262e02d338614",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-01T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-01T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339337": {
       "fingerprint": "8f65bb6a2c0257e146f4e371588951a1a9c367c15f8838191c48eb81ef064e33",
       "title": "Foundation: Galactic Frontier Forge Your Galactic Legacy",
       "last_fetched": "2026-05-01T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要"
+      "cache_note": "2026-05-01 verification fetch;正文提取不足，评分基于搜索结果摘要",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-01T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6756863237": {
       "fingerprint": "8b07cb835702bf033f532398cca6337d42b8a0264cf114475f5a3c7680bd2f66",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-02T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-02 verification fetch; official App Store major update metadata confirms signature armament + weapon entries"
+      "cache_note": "2026-05-02 verification fetch; official App Store major update metadata confirms signature armament + weapon entries",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-02T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339469": {
       "fingerprint": "d216b089fdc5349d65cfe17df899edf7c59b657db627e6b967ebf23b2700f692",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-02T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-02 verification fetch; official App Store major update metadata confirms Gail Dornick arrival only"
+      "cache_note": "2026-05-02 verification fetch; official App Store major update metadata confirms Gail Dornick arrival only",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-02T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339388": {
       "fingerprint": "ba71918010066f1aea7df74906a1ee66ca7896e4c99d3db0b0810898a8a49c14",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-02T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-02 verification fetch; official App Store event metadata confirms Easter Celebration theme only"
+      "cache_note": "2026-05-02 verification fetch; official App Store event metadata confirms Easter Celebration theme only",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-02T11:30:00Z"
     },
     "https://apps.apple.com/gb/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "2c7aca4aae36f334ada4db0a685a0b7c0943bcc1034e04dbd2359f59ed67931e",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-03T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-03 verification fetch; official App Store version history confirms versions 1.1.36, 1.1.21, 1.1.11"
+      "cache_note": "2026-05-03 verification fetch; official App Store version history confirms versions 1.1.36, 1.1.21, 1.1.11",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-03T11:30:00Z"
     },
     "https://apps.apple.com/pl/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "8a8b71f4ac1646a7b754125a4093d58d25372d0cdf1ed158a5bdcebfe53bce44",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-03T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-03 verification fetch; duplicate regional App Store verification for version history"
+      "cache_note": "2026-05-03 verification fetch; duplicate regional App Store verification for version history",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-03T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6756863515": {
       "fingerprint": "26a66c86d703a1bb43a84b3a997118d29674c935190f94ca0e68fdb124b1ecc3",
       "title": "Foundation: Galactic Frontier Forge Your Galactic Legacy",
       "last_fetched": "2026-05-03T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-03 verification fetch; event URL direct check returned only generic marketing title / no usable event正文"
+      "cache_note": "2026-05-03 verification fetch; event URL direct check returned only generic marketing title / no usable event正文",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-03T11:30:00Z"
     },
     "https://apps.apple.com/ca/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "0d0360e02c926e91c365369b3bf9d366c88d16e7e37feab84cc16dfe39277964",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-05T11:38:18Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-05T11:38:18Z"
     },
     "https://apps.apple.com/nz/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "0d0360e02c926e91c365369b3bf9d366c88d16e7e37feab84cc16dfe39277964",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-05T11:38:18Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-05T11:38:18Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-CA": {
       "fingerprint": "33f1a3d089851830163d34b5307a11ff70f4589894fff372e8fb5b91542a97cc",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-05-05T11:38:18Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-05T11:38:18Z"
     },
     "https://www.foundation.game/en/news/foundation-galactic-frontier-steam-version-coming-soon": {
       "fingerprint": "cfc6fe73aafcc06f8e335ac22c03398d9326b504a3ce854e2829732f506d0e96",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-05T11:38:18Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-05T11:38:18Z"
     },
     "https://apps.apple.com/ie/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "534dabc0c420a10634b42ae81dad0af43ba5f312320178b4be486baf4e5058d7",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-06T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-06 verification fetch; regional App Store page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes"
+      "cache_note": "2026-05-06 verification fetch; regional App Store page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-06T11:30:00Z"
     },
     "https://apps.apple.com/de/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "534dabc0c420a10634b42ae81dad0af43ba5f312320178b4be486baf4e5058d7",
       "title": "Galactic Frontier-App – App Store",
       "last_fetched": "2026-05-06T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-06 verification fetch; German regional App Store page repeats version 1.1.36 notes already ingested on 2026-05-03"
+      "cache_note": "2026-05-06 verification fetch; German regional App Store page repeats version 1.1.36 notes already ingested on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-06T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?platform=ipad": {
       "fingerprint": "534dabc0c420a10634b42ae81dad0af43ba5f312320178b4be486baf4e5058d7",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-06T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-06 verification fetch; iPad parameter variant repeats version 1.1.36 notes already ingested on 2026-05-03"
+      "cache_note": "2026-05-06 verification fetch; iPad parameter variant repeats version 1.1.36 notes already ingested on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-06T11:30:00Z"
     },
     "https://play.google.com/store/apps/details?hl=en_ZA&id=com.games.foundation": {
       "fingerprint": "933b32b5583734da3fa241412c520d1753b151ced4d9b298c647f0adea126334",
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-05-06T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-05-06 verification fetch; readability failed and only shell/style HTML was extracted, no usable What's new text"
+      "cache_note": "2026-05-06 verification fetch; readability failed and only shell/style HTML was extracted, no usable What's new text",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-06T11:30:00Z"
     },
     "https://apps.apple.com/fr/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "7f8bc5c3505508c677422c248e43b1bee5a46b31194c2d0e6d70f29a88e94c61",
       "title": "App Foundation: Galactic Frontier - App Store (FR)",
       "last_fetched": "2026-05-07T11:33:53.124Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-07T11:33:53.124Z"
     },
     "https://apps.apple.com/jp/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "9cf5f57483f0e4a8dfa41115a276caaf6235b9b19f88d1c0f25e0ee51b8c9c21",
       "title": "ファウンデーション：銀河フロンティアアプリ - App Store",
       "last_fetched": "2026-05-07T11:33:53.149Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-07T11:33:53.149Z"
     },
     "https://apps.apple.com/sg/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "a7de8823ed3cee801539536c1fd1988aba34ddb7dcf2886ea7cf3383f50aa7cf",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-09T11:32:45.461Z",
       "status": 200,
-      "cache_note": "2026-05-09 verification fetch; Singapore App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03"
+      "cache_note": "2026-05-09 verification fetch; Singapore App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-09T11:32:45.461Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-SG": {
       "fingerprint": "56e3f1ce56eb76cde4a776ce07617e61f992dd67dc2f343453397da4709e07b8",
       "title": "Google Play shell HTML (en-SG)",
       "last_fetched": "2026-05-07T11:33:53.026Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-07T11:33:53.026Z"
     },
     "https://apps.apple.com/hk/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "1a6bb46d8ae141942d62b6a990cd368afc751e3c7b203a1d750aeb8c257f453e",
       "title": "《基地：星界無間》App - App Store",
       "last_fetched": "2026-05-08T11:36:46.914Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-08T11:36:46.914Z"
     },
     "https://apps.apple.com/my/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "f9d72893aa34a5ba506ea665021bde337404f56336a0cf9118d3c67dbc5ab2d6",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-08T11:35:33.440Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-08T11:35:33.440Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-AU": {
       "fingerprint": "03b804c036641250bd9731f5df0b7c7303a1affb550ba83e28365cf1504f039d",
       "title": "Google Play raw HTML fallback",
       "last_fetched": "2026-05-08T11:35:33.312Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-08T11:35:33.312Z"
     },
     "https://gamepretty.com/foundation-galactic-frontier-codes/": {
       "fingerprint": "06cace92cfd57ea7492275620003e5d7c6ce88ab88c676885ecef08c6482e1a7",
       "title": "Foundation: Galactic Frontier Codes for January 2026",
       "last_fetched": "2026-05-08T11:36:17.805Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-08T11:36:17.805Z"
     },
     "https://deliventura.com/foundation-galactic-frontier-codes-update/": {
       "fingerprint": "aab6debb00ad82c226cddcc4467518e8a8f0d26af73b9f6b52eac6ad11e58ceb",
       "title": "Foundation: Galactic Frontier codes (Update) - 02/2026",
       "last_fetched": "2026-05-08T11:36:18.075Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-08T11:36:18.075Z"
     },
     "https://apps.apple.com/ph/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "527ebe3323e43ef43b6011572a0ebdda22a45d76ac58166ed54acb0baaeb0032",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-09T11:34:00.988Z",
       "status": 200,
-      "cache_note": "2026-05-09 verification fetch; Philippines App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03"
+      "cache_note": "2026-05-09 verification fetch; Philippines App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-09T11:34:00.988Z"
     },
     "https://apps.apple.com/in/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "6ff6e086216757f8cd6c5c46a30c8efb6b46c19e9ea03345bb7fbdaa469b5dea",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-09T11:34:01.002Z",
       "status": 200,
-      "cache_note": "2026-05-09 verification fetch; India App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03"
+      "cache_note": "2026-05-09 verification fetch; India App Store regional page repeats version 1.1.36 notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-09T11:34:01.002Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-IN": {
       "fingerprint": "e4a034231549948aa636ff68ba4db1352e8e80841982ad3c9ebb66175de70107",
       "title": "Google Play locale shell fetch",
       "last_fetched": "2026-05-09T11:34:00.973Z",
       "status": 200,
-      "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted"
+      "cache_note": "2026-05-09 verification fetch; raw-html shell only, no usable正文 extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-09T11:34:00.973Z"
     },
     "https://mobi.gg/en/codes/foundation-galactic-frontier-codes/": {
       "fingerprint": "8d0a42d2118a5cc2e17a47ac1cd342b6cc8eba695e20dc5b7aec5e264e435056",
@@ -902,189 +1139,243 @@
       "title": "Foundation: Galactic Frontier - Apps on Google Play",
       "last_fetched": "2026-05-10T11:35:53Z",
       "status": 200,
-      "cache_note": "What's new still shows Emerald Adventure, Network Telemetry Officer, and Commerce Guild Duel Champion Weapon point quests (old March 2026 update)"
+      "cache_note": "What's new still shows Emerald Adventure, Network Telemetry Officer, and Commerce Guild Duel Champion Weapon point quests (old March 2026 update)",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-10T11:35:53Z"
     },
     "https://apps.apple.com/gw/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "0b5943d8fa4408760813a777ee4bc7880db785f5f18882b949141b09d3da9e56",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-10T11:35:53Z",
       "status": 200,
-      "cache_note": "Version 1.1.36 notes match 2026-05-03 player-facing news entry"
+      "cache_note": "Version 1.1.36 notes match 2026-05-03 player-facing news entry",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-10T11:35:53Z"
     },
     "https://apps.apple.com/br/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "25477c03ca814e7a508f157e11be23d7e8ad67c4945651328a8d7df3bd585f68",
       "title": "Galactic Frontier – App Store",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; Brazil App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+      "cache_note": "2026-05-11 verification fetch; Brazil App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://apps.apple.com/mx/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "72593cad542e04137d0cca60ef1b596a5491533a3e62148b641b99bf1dba5b91",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; Mexico App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+      "cache_note": "2026-05-11 verification fetch; Mexico App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://apps.apple.com/kr/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "d29711fe5a966b56b516dc5d88dfa77c216da9518ba6d84d87d5f8cc99458988",
       "title": "파운데이션: 우주 전선 앱 - App Store",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; Korea App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+      "cache_note": "2026-05-11 verification fetch; Korea App Store regional page repeats version 1.1.36 Tender Letters / Jodie Béart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=ar": {
       "fingerprint": "2978669ccd4d6e0ebbcfdfa5c151d967ad252ba0a6906363ddf04d6f5563b32d",
       "title": "Google Play raw HTML fallback",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; Arabic Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+      "cache_note": "2026-05-11 verification fetch; Arabic Google Play locale returned shell/raw HTML only, no usable What's new extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=nl": {
       "fingerprint": "7a2ea1c844455003e895c1321746b1e4a76679e644b629564018ce63874442e6",
       "title": "Google Play raw HTML fallback",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; Dutch Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+      "cache_note": "2026-05-11 verification fetch; Dutch Google Play locale returned shell/raw HTML only, no usable What's new extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=sv": {
       "fingerprint": "c53cf0f801e52be9b459809e59bdbeb2da26de5ae4fce3586aca8a2cd067ff5b",
       "title": "Google Play raw HTML fallback",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; Swedish Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+      "cache_note": "2026-05-11 verification fetch; Swedish Google Play locale returned shell/raw HTML only, no usable What's new extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://www.52gaming.net/foundation-galactic-frontier-codes/": {
       "fingerprint": "f8d914fa7e625a3b33804015355521d3514108e3b6a6c583bfdc7dcc703bf118",
       "title": "52gaming.net",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; raw shell/domain-only response, no redeem-code正文 extracted"
+      "cache_note": "2026-05-11 verification fetch; raw shell/domain-only response, no redeem-code正文 extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://www.levelwinner.com/foundation-galactic-frontier-codes-guide-active-codes-and-redeem-guide/": {
       "fingerprint": "8885c47b0c228d155732ce4a74f3b594766d780f99b64a06e1ce36a497e47cf8",
       "title": "The #1 Source for iOS and Android Game Guides - Level Winner",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 200,
-      "cache_note": "2026-05-11 verification fetch; target URL redirected to Level Winner homepage, no Foundation-specific正文"
+      "cache_note": "2026-05-11 verification fetch; target URL redirected to Level Winner homepage, no Foundation-specific正文",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://www.jaxon.gg/foundation-galactic-frontier-codes/": {
       "fingerprint": "7e873339307d28bbde4fc045af450bc8a0e6f791f3f50dfb4824debf3c3c3819",
       "title": "Page not found » Jaxon.GG",
       "last_fetched": "2026-05-11T11:33:00Z",
       "status": 404,
-      "cache_note": "2026-05-11 verification fetch; target URL returned 404 page not found"
+      "cache_note": "2026-05-11 verification fetch; target URL returned 404 page not found",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-11T11:33:00Z"
     },
     "https://apps.apple.com/es/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "83cef1c4447c59f8dce69d82fff70450d8ef5aa0f5cea524afc004fbbadd46ab",
       "title": "App Foundation: Galactic Frontier - App Store (ES)",
       "last_fetched": "2026-05-12T11:43:11Z",
       "status": 200,
-      "cache_note": "2026-05-12 verification fetch; Spain App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+      "cache_note": "2026-05-12 verification fetch; Spain App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-12T11:43:11Z"
     },
     "https://apps.apple.com/it/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "83cef1c4447c59f8dce69d82fff70450d8ef5aa0f5cea524afc004fbbadd46ab",
       "title": "App Foundation: Galactic Frontier - App Store (IT)",
       "last_fetched": "2026-05-12T11:43:11Z",
       "status": 200,
-      "cache_note": "2026-05-12 verification fetch; Italy App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+      "cache_note": "2026-05-12 verification fetch; Italy App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-12T11:43:11Z"
     },
     "https://apps.apple.com/pt/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "83cef1c4447c59f8dce69d82fff70450d8ef5aa0f5cea524afc004fbbadd46ab",
       "title": "Foundation: Galactic Frontier - App Store (PT)",
       "last_fetched": "2026-05-12T11:43:11Z",
       "status": 200,
-      "cache_note": "2026-05-12 verification fetch; Portugal App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03"
+      "cache_note": "2026-05-12 verification fetch; Portugal App Store regional page repeats version 1.1.36 Tender Letters / Jodie Beart / Top 100 Galactic Traders / Paths to Dominance notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-12T11:43:11Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=hi": {
       "fingerprint": "de6f04c586d13a2efbc90a2d238fed446dc88b8970523201eeda636b96e8914f",
       "title": "Google Play raw HTML fallback",
       "last_fetched": "2026-05-12T11:43:11Z",
       "status": 200,
-      "cache_note": "2026-05-12 verification fetch; Hindi Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+      "cache_note": "2026-05-12 verification fetch; Hindi Google Play locale returned shell/raw HTML only, no usable What's new extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-12T11:43:11Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=es": {
       "fingerprint": "de6f04c586d13a2efbc90a2d238fed446dc88b8970523201eeda636b96e8914f",
       "title": "Google Play raw HTML fallback",
       "last_fetched": "2026-05-12T11:43:11Z",
       "status": 200,
-      "cache_note": "2026-05-12 verification fetch; Spanish Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+      "cache_note": "2026-05-12 verification fetch; Spanish Google Play locale returned shell/raw HTML only, no usable What's new extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-12T11:43:11Z"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=fr": {
       "fingerprint": "de6f04c586d13a2efbc90a2d238fed446dc88b8970523201eeda636b96e8914f",
       "title": "Google Play raw HTML fallback",
       "last_fetched": "2026-05-12T11:43:11Z",
       "status": 200,
-      "cache_note": "2026-05-12 verification fetch; French Google Play locale returned shell/raw HTML only, no usable What's new extracted"
+      "cache_note": "2026-05-12 verification fetch; French Google Play locale returned shell/raw HTML only, no usable What's new extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-12T11:43:11Z"
     },
     "https://mobi.gg/en/tips/foundation-galactic-frontier-tier-list/": {
       "fingerprint": "2490e2a3a500864d3a8defd943c7bf3224fa477b65a60958d6684490b5309a6e",
       "title": "Foundation: Galactic Frontier tier list (May 2026) - Mobi.gg",
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
-      "cache_note": "2026-05-13 first fetch; third-party tier list with stale 2025 update stamp and generic rankings only"
+      "cache_note": "2026-05-13 first fetch; third-party tier list with stale 2025 update stamp and generic rankings only",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-13T11:34:00Z"
     },
     "https://gamegeekfusion.com/foundation-galactic-frontier-tier-list/": {
       "fingerprint": "27b45759adceadc28440c2e73a965f32dd7b262e94b6f8d9b49d4f2fd8433b25",
       "title": "Foundation: Galactic Frontier Tier List (May 2026)",
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
-      "cache_note": "2026-05-13 first fetch; third-party tier list plus reroll advice, but no strong evidence or fresh patch linkage"
+      "cache_note": "2026-05-13 first fetch; third-party tier list plus reroll advice, but no strong evidence or fresh patch linkage",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-13T11:34:00Z"
     },
     "https://apkpure.net/foundation-galactic-frontier/com.games.foundation/download": {
       "fingerprint": "38d75b57e2e3d321a01282313fd74975d985e0caa7ba8bbf54a1f3240f227f18",
       "title": "Download Foundation: Galactic Frontier 1.1.36.... APK for Android",
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
-      "cache_note": "2026-05-13 first fetch; APK mirror repeats partial 1.1.36 notes already documented from official App Store sources"
+      "cache_note": "2026-05-13 first fetch; APK mirror repeats partial 1.1.36 notes already documented from official App Store sources",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-13T11:34:00Z"
     },
     "https://www.bluestacks.com/apps/strategy/foundation-on-pc.html": {
       "fingerprint": "65f9031bb52bc7ec8e49c049a14088af8164c4491568ea997769fb6c9c4605f3",
       "title": "Galactic Frontier on PC & Mac (Emulator)",
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
-      "cache_note": "2026-05-13 first fetch; emulator landing page that paraphrases known 1.1.36 update bullets"
+      "cache_note": "2026-05-13 first fetch; emulator landing page that paraphrases known 1.1.36 update bullets",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-13T11:34:00Z"
     },
     "https://apps.apple.com/ro/app/foundation-galactic-frontier/id6737595599?l=ro&platform=mac": {
       "fingerprint": "0a14e0126e3b2a0f1b3b94400ef22eaacdf681f736f595696ba13af63a1b3a68",
       "title": "Aplicația Foundation: Galactic Frontier - App Store",
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
-      "cache_note": "2026-05-13 verification fetch; Romania App Store Mac parameter page repeats version 1.1.36 notes already documented on 2026-05-03/12"
+      "cache_note": "2026-05-13 verification fetch; Romania App Store Mac parameter page repeats version 1.1.36 notes already documented on 2026-05-03/12",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-13T11:34:00Z"
     },
     "https://apps.apple.com/sb/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "0a14e0126e3b2a0f1b3b94400ef22eaacdf681f736f595696ba13af63a1b3a68",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
-      "cache_note": "2026-05-13 verification fetch; Solomon Islands App Store page repeats version 1.1.36 notes already documented on 2026-05-03/12"
+      "cache_note": "2026-05-13 verification fetch; Solomon Islands App Store page repeats version 1.1.36 notes already documented on 2026-05-03/12",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-13T11:34:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2032094259797750057": {
       "fingerprint": "0d9bc0248a8cd4103369c43e996f5a81f6b81b78e0c24812755149f0a8d8c6b3",
       "title": "x.com status error/fallback",
       "last_fetched": "2026-05-13T11:34:00Z",
       "status": 200,
-      "cache_note": "2026-05-13 verification fetch; direct fetch returned only Something went wrong fallback, no usable post body"
+      "cache_note": "2026-05-13 verification fetch; direct fetch returned only Something went wrong fallback, no usable post body",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-13T11:34:00Z"
     },
     "https://www.foundation.game/en/landing-pc": {
       "fingerprint": "1c9add0141d8c23a115c3c431e1898f3a947bd8ac9b9f4f546554962ccf0e127",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-14T11:32:00Z",
       "status": 200,
-      "cache_note": "2026-05-14 first fetch; official Windows landing page confirms Windows launch + Permanent Portrait Frame + accumulated sign-in rewards"
+      "cache_note": "2026-05-14 first fetch; official Windows landing page confirms Windows launch + Permanent Portrait Frame + accumulated sign-in rewards",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-14T11:32:00Z"
     },
     "https://www.foundation.game/en/landing-store": {
       "fingerprint": "eef9e9239896bcaf7b6e42f2d89016e26467e446e45a377b5cbddf77f85543c6",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-14T11:32:00Z",
       "status": 200,
-      "cache_note": "2026-05-14 first fetch; official store promo page only exposes Global Launch Celebration / Celebration Exclusive Value Pack / Weekly Perks names"
+      "cache_note": "2026-05-14 first fetch; official store promo page only exposes Global Launch Celebration / Celebration Exclusive Value Pack / Weekly Perks names",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-14T11:32:00Z"
     },
     "https://www.foundation.game/en/thetraderera": {
       "fingerprint": "99131ccfc58598e712c3ee0d0ffe93cfeeb0f4ac7c1ed980dfeda27a55d70f22",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-05-14T11:32:00Z",
       "status": 200,
-      "cache_note": "2026-05-14 first fetch; dated 2025-10-21 global launch trailer promo, no current player-facing increment"
+      "cache_note": "2026-05-14 first fetch; dated 2025-10-21 global launch trailer promo, no current player-facing increment",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-14T11:32:00Z"
     },
     "https://w.twstalker.com/FoundationGF_EN": {
       "fingerprint": "361f151ba7380c4ba04b9da77166decdf0936e5e39693a426c772c1dffeb030c",
@@ -1095,751 +1386,984 @@
       "last_checked": "2026-10-08T10:31:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
-      "probe_error": "Direct lightweight request returned HTTP 403 Cloudflare challenge; no stable body. Search-index content was not used to infer change."
+      "probe_error": "Direct lightweight request returned HTTP 403 Cloudflare challenge; no stable body. Search-index content was not used to infer change.",
+      "fingerprint_algorithm": "sha256"
     },
     "https://apps.apple.com/jm/app/foundation-galactic-frontier/id6737595599": {
       "fingerprint": "3f60fe622ca1ece90fbb19b97704047d6fd03d5f4ee14bc227df9e8985ead28b",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-15T11:36:00Z",
       "status": 200,
-      "cache_note": "2026-05-15 verification fetch; Jamaica App Store page repeats version 1.1.36 notes already documented on 2026-05-03"
+      "cache_note": "2026-05-15 verification fetch; Jamaica App Store page repeats version 1.1.36 notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-15T11:36:00Z"
     },
     "https://apps.apple.com/pt/app/foundation-galactic-frontier/id6737595599?l=en-GB": {
       "fingerprint": "39dea2bdb4129254a44963b97c2470c7ef765c2c9ba38d6ded06b269b7442368",
       "title": "Foundation: Galactic Frontier App - App Store",
       "last_fetched": "2026-05-15T11:36:00Z",
       "status": 200,
-      "cache_note": "2026-05-15 verification fetch; Portugal App Store page repeats version 1.1.36 notes already documented on 2026-05-03"
+      "cache_note": "2026-05-15 verification fetch; Portugal App Store page repeats version 1.1.36 notes already documented on 2026-05-03",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-15T11:36:00Z"
     },
     "https://gamewith.jp/foundation-gf/551336": {
       "fingerprint": "7dacb80730ba3600b8f55b1de7df3ac41d822d2a3d7044fe634295b213f57496",
       "title": "GameWith codes list: MOTHERDAY26 rewards + NEWFRONTIER + GALAXYTHANKS",
       "last_fetched": "2026-05-16T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-16T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/555868": {
       "fingerprint": "5123175636b446cb83cd5889ba743a717ed9d8ef88a9afe45f83fe045ec3f7f9",
       "title": "GameWith maintenance page: May 12 maintenance timing only",
       "last_fetched": "2026-05-16T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-16T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/560409": {
       "fingerprint": "d3ca499df9dc97dc8bcf4fd3c2251b740f1a679746845ff187eb6d614cc40294",
       "title": "【ファウンデーション】情報データの集め方と使い道【銀河フロンティア】",
       "last_fetched": "2026-05-17T11:33:26Z",
       "status": 200,
-      "cache_note": "GameWith guide; Info Data sources and spending route"
+      "cache_note": "GameWith guide; Info Data sources and spending route",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-17T11:33:26Z"
     },
     "https://gamewith.jp/foundation-gf/555613": {
       "fingerprint": "586b765848df3d14597d75054b9ec16bcccce279ff7b3ad5db7678d94bbd4cb5",
       "title": "【ファウンデーション】クルーの入手方法と強化のやり方【銀河フロンティア】",
       "last_fetched": "2026-05-17T11:33:26Z",
       "status": 200,
-      "cache_note": "GameWith guide; Crew unlocks, assignment, Echo Hub growth"
+      "cache_note": "GameWith guide; Crew unlocks, assignment, Echo Hub growth",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-17T11:33:26Z"
     },
     "https://gamewith.jp/foundation-gf/560318": {
       "fingerprint": "c7d4aa0d9b870d8bf21e977cb0d6562e79e20251bca1d5a7db5660cd5495fd7b",
       "title": "【ファウンデーション】温もりの手紙イベントのやり方と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-17T11:33:26Z",
       "status": 200,
-      "cache_note": "GameWith event guide; expired by 2026-05-17"
+      "cache_note": "GameWith event guide; expired by 2026-05-17",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-17T11:33:26Z"
     },
     "https://gamewith.jp/foundation-gf": {
       "fingerprint": "8363267ad494d198da16fd90057dd644dc02627d38013a5324222bf5286578bc",
       "title": "ファウンデーション攻略｜ファウンデーション：銀河フロンティア - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-18T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/560217": {
       "fingerprint": "7913db1f3c7bfff061b5081a4092b13399cee16754129af4d2d13452095d2db6",
       "title": "【ファウンデーション】宇宙でできること｜惑星と恒星の違い【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-18T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/560292": {
       "fingerprint": "8268fbbb7582af80caa9c29c4f4e11ca239619f49d757f95f1a3dd30cac96c22",
       "title": "【ファウンデーション】母港の設定方法とメリット【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-18T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/560970": {
       "fingerprint": "4812045dc36311f8499d35c5c7872dbd4bbdcde4b73428e155c9b07a94f29626",
       "title": "【ファウンデーション】ワープのやり方とメリット【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-18T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/559714": {
       "fingerprint": "f63acf7f88adbe476d3efff7456e2804d209ff3bea6783ba779ce1fb82476466",
       "title": "【ファウンデーション】スペース・エンカウンターの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-18T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/559169": {
       "fingerprint": "3c11fb9e5329ab97c85d9692e36fc53ee2f4f13e217711178399738ce69c118c",
       "title": "【ファウンデーション】指揮値の効果と上げ方【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-18T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/555661": {
       "fingerprint": "1bc91be83b43920a3472b816229ee275c669b7fcd9fa263bcebba510e4fedc21",
       "title": "【ファウンデーション】エコーハブの強化方法【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-18T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-18T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/549993": {
       "fingerprint": "27f0c27884d90bb16cd2699ee3a4337420d24617ef4f544dca48dca461c690ba",
       "title": "【ファウンデーション】ショップのおすすめアイテム【銀河フロンティア】",
       "last_fetched": "2026-05-19T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-19T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/550629": {
       "fingerprint": "9b60f245ba3c207c8c2b4f1ab0c35a3ab67a75849fc45afb64d403b5a6a03aeb",
       "title": "【ファウンデーション】戦功の集め方とPvPの注意点【銀河フロンティア】",
       "last_fetched": "2026-05-19T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-19T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/550688": {
       "fingerprint": "19803617ba6c4de3484cd20ec7f4dd1554a4b769e9c04c521a2e8c934a30762a",
       "title": "【ファウンデーション】戦力マイルストーンの概要と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-19T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-19T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/551967": {
       "fingerprint": "7ff6587483510578b5a06e4e6e4cb3f6097ca5bb5280689d28c121f506de6cf2",
       "title": "【ファウンデーション】集結のやり方と参加方法【銀河フロンティア】",
       "last_fetched": "2026-05-19T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-19T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/552189": {
       "fingerprint": "1a52bd9f5a572cf33176ddb8e6988816adb402e48b35f582fd2ccfec241ee1b7",
       "title": "【ファウンデーション】行商人ネットワーク(行商人依頼)のやり方と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-19T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-19T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/554118": {
       "fingerprint": "e7160a55273fb54c52508a9b12d7b103d32f14c859c9c8469e4bb394f77d9032",
       "title": "【ファウンデーション】交易航路のやり方と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-19T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-19T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/549816": {
       "fingerprint": "8f167a19b73a1cd9df0926852623e8bcfd5c4a3de04343b95d5b27cc3cf026ad",
       "title": "【ファウンデーション】戦闘機の作成方法【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-20T11:31:24Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-20T11:31:24Z"
     },
     "https://gamewith.jp/foundation-gf/549886": {
       "fingerprint": "f4a6da70b2e1f2658e970d296cb7a14095cfd2c63c975b700c3e806e83ea7bc4",
       "title": "【ファウンデーション】取り返しのつかない要素【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-20T11:31:24Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-20T11:31:24Z"
     },
     "https://gamewith.jp/foundation-gf/552995": {
       "fingerprint": "1c04a1ac82039bb013e4e3d40fbd7a06f939ff8f194e258d230847953f7d0e63",
       "title": "【ファウンデーション】惑星占領のやり方とメリット【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-20T11:31:24Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-20T11:31:24Z"
     },
     "https://gamewith.jp/foundation-gf/553399": {
       "fingerprint": "a97aa2bec82ca0650f81bee1f537088d224a33475499409e362665b8d43758c8",
       "title": "【ファウンデーション】献納船の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-20T11:31:24Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-20T11:31:24Z"
     },
     "https://gamewith.jp/foundation-gf/556660": {
       "fingerprint": "90f7c7d34e26cbb69bed9860c9a896f9f825ef7b5cb2e3a28c7f6903c7cb013e",
       "title": "【ファウンデーション】トレーダーエラの確認方法と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-20T11:31:24Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-20T11:31:24Z"
     },
     "https://gamewith.jp/foundation-gf/560969": {
       "fingerprint": "f82557b3fea4f151fde75374ccb70d818dbd594b0c8f8a62eac57bf4b8c737e7",
       "title": "【ファウンデーション】ギルド対決の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-20T11:31:24Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-20T11:31:24Z"
     },
     "https://gamewith.jp/foundation-gf/546985": {
       "fingerprint": "03a1580f41d7f47a3f081ccd326312c5e17f9c3a910b0445be37d1528b6105fb",
       "title": "【ファウンデーション】序盤の効率的な進め方【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-21T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-21T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/546989": {
       "fingerprint": "6a7e9ba11ddb2c4c51238248cb9918a8fa1c37f857c6780bee869b190a4bf73d",
       "title": "【ファウンデーション】旗艦の解放条件・入手方法【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-21T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-21T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/548513": {
       "fingerprint": "fad2e05cfbbcf0ec88b70fecdaa19f2eab15507d5fe1326504850625d5cfce3c",
       "title": "【ファウンデーション】母艦(マザーシップ)施設の開発優先度まとめ【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-21T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-21T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/546983": {
       "fingerprint": "c4fe9a6a1a53cff90910d595ff18f69180f820b4eb64d6cebc7aa8a44b172e2e",
       "title": "【ファウンデーション】毎日やるべきことまとめ【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-21T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-21T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/559315": {
       "fingerprint": "5a17f5a1492352b873d2c8aa0a22e44985048b9438a6dd9f21ea2e6a28e6ab47",
       "title": "【ファウンデーション】ギルドチケットの集め方と使い道【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-21T11:30:00Z",
       "status": 200,
-      "cache_note": "readability returned only boilerplate; no usable body extracted"
+      "cache_note": "readability returned only boilerplate; no usable body extracted",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-21T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/547013": {
       "fingerprint": "469fa1de9fec54a20543d9e71696c46b08493e140ab2b82caa34e2bb9878263f",
       "title": "【ファウンデーション】旗艦パーツの入手方法と装備のやり方【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-21T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-21T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/561370": {
       "fingerprint": "fe21d68e1aab8de594d3df26513b408df59f3ba039b3cb2508bad0c501be1284",
       "title": "【ファウンデーション】クライムハントの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/555472": {
       "fingerprint": "8c9bf2d4a494a1b5d037f54b78051446c8ed59bc8ba3ff0027784cdb729f1a95",
       "title": "【ファウンデーション】栄光アリーナの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/552844": {
       "fingerprint": "fafa2ed7ef3184954fd7c7671d8a5f72e6ed6f242f0783a405e89475775aea07",
       "title": "【ファウンデーション】レイディアントの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/553073": {
       "fingerprint": "01db385d2a7f0098d7d5a60986c9ed1ba1394d9ec79b8a04f7b507aebad4559b",
       "title": "【ファウンデーション】至高の尖兵の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/552105": {
       "fingerprint": "eeb3cf75a03a6e8f14bb15b6a5eff80a0574aa7eec382fc27e6db40dfaf48bdb",
       "title": "【ファウンデーション】アップデート最新情報まとめ【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/560763": {
       "fingerprint": "5cbb2c42f86eac2b1f98e78904d1c792c4cd86d3e148134134badf96850fc7ff",
       "title": "【ファウンデーション】クルー一覧【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/559872": {
       "fingerprint": "1c8a2ba7c6dbb0823ebeb2a4dedb47bb0471a7a9fafb6b6d56f8ff43f685d300",
       "title": "【ファウンデーション】栄光コインの集め方と使い道【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
       "status": 200,
-      "cache_note": "正文抽取失败 / boilerplate only"
+      "cache_note": "正文抽取失败 / boilerplate only",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/559863": {
       "fingerprint": "9bb2e93c4ba435a4dba7e7bd158f7c160f600c85ccae6b73f4ed86a4c2a6f3b7",
       "title": "【ファウンデーション】旗艦一覧【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-22T11:32:00Z",
       "status": 200,
-      "cache_note": "正文抽取失败 / boilerplate only"
+      "cache_note": "正文抽取失败 / boilerplate only",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-22T11:32:00Z"
     },
     "https://gamewith.jp/foundation-gf/549880": {
       "fingerprint": "897304327353b6096837bf14d2e6876422341f536c95f379e2265feba2914066",
       "title": "【ファウンデーション】旗艦の昇格方法とメリット【銀河フロンティア】",
       "last_fetched": "2026-05-23T11:33:29Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-23T11:33:29Z"
     },
     "https://gamewith.jp/foundation-gf/548933": {
       "fingerprint": "a275f5d49d99f0985aecd5eb915ba030ac440e147a4b62eecd82cf988935eb36",
       "title": "【ファウンデーション】戦闘機の修理方法【銀河フロンティア】",
       "last_fetched": "2026-05-23T11:33:29Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-23T11:33:29Z"
     },
     "https://gamewith.jp/foundation-gf/551484": {
       "fingerprint": "1665637da3273c181c0bdf7d99844ae9757d95d5e107c0dd81de67b4023a3383",
       "title": "【ファウンデーション】イベント一覧｜最新情報まとめ【銀河フロンティア】",
       "last_fetched": "2026-05-23T11:33:29Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-23T11:33:29Z"
     },
     "https://gamewith.jp/foundation-gf/557907": {
       "fingerprint": "0220251a794fa9a4629138ea15c7284dadbcd45b89127f4550fb5ab95092cddb",
       "title": "【ファウンデーション】実弾型のキャラ一覧【銀河フロンティア】",
       "last_fetched": "2026-05-23T11:33:29Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-23T11:33:29Z"
     },
     "https://gamewith.jp/foundation-gf/558007": {
       "fingerprint": "2b70d54c2bc5cc5845dc42e6bd5e3d0db530126324105ab859f0a79e1cef2c31",
       "title": "【ファウンデーション】スキンの変え方と入手方法【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/547641": {
       "fingerprint": "baad3a8444970f84a99ee128ac9973edc0bf018105818cd8ddfe2756fe9f9f54",
       "title": "【ファウンデーション】ギルドの入り方とメリット【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/547373": {
       "fingerprint": "e438b82e3cc5ddec1a5b42f1939ec9b504ce1efc6f521342af2c8fc028737022",
       "title": "【ファウンデーション】メインクエストの進め方【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/550570": {
       "fingerprint": "7aa2b62f15c62a56208dd0db71b47229c922501491706bf72f6840cd70ad2cb1",
       "title": "【ファウンデーション】ロールの種類と役割【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/555571": {
       "fingerprint": "fd49fa7c16170fa6d82e96f5ef1982f21cc2885eecb0ced0132d2aaa1dfd0cad",
       "title": "【ファウンデーション】ガチャ(募集)一覧【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/549002": {
       "fingerprint": "c726b8fad72363f614b8c06aa60a55b57cc151a7c72befada6f30854e0d82ca8",
       "title": "【ファウンデーション】名前(ユーザー名)の変更方法【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/546990": {
       "fingerprint": "7f8e3b41050b8f9ed450e3f75bd36c6241aeba20208b3e402c7971f7ebe81539",
       "title": "【ファウンデーション】おすすめ設定と変更方法【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/548992": {
       "fingerprint": "db1550c0f1c82e04456ab58e89788e245c6ed6b570307d55160b3c9dea8b591b",
       "title": "【ファウンデーション】電力システムの仕組みと状態まとめ【銀河フロンティア】",
       "last_fetched": "2026-05-24T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-24T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/561655": {
       "fingerprint": "2d93b0450da7df713faf153a7771623bc26b9be5d8260e04d6c6254a74ae6b6a",
       "title": "【ファウンデーション】ロボット大爆発の攻略と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-25T11:31:40Z",
       "status": 200,
-      "cache_note": "Robot Explosion: 5-minute/100 robots, attacker team, energy pickups, merit/training/resource rewards"
+      "cache_note": "Robot Explosion: 5-minute/100 robots, attacker team, energy pickups, merit/training/resource rewards",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-25T11:31:40Z"
     },
     "https://gamewith.jp/foundation-gf/556691": {
       "fingerprint": "4bbcc8b082d892144fffd7adbda745df0282bef6aff677892d6bd0cc5b34128c",
       "title": "【ファウンデーション】救済方舟の攻略と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-25T11:31:40Z",
       "status": 200,
-      "cache_note": "Rescue Ark: Crime Hunt target, Agent Signal odds, rally rewards and daily reward caps"
+      "cache_note": "Rescue Ark: Crime Hunt target, Agent Signal odds, rally rewards and daily reward caps",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-25T11:31:40Z"
     },
     "https://gamewith.jp/foundation-gf/556129": {
       "fingerprint": "0e5333230be94d799e0ff284ff09f2f0790f73866fd794a60615a7b4bf83b3bf",
       "title": "【ファウンデーション】至高祈祷艦の攻略と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-25T11:31:40Z",
       "status": 200,
-      "cache_note": "Supreme Prayer Ship: Atonement Harbor, request support, 3 daily rewards, Black Card +1"
+      "cache_note": "Supreme Prayer Ship: Atonement Harbor, request support, 3 daily rewards, Black Card +1",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-25T11:31:40Z"
     },
     "https://gamewith.jp/foundation-gf/553271": {
       "fingerprint": "91775ecaf7e6192d57447f80b92676a157c0a6a7043bc111eb5904526177af17",
       "title": "【ファウンデーション】カラミティ降臨の攻略と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-25T11:31:40Z",
       "status": 200,
-      "cache_note": "Calamity boss: wormhole locate, all fleets attack, repair uptime, damage thresholds, 3/5 kill rewards, 5 daily normal loot cap"
+      "cache_note": "Calamity boss: wormhole locate, all fleets attack, repair uptime, damage thresholds, 3/5 kill rewards, 5 daily normal loot cap",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-25T11:31:40Z"
     },
     "https://gamewith.jp/foundation-gf/550092": {
       "fingerprint": "5db11e283687b2841882b66d70ed73136f597600f4cbef57c6b1a11dff92589a",
       "title": "【ファウンデーション】おすすめ課金アイテム【銀河フロンティア】",
       "last_fetched": "2026-05-25T11:31:40Z",
       "status": 200,
-      "cache_note": "Spending guide: first purchase, monthly/weekly pass, beginner premium, hero pass, credits, counterattack fund, black card"
+      "cache_note": "Spending guide: first purchase, monthly/weekly pass, beginner premium, hero pass, credits, counterattack fund, black card",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-25T11:31:40Z"
     },
     "https://gamewith.jp/foundation-gf/546987": {
       "fingerprint": "0e42f6293bb99d86f37e9dc4e3c5eaf149b204615ae725716341aa0806e882eb",
       "title": "【ファウンデーション】キャラ(ヒーロー)の入手方法・解放のやり方【銀河フロンティア】",
       "last_fetched": "2026-05-25T11:31:40Z",
       "status": 200,
-      "cache_note": "Hero acquisition: Chapter 4 recruitment, Voyage Memory sources, limited recruitment separation, shard unlock rules, non-gacha hero sources"
+      "cache_note": "Hero acquisition: Chapter 4 recruitment, Voyage Memory sources, limited recruitment separation, shard unlock rules, non-gacha hero sources",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-25T11:31:40Z"
     },
     "https://gamewith.jp/foundation-gf/551471": {
       "fingerprint": "cb9d4f90b0073c40638f44316574363f991e016d75fa92ee74128ed1f0432834",
       "title": "【ファウンデーション】事前登録の報酬と受け取り方【銀河フロンティア】",
       "last_fetched": "2026-05-25T11:31:40Z",
       "status": 200,
-      "cache_note": "Pre-registration rewards page extraction returned only editorial/copyright boilerplate; no usable body"
+      "cache_note": "Pre-registration rewards page extraction returned only editorial/copyright boilerplate; no usable body",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-25T11:31:40Z"
     },
     "https://gamewith.jp/foundation-gf/547685": {
       "fingerprint": "3cc7d201cddf97abbe827c79d19d4e7d7b832959d5d7b1ee508b86cb10223ac1",
       "title": "【ファウンデーション】戦闘の基本とテクニック【銀河フロンティア】",
       "last_fetched": "2026-05-26T11:30:00Z",
       "status": 200,
-      "cache_note": "Combat basics: space vs ground battle, left-to-right skill order, non-boss target priority, red-circle dodge"
+      "cache_note": "Combat basics: space vs ground battle, left-to-right skill order, non-boss target priority, red-circle dodge",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-26T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/548230": {
       "fingerprint": "d27f496865087cae060d1cefe56faaee25267f28f4a87e191bb0b2b89b6ca924",
       "title": "【ファウンデーション】型(スタイル)の解説と相性【銀河フロンティア】",
       "last_fetched": "2026-05-26T11:30:00Z",
       "status": 200,
-      "cache_note": "Style counters: space battle only, Kinetic/Ion/Beam triangle, 2/3-hero energy resonance bonuses"
+      "cache_note": "Style counters: space battle only, Kinetic/Ion/Beam triangle, 2/3-hero energy resonance bonuses",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-26T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/546994": {
       "fingerprint": "3fc96c806161ebd5a90424e75088ebd0e60338fbdec059bcfc2189c6801ab812",
       "title": "【ファウンデーション】アカウント連携と引き継ぎのやり方【銀河フロンティア】",
       "last_fetched": "2026-05-26T11:30:00Z",
       "status": 200,
-      "cache_note": "Account linking: settings path, supported providers, account switch flow, multi-bind recommendation"
+      "cache_note": "Account linking: settings path, supported providers, account switch flow, multi-bind recommendation",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-26T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/546986": {
       "fingerprint": "cebfc2254e7cd71dc3681032a4fb8752bd73e49a7931ee32a2daa866f494f2cf",
       "title": "【ファウンデーション】マップアイコンの見方まとめ【銀河フロンティア】",
       "last_fetched": "2026-05-26T11:30:00Z",
       "status": 200,
-      "cache_note": "Map icons: direct pickup vs travel nodes, planet/internal icon meanings, clear non-boss nodes first"
+      "cache_note": "Map icons: direct pickup vs travel nodes, planet/internal icon meanings, clear non-boss nodes first",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-26T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/555335": {
       "fingerprint": "09c1744fd67ab32985f344f8b77fb6717fc4e308e7efd4b0528230fe5bd37213",
       "title": "【ファウンデーション】遺跡レイダーズのやり方と報酬【銀河フロンティア】",
       "last_fetched": "2026-05-26T11:30:00Z",
       "status": 200,
-      "cache_note": "Ruins Raiders: Energy Core Lv.13 unlock, parallel excavation, 4 raids/day, 50% integrity floor, 25% resource raid"
+      "cache_note": "Ruins Raiders: Energy Core Lv.13 unlock, parallel excavation, 4 raids/day, 50% integrity floor, 25% resource raid",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-26T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/547633": {
       "fingerprint": "2c9cb5d0cded7a9cb25dba0878a334c98a1f82c88b5349d9043f30cec8e6207b",
       "title": "【ファウンデーション】資源(リソース)の集め方と使い道【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/549325": {
       "fingerprint": "6001812fab77e4d3b5ea803d68462fbaae9fcf41f3673d8c54f2c21831d8d39c",
       "title": "【ファウンデーション】行動力(AP)の増やし方と使い道【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/548998": {
       "fingerprint": "ed68b1ca58078c1f8926b8c437096dd0a202d6bd4a53fbaa3b555c3ee6103df1",
       "title": "【ファウンデーション】修理モジュールの集め方と使い道【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/548769": {
       "fingerprint": "715958108c6e5e51b07fde1138e94fd833610f30231eba2010a04d23e354aba2",
       "title": "【ファウンデーション】食料の集め方と使い道【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/548981": {
       "fingerprint": "311c60dd8641647ac58e36cc8a5aa78c1e7a922ebf40bce3df8c5eb657e5123c",
       "title": "【ファウンデーション】ギャラクシーコインの効率の良い集め方【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/548799": {
       "fingerprint": "e66fa38fe2d71cf7838ca1ef2b9faac7830db45b9770fea951d5c1943859a35a",
       "title": "【ファウンデーション】金属の集め方と使い道【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/546995": {
       "fingerprint": "3b2515162deb6a4f3607b061a22bf4067e990b8683d2df5d371f499f819f446e",
       "title": "【ファウンデーション】戦闘力の上げ方｜強化方法まとめ【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/547012": {
       "fingerprint": "c6bfffa930f7e8ca9b1b9d96fff110c59021a4d3d1ff49b882ed942b357c336d",
       "title": "【ファウンデーション】旗艦のレベルの上げ方【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-05-27T11:32:30Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-27T11:32:30Z"
     },
     "https://gamewith.jp/foundation-gf/": {
       "fingerprint": "2282a41d4d3239b4263348bdcdca3541eccf1c413ae7090b6b1a25e07fc48cd4",
       "title": "ファウンデーション攻略｜ファウンデーション：銀河フロンティア - ゲームウィズ",
       "last_fetched": "2026-05-30T11:35:17Z",
       "status": 200,
-      "cache_note": "hub/navigation-heavy; latest info index"
+      "cache_note": "hub/navigation-heavy; latest info index",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-30T11:35:17Z"
     },
     "https://www.packsify.com/blogs/foundation-galactic-frontier-flagship-formation-guide": {
       "fingerprint": "faa759752d983e878140461535e695123a673c17ec2cc14690476f6ebe95c994",
       "title": "FGF Flagship Formation Guide: Beam, Ion & Kinetic (2026)",
       "last_fetched": "2026-05-30T11:35:17Z",
       "status": 200,
-      "cache_note": "formation guide; marketing-heavy whale-targeted content"
+      "cache_note": "formation guide; marketing-heavy whale-targeted content",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-05-30T11:35:17Z"
     },
     "https://gamewith.jp/foundation-gf/556407": {
       "fingerprint": "04c9a6e7df3a28588436ed56775cdbe63a9b8d46c7fd947487983877adf8442c",
       "title": "【ファウンデーション】おすすめの最強編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-04T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-04T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/562333": {
       "fingerprint": "97395fe8c6605021eb03fcec7c83625bd936105f7cdb9b903d83c1e3a5d2ba39",
       "title": "【ファウンデーション】名声PTの上げ方【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-05T11:30:00Z",
       "status": 200,
-      "cache_note": "GameWith guide; reputation points check path, Trader Era tab switch, and daily chest bonus link"
+      "cache_note": "GameWith guide; reputation points check path, Trader Era tab switch, and daily chest bonus link",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-05T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/549206": {
       "fingerprint": "1af710463abea5504c396d7389c940e591018633b37b82a97442b5c1a8c74d9b",
       "title": "【ファウンデーション】ゾラ・ドミニの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-05T11:30:00Z",
       "status": 200,
-      "cache_note": "GameWith guide; Zora Domini team comps, upgrade order, and awakening breakpoints"
+      "cache_note": "GameWith guide; Zora Domini team comps, upgrade order, and awakening breakpoints",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-05T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/551356": {
       "fingerprint": "d1733431c42dc0eb9829fec3f21e99e89afe375cd55ed1d3429c8b75b089dd16",
       "title": "【ファウンデーション】武器の選び方と入手方法【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-05T11:30:00Z",
       "status": 200,
-      "cache_note": "GameWith guide; weapon acquisition and synthesis details, but largely overlaps existing docs"
+      "cache_note": "GameWith guide; weapon acquisition and synthesis details, but largely overlaps existing docs",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-05T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/560335": {
       "fingerprint": "0c1a122bd6a41489886ec6e2585571bc3e6770bf4cf4e820e885732d9c29766d",
       "title": "【ファウンデーション】シャドウフロントの攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-05T11:30:00Z",
       "status": 200,
-      "cache_note": "GameWith guide; Shadowfront rewards and vault rules, but overlaps existing event docs"
+      "cache_note": "GameWith guide; Shadowfront rewards and vault rules, but overlaps existing event docs",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-05T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/550594": {
       "fingerprint": "1f85ce39d535443c17270689987bcd7f99b8610b1e44fcd6ea1821cdc2903096",
       "title": "【ファウンデーション】艦隊評価の上げ方と確認方法【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-05T11:30:00Z",
       "status": 200,
-      "cache_note": "GameWith guide; fleet rating explanation, but mostly overlaps current flagship and PvP docs"
+      "cache_note": "GameWith guide; fleet rating explanation, but mostly overlaps current flagship and PvP docs",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-05T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/546988": {
       "fingerprint": "895a2c235d69aab4d752ffb0add7e4375701418e746254e42ab2b46218e7d91a",
       "title": "【ファウンデーション】勝てないときにやるべきこと【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-05T11:30:00Z",
       "status": 200,
-      "cache_note": "GameWith guide; fail-state checklist, but overlaps current basics/PvE docs"
+      "cache_note": "GameWith guide; fail-state checklist, but overlaps current basics/PvE docs",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-05T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/547010": {
       "fingerprint": "6a60eaba0ca8510631785ade239e372ac66ab528bf8cac6b5d2d25142d9a9919",
       "title": "【ファウンデーション】旗艦(フラッグシップ)の強化方法まとめ【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/560720": {
       "fingerprint": "44f4e7de4c3ee4e01c20dc9f67841c5610f3ee11be23fd88919507cf4c10ba6f",
       "title": "【ファウンデーション】貨物室の効果と解放条件【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/549210": {
       "fingerprint": "04b0e7aa280ebd297a89169eeffab9ff464d95cca0d1286781993f6ecdd18357",
       "title": "【ファウンデーション】キラービーの評価とスキル【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/549204": {
       "fingerprint": "bb1c60567b1dc7bbece7bfe610df8528d7ca7c8bb786f9e6214baa04f364ce21",
       "title": "【ファウンデーション】エヴァ・フォン・トリアーの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/549208": {
       "fingerprint": "573a0f30b50d7ec72ba36b40e97174c191c0bcc7a347fd03a6971a00620530ed",
       "title": "【ファウンデーション】リリーの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/549209": {
       "fingerprint": "3ff39d670784b080976bbb9a88ac1b179057ad856a3c0b246b509ac4135638c4",
       "title": "【ファウンデーション】エヴァン・ロジャースの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/549203": {
       "fingerprint": "d9bd17b7f740e507f23baa96c57cfa1d5bef964a757506638a5298c3f2535850",
       "title": "【ファウンデーション】コクーンの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/549490": {
       "fingerprint": "93c57a5a9b12679be108f4e578fc0df4c6f58f3de6345f7b43dc9e8c637cbbb6",
       "title": "【ファウンデーション】リセマラは不要！しなくていい理由を解説【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/552893": {
       "fingerprint": "e5d0fd4aec8a778a7a078c9619c2f6bf5ccfd61645f001e6b1405c4b14a55ab0",
       "title": "【ファウンデーション】反攻作戦の攻略と報酬【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-07T11:30:00.000Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-07T11:30:00.000Z"
     },
     "https://gamewith.jp/foundation-gf/549345": {
       "fingerprint": "d8d0b30f5cf66030db23df31aee832c7c43949623c448f930460aef5dfb04eef",
       "title": "【ファウンデーション】最強キャラランキング・Tier表【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-10T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-10T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/549207": {
       "fingerprint": "e282ff81e36c4d4fab01a54f5a434e2733e9b8057feed68f1a1a953b001a510c",
       "title": "【ファウンデーション】天音樹里の評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-10T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-10T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/549205": {
       "fingerprint": "e317fc5d6097a3cd413f00fd1ce5435de7f1499b0c7eab4261d9e4d0eba6c38a",
       "title": "【ファウンデーション】アリーヤの評価とスキル・おすすめパーティ編成【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-10T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-10T11:30:00Z"
     },
     "https://gamewith.jp/foundation-gf/546998": {
       "fingerprint": "0eeea0761d84e01840fb39c3d4dd5c96fe0b0c5a9966f04b85f623563a9292fa",
       "title": "【ファウンデーション】星ランクの上げ方とメリット【銀河フロンティア】 - ゲームウィズ",
       "last_fetched": "2026-06-10T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-10T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6760339421": {
       "fingerprint": "85fb4f8b39e040c378c79addc64ef4995355854942be8a1da9f5c062c14c5ac7",
       "title": "Foundation: Galactic Frontier - App Store (Special Event)",
       "last_fetched": "2026-06-28T11:30:00Z",
       "status": 200,
-      "cache_note": "search snippet only; Star of the Guild event card"
+      "cache_note": "search snippet only; Star of the Guild event card",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-28T11:30:00Z"
     },
     "https://apps.apple.com/us/app/foundation-galactic-frontier/id6737595599?eventid=6769331900": {
       "fingerprint": "26f18f760d55d3077aef208390846ae5ef499028fdc9c512ee74a28e480feefb",
       "title": "Foundation: Galactic Frontier - App Store (Major Update)",
       "last_fetched": "2026-06-28T11:30:00Z",
       "status": 200,
-      "cache_note": "search snippet only; Appearance Store update card"
+      "cache_note": "search snippet only; Appearance Store update card",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-28T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2058171090871144547": {
       "fingerprint": "5d0191ea60fd96c33f3721a1b9fa65b6afc8ca7a91bf6099ba036ed24ebdebd2",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-06-28T11:30:00Z",
       "status": 200,
-      "cache_note": "search snippet only; feedback board update post"
+      "cache_note": "search snippet only; feedback board update post",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-28T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2067230793341001979": {
       "fingerprint": "3a23046c938f6e09abe42913a1e555b80384749caba9a7adf7c1e4522c5315e9",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-06-28T11:30:00Z",
       "status": 200,
-      "cache_note": "search snippet only; creative answers reward post"
+      "cache_note": "search snippet only; creative answers reward post",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-28T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2068317952609563023": {
       "fingerprint": "7fb636cb23562b85f7aa2d2ea2dd3e8e7eaefffc5eeeebb4876866a4739e01c2",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-06-28T11:30:00Z",
       "status": 200,
-      "cache_note": "search snippet only; community engagement prompt"
+      "cache_note": "search snippet only; community engagement prompt",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-06-28T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2071564341468610610": {
       "fingerprint": "26af4709b429d0622d3dc2ce2331828608a5f5c9d6587b2263f7a41c06a4bef9",
       "title": "Official X maintenance notice: Guild Duel League test, Event Calendar, Appearance Shop, Favorites",
       "last_fetched": "2026-07-03T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-07-03 official X note-tweet fetched; Guild Duel League 1-month test + 6-month season + League Rank + Rank Progress Points + Event Calendar + Appearance Shop + Favorites"
+      "cache_note": "2026-07-03 official X note-tweet fetched; Guild Duel League 1-month test + 6-month season + League Rank + Rank Progress Points + Event Calendar + Appearance Shop + Favorites",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-03T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2072666607160119316": {
       "fingerprint": "3deeee13057b1fe790d54d32aca859b1eaa87fc65298135e677ad12d7af561ed",
       "title": "Official X roadmap checkpoint: Server Transfer, Season 2 priorities, GALAXYWITHYOU code",
       "last_fetched": "2026-07-03T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-07-03 official X note-tweet fetched; roadmap checkpoint issue 2 + Server Transfer rollout + United Frontline refinement + Season 2 priority + GALAXYWITHYOU code"
+      "cache_note": "2026-07-03 official X note-tweet fetched; roadmap checkpoint issue 2 + Server Transfer rollout + United Frontline refinement + Season 2 priority + GALAXYWITHYOU code",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-03T11:30:00Z"
     },
     "https://www.facebook.com/FoundationGalacticFrontier/posts/-galaxy-progress-checkpoint-issue-2-is-here-the-quarterly-developer-roadmap-is-s/122256742694252135/": {
       "fingerprint": "c73298eca2ad20f584ba9a85cfc897b271124aea13cb3f6cbc4fe5a9cd4329cd",
       "title": "Official Facebook roadmap checkpoint: Galaxy Progress Checkpoint Issue 2",
       "last_fetched": "2026-07-03T11:30:00Z",
       "status": 200,
-      "cache_note": "2026-07-03 Facebook og metadata fetched as title/description corroboration for roadmap checkpoint issue 2"
+      "cache_note": "2026-07-03 Facebook og metadata fetched as title/description corroboration for roadmap checkpoint issue 2",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-03T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2068680336595193982": {
       "fingerprint": "00de039586dad75388f119d0e899dec0397bc599549c50d18def2ccb5487d7a4",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-04T11:30:00Z",
       "status": 200,
-      "cache_note": "official X full text extracted; Star of the Guild qualification and reward structure"
+      "cache_note": "official X full text extracted; Star of the Guild qualification and reward structure",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-04T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2071926727228502469": {
       "fingerprint": "908a6aab23ab7f8a1a121b31217d52386fcd00748de19ed1bc699bad9d45cff7",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-04T11:30:00Z",
       "status": 200,
-      "cache_note": "official X full text extracted; Interstellar Migration July 7-13 schedule for Servers 1089-1120"
+      "cache_note": "official X full text extracted; Interstellar Migration July 7-13 schedule for Servers 1089-1120",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-04T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2073415282929106991": {
       "fingerprint": "e72928f700a9d39ea6ebe741c670948557d3d199e0ce74623492e2ee61c5027c",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-05T11:30:00Z",
       "status": 200,
-      "cache_note": "official X search snippet only; Guild Duel League explainer with July 6 test start, servers open >6 weeks, rank points, league tiers, exclusive rewards"
+      "cache_note": "official X search snippet only; Guild Duel League explainer with July 6 test start, servers open >6 weeks, rank points, league tiers, exclusive rewards",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-05T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2073028993692119507": {
       "fingerprint": "28fcbff7665cb96fca965f3631254e1d6ad53e4aefebcf84c8ac618f1696d4de",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-05T11:30:00Z",
       "status": 200,
-      "cache_note": "official X search snippet only; Event Calendars for July 6-12, in-game calendar live, server schedule lookup, external calendar feedback prompt"
+      "cache_note": "official X search snippet only; Event Calendars for July 6-12, in-game calendar live, server schedule lookup, external calendar feedback prompt",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-05T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2071941832309682207": {
       "fingerprint": "52c244ce6456b7323e1ddacb261ca8c812b3d2d2a2c65f55296839713782b884",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-05T11:30:00Z",
       "status": 200,
-      "cache_note": "official X search snippet only; Appearance Shop explainer with Trader Center unlock, monthly skin rotation, Appearance Tokens exchange"
+      "cache_note": "official X search snippet only; Appearance Shop explainer with Trader Center unlock, monthly skin rotation, Appearance Tokens exchange",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-05T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2071579441428574506": {
       "fingerprint": "3cfb1d905c6bfe172d3c1c75e28a1d9194f55457532fd10336b087e10aab24cd",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-05T11:30:00Z",
       "status": 200,
-      "cache_note": "official X search snippet only; Gram anniversary skin contest with community voting and participant gift-pack rewards"
+      "cache_note": "official X search snippet only; Gram anniversary skin contest with community voting and participant gift-pack rewards",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-05T11:30:00Z"
     },
     "https://www.facebook.com/FoundationGalacticFrontier/posts/-foundation-dev-roadmap-mid-2026-julyseptember-traders-the-galaxy-doesnt-stand-s/122257169654252135/": {
       "fingerprint": "7a87e892b7638000a15ff06f04df24635254afd6a999247759f82e15eb5dc918",
       "title": "Foundation Dev Roadmap: Mid 2026 (July-September) - Foundation: Galactic Frontier",
       "last_fetched": "2026-07-06T11:30:00Z",
       "status": 200,
-      "cache_note": "official Facebook post; Season 2 currently targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders with shared Guild spaces, easier high-value excavations, and cross-server matchmaking; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights"
+      "cache_note": "official Facebook post; Season 2 currently targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders with shared Guild spaces, easier high-value excavations, and cross-server matchmaking; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-06T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2074116153706955047": {
       "fingerprint": "13ef6c23e2bd9dc16e250de7b11c9dcdaf786b175ac8e93650b94107e05f8ed7",
       "title": "Maintenance Notice – July 7th, 2026",
       "last_fetched": "2026-07-07T11:30:00Z",
       "status": 200,
-      "cache_note": "official X hot update; Galaxy Cup Carnival and Golden Ball Coins event signal; Hugo Crast unlocks on servers open at least 27 weeks; Shadowfront now allows voting for up to 2 battle slots and adds a Battle Arrangement reminder; Ascendancy Shrines respawn every 20 seconds; rally/garrison combat-craft repair allowed when Flagship is out of combat and not under War Frenzy; Operation Blackout Event Calendar bug fixed"
+      "cache_note": "official X hot update; Galaxy Cup Carnival and Golden Ball Coins event signal; Hugo Crast unlocks on servers open at least 27 weeks; Shadowfront now allows voting for up to 2 battle slots and adds a Battle Arrangement reminder; Ascendancy Shrines respawn every 20 seconds; rally/garrison combat-craft repair allowed when Flagship is out of combat and not under War Frenzy; Operation Blackout Event Calendar bug fixed",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-07T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2073753768517345282": {
       "fingerprint": "ab615ee9bf89273c55a2258d60e400a39379f136871eb0b01bc2d9c4294cc1c2",
       "title": "Foundation Dev Roadmap: Mid 2026 (July-September)",
       "last_fetched": "2026-07-09T11:30:00Z",
       "status": 200,
-      "cache_note": "official X note-tweet mirror of the July-September roadmap already covered from Facebook on 2026-07-06; Season 2 targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights"
+      "cache_note": "official X note-tweet mirror of the July-September roadmap already covered from Facebook on 2026-07-06; Season 2 targets August, end-of-July recheck promised if timing changes; Guild Ruins and Cross-Server Ruins expand Ruin Raiders; Shadowfront League planned as a 64-team single-elimination tournament drawn from the top 32 Guilds in every 8-server block; Boss Rush Gameplay planned around consecutive boss fights",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-09T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2075500963956211810": {
       "fingerprint": "2c23e8fec9aa61d7a310b1ab73fd56af9479ddd76ff0d2a78507b7ddd1ddb425",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-11T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-11T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2069767498895925278": {
       "fingerprint": "b4999db32fd4c4e031d2b9e53a688e85dcdef8b4c70621a03288448a9081a44d",
       "title": "Foundation: Galactic Frontier on X",
       "last_fetched": "2026-07-11T11:30:00Z",
-      "status": 200
+      "status": 200,
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-11T11:30:00Z"
     },
     "https://www.facebook.com/FoundationGalacticFrontier/posts/-traders-the-latest-event-calendars-are-here-from-july-13-to-july-19the-in-game-/122257799240252135/": {
       "fingerprint": "ae42dea6d89aa7ce28892896830a4a92083e4eb9a07b645d57e56e37f4e5dc6a",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-07-13T11:30:00Z",
       "status": 200,
-      "cache_note": "official Facebook weekly event calendar reminder for Jul 13-19; in-game calendar live; server schedules split by calendar variants; no new rule text beyond schedule notice"
+      "cache_note": "official Facebook weekly event calendar reminder for Jul 13-19; in-game calendar live; server schedules split by calendar variants; no new rule text beyond schedule notice",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-13T11:30:00Z"
     },
     "https://www.facebook.com/FoundationGalacticFrontier/posts/-the-galactic-cup-carnival-is-about-to-begin-the-galactic-cup-has-reached-its-pe/122257397906252135/": {
       "fingerprint": "e0f9d77fee39e53ac54ce27acb58c003830b8edf01fa63fe0ecb7f75171b485a",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-07-13T11:30:00Z",
       "status": 200,
-      "cache_note": "official Facebook Galaxy Cup Carnival reminder; public snippet highlights Energy Core Lv. 10 unlock requirement and Jul 13-19 timing; no detailed reward or mechanic breakdown"
+      "cache_note": "official Facebook Galaxy Cup Carnival reminder; public snippet highlights Energy Core Lv. 10 unlock requirement and Jul 13-19 timing; no detailed reward or mechanic breakdown",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-13T11:30:00Z"
     },
     "https://game.edu.kg/pt/foundation%3A-galactic-frontier/codes/": {
       "fingerprint": "fde1e0c5ea58d4a4df133dd8cef664d8126c53c13bc6fc4ecbb8fd2ac05b5516",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-07-19T11:30:00Z",
       "status": 200,
-      "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate"
+      "cache_note": "GameEDU third-party code page; non-affiliated disclaimer, stale May 1 status, generic rotating strings; rejected as unverifiable content-farm candidate",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-19T11:30:00Z"
     },
     "https://levelgeeks.net/foundation-galactic-frontier-codes/": {
       "fingerprint": "48ef624c4d45eb23a9576d5a5a6f332adebfb12bdb7b458e48808b5a062151cc",
@@ -1859,28 +2383,36 @@
       "title": "Foundation Galactic Frontier — working codes for June 2026",
       "last_fetched": "2026-07-21T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party code list was actually last updated Jun 1 despite dynamic July search wording; it marks expired CHILDRENSDAY26 and GALAXYTHANKS as active, claims 31 active codes, and offers unsupported strings. Rejected as stale/internally inconsistent; no new code record created."
+      "cache_note": "Third-party code list was actually last updated Jun 1 despite dynamic July search wording; it marks expired CHILDRENSDAY26 and GALAXYTHANKS as active, claims 31 active codes, and offers unsupported strings. Rejected as stale/internally inconsistent; no new code record created.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-21T11:30:00Z"
     },
     "https://www.lootbar.com/blog/en/foundation-galactic-frontier-redeem-codes-1779454794826.html": {
       "fingerprint": "38ac654bbc1e8ecc61c948bb0668048c613487054bca4cfff9e2bb38d846c955",
       "title": "Foundation: Galactic Frontier Redeem Codes July 2026 – Latest Working Codes, Free Rewards & Currency Guide",
       "last_fetched": "2026-07-24T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party code article published Jul 1; body repeatedly calls its list May 2026 while labelling it July, lists expired codes without per-code sources/rewards/expiry, and gives only the already-known redemption path. Rejected as stale/internally inconsistent."
+      "cache_note": "Third-party code article published Jul 1; body repeatedly calls its list May 2026 while labelling it July, lists expired codes without per-code sources/rewards/expiry, and gives only the already-known redemption path. Rejected as stale/internally inconsistent.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-24T11:30:00Z"
     },
     "https://www.ldshop.gg/blog/foundation-galactic-frontier/foundation-code.html": {
       "fingerprint": "556000fc0d6e60926a2be37166a1c654224310b67e4c779f93d0da087144bdcb",
       "title": "Foundation: Galactic Frontier Codes (September 2026) – Free Speedups, Water & Metal",
       "last_fetched": "2026-09-06T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party retailer list incorrectly labels CHILDRENSDAY26 and GALAXYTHANKS active through September 15 despite independently recorded June expiries. FOUNDATION and FURTHERFUTURE duplicate existing unverified entries. Rejected; no code status changed."
+      "cache_note": "Third-party retailer list incorrectly labels CHILDRENSDAY26 and GALAXYTHANKS active through September 15 despite independently recorded June expiries. FOUNDATION and FURTHERFUTURE duplicate existing unverified entries. Rejected; no code status changed.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-06T11:30:00Z"
     },
     "https://foundation-galactic-frontier.soft112.com/": {
       "fingerprint": "cabcfb9be10996511a49d19767833d1afce3afd72508cfb8fd135dbc1a9ba9f9",
       "title": "Foundation: Galactic Frontier... Free Download",
       "last_fetched": "2026-07-24T11:30:00Z",
       "status": 200,
-      "cache_note": "Mirror version history; newest entry is version 1.1.67.222607 posted Jun 4. Its Stamina/Champion Weapon shop, Sacred Tribute Vessel duration, and mail ranking-visual notes are 50 days old; related features already exist in project records. Rejected for low novelty/freshness."
+      "cache_note": "Mirror version history; newest entry is version 1.1.67.222607 posted Jun 4. Its Stamina/Champion Weapon shop, Sacred Tribute Vessel duration, and mail ranking-visual notes are 50 days old; related features already exist in project records. Rejected for low novelty/freshness.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-24T11:30:00Z"
     },
     "https://game.edu.kg/en/foundation%3A-galactic-frontier/codes/": {
       "fingerprint": "939bdf86241f9ad62acb202debdc690d96412f7516ab27e3254957cd9f3d6133",
@@ -1900,7 +2432,9 @@
       "title": "FUNPLUS GENERAL CAMPAIGN TERMS AND CONDITIONS - EN - FunPlus",
       "last_fetched": "2026-07-28T11:30:00Z",
       "status": 200,
-      "cache_note": "Official general campaign terms updated Jul 13. They name Foundation: Galactic Frontier as a Licensed Game and defer particulars to campaign-specific rules; no active event, player task, reward, or gameplay change is disclosed."
+      "cache_note": "Official general campaign terms updated Jul 13. They name Foundation: Galactic Frontier as a Licensed Game and defer particulars to campaign-specific rules; no active event, player task, reward, or gameplay change is disclosed.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-28T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2081726303288647881": {
       "fingerprint": "50f5f7743036894cd58f7ce55b040080030e2c74de9ef9ee2bce64aba1573af2",
@@ -1908,7 +2442,9 @@
       "last_fetched": "2026-07-30T11:33:37Z",
       "status": 200,
       "published_at": "2026-07-27T13:00:01Z",
-      "summary": "Official July 28 maintenance: Commerce Guild Duel League test ended and next Duel starts a six-month season; Flagship Component cap 70 on 27-week servers; Quick Craft; Potent Empowerment at +6 using Catalyst Device and multiple Prismatic Cores; Dominion Warzone bye participation for days 1-5; rally-cancel fix."
+      "summary": "Official July 28 maintenance: Commerce Guild Duel League test ended and next Duel starts a six-month season; Flagship Component cap 70 on 27-week servers; Quick Craft; Potent Empowerment at +6 using Catalyst Device and multiple Prismatic Cores; Dominion Warzone bye participation for days 1-5; rally-cancel fix.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-30T11:33:37Z"
     },
     "https://x.com/FoundationGF_EN/status/2082088696451616804": {
       "fingerprint": "68998907e7d26f362ab97cb0a09040c4b1ec9214c9e835f99f48a184283666ba",
@@ -1916,7 +2452,9 @@
       "last_fetched": "2026-07-30T11:33:37Z",
       "status": 200,
       "published_at": "2026-07-28T13:00:03Z",
-      "summary": "Official spaceship-design voting runs July 28-August 3. Up to five votes per player; the top design will be implemented and distributed free. Game-controller entries are implementation-eligible; AI-marked entries are prize-only."
+      "summary": "Official spaceship-design voting runs July 28-August 3. Up to five votes per player; the top design will be implemented and distributed free. Game-controller entries are implementation-eligible; AI-marked entries are prize-only.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-30T11:33:37Z"
     },
     "https://x.com/FoundationGF_EN/status/2082451083968774602": {
       "fingerprint": "4dc34beabca9ef788e2e0070eaf5fe27b664cd645944cde1142fd05077fa0419",
@@ -1924,7 +2462,9 @@
       "last_fetched": "2026-07-30T11:33:37Z",
       "status": 200,
       "published_at": "2026-07-29T13:00:03Z",
-      "summary": "Official Murdoku challenge runs July 29 14:01-August 5 23:59 UTC. Place one suspect per row and column; beds are occupiable, object squares are blocked; identify who shares Riian’s area. Ten random correct entries receive 1,000 Credits each."
+      "summary": "Official Murdoku challenge runs July 29 14:01-August 5 23:59 UTC. Place one suspect per row and column; beds are occupiable, object squares are blocked; identify who shares Riian’s area. Ten random correct entries receive 1,000 Credits each.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-30T11:33:37Z"
     },
     "https://x.com/FoundationGF_EN/status/2080639134595498342": {
       "fingerprint": "e2d6d408a1ca232f3d12dd6530f442661c31b8df0b2ad7b63408e41c82518b87",
@@ -1932,7 +2472,9 @@
       "last_fetched": "2026-07-31T11:30:00Z",
       "status": 200,
       "published_at": "2026-07-24T13:00:00Z",
-      "summary": "Official calendar says dates and times may change. Servers 1001-1140 have Dominion Warzone, replacing Top 100 Galactic Traders; rejected as a late-discovered, low-novelty historical calendar item."
+      "summary": "Official calendar says dates and times may change. Servers 1001-1140 have Dominion Warzone, replacing Top 100 Galactic Traders; rejected as a late-discovered, low-novelty historical calendar item.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-31T11:30:00Z"
     },
     "https://x.com/FoundationGF_EN/status/2082875336253911363": {
       "fingerprint": "74cde88e2d44c4d30c88eaeba01574e7a115771998081dfa1773cb71767ca5ef",
@@ -1940,21 +2482,27 @@
       "last_fetched": "2026-07-31T11:30:00Z",
       "status": 200,
       "published_at": "2026-07-30T17:05:52Z",
-      "summary": "Season 2 pilot planned for Servers 1001-1016 in August; Dominion Warzone expands August 10 to servers older than nine weeks; migration inbound quotas and Migration Officer escalation; expanded matchmaking pools; Glory no-award conditions; Item Recycling August 11 on 30+ day servers."
+      "summary": "Season 2 pilot planned for Servers 1001-1016 in August; Dominion Warzone expands August 10 to servers older than nine weeks; migration inbound quotas and Migration Officer escalation; expanded matchmaking pools; Glory no-award conditions; Item Recycling August 11 on 30+ day servers.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-07-31T11:30:00Z"
     },
     "https://redeemcodestoday.com/en/codes/foundation-galactic-frontier": {
       "fingerprint": null,
       "title": "Fetch timeout",
       "last_fetched": "2026-08-04T11:30:00Z",
       "status": 0,
-      "cache_note": "First fetch timed out. Search snippet lists CHAMPIONSPIRIT as expired, conflicting with an existing third-party unverified claim; no body was obtained and no official evidence supports a status change."
+      "cache_note": "First fetch timed out. Search snippet lists CHAMPIONSPIRIT as expired, conflicting with an existing third-party unverified claim; no body was obtained and no official evidence supports a status change.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-04T11:30:00Z"
     },
     "https://lordstrategist.com/en/foundation-galactic-frontier/gift-code": {
       "fingerprint": "0e355589f69d4b3ac5dd205e53ce46bfee957361df2d829a0e119a2d69640c39",
       "title": "Foundation: Galactic Frontier Gift Codes & Promo Codes | LordStrategist",
       "last_fetched": "2026-08-05T11:30:00Z",
       "status": 200,
-      "cache_note": "Independent code list includes many entries dated Aug 6, after this run, and treats known expired codes as current. It provides no reward, expiry, or official evidence per new-looking code; rejected as internally inconsistent third-party data."
+      "cache_note": "Independent code list includes many entries dated Aug 6, after this run, and treats known expired codes as current. It provides no reward, expiry, or official evidence per new-looking code; rejected as internally inconsistent third-party data.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-05T11:30:00Z"
     },
     "https://play.google.com/store/apps/details?hl=en_AU&id=com.games.foundation": {
       "fingerprint": "4ba0d47c98d445d3f66d70ef80e37146016f17e8b6216236058b79b9912a1f27",
@@ -1962,21 +2510,27 @@
       "last_fetched": "2026-08-08T11:30:00Z",
       "status": 200,
       "published_at": "2026-07-22",
-      "summary": "Champion-exclusive weapons for Fist of Luminism — Aliya and Warden — Eva von Trier unlock on servers open at least 27 weeks; Champion Weapon Fragments now identify compatible Champion role and Style; attacking a War Prism in Duel Day removes Interstellar Shelter."
+      "summary": "Champion-exclusive weapons for Fist of Luminism — Aliya and Warden — Eva von Trier unlock on servers open at least 27 weeks; Champion Weapon Fragments now identify compatible Champion role and Style; attacking a War Prism in Duel Day removes Interstellar Shelter.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-08T11:30:00Z"
     },
     "https://play.google.com/store/apps/eventdetails/4831058346923715348": {
       "fingerprint": "70f8f27be3d7ac87f150e48b260acb7cbc470ead10dd4dcfe21da5055a1cb6aa",
       "title": "Rise Through the Ranks",
       "last_fetched": "2026-08-08T11:30:00Z",
       "status": 200,
-      "summary": "Official event says the Commerce Guild Duel League has officially begun and ends on August 17 (storefront local date)."
+      "summary": "Official event says the Commerce Guild Duel League has officially begun and ends on August 17 (storefront local date).",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-08T11:30:00Z"
     },
     "https://play.google.com/store/apps/eventdetails/4832009952064234087": {
       "fingerprint": "5e02bb59d2b2bd9f593fb51e7dc02647ab1b35be9470456bc02407f17fb099ea",
       "title": "Secrets Woven in the Heavenly Court",
       "last_fetched": "2026-08-08T11:30:00Z",
       "status": 200,
-      "cache_note": "Official narrative promotion for Rue Corintha; no mechanic, eligibility, reward, timing, or actionable player detail. Rejected."
+      "cache_note": "Official narrative promotion for Rue Corintha; no mechanic, eligibility, reward, timing, or actionable player detail. Rejected.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-08T11:30:00Z"
     },
     "https://play.google.com/store/apps/details?hl=en_GB&id=com.games.foundation": {
       "fingerprint": "4d727c14d18fafa23949eb8144bb0c2e34e1a512ccd77ec3ac1af9bae4cff21f",
@@ -1984,49 +2538,63 @@
       "last_fetched": "2026-08-09T11:30:00Z",
       "status": 200,
       "published_at": "2026-06-04",
-      "cache_note": "Official regional listing. Its June 4 notes (Discount Shop Stamina/Champion Weapon items, Sacred Tribute Vessel 30-minute duration, mail ranking visuals) are stale and offer no material addition beyond existing game coverage; rejected."
+      "cache_note": "Official regional listing. Its June 4 notes (Discount Shop Stamina/Champion Weapon items, Sacred Tribute Vessel 30-minute duration, mail ranking visuals) are stale and offer no material addition beyond existing game coverage; rejected.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-09T11:30:00Z"
     },
     "https://www.reddit.com/r/FoundationGFrontier/comments/1qwela3/foundation_exploration_event/": {
       "fingerprint": "7a16a894e4216864b1f3255e492be16bf61e41cf80bd0e37ef33831b4171306a",
       "title": "Foundation exploration event : r/FoundationGFrontier",
       "last_fetched": "2026-08-10T11:30:00Z",
       "status": 200,
-      "summary": "Community thread contains player-shared exploration coordinate codes, including recent August entries. Participants state they are used through an external exploration link rather than the in-game Gift Code section; the codes are user-specific/limited and have no official validity, expiry, or reward evidence."
+      "summary": "Community thread contains player-shared exploration coordinate codes, including recent August entries. Participants state they are used through an external exploration link rather than the in-game Gift Code section; the codes are user-specific/limited and have no official validity, expiry, or reward evidence.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-10T11:30:00Z"
     },
     "https://play.google.com/store/apps/eventdetails/4831275385076292779": {
       "fingerprint": "8ce3867d2161b3a1768da121bf484492244f1aa7dd29ee2da2ed68e26fb274a4",
       "title": "A Frontier Legend Sets Sail",
       "last_fetched": "2026-08-09T11:30:00Z",
       "status": 200,
-      "cache_note": "Official Hugo Crast promotion. It provides no release timing, acquisition condition, reward, or mechanics; Hugo's 27-week availability is already recorded from the July 7 maintenance notice. Rejected."
+      "cache_note": "Official Hugo Crast promotion. It provides no release timing, acquisition condition, reward, or mechanics; Hugo's 27-week availability is already recorded from the July 7 maintenance notice. Rejected.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-09T11:30:00Z"
     },
     "https://www.reddit.com/r/LootBar_gg/comments/1vkjhav/what_are_foundation_galactic_frontierthe_best/": {
       "fingerprint": "1364b8abc9e73fc2f8571d7b6ca7dc9ec377615e65c9e722a000251c2ada7ca7",
       "title": "what are Foundation: Galactic Frontier:the Best Value Packs : r/LootBar_gg",
       "last_fetched": "2026-08-11T11:30:00Z",
       "status": 200,
-      "cache_note": "Promotional third-party spending list ranks monthly cards, passes, and packs but gives no prices, reward quantities, eligibility, or primary evidence. Its generic advice is not a player-facing increment; rejected."
+      "cache_note": "Promotional third-party spending list ranks monthly cards, passes, and packs but gives no prices, reward quantities, eligibility, or primary evidence. Its generic advice is not a player-facing increment; rejected.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-11T11:30:00Z"
     },
     "https://www.reddit.com/r/LootBar_gg/comments/1vlbm0a/how_to_win_more_pvp_in_battles_foundation/": {
       "fingerprint": "5af31852963fafd445e7bfd81ed9caa3620a8d96156af7dcfc5aa06383fd7b4a",
       "title": "How to Win More PvP in Battles Foundation: Galactic Frontier : r/LootBar_gg",
       "last_fetched": "2026-08-11T11:30:00Z",
       "status": 200,
-      "cache_note": "Promotional third-party PvP article repeats existing energy counter, compatible Champion, flagship, crew, scouting, and Commerce Guild advice without data, patch-specific detail, or primary evidence. Rejected."
+      "cache_note": "Promotional third-party PvP article repeats existing energy counter, compatible Champion, flagship, crew, scouting, and Commerce Guild advice without data, patch-specific detail, or primary evidence. Rejected.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-11T11:30:00Z"
     },
     "https://foundation-website-release.kingsgroup.cn/en/cdk": {
       "fingerprint": "15959c3a68b004e865a9912cf696027b52b0fc4ca0b2f244347368d7b8b6d98d",
       "title": "Foundation: Galactic Frontier official redemption portal",
       "last_fetched": "2026-08-13T11:30:00Z",
       "status": 200,
-      "cache_note": "Official portal accepts a character UID and gift code, then directs players to claim the redeemed gift through in-game mail."
+      "cache_note": "Official portal accepts a character UID and gift code, then directs players to claim the redeemed gift through in-game mail.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-13T11:30:00Z"
     },
     "https://twstalker.com/FoundationGF_EN": {
       "fingerprint": "7aafd6709a364f3f90b9f4c4fd84daf21f3e9fc3eced9c40b7380f3d67d9d6e0",
       "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | TwStalker",
       "last_fetched": "2026-09-04T11:30:00Z",
       "status": 403,
-      "cache_note": "Direct fetch was blocked, but the indexed page body exposed an official-account mirror post: a hidden-letter Season 2 challenge runs Sep 1 00:01 UTC through Sep 8 23:59 UTC; entrants assemble letters found in posts from Aug 4 onward and comment the word plus UID. Ten winners receive 2,000 Credits. Ingested as a time-limited actionable event; verify against the official live post."
+      "cache_note": "Direct fetch was blocked, but the indexed page body exposed an official-account mirror post: a hidden-letter Season 2 challenge runs Sep 1 00:01 UTC through Sep 8 23:59 UTC; entrants assemble letters found in posts from Aug 4 onward and comment the word plus UID. Ten winners receive 2,000 Credits. Ingested as a time-limited actionable event; verify against the official live post.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-04T11:30:00Z"
     },
     "https://ngntipkolamrenang.twstalker.com/FoundationGF_EN": {
       "fingerprint": "df5f40bea0de4c64c832a43da8516c73c8de7aa7576bd0087df413308890c929",
@@ -2044,7 +2612,9 @@
       "title": "Foundation: Galactic Frontier Gift Codes + Redeem",
       "last_fetched": "2026-08-26T11:30:00Z",
       "status": 200,
-      "cache_note": "Third-party August 9 code list repeats FOUNDATION and FURTHERFUTURE, both already in the player code tables as unverified. It adds no official evidence for a status change."
+      "cache_note": "Third-party August 9 code list repeats FOUNDATION and FURTHERFUTURE, both already in the player code tables as unverified. It adds no official evidence for a status change.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-08-26T11:30:00Z"
     },
     "https://www.instalker.org/FoundationGF_EN": {
       "fingerprint": "e26cd124f12fc4feb8f4f93e939edcd71dfd6a30c0c0ca20752e731fd741dbcc",
@@ -2054,7 +2624,8 @@
       "cache_note": "HTTP 403; no stable readable profile body; no inference from search summaries.",
       "last_checked": "2026-11-04T10:35:29Z",
       "status_label": "probe_error",
-      "probe_state": "probe_error"
+      "probe_state": "probe_error",
+      "fingerprint_algorithm": "sha256"
     },
     "https://www.gdr-online.com/news-gioco.asp?idgioco=18271": {
       "fingerprint": "4c85535efe0ab2dec7968d118b9376839f7e7259d85a2637a89bcbb8ae63a200",
@@ -2069,47 +2640,54 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": "481535440cbe650ba0004bc547c7cbd5f7ff4746fe42c5dd1da52ea7ad43d2c6",
-      "title": "Official Reignite the Stars anniversary event post",
-      "last_fetched": "2026-10-19T10:30:00Z",
-      "status": 403,
-      "summary": "New official-account post specifies event windows by server group and the Construction Components loop: advance stages, claim rewards, restore four planets, then continue solo on Alignment Celebration Planet.",
-      "last_checked": "2026-10-29T10:30:00Z",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "fingerprint": "9a645101d4a876206b308c65517f750afa6f93abe2e4dc4eb288553a08a6a162",
       "fingerprint_algorithm": "sha256",
-      "cache_note": "HTTP 403 challenge; no stable readable body or validators; no inference from search snippets.",
-      "probe_error": "HTTP 403 challenge; no stable normalized readable body fingerprint obtained by direct probe.",
+      "fingerprint_scope": "normalized candidate post body from live page extraction",
+      "title": "Anniversary Party Gift Drop — official-account post",
+      "last_fetched": "2026-11-05T10:30:00Z",
+      "last_checked": "2026-11-05T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "etag": null,
-      "last_modified": null
+      "last_modified": null,
+      "summary": "Servers 17–264: Nov 5–7; Party Bounties appear in Universe Channel, limited claim spots by server range, each expires after one hour. Direct HTTP probe returned 403; current readable post obtained from web page extraction."
     },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
       "title": "Foundation: Galactic Frontier (@FoundationGF_EN)",
       "last_fetched": "2026-09-05T11:30:00Z",
       "status": 403,
-      "cache_note": "Official X profile could not be read (403); no post body was available for scoring or ingestion."
+      "cache_note": "Official X profile could not be read (403); no post body was available for scoring or ingestion.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-05T11:30:00Z"
     },
     "https://www.foundation.game/en/news/epoch-of-fusion-seed-lv35-buildings-4th-battle-queue": {
       "fingerprint": "35cf9c9ae417083eaf062955152cc944c4c66b6597eeb4d04050f75243010597",
       "title": "Epoch of Fusion Seed — LV35 Buildings & 4th Battle Queue",
       "last_fetched": "2026-09-10T11:30:00Z",
       "status": 200,
-      "cache_note": "Official announcement: Week-27/60% Combat Craft Modification gate; Fusion Seed production and sources; Energy Core Lvl 35 cap; fourth Battle Queue at Core Lvl 33; Style specializations at 80%."
+      "cache_note": "Official announcement: Week-27/60% Combat Craft Modification gate; Fusion Seed production and sources; Energy Core Lvl 35 cap; fourth Battle Queue at Core Lvl 33; Style specializations at 80%.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-10T11:30:00Z"
     },
     "https://imginn.com/p/Dc55mb-FK3y/": {
       "fingerprint": "02ab40120f7297b45ee86df68ed12aad29cfaeacea91a9319f2e4272dd65f5f5",
       "title": "Foundation: Galactic Frontier (@foundation_gf_en): Official Season 2 FAQ",
       "last_fetched": "2026-09-11T11:30:00Z",
       "status": 200,
-      "summary": "Official-account mirror FAQ: S2 begins Sep 14 on Servers 1–16; other 90-day servers await validation. Account and Guild progression carry over; Season 1 unfinished content ends at entry with retroactive rewards; each server has its own Siwenna map; seasonal resources reset; migration is suspended during S2."
+      "summary": "Official-account mirror FAQ: S2 begins Sep 14 on Servers 1–16; other 90-day servers await validation. Account and Guild progression carry over; Season 1 unfinished content ends at entry with retroactive rewards; each server has its own Siwenna map; seasonal resources reset; migration is suspended during S2.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-11T11:30:00Z"
     },
     "https://murpo.com/news/klara-dev-feedback-abb02d696af5bfcc385e": {
       "fingerprint": "11ae3be69f88d6afadcad06a3009d622ff0e355cb037acd81a5bbb59425bb759",
       "title": "Galactic Frontier clarifies Season 2 transitions: guild progress, maps, and compensation",
       "last_fetched": "2026-09-11T11:30:00Z",
       "status": 200,
-      "summary": "Follow-up FAQ citing Foundation Discord announcements: Guild membership, research, and levels carry over; players can regroup by outer regions or Guild Hub; maps and Phase 1 progress are server-specific; no server merge."
+      "summary": "Follow-up FAQ citing Foundation Discord announcements: Guild membership, research, and levels carry over; players can regroup by outer regions or Guild Hub; maps and Phase 1 progress are server-specific; no server merge.",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-09-11T11:30:00Z"
     },
     "https://www.sotwe.com/foundationgf_en": {
       "fingerprint": "fbbbe1d650bff245c7f3584807357a8da3deddc4da51aa7e2ccb1e58cd9da78f",
@@ -2469,7 +3047,8 @@
       "status_label": "probe_error",
       "probe_state": "probe_error",
       "cache_note": "HTTP 403 challenge; no stable readable body or hash. No content inferred from search snippets.",
-      "fingerprint_algorithm": "sha256"
+      "fingerprint_algorithm": "sha256",
+      "fingerprint": null
     },
     "https://murpo.com/news/klara-known-issues-c693bcc378f25d2e4fa8": {
       "fingerprint": "0e4e9404aeb01d572811e695ca31ac163f581f74c47cd775020b930733a65e35",

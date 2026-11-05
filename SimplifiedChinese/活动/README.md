@@ -5,6 +5,7 @@
 ## 当前重点活动
 
 - [周年庆攻略图竞赛：个人或双人组队投稿](/SimplifiedChinese/活动/2026-10-02-周年庆攻略图竞赛)
+- [周年庆 Party Bounty 随机掉落（按服务器分批开放）](/SimplifiedChinese/活动/2026-11-05-周年庆Party-Bounty掉落)
 
 - [暗域战场（Shadowfront）组织与打法](/SimplifiedChinese/活动/1.暗域战场（Shadowfront）组织与打法)
 - [捍卫商路（Defend the Trade Route）](/SimplifiedChinese/活动/2.捍卫商路（Defend the Trade Route）)
