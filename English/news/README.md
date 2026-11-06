@@ -4,6 +4,10 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-11-06 Foundation: Galactic Frontier launches on Steam](/English/news/2026-11-06)
+- [2026-11-04 Dominion Warzone: Battlefield Rules and Loss Recovery](/English/news/2026-11-04)
+
+
 - [2026-11-03 Update: event theme, Rally information, and component safeguard](/English/news/2026-11-03)
 
 - [2026-11-02 Known issues: Commerce Guild Duel rewards, Flagship movement, and in-game mail](/English/news/2026-11-02)

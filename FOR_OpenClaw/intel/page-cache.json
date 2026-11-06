@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-05T10:30:00Z",
+  "updated_on": "2026-11-06T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -133,12 +133,18 @@
       "last_checked": "2026-03-01T10:30:00Z"
     },
     "https://store.steampowered.com/app/4223760/Foundation_Galactic_Frontier/": {
-      "fingerprint": "74fda735f3bb54564123cd000e2964650a49f7ce40c8f119566dda0d7eee059e",
-      "title": "Foundation: Galactic Frontier on Steam",
-      "last_fetched": "2026-03-01T10:30:00Z",
-      "status": 200,
+      "fingerprint": "c084dff1888aed5481c762a583d0cfaf9a6959a491279c628e2a3552d8307e3d",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-03-01T10:30:00Z"
+      "title": "Foundation: Galactic Frontier on Steam",
+      "last_checked": "2026-11-06T10:30:00Z",
+      "last_fetched": "2026-11-06T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "etag": null,
+      "last_modified": null,
+      "summary": "Official Steam store now shows Released Nov 5, 2026 and Play Game; previously cached listing was a pre-launch Q1 2026 page. Free to Play, 8 GB storage, Windows requirements, and supported languages are shown.",
+      "cache_note": "Normalized product-specific readable facts fingerprint; changed from cached pre-launch page."
     },
     "https://steamcommunity.com/app/4223760/": {
       "fingerprint": "21cdbc41103823be52921f23ac18de0df421196df7910540bb0ea910a4708fba",
@@ -2715,18 +2721,18 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "b5929ccd407d16f4256ca767be8505dde832c3b5bae4c6fbb1419ac6bdeb05fb",
+      "fingerprint": "165021a0ce86ff3b8fe40f8dcf57838dd97187386825c485f4003d160d0c2616",
       "fingerprint_algorithm": "sha256",
-      "title": "Foundation: Galactic Frontier Codes (October 2026) | AAYYY",
-      "last_fetched": "2026-10-31T10:30:00Z",
-      "last_checked": "2026-10-31T10:30:00Z",
+      "title": "Foundation: Galactic Frontier Codes (November 2026) | AAYYY",
+      "last_checked": "2026-11-06T10:30:00Z",
+      "last_fetched": "2026-11-06T10:30:00Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "cache_note": "Oct 30 refresh repeats GF777/GF888/GF999/WELCOMEGF/GALACTIC2024, with no traceable evidence, reward or expiry details.",
-      "last_modified": "Sat, 31 Oct 2026 10:31:20 GMT",
-      "summary": "Readable body probed; assessed in daily report.",
-      "etag": null
+      "etag": null,
+      "last_modified": "Fri, 06 Nov 2026 09:00:00 GMT",
+      "summary": "Nov 6 page repeats GF777, GF888, GF999, WELCOMEGF, GALACTIC2024 with no reward or expiry details. These same codes were already present in the Oct 30 cached revision and had no traceable evidence; no new code/status change.",
+      "cache_note": "Changed page metadata/body; normalized content confirms same five codes as prior revision, so candidate is duplicate and rejected."
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
       "fingerprint": "5a71d0d243e9674066680df1c4b077077c737db1fd70280af83ad6674fcb389c",

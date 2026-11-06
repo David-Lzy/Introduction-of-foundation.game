@@ -4,6 +4,10 @@
 
 ## 条目
 
+- [2026-11-06 Foundation：银河前线 Steam 版上线](/SimplifiedChinese/新闻/2026-11-06)
+- [2026-11-04 Dominion Warzone 战场规则与战损返还补充](/SimplifiedChinese/新闻/2026-11-04)
+
+
 - [2026-11-03 更新：活动主题、集结信息与组件保护](/SimplifiedChinese/新闻/2026-11-03)
 
 - [2026-11-02 已知问题：商会对决奖励、旗舰移动与游戏邮件](/SimplifiedChinese/新闻/2026-11-02)

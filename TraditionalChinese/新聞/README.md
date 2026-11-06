@@ -4,6 +4,10 @@
 
 ## 條目
 
+- [2026-11-06 Foundation：銀河前線 Steam 版上線](/TraditionalChinese/新聞/2026-11-06)
+- [2026-11-04 Dominion Warzone 戰場規則與戰損返還補充](/TraditionalChinese/新聞/2026-11-04)
+
+
 - [2026-11-03 更新：活動主題、集結資訊與組件保護](/TraditionalChinese/新聞/2026-11-03)
 
 - [2026-11-02 已知問題：商會對決獎勵、旗艦移動與遊戲郵件](/TraditionalChinese/新聞/2026-11-02)
