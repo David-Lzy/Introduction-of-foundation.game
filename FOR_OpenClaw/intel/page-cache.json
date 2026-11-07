@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-06T10:30:00Z",
+  "updated_on": "2026-11-07T10:33:03Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -34,16 +34,16 @@
       "fingerprint_algorithm": "sha256"
     },
     "https://murpo.com/": {
-      "fingerprint": "7fecc5855c2befd0465786d657593c4295e8b51de904e982036a5380d429ba20",
+      "fingerprint": "042e0cffb9d6762fd574cd8a1b788b2edb28a044c6c9ddf35cfc18ab418ed348",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-11-04T10:35:29Z",
+      "last_fetched": "2026-11-07T10:33:03Z",
       "status": 200,
       "cache_note": "Homepage still links the same Oct 28 Siwenna schedule and Oct 27 mid-November teaser; no new actionable detail.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-05T10:30:00Z",
-      "status_label": "cache_hit",
-      "probe_state": "cache_hit",
-      "summary": "Changed homepage probe showed the existing Nov 3 patch-note item and Nov 3 hot-update notice; no new actionable details beyond separately assessed candidates.",
+      "last_checked": "2026-11-07T10:33:03Z",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "summary": "Homepage now features a Nov 6 “TRIVIA IS COMING SOON” teaser, without dates, participation steps, or reward details.",
       "last_modified": null,
       "etag": null
     },
@@ -209,11 +209,11 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
       "last_fetched": "2026-11-02T10:30:00Z",
-      "last_checked": "2026-11-05T10:30:00Z",
-      "status": 304,
+      "last_checked": "2026-11-07T10:33:03Z",
+      "status": 200,
       "cache_note": "Page lists only FOUNDATION and FURTHERFUTURE as active, last editorial update Oct 24; no new code or state evidence.",
       "last_modified": "Sun, 01 Nov 2026 23:03:45 GMT",
-      "summary": "Nov 1 code list repeats FOUNDATION, FURTHERFUTURE, and CHAMPIONSPIRIT; reports CHAMPIONSPIRIT with a Feb 3, 2029 expiry but incorrectly places it under expired codes. No new code or reliable status change.",
+      "summary": "Readable body hash matches cached fingerprint; stopped without scoring.",
       "status_label": "cache_hit",
       "probe_state": "cache_hit",
       "etag": null
@@ -300,16 +300,16 @@
       "last_checked": "2026-09-07T11:30:00Z"
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "9df467fdee95a1a547072782b7f7ecd209ab98bbcede8326c5947af8c162eff6",
+      "fingerprint": "48023f534b8fa2fa81393be8b468d74a2c8f3d84d1d0ea5a89daea8fcfd487c9",
       "title": "Foundation Galactic Frontier Codes (NOV 2026) [UPDATED!] - UCNGame",
-      "last_fetched": "2026-11-04T10:35:29Z",
+      "last_fetched": "2026-11-07T10:33:03Z",
       "status": 200,
       "cache_note": "Conditional request returned HTTP 200; normalized readable-body SHA-256 differs from prior fingerprint; known codes repeated, no new code.",
-      "status_label": "cache_hit",
-      "last_checked": "2026-11-05T10:30:00Z",
+      "status_label": "cache_changed",
+      "last_checked": "2026-11-07T10:33:03Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "cache_hit",
-      "summary": "Updated Nov 4 code list repeats registered FNDBOO26, FGF1stAnniv, expired codes, and old entries; no new code or credible status transition.",
+      "probe_state": "cache_changed",
+      "summary": "Nov 7 body repeats registered FNDBOO26, FGF1stAnniv, and older codes; no new code or status change evidence.",
       "etag": null,
       "last_modified": "Wed, 04 Nov 2026 10:33:09 GMT"
     },
@@ -410,13 +410,16 @@
       "last_checked": "2026-03-07T10:31:41Z"
     },
     "https://www.memuplay.com/blog/foundation-galactic-frontier-codes.html": {
-      "fingerprint": "e012ecd4f3a1f1255fff8c322f68239eacebb88022c8c7b22f699589a6cd8b9c",
-      "title": "Latest Foundation: Galactic Frontier Codes September 2026: Free Rewards & Redeem Guide",
-      "last_fetched": "2026-09-03T11:30:00Z",
+      "fingerprint": "7783d40c841aac3685943c17f5d247f08813f53dca40400fc7616b8bd7f1c66f",
+      "title": "Latest Foundation: Galactic Frontier Codes November 2026: Free Rewards & Redeem Guide",
+      "last_fetched": "2026-11-07T10:33:03Z",
       "status": 200,
       "cache_note": "Third-party page lists only already-recorded S2SupplyDrop through 2026-09-30 and repeats the redemption path. No new code or status evidence.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-09-03T11:30:00Z"
+      "last_checked": "2026-11-07T10:33:03Z",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "summary": "Third-party list claims FGFAnnivCheers is redeemable through 2026-11-30 UTC; reward undisclosed. Also repeats FGF1stAnniv expiry Nov 7 23:59 UTC and expired S2SupplyDrop."
     },
     "https://www.facebook.com/FoundationGalacticFrontier/posts/%EF%B8%8F-cheers-to-a-new-galactic-year-traders-the-galaxy-is-alive-with-energy-start-20/122233461686252135/": {
       "fingerprint": "64a0354cd2f12d9792eca3f6edf0c9492829d6834d8d3134714ed65ef19f2b28",
@@ -2721,17 +2724,17 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "165021a0ce86ff3b8fe40f8dcf57838dd97187386825c485f4003d160d0c2616",
+      "fingerprint": "559965d37d6a6997e41c770d5b0422e6411308802ac12aedc51b7df8c1ddc760",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (November 2026) | AAYYY",
-      "last_checked": "2026-11-06T10:30:00Z",
-      "last_fetched": "2026-11-06T10:30:00Z",
+      "last_checked": "2026-11-07T10:33:03Z",
+      "last_fetched": "2026-11-07T10:33:03Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "etag": null,
       "last_modified": "Fri, 06 Nov 2026 09:00:00 GMT",
-      "summary": "Nov 6 page repeats GF777, GF888, GF999, WELCOMEGF, GALACTIC2024 with no reward or expiry details. These same codes were already present in the Oct 30 cached revision and had no traceable evidence; no new code/status change.",
+      "summary": "Nov 7 refresh repeats GF777, GF888, GF999, WELCOMEGF, GALACTIC2024; no new code or expiry/reward evidence.",
       "cache_note": "Changed page metadata/body; normalized content confirms same five codes as prior revision, so candidate is duplicate and rejected."
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
