@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-08T10:31:29Z",
+  "updated_on": "2026-11-09T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -2649,18 +2649,18 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": "9a645101d4a876206b308c65517f750afa6f93abe2e4dc4eb288553a08a6a162",
+      "fingerprint": "3347f89e80d47445203e878bf383a3c8524da9e6c63930c2941ace0185103d13",
       "fingerprint_algorithm": "sha256",
-      "fingerprint_scope": "normalized candidate post body from live page extraction",
-      "title": "Anniversary Party Gift Drop — official-account post",
-      "last_fetched": "2026-11-05T10:30:00Z",
-      "last_checked": "2026-11-08T10:31:29Z",
+      "fingerprint_scope": "normalized readable maintenance post body",
+      "title": "Nov 9, 2026 Maintenance and Update — official-account post",
+      "last_fetched": "2026-11-09T10:30:00Z",
+      "last_checked": "2026-11-09T10:30:00Z",
       "status": 200,
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "etag": null,
       "last_modified": null,
-      "summary": "Servers 17–264: Nov 5–7; Party Bounties appear in Universe Channel, limited claim spots by server range, each expires after one hour. Direct HTTP probe returned 403; current readable post obtained from web page extraction.",
+      "summary": "Nov 9 maintenance window; Teresa Lopez and Barbarian’s Son (27-week servers); Rewards Center for Map Rally rewards/chests; three-Minon search cap; Storage Shop shortcut; Season 2 balance adjustments and selected-server testing.",
       "cache_note": "HTTP 403; no stable current body."
     },
     "https://x.com/FoundationGF_EN": {
