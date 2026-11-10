@@ -4,6 +4,7 @@
 
 ## 条目
 
+- [2026-11-09 更新：新英雄、奖励中心与 Siwenna 平衡调整](/SimplifiedChinese/新闻/2026-11-09)
 - [2026-11-06 Foundation：银河前线 Steam 版上线](/SimplifiedChinese/新闻/2026-11-06)
 - [2026-11-04 Dominion Warzone 战场规则与战损返还补充](/SimplifiedChinese/新闻/2026-11-04)
 

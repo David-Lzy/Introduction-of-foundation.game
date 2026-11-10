@@ -4,6 +4,7 @@ This folder contains daily intel items that were newly collected, deduped, and a
 
 ## Entries
 
+- [2026-11-09 Update: Champions, Rewards Center, and Siwenna Balance](/English/news/2026-11-09)
 - [2026-11-06 Foundation: Galactic Frontier launches on Steam](/English/news/2026-11-06)
 - [2026-11-04 Dominion Warzone: Battlefield Rules and Loss Recovery](/English/news/2026-11-04)
 
