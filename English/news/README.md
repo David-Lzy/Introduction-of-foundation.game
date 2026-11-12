@@ -1,4 +1,5 @@
 # News Intel (Daily Deltas)
+- [Season 2: Siwenna launch schedule (Servers 1113–1192)](/English/news/2026-11-12)
 
 This folder contains daily intel items that were newly collected, deduped, and are directly useful to players.
 

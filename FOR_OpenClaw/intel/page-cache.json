@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-11T10:30:00Z",
+  "updated_on": "2026-11-12T10:33:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -34,16 +34,16 @@
       "fingerprint_algorithm": "sha256"
     },
     "https://murpo.com/": {
-      "fingerprint": "7639324f31fc887cb601284d49ea3d2757c09e0ca2f961ca98a52e9bf825a0bb",
+      "fingerprint": "c38e3e62709da5a4a8b391fe18c814b4e33a24bdb3e360c28bd9d74a12c253b9",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-11-10T10:30:00Z",
+      "last_fetched": "2026-11-12T10:31:18Z",
       "status": 200,
       "cache_note": "Normalized readable homepage content unchanged from the cached Nov 10 content; homepage still exposes only the Nov 6 trivia teaser, with no actionable details.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-11T10:31:14Z",
-      "status_label": "cache_hit",
-      "probe_state": "cache_hit",
-      "summary": "Community News dated Nov 6 promotes a trivia event; the extracted homepage contains no actionable event details."
+      "last_checked": "2026-11-12T10:31:18Z",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "summary": "Homepage changed: new Season 2 announcement for Servers 1113–1192, preview Nov 16–22 and launch Nov 23 UTC; older anniversary feedback bulletin and trivia teaser remain."
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -104,13 +104,13 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-11-11T10:30:00Z",
+      "last_checked": "2026-11-12T10:32:50Z",
       "status": 200,
       "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
       "status_label": "probe_error",
       "probe_state": "probe_error",
       "last_modified": null,
-      "probe_error": "HTTP 200 returned only the site title (29 raw characters); no stable readable body for fingerprint comparison.",
+      "probe_error": "HTTP 200 returned only site title (29 raw characters); no stable readable body.",
       "etag": null,
       "cache_note": "Readable result remains title-only; no new stable body."
     },
@@ -207,9 +207,9 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
       "last_fetched": "2026-11-08T10:31:29Z",
-      "last_checked": "2026-11-11T10:30:00Z",
+      "last_checked": "2026-11-12T10:33:00Z",
       "status": 304,
-      "cache_note": "Conditional If-Modified-Since request returned HTTP 304; body not downloaded or read.",
+      "cache_note": "Conditional If-Modified-Since request returned HTTP 304; body was not downloaded.",
       "last_modified": "Sun, 08 Nov 2026 10:31:26 GMT",
       "summary": "Updated Nov 7; lists FOUNDATION and FURTHERFUTURE as active, and CHAMPIONSPIRIT among expired codes. These duplicate existing listed codes/third-party claims; no official status confirmation.",
       "status_label": "cache_hit",
@@ -258,10 +258,10 @@
       "last_fetched": "2026-03-03T10:31:30Z",
       "status": 200,
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-11T10:30:00Z",
+      "last_checked": "2026-11-12T10:32:50Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
-      "probe_error": "HTTP 200 returned footer/legal text only; no stable readable news body for fingerprint comparison."
+      "probe_error": "HTTP 200 returned footer/legal text only; no stable readable news body."
     },
     "https://www.ldplayer.net/blog/foundation-galactic-frontier-codes.html": {
       "fingerprint": "200d39d4990a357533b44590b44fec561a3cdf3d64fc3a28bb2b51590f578551",
@@ -2632,10 +2632,11 @@
       "last_fetched": "2026-08-26T11:30:00Z",
       "status": 403,
       "cache_note": "HTTP 403; no stable readable profile body; no inference from search summaries.",
-      "last_checked": "2026-11-04T10:35:29Z",
+      "last_checked": "2026-11-12T10:32:50Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
-      "fingerprint_algorithm": "sha256"
+      "fingerprint_algorithm": "sha256",
+      "probe_error": "HTTP 403/Cloudflare access challenge; no stable readable body."
     },
     "https://www.gdr-online.com/news-gioco.asp?idgioco=18271": {
       "fingerprint": "4c85535efe0ab2dec7968d118b9376839f7e7259d85a2637a89bcbb8ae63a200",
@@ -2655,7 +2656,7 @@
       "fingerprint_scope": "normalized readable maintenance post body",
       "title": "Nov 9, 2026 Maintenance and Update — official-account post",
       "last_fetched": "2026-11-09T10:30:00Z",
-      "last_checked": "2026-11-11T10:30:00Z",
+      "last_checked": "2026-11-12T10:32:50Z",
       "status": 403,
       "status_label": "probe_error",
       "probe_state": "probe_error",
@@ -2663,7 +2664,7 @@
       "last_modified": null,
       "summary": "Nov 9 maintenance window; Teresa Lopez and Barbarian’s Son (27-week servers); Rewards Center for Map Rally rewards/chests; three-Minon search cap; Storage Shop shortcut; Season 2 balance adjustments and selected-server testing.",
       "cache_note": "HTTP 403; no stable current body.",
-      "probe_error": "HTTP 403 / access challenge; no stable body available. Search results were not used to infer a change."
+      "probe_error": "HTTP 403/access challenge; no stable body available. Search snippets were not used to infer changes."
     },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
@@ -3109,6 +3110,17 @@
       "probe_state": "cache_miss",
       "title": "Dominion Warzone: Battlefield Rules & Rewards — official-account post",
       "summary": "Official FoundationGF_EN account post (readable via Instalker status page): idle fleet handling, Day 6 combat-loss recovery at 30% claimable for 3 days, Duel Day Chest spawn thresholds/rewards. Distinct operational details recorded; no rollout date stated."
+    },
+    "https://murpo.com/news/klara-game-news-12903a3fa02a05e7ce3a": {
+      "fingerprint": "5acb4ece27a1a5fc4bbc31e26c2184b9baed630329d256d0730110fd1fb3d194",
+      "fingerprint_algorithm": "sha256",
+      "last_checked": "2026-11-12T10:31:46Z",
+      "last_fetched": "2026-11-12T10:31:46Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "Set Course for Siwenna! Season 2 Is Coming to New Servers! Prepare for a New Journey!",
+      "summary": "Official Discord announcement reproduced by Frontier News: Servers 1113–1192 preview Season 2 Nov 16–22 UTC; launch Nov 23 UTC."
     }
   }
 }
