@@ -24,6 +24,13 @@ Applies when you have a valid character UID and a usable gift code; the portal d
 ## Active Codes
 
 ### Officially announced new code
+- **CelebrateWithFGF** - 6 Venturous Memory, 120,000 Galactic Coins, and three 30-minute Speedups (620K milestone tier; valid until 2026-11-30 23:59 UTC)
+  - Source: [Official @FoundationGF_EN account, mirrored by Sotwe](https://www.sotwe.com/FoundationGF_EN?lang=en) (posted approx. 2026-11-10)
+  - Status: officially announced; redemption result not independently verified
+  - Note: Redeem by 2026-11-30 23:59 UTC. Rewards match the announced 620K milestone tier.
+
+
+### Officially announced new code
 - **GALAXYTHANKU** - Galactic Coin 4,000 x3, 15-minute Universal Speedup x3, Prismatic Core x20 (valid until 2026-10-25 23:59 UTC)
   - Source: [Official Foundation Discord announcement (transcribed by Murpo with original post link)](https://discord.com/channels/1538543817400000565/1546264462108008519/1556701017351913542); [announcement brief](https://murpo.com/news/klara-patch-notes-dcda237c55dede511d00) (2026-10-05)
   - Status: officially announced; redemption result not independently verified

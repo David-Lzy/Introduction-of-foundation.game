@@ -24,6 +24,13 @@
 ## 當前有效兌換碼
 
 ### 官方公告新碼
+- **CelebrateWithFGF** - 6 個 Venturous Memory、120,000 銀河幣、3 個 30 分鐘加速（對應 620K 里程碑獎勵；有效期至 2026-11-30 23:59 UTC）
+  - 來源：[FoundationGF_EN 官方帳號的 Sotwe 鏡像](https://www.sotwe.com/FoundationGF_EN?lang=en) （約於 2026-11-10 發布）
+  - 狀態：官方已公告；未獨立驗證兌換結果
+  - 備註：請於 2026-11-30 23:59 UTC 前兌換；獎勵對應官方公布的 620K 里程碑級別。
+
+
+### 官方公告新碼
 - **GALAXYTHANKU** - 銀河幣 4,000 x3、15 分鐘通用加速 x3、稜鏡核心 x20（有效期至 2026-10-25 23:59 UTC）
   - 來源：[Foundation 官方 Discord 公告（由 Murpo 轉錄並附原公告連結）](https://discord.com/channels/1538543817400000565/1546264462108008519/1556701017351913542)；[公告整理頁](https://murpo.com/news/klara-patch-notes-dcda237c55dede511d00)（2026-10-05）
   - 狀態：官方已公告；未獨立驗證兌換結果

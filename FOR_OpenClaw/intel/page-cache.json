@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-12T10:33:00Z",
+  "updated_on": "2026-11-13T10:35:43Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -34,16 +34,17 @@
       "fingerprint_algorithm": "sha256"
     },
     "https://murpo.com/": {
-      "fingerprint": "c38e3e62709da5a4a8b391fe18c814b4e33a24bdb3e360c28bd9d74a12c253b9",
+      "fingerprint": "c509856e80c2dadbffca42171900ea31bfab09e3707b56ba746f3351c1b56c0a",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-11-12T10:31:18Z",
+      "last_fetched": "2026-11-13T10:35:43Z",
       "status": 200,
-      "cache_note": "Normalized readable homepage content unchanged from the cached Nov 10 content; homepage still exposes only the Nov 6 trivia teaser, with no actionable details.",
+      "cache_note": "Readable homepage refreshed; no new distinct actionable content beyond the Nov 12 announcement.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-12T10:31:18Z",
+      "last_checked": "2026-11-13T10:35:43Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Homepage changed: new Season 2 announcement for Servers 1113–1192, preview Nov 16–22 and launch Nov 23 UTC; older anniversary feedback bulletin and trivia teaser remain."
+      "summary": "Homepage still carries the previously recorded Servers 1113–1192 Season 2 launch (Nov 23 UTC); no new actionable item identified.",
+      "fingerprint_scope": "normalized readable homepage text"
     },
     "https://murpo.com/august-11th-2026-game-update": {
       "fingerprint": "75de4c46018e03f0c666bd7ab853f6aad9f0663ee74a82b74e5b0634b9bbac40",
@@ -100,19 +101,20 @@
       "last_checked": "2026-08-20T11:30:00Z"
     },
     "https://www.foundation.game/en/news": {
-      "fingerprint": "496a3d9d9d818fedad8403675edb89920f64d37f4eb0a8686a6386e379860669",
+      "fingerprint": "4aa3432ef7e56e7cc4c5c0a92cf9f468051e7d9194d8c8dc11de3f8402744897",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-10-09T10:30:00Z",
-      "last_checked": "2026-11-12T10:32:50Z",
+      "last_fetched": "2026-11-13T10:35:43Z",
+      "last_checked": "2026-11-13T10:35:43Z",
       "status": 200,
-      "summary": "HTTP 200 returns only site title; no stable readable body for hash comparison.",
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "summary": "Official news index readable; Epoch of Fusion Seed / Lvl 35 / fourth queue entry duplicates the Sep 9 official guide already indexed.",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "last_modified": null,
       "probe_error": "HTTP 200 returned only site title (29 raw characters); no stable readable body.",
       "etag": null,
-      "cache_note": "Readable result remains title-only; no new stable body."
+      "cache_note": "Direct HTTP returned readable 186 KB page; no new distinct actionable item found.",
+      "fingerprint_scope": "normalized readable news-index text"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
       "fingerprint": "1e6cbece996ad4c8887505009ec0e4e39aa91b03d58f059d7755b38fe6401528",
@@ -2651,19 +2653,19 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": "3347f89e80d47445203e878bf383a3c8524da9e6c63930c2941ace0185103d13",
+      "fingerprint": "349d665dc18ec30efd633f5a6c149051d05d53ed114a315641f1852ed33247ba",
       "fingerprint_algorithm": "sha256",
-      "fingerprint_scope": "normalized readable maintenance post body",
-      "title": "Nov 9, 2026 Maintenance and Update — official-account post",
-      "last_fetched": "2026-11-09T10:30:00Z",
-      "last_checked": "2026-11-12T10:32:50Z",
-      "status": 403,
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "fingerprint_scope": "normalized readable official-account code and milestone post bodies",
+      "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | Sotwe",
+      "last_fetched": "2026-11-13T10:35:43Z",
+      "last_checked": "2026-11-13T10:35:43Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "etag": null,
       "last_modified": null,
-      "summary": "Nov 9 maintenance window; Teresa Lopez and Barbarian’s Son (27-week servers); Rewards Center for Map Rally rewards/chests; three-Minon search cap; Storage Shop shortcut; Season 2 balance adjustments and selected-server testing.",
-      "cache_note": "HTTP 403; no stable current body.",
+      "summary": "New official-account post: 620K milestone unlocked; code CelebrateWithFGF expires Nov 30, 2026 UTC. Milestone campaign specifies 6 Venturous Memory, 40,000 Galactic Coins x3, and 30-minute Speedups x3.",
+      "cache_note": "Full readable profile body was opened and inspected; direct urllib probe returned HTTP 403. SHA-256 covers normalized relevant code/milestone post bodies, not profile chrome.",
       "probe_error": "HTTP 403/access challenge; no stable body available. Search snippets were not used to infer changes."
     },
     "https://x.com/FoundationGF_EN": {
@@ -2728,18 +2730,19 @@
       "probe_error": "Readable page rechecked, but no conditional validator was available and a comparable normalized fingerprint was not established; do not infer cache change."
     },
     "https://www.aayyy.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "559965d37d6a6997e41c770d5b0422e6411308802ac12aedc51b7df8c1ddc760",
+      "fingerprint": "c85ca2e9e4202f517527631bfcc9fb6f1f21e0ae4aa1945e4bdf20df6e93668e",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier Codes (November 2026) | AAYYY",
-      "last_checked": "2026-11-07T10:33:03Z",
-      "last_fetched": "2026-11-07T10:33:03Z",
+      "last_checked": "2026-11-13T10:35:43Z",
+      "last_fetched": "2026-11-13T10:35:43Z",
       "status": 200,
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "etag": null,
-      "last_modified": "Fri, 06 Nov 2026 09:00:00 GMT",
-      "summary": "Nov 7 refresh repeats GF777, GF888, GF999, WELCOMEGF, GALACTIC2024; no new code or expiry/reward evidence.",
-      "cache_note": "Changed page metadata/body; normalized content confirms same five codes as prior revision, so candidate is duplicate and rejected."
+      "last_modified": "Fri, 13 Nov 2026 10:31:38 GMT",
+      "summary": "Updated Nov 13; lists GF777, GF888, GF999, WELCOMEGF, GALACTIC2024; no CelebrateWithFGF entry or corroborating new code details.",
+      "cache_note": "Conditional request returned 200 with updated Last-Modified. Normalized readable body inspected; candidate codes are duplicates or unsubstantiated by this page.",
+      "fingerprint_scope": "normalized readable article body"
     },
     "https://murpo.com/news/klara-game-news-bede101ba688b65e43eb": {
       "fingerprint": "5a71d0d243e9674066680df1c4b077077c737db1fd70280af83ad6674fcb389c",
