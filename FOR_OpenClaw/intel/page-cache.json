@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-14T10:30:00Z",
+  "updated_on": "2026-11-15T10:30:00Z",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -34,16 +34,16 @@
       "fingerprint_algorithm": "sha256"
     },
     "https://murpo.com/": {
-      "fingerprint": "04006819d228617a10c13edffe2c31b0e9e5d8cc208f8bce2c16d2350b213d0b",
+      "fingerprint": "c509856e80c2dadbffca42171900ea31bfab09e3707b56ba746f3351c1b56c0a",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-11-14T10:30:00Z",
+      "last_fetched": "2026-11-15T10:30:00Z",
       "status": 200,
-      "cache_note": "Homepage and visible briefing headlines checked; current substantive items duplicate previous intake or are past-date.",
+      "cache_note": "No validator available; normalized readable body SHA-256 compared; body checked against prior briefings.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-14T10:30:00Z",
+      "last_checked": "2026-11-15T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Homepage still carries the previously recorded Servers 1113–1192 Season 2 launch (Nov 23 UTC); no new actionable item identified.",
+      "summary": "Normalized homepage is unchanged in actionable information: Nov 12 Servers 1113–1192 Season 2 schedule, Nov 9 update, generic feedback request and past trivia listing; no new candidate.",
       "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)",
       "etag": null,
       "last_modified": null
@@ -103,19 +103,19 @@
       "last_checked": "2026-08-20T11:30:00Z"
     },
     "https://www.foundation.game/en/news": {
-      "fingerprint": "5c9696daf8100240d1879b3c5e10976e48879a647edad6a76c22f4c4e31e69c0",
+      "fingerprint": "4aa3432ef7e56e7cc4c5c0a92cf9f468051e7d9194d8c8dc11de3f8402744897",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
-      "last_fetched": "2026-11-14T10:30:00Z",
-      "last_checked": "2026-11-14T10:30:00Z",
+      "last_fetched": "2026-11-15T10:30:00Z",
+      "last_checked": "2026-11-15T10:30:00Z",
       "status": 200,
-      "summary": "Official news index readable; Epoch of Fusion Seed / Lvl 35 / fourth queue entry duplicates the Sep 9 official guide already indexed.",
+      "summary": "Index includes Top-Up Center and FAQ navigation plus Sep 9 guide as latest substantive game news; no new actionable gameplay details.",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
       "last_modified": null,
       "probe_error": "HTTP 200 returned only site title (29 raw characters); no stable readable body.",
       "etag": null,
-      "cache_note": "Visible official index unchanged in actionable content; latest substantive post already indexed.",
+      "cache_note": "Normalized readable index; no new guide or update details surfaced.",
       "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
@@ -207,17 +207,17 @@
       "last_checked": "2026-03-02T10:31:00Z"
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "2a76026094f60387070d93a56f12557c50cd77cf2e1cac6d1a07aa0a4fb505b1",
+      "fingerprint": "c3554e394d445817e1e0030434586dde6461bfa45b11cb9c37553d27706f0898",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
-      "last_fetched": "2026-11-08T10:31:29Z",
-      "last_checked": "2026-11-12T10:33:00Z",
-      "status": 304,
-      "cache_note": "Conditional If-Modified-Since request returned HTTP 304; body was not downloaded.",
-      "last_modified": "Sun, 08 Nov 2026 10:31:26 GMT",
-      "summary": "Updated Nov 7; lists FOUNDATION and FURTHERFUTURE as active, and CHAMPIONSPIRIT among expired codes. These duplicate existing listed codes/third-party claims; no official status confirmation.",
-      "status_label": "cache_hit",
-      "probe_state": "cache_hit",
+      "last_fetched": "2026-11-15T10:30:00Z",
+      "last_checked": "2026-11-15T10:30:00Z",
+      "status": 200,
+      "cache_note": "Conditional validator absent; normalized readable body SHA-256 changed. Reviewed full readable list.",
+      "last_modified": "Sun, 15 Nov 2026 10:31:26 GMT",
+      "summary": "Updated code roundup repeats FOUNDATION and FURTHERFUTURE with no expiry and lists old codes; no new code or substantiated status transition.",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "etag": null
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
@@ -262,10 +262,11 @@
       "last_fetched": "2026-03-03T10:31:30Z",
       "status": 200,
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-12T10:32:50Z",
+      "last_checked": "2026-11-15T10:30:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
-      "probe_error": "HTTP 200 returned footer/legal text only; no stable readable news body."
+      "probe_error": "HTTP 200 returned footer/legal text only; no stable readable news body.",
+      "cache_note": "HTTP 200 returned Steam navigation/footer only; no stable readable news body; do not infer change from the fetched shell text."
     },
     "https://www.ldplayer.net/blog/foundation-galactic-frontier-codes.html": {
       "fingerprint": "200d39d4990a357533b44590b44fec561a3cdf3d64fc3a28bb2b51590f578551",
@@ -305,16 +306,16 @@
       "last_checked": "2026-09-07T11:30:00Z"
     },
     "https://ucngame.com/codes/foundation-galactic-frontier-codes/": {
-      "fingerprint": "ed5d444ee46e52ce8216ba0e544523ae61d243ac13da48af0d0af6024a988271",
+      "fingerprint": "48023f534b8fa2fa81393be8b468d74a2c8f3d84d1d0ea5a89daea8fcfd487c9",
       "title": "Foundation Galactic Frontier Codes (NOV 2026) [UPDATED!] - UCNGame",
-      "last_fetched": "2026-11-14T10:30:00Z",
+      "last_fetched": "2026-11-15T10:30:00Z",
       "status": 200,
-      "cache_note": "Third-party list refreshed but contains no newly announced code; current listing is stale and omits latest official CelebrateWithFGF.",
+      "cache_note": "Normalized readable body changed; claims are stale duplicates; no player-code state changes inferred.",
       "status_label": "cache_changed",
-      "last_checked": "2026-11-14T10:30:00Z",
+      "last_checked": "2026-11-15T10:30:00Z",
       "fingerprint_algorithm": "sha256",
       "probe_state": "cache_changed",
-      "summary": "Conditional recheck fetched page; repeats registered codes and unsupported CHAMPIONSPIRIT validity claim; no new code or official status evidence.",
+      "summary": "Refreshed third-party roundup still lists stale codes; no new code or official status evidence.",
       "etag": null,
       "last_modified": "Sat, 14 Nov 2026 10:31:28 GMT",
       "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)"
@@ -2661,14 +2662,14 @@
       "fingerprint_scope": "normalized readable official-account code and milestone post bodies",
       "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | Sotwe",
       "last_fetched": "2026-11-13T10:35:43Z",
-      "last_checked": "2026-11-14T10:30:00Z",
+      "last_checked": "2026-11-15T10:30:00Z",
       "status": 403,
       "status_label": "probe_error",
       "probe_state": "probe_error",
       "etag": null,
       "last_modified": null,
       "summary": "New official-account post: 620K milestone unlocked; code CelebrateWithFGF expires Nov 30, 2026 UTC. Milestone campaign specifies 6 Venturous Memory, 40,000 Galactic Coins x3, and 30-minute Speedups x3.",
-      "cache_note": "Full readable profile body was opened and inspected; direct urllib probe returned HTTP 403. SHA-256 covers normalized relevant code/milestone post bodies, not profile chrome.",
+      "cache_note": "HTTP 403; no stable readable body. No changes inferred from prior cache or search snippets.",
       "probe_error": "HTTP 403 Forbidden; no stable readable body. No inference from cached body or search snippets."
     },
     "https://x.com/FoundationGF_EN": {
