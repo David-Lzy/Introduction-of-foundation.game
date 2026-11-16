@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-15T10:30:00Z",
+  "updated_on": "2026-11-16",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -34,16 +34,16 @@
       "fingerprint_algorithm": "sha256"
     },
     "https://murpo.com/": {
-      "fingerprint": "c509856e80c2dadbffca42171900ea31bfab09e3707b56ba746f3351c1b56c0a",
+      "fingerprint": "092ba404b2265a4523f371bb775896e0d942817c6d9abad2965463eced78f9b4",
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
-      "last_fetched": "2026-11-15T10:30:00Z",
+      "last_fetched": "2026-11-16T10:30:00Z",
       "status": 200,
       "cache_note": "No validator available; normalized readable body SHA-256 compared; body checked against prior briefings.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-15T10:30:00Z",
+      "last_checked": "2026-11-16T10:30:00Z",
       "status_label": "cache_changed",
       "probe_state": "cache_changed",
-      "summary": "Normalized homepage is unchanged in actionable information: Nov 12 Servers 1113–1192 Season 2 schedule, Nov 9 update, generic feedback request and past trivia listing; no new candidate.",
+      "summary": "Homepage now surfaces a Nov 17 hot-update notice published Nov 16 UTC; links to official Discord. Also repeats existing Nov 12 Season 2 schedule and Nov 9 update.",
       "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)",
       "etag": null,
       "last_modified": null
@@ -107,13 +107,12 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-11-15T10:30:00Z",
-      "last_checked": "2026-11-15T10:30:00Z",
+      "last_checked": "2026-11-16T10:30:00Z",
       "status": 200,
       "summary": "Index includes Top-Up Center and FAQ navigation plus Sep 9 guide as latest substantive game news; no new actionable gameplay details.",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "last_modified": null,
-      "probe_error": "HTTP 200 returned only site title (29 raw characters); no stable readable body.",
       "etag": null,
       "cache_note": "Normalized readable index; no new guide or update details surfaced.",
       "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)"
@@ -211,13 +210,13 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
       "last_fetched": "2026-11-15T10:30:00Z",
-      "last_checked": "2026-11-15T10:30:00Z",
-      "status": 200,
+      "last_checked": "2026-11-16T10:30:00Z",
+      "status": 304,
       "cache_note": "Conditional validator absent; normalized readable body SHA-256 changed. Reviewed full readable list.",
       "last_modified": "Sun, 15 Nov 2026 10:31:26 GMT",
       "summary": "Updated code roundup repeats FOUNDATION and FURTHERFUTURE with no expiry and lists old codes; no new code or substantiated status transition.",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "etag": null
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
@@ -257,15 +256,15 @@
       "last_checked": "2026-03-03T10:31:30Z"
     },
     "https://store.steampowered.com/news/app/4223760": {
-      "fingerprint": "37e81caee62925b8415c1cf1323027fc263d1c698a98e0b1af97c87e2468a180",
+      "fingerprint": null,
       "title": "Foundation: Galactic Frontier - Steam News Hub",
       "last_fetched": "2026-03-03T10:31:30Z",
       "status": 200,
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-15T10:30:00Z",
+      "last_checked": "2026-11-16T10:30:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
-      "probe_error": "HTTP 200 returned footer/legal text only; no stable readable news body.",
+      "probe_error": "HTTP 200 contains navigation/footer only; no stable readable news body.",
       "cache_note": "HTTP 200 returned Steam navigation/footer only; no stable readable news body; do not infer change from the fetched shell text."
     },
     "https://www.ldplayer.net/blog/foundation-galactic-frontier-codes.html": {
@@ -309,12 +308,12 @@
       "fingerprint": "48023f534b8fa2fa81393be8b468d74a2c8f3d84d1d0ea5a89daea8fcfd487c9",
       "title": "Foundation Galactic Frontier Codes (NOV 2026) [UPDATED!] - UCNGame",
       "last_fetched": "2026-11-15T10:30:00Z",
-      "status": 200,
+      "status": 304,
       "cache_note": "Normalized readable body changed; claims are stale duplicates; no player-code state changes inferred.",
-      "status_label": "cache_changed",
-      "last_checked": "2026-11-15T10:30:00Z",
+      "status_label": "cache_hit",
+      "last_checked": "2026-11-16T10:30:00Z",
       "fingerprint_algorithm": "sha256",
-      "probe_state": "cache_changed",
+      "probe_state": "cache_hit",
       "summary": "Refreshed third-party roundup still lists stale codes; no new code or official status evidence.",
       "etag": null,
       "last_modified": "Sat, 14 Nov 2026 10:31:28 GMT",
@@ -2657,12 +2656,12 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": "349d665dc18ec30efd633f5a6c149051d05d53ed114a315641f1852ed33247ba",
+      "fingerprint": null,
       "fingerprint_algorithm": "sha256",
       "fingerprint_scope": "normalized readable official-account code and milestone post bodies",
       "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | Sotwe",
       "last_fetched": "2026-11-13T10:35:43Z",
-      "last_checked": "2026-11-15T10:30:00Z",
+      "last_checked": "2026-11-16T10:30:00Z",
       "status": 403,
       "status_label": "probe_error",
       "probe_state": "probe_error",
@@ -2670,7 +2669,7 @@
       "last_modified": null,
       "summary": "New official-account post: 620K milestone unlocked; code CelebrateWithFGF expires Nov 30, 2026 UTC. Milestone campaign specifies 6 Venturous Memory, 40,000 Galactic Coins x3, and 30-minute Speedups x3.",
       "cache_note": "HTTP 403; no stable readable body. No changes inferred from prior cache or search snippets.",
-      "probe_error": "HTTP 403 Forbidden; no stable readable body. No inference from cached body or search snippets."
+      "probe_error": "HTTP 403; no stable readable body or hash. Search snippets not used to infer content or code status."
     },
     "https://x.com/FoundationGF_EN": {
       "fingerprint": "ff6f612981ace4fe1cd1481960088793035d2398a52175fdea4a88fc7dd6edd7",
@@ -3142,6 +3141,19 @@
       "etag": null,
       "last_modified": null,
       "cache_note": "New mirror URL discovered; its Nov 9 update duplicates the already-ingested official-account candidate."
+    },
+    "https://murpo.com/news/klara-game-news-be175351dc2aa8e8451a": {
+      "last_checked": "2026-11-16T10:30:00Z",
+      "fingerprint_algorithm": "sha256",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "fingerprint": "aec03db32d1e4da2c0d20721b492d060251f51d36832c188e61f39868766dc1",
+      "last_fetched": "2026-11-16T10:30:00Z",
+      "title": "Foundation: Galactic Frontier Hot Update — 17 November 2026 — Frontier News",
+      "summary": "Announcement dated Nov 16 UTC says a no-maintenance hot update is planned for Nov 17; detailed list is only linked to official Discord, subject to change.",
+      "etag": null,
+      "last_modified": null
     }
   }
 }
