@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-16",
+  "updated_on": "2026-11-17",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -40,9 +40,9 @@
       "status": 200,
       "cache_note": "No validator available; normalized readable body SHA-256 compared; body checked against prior briefings.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-16T10:30:00Z",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "last_checked": "2026-11-17T10:31:00Z",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "summary": "Homepage now surfaces a Nov 17 hot-update notice published Nov 16 UTC; links to official Discord. Also repeats existing Nov 12 Season 2 schedule and Nov 9 update.",
       "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)",
       "etag": null,
@@ -107,7 +107,7 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-11-15T10:30:00Z",
-      "last_checked": "2026-11-16T10:30:00Z",
+      "last_checked": "2026-11-17T10:31:00Z",
       "status": 200,
       "summary": "Index includes Top-Up Center and FAQ navigation plus Sep 9 guide as latest substantive game news; no new actionable gameplay details.",
       "status_label": "cache_hit",
@@ -206,17 +206,17 @@
       "last_checked": "2026-03-02T10:31:00Z"
     },
     "https://www.pocketgamer.com/foundation-galactic-frontier/codes/": {
-      "fingerprint": "c3554e394d445817e1e0030434586dde6461bfa45b11cb9c37553d27706f0898",
+      "fingerprint": "d9fc4d847eb812d0e79ca45ba4f1b44f7216c047c9052734baed76a171786234",
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
-      "last_fetched": "2026-11-15T10:30:00Z",
-      "last_checked": "2026-11-16T10:30:00Z",
-      "status": 304,
+      "last_fetched": "2026-11-17T10:31:00Z",
+      "last_checked": "2026-11-17T10:31:00Z",
+      "status": 200,
       "cache_note": "Conditional validator absent; normalized readable body SHA-256 changed. Reviewed full readable list.",
-      "last_modified": "Sun, 15 Nov 2026 10:31:26 GMT",
-      "summary": "Updated code roundup repeats FOUNDATION and FURTHERFUTURE with no expiry and lists old codes; no new code or substantiated status transition.",
-      "status_label": "cache_hit",
-      "probe_state": "cache_hit",
+      "last_modified": "Tue, 17 Nov 2026 10:31:14 GMT",
+      "summary": "Nov 17 updated list still treats FOUNDATION and FURTHERFUTURE as active with no expiry; lists older codes as expired. No new code or corroborated status change.",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "etag": null
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
@@ -311,7 +311,7 @@
       "status": 304,
       "cache_note": "Normalized readable body changed; claims are stale duplicates; no player-code state changes inferred.",
       "status_label": "cache_hit",
-      "last_checked": "2026-11-16T10:30:00Z",
+      "last_checked": "2026-11-17T10:31:00Z",
       "fingerprint_algorithm": "sha256",
       "probe_state": "cache_hit",
       "summary": "Refreshed third-party roundup still lists stale codes; no new code or official status evidence.",
@@ -2656,19 +2656,19 @@
       "summary": "HTTP 403/anti-bot page; no stable readable body. No inference from search snippets."
     },
     "https://www.sotwe.com/FoundationGF_EN?lang=en": {
-      "fingerprint": null,
+      "fingerprint": "f0261fe1a1a08891e4c84b98f089a6c027d70185bf6bd99970b59732dd3fe4b1",
       "fingerprint_algorithm": "sha256",
-      "fingerprint_scope": "normalized readable official-account code and milestone post bodies",
-      "title": "Foundation: Galactic Frontier @FoundationGF_EN - Twitter Profile | Sotwe",
-      "last_fetched": "2026-11-13T10:35:43Z",
-      "last_checked": "2026-11-16T10:30:00Z",
-      "status": 403,
-      "status_label": "probe_error",
-      "probe_state": "probe_error",
+      "fingerprint_scope": "normalized readable official-account hot-update post body; whitespace and navigation removed",
+      "title": "Foundation: Galactic Frontier @foundationgf_en - Twitter Profile | Sotwe",
+      "last_fetched": "2026-11-17T10:31:00Z",
+      "last_checked": "2026-11-17T10:31:00Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
       "etag": null,
       "last_modified": null,
-      "summary": "New official-account post: 620K milestone unlocked; code CelebrateWithFGF expires Nov 30, 2026 UTC. Milestone campaign specifies 6 Venturous Memory, 40,000 Galactic Coins x3, and 30-minute Speedups x3.",
-      "cache_note": "HTTP 403; no stable readable body. No changes inferred from prior cache or search snippets.",
+      "summary": "Official Nov 17 no-maintenance hot-update list: Thanksgiving event; Interstellar Migration display 3→5 days; rotating Amusement Park Defense theme; Dominion Warzone Interrealm Expedition ends 23:30 UTC; portrait availability; Loot Chest stack cap 999; Port Raid message limit; Acting Prince effect; migration messages; rally cancellation and foldable-phone crash fixes. Subject to change.",
+      "cache_note": "Stable full post body became readable through the Sotwe profile page; normalized text fingerprint recorded. Prior query-URL probe had returned 403; the accessible profile route supplied the complete post.",
       "probe_error": "HTTP 403; no stable readable body or hash. Search snippets not used to infer content or code status."
     },
     "https://x.com/FoundationGF_EN": {
@@ -3143,17 +3143,34 @@
       "cache_note": "New mirror URL discovered; its Nov 9 update duplicates the already-ingested official-account candidate."
     },
     "https://murpo.com/news/klara-game-news-be175351dc2aa8e8451a": {
-      "last_checked": "2026-11-16T10:30:00Z",
+      "last_checked": "2026-11-17T10:31:00Z",
       "fingerprint_algorithm": "sha256",
       "status": 200,
-      "status_label": "cache_miss",
-      "probe_state": "cache_miss",
-      "fingerprint": "aec03db32d1e4da2c0d20721b492d060251f51d36832c188e61f39868766dc1",
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "fingerprint": "aec03db32d31e4da2c0d20721b492d060251f51d36832c188e61f39868766dc1",
       "last_fetched": "2026-11-16T10:30:00Z",
       "title": "Foundation: Galactic Frontier Hot Update — 17 November 2026 — Frontier News",
       "summary": "Announcement dated Nov 16 UTC says a no-maintenance hot update is planned for Nov 17; detailed list is only linked to official Discord, subject to change.",
       "etag": null,
-      "last_modified": null
+      "last_modified": null,
+      "cache_note": "Current normalized-body hash differs from the previously stored fingerprint; reread confirms the same Nov 17 notice and no new details. Corrected the stored fingerprint; last_fetched/title/summary retained because substantive content did not change."
+    },
+    "https://www.sotwe.com/foundationgf_en?lang=en": {
+      "fingerprint": "f0261fe1a1a08891e4c84b98f089a6c027d70185bf6bd99970b59732dd3fe4b1",
+      "fingerprint_algorithm": "sha256",
+      "fingerprint_scope": "normalized readable official-account hot-update post body; whitespace and navigation removed",
+      "title": "Foundation: Galactic Frontier @foundationgf_en - Twitter Profile | Sotwe",
+      "last_fetched": "2026-11-17T10:31:00Z",
+      "last_checked": "2026-11-17T10:31:00Z",
+      "status": 200,
+      "status_label": "cache_changed",
+      "probe_state": "cache_changed",
+      "etag": null,
+      "last_modified": null,
+      "summary": "Official Nov 17 no-maintenance hot-update list: Thanksgiving event; Interstellar Migration display 3→5 days; rotating Amusement Park Defense theme; Dominion Warzone Interrealm Expedition ends 23:30 UTC; portrait availability; Loot Chest stack cap 999; Port Raid message limit; Acting Prince effect; migration messages; rally cancellation and foldable-phone crash fixes. Subject to change.",
+      "cache_note": "Stable full post body became readable through the Sotwe profile page; normalized text fingerprint recorded. Prior query-URL probe had returned 403; the accessible profile route supplied the complete post.",
+      "probe_error": "HTTP 403; no stable readable body or hash. Search snippets not used to infer content or code status."
     }
   }
 }
