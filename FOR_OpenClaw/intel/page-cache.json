@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_on": "2026-11-17",
+  "updated_on": "2026-11-18",
   "description": "Daily crawl cache. fingerprint is the SHA-256 of normalized readable content; unchanged hashes must not be read, scored, or ingested again.",
   "items": {
     "https://www.instagram.com/foundation_gf_en/": {
@@ -38,9 +38,9 @@
       "title": "Foundation: Galactic Frontier Guides, News & Community — Frontier News",
       "last_fetched": "2026-11-16T10:30:00Z",
       "status": 200,
-      "cache_note": "No validator available; normalized readable body SHA-256 compared; body checked against prior briefings.",
+      "cache_note": "Homepage unchanged.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-17T10:31:00Z",
+      "last_checked": "2026-11-18T10:30:00Z",
       "status_label": "cache_hit",
       "probe_state": "cache_hit",
       "summary": "Homepage now surfaces a Nov 17 hot-update notice published Nov 16 UTC; links to official Discord. Also repeats existing Nov 12 Season 2 schedule and Nov 9 update.",
@@ -107,14 +107,14 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier",
       "last_fetched": "2026-11-15T10:30:00Z",
-      "last_checked": "2026-11-17T10:31:00Z",
+      "last_checked": "2026-11-18T10:30:00Z",
       "status": 200,
       "summary": "Index includes Top-Up Center and FAQ navigation plus Sep 9 guide as latest substantive game news; no new actionable gameplay details.",
       "status_label": "cache_hit",
       "probe_state": "cache_hit",
       "last_modified": null,
       "etag": null,
-      "cache_note": "Normalized readable index; no new guide or update details surfaced.",
+      "cache_note": "Official news index unchanged.",
       "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)"
     },
     "https://play.google.com/store/apps/details?id=com.games.foundation&hl=en-US": {
@@ -210,13 +210,13 @@
       "fingerprint_algorithm": "sha256",
       "title": "Foundation: Galactic Frontier codes | Pocket Gamer",
       "last_fetched": "2026-11-17T10:31:00Z",
-      "last_checked": "2026-11-17T10:31:00Z",
+      "last_checked": "2026-11-18T10:30:00Z",
       "status": 200,
-      "cache_note": "Conditional validator absent; normalized readable body SHA-256 changed. Reviewed full readable list.",
+      "cache_note": "Code list unchanged.",
       "last_modified": "Tue, 17 Nov 2026 10:31:14 GMT",
       "summary": "Nov 17 updated list still treats FOUNDATION and FURTHERFUTURE as active with no expiry; lists older codes as expired. No new code or corroborated status change.",
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "status_label": "cache_hit",
+      "probe_state": "cache_hit",
       "etag": null
     },
     "https://www.ign.com/games/foundation-galactic-frontier": {
@@ -308,10 +308,10 @@
       "fingerprint": "48023f534b8fa2fa81393be8b468d74a2c8f3d84d1d0ea5a89daea8fcfd487c9",
       "title": "Foundation Galactic Frontier Codes (NOV 2026) [UPDATED!] - UCNGame",
       "last_fetched": "2026-11-15T10:30:00Z",
-      "status": 304,
-      "cache_note": "Normalized readable body changed; claims are stale duplicates; no player-code state changes inferred.",
+      "status": 200,
+      "cache_note": "Code list unchanged.",
       "status_label": "cache_hit",
-      "last_checked": "2026-11-17T10:31:00Z",
+      "last_checked": "2026-11-18T10:30:00Z",
       "fingerprint_algorithm": "sha256",
       "probe_state": "cache_hit",
       "summary": "Refreshed third-party roundup still lists stale codes; no new code or official status evidence.",
@@ -324,9 +324,9 @@
       "title": "Foundation Galactic Frontier Codes",
       "last_fetched": "2026-08-21T11:30:00Z",
       "status": 403,
-      "cache_note": "HTTP 403 challenge; no stable readable body or hash. No content inferred from search snippets.",
+      "cache_note": "Direct fetch blocked; no stable body.",
       "fingerprint_algorithm": "sha256",
-      "last_checked": "2026-11-02T10:30:00Z",
+      "last_checked": "2026-11-18T10:30:00Z",
       "probe_state": "probe_error",
       "status_label": "probe_error",
       "probe_error": "HTTP 403 challenge; no stable readable body; no semantic inference.",
@@ -338,11 +338,12 @@
       "title": "Foundation: Galactic Frontier Codes | SuperCheats",
       "last_fetched": "2026-03-04T10:31:30Z",
       "status": 403,
-      "last_checked": "2026-10-31T10:30:00Z",
+      "last_checked": "2026-11-18T10:30:00Z",
       "probe_error": "HTTP 403; no stable readable body; no semantic scoring.",
       "fingerprint_algorithm": "sha256",
       "status_label": "probe_error",
-      "probe_state": "probe_error"
+      "probe_state": "probe_error",
+      "cache_note": "Direct fetch blocked; no stable body."
     },
     "https://game.edu.kg/research/enbs/view-L2Jsb2cvZ2FtZS1ndWlkZXMvZm91bmRhdGlvbi9mZ3RmLXN1bW1vbmluZy1ndWlkZS1lbi5odG1s": {
       "fingerprint": "e9fc8478fe1bbce4258b6d9d44f53de50d2fbe6ae51b2d4e3f8499985088d136",
@@ -2636,8 +2637,8 @@
       "title": "Foundation: Galactic Front @FoundationGF_EN - Twitter Profile | Instalker",
       "last_fetched": "2026-08-26T11:30:00Z",
       "status": 403,
-      "cache_note": "HTTP 403; no stable readable profile body; no inference from search summaries.",
-      "last_checked": "2026-11-12T10:32:50Z",
+      "cache_note": "Direct fetch blocked; no inference from indexed/search content.",
+      "last_checked": "2026-11-18T10:30:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
       "fingerprint_algorithm": "sha256",
@@ -2661,14 +2662,14 @@
       "fingerprint_scope": "normalized readable official-account hot-update post body; whitespace and navigation removed",
       "title": "Foundation: Galactic Frontier @foundationgf_en - Twitter Profile | Sotwe",
       "last_fetched": "2026-11-17T10:31:00Z",
-      "last_checked": "2026-11-17T10:31:00Z",
-      "status": 200,
-      "status_label": "cache_changed",
-      "probe_state": "cache_changed",
+      "last_checked": "2026-11-18T10:30:00Z",
+      "status": 403,
+      "status_label": "probe_error",
+      "probe_state": "probe_error",
       "etag": null,
       "last_modified": null,
       "summary": "Official Nov 17 no-maintenance hot-update list: Thanksgiving event; Interstellar Migration display 3→5 days; rotating Amusement Park Defense theme; Dominion Warzone Interrealm Expedition ends 23:30 UTC; portrait availability; Loot Chest stack cap 999; Port Raid message limit; Acting Prince effect; migration messages; rally cancellation and foldable-phone crash fixes. Subject to change.",
-      "cache_note": "Stable full post body became readable through the Sotwe profile page; normalized text fingerprint recorded. Prior query-URL probe had returned 403; the accessible profile route supplied the complete post.",
+      "cache_note": "Direct fetch blocked; no inference from indexed/search content.",
       "probe_error": "HTTP 403; no stable readable body or hash. Search snippets not used to infer content or code status."
     },
     "https://x.com/FoundationGF_EN": {
@@ -2713,11 +2714,11 @@
       "last_fetched": "2026-09-29T11:30:00Z",
       "status": 403,
       "summary": "Official-account mirror: Season 2 on Servers 1001–1016 begins Sep 14; use the in-game calendar rather than social posts. Top 100 Galactic Traders runs Weeks 1/2/4; Guild Duel begins Week 3; Dominion Warzone begins Week 6; Pathbreaker Operation and Aromabloom Trade War arrive later. Launch maintenance varies by server; The Usurper tests on 1001–1016. Confirm final timing and availability in-game.",
-      "last_checked": "2026-11-04T10:35:29Z",
+      "last_checked": "2026-11-18T10:30:00Z",
       "status_label": "probe_error",
       "probe_state": "probe_error",
       "fingerprint_algorithm": "sha256",
-      "cache_note": "HTTP 403; no stable readable profile body; no inference from search summaries."
+      "cache_note": "Direct fetch blocked; no inference from indexed/search content."
     },
     "https://www.topuplive.com/news/foundation-galactic-frontier-codes.html": {
       "fingerprint": "bd70311785a65fda09a3aa09cbacbe664f2ab7fbe18556c856cbab697e55ba36",
@@ -3171,6 +3172,19 @@
       "summary": "Official Nov 17 no-maintenance hot-update list: Thanksgiving event; Interstellar Migration display 3→5 days; rotating Amusement Park Defense theme; Dominion Warzone Interrealm Expedition ends 23:30 UTC; portrait availability; Loot Chest stack cap 999; Port Raid message limit; Acting Prince effect; migration messages; rally cancellation and foldable-phone crash fixes. Subject to change.",
       "cache_note": "Stable full post body became readable through the Sotwe profile page; normalized text fingerprint recorded. Prior query-URL probe had returned 403; the accessible profile route supplied the complete post.",
       "probe_error": "HTTP 403; no stable readable body or hash. Search snippets not used to infer content or code status."
+    },
+    "https://www.nyxguild.com/news": {
+      "fingerprint": "273c6ee5a164073def256b6b5bb58a2954384dc0720ec3cd2e20908539bebd72",
+      "fingerprint_algorithm": "sha256",
+      "fingerprint_scope": "normalized readable text (HTMLParser; script/style/nav/header/footer/aside excluded)",
+      "last_checked": "2026-11-18T10:30:00Z",
+      "last_fetched": "2026-11-18T10:30:00Z",
+      "status": 200,
+      "status_label": "cache_miss",
+      "probe_state": "cache_miss",
+      "title": "News · Nyx",
+      "summary": "News index includes a Nov 16 republication of the Nov 17 hot-update notice plus previously recorded November notices; normalized body SHA-256 recorded. The Nov 17 notice duplicates the previously ingested official hot-update content.",
+      "cache_note": "First discovered URL; normalized readable-body SHA-256 recorded. No new distinct player guidance found."
     }
   }
 }
